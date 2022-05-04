@@ -1,0 +1,602 @@
+[
+	{
+		"id" : 1,
+		"imgPath" : "items/medicinal_herb.png",
+		"name" : {
+			"en" : "Medicinal herb",
+			"es" : "?",
+			"fr" : "Herbe médicinale",
+			"jp" : "やくそう"
+		},
+		"price" : {
+			"buy" : 8,
+			"sell" : 6
+		},
+		"description" : {
+			"en" : "Heals a small amount of damage",
+			"es" : "?",
+			"fr" : "Restaure une petite partie des PV d'un membre de l'équipe",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Prologue",
+			"Bastione",
+			"Grotte de Bastionne",
+			"Grotte aire de jeu",
+			"Zamoksva",
+			"Bazar du désert",
+			"Lakanaba",
+			"Village des animaux",
+			"Ballimore",
+			"Chandor",
+			"Teafortwo",
+			"Deadend",
+			"Palais de Lord Lionel",
+			"Port Lionel",
+			"Mine d'Alpion",
+			"etc."
+		]
+	},
+	{
+		"id" : 2,
+		"imgPath" : "items/antidotal_herb.png",
+		"name" : {
+			"en" : "Antidotal herb",
+			"es" : "?",
+			"fr" : "Herbe curative",
+			"jp" : "どくけしそう"
+		},
+		"price" : {
+			"buy" : 10,
+			"sell" : 7
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Peut guérir un membre de l'équipe empoisonné",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Prologue",
+			"Taborov",
+			"Vrenor",
+			"Chandor",
+			"Lakanaba",
+			"Grotte de Chandor",
+			"Maison de Hank Hoffman junior",
+			"Bourg-les-bains",
+			"etc."
+		]
+	},
+	{
+		"id" : 3,
+		"imgPath" : "items/holy_water.png",
+		"name" : {
+			"en" : "Holy water",
+			"es" : "?",
+			"fr" : "Fiole d'eau sacrée",
+			"jp" : "せいすい"
+		},
+		"price" : {
+			"buy" : 20,
+			"sell" : 15
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Éloigne les ennemis les plus faibles pendant un moment",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Zamoksva",
+			"Chandor",
+			"Mine d'Alpion",
+			"Port-Carène",
+			"Grotte de Fémiscyra"
+		]
+	},
+	{
+		"id" : 4,
+		"imgPath" : "items/chimaera_wing.png",
+		"name" : {
+			"en" : "Chimaera wing",
+			"es" : "?",
+			"fr" : "Aile de chimère",
+			"jp" : "キメラのつばさ"
+		},
+		"price" : {
+			"buy" : 25,
+			"sell" : 18
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Permet de retourner dans tous les lieux déjà visités",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Tour de Strattbourg",
+			"Zamoksva",
+			"Vrenor",
+			"Chandor",
+			"Lakanaba",
+			"Grotte de Chandor",
+			"Maison de Hank Hoffman junior",
+			"Bourg-les-bains",
+			"etc."
+		]
+	},
+	{
+		"id" : 5,
+		"imgPath" : "items/moonwort_bulb.png",
+		"name" : {
+			"en" : "Moonwort bulb",
+			"es" : "?",
+			"fr" : "Botryche lunaire",
+			"jp" : "まんげつそう"
+		},
+		"price" : {
+			"buy" : 30,
+			"sell" : 22
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Cette racine peut guérir un membre de l'équipe de sa paralysie",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Phare de Port-Carène",
+			"Ringys",
+			"Estuaria"
+		]
+	},
+	{
+		"id" : 6,
+		"imgPath" : "items/musk.png",
+		"name" : {
+			"en" : "Musk",
+			"es" : "?",
+			"fr" : "Sac de musc",
+			"jp" : "においぶくろ"
+		},
+		"price" : {
+			"buy" : 150,
+			"sell" : 112
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Son odeur attirera les monstres jusqu'à ce qu'elle se dissipe",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Rosecolline"
+		]
+	},
+	{
+		"id" : 7,
+		"imgPath" : "items/seed_of_strength.png",
+		"name" : {
+			"en" : "Seed of strength",
+			"es" : "?",
+			"fr" : "Graine de force",
+			"jp" : "ちからのたね"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : 90
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Le membre de l'équipe qui la mange voit sa force augmenter",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Prologue",
+			"Tour de Strattbourg",
+			"Bazar du désert",
+			"Tour du nectar de rossignol",
+			"Teafortwo",
+			"Palais de Lord Lionel",
+			"Bourg-les-bains",
+			"Port-Carène",
+			"Phare de Port-Carène",
+			"Zamoksva",
+			"Canalot",
+			"Grotte de Fémiscyra",
+			"Chandor",
+			"Port Lionel",
+			"Bastione",
+			"Mine d'Alpion",
+			"Tour du Zénith",
+			"Tour des ténèbres",
+			"Ville itinérante (Étape 3)"
+		]
+	},
+	{
+		"id" : 8,
+		"imgPath" : "items/seed_of_agility.png",
+		"name" : {
+			"en" : "Seed of agility",
+			"es" : "?",
+			"fr" : "Graine d'agilité",
+			"jp" : "すばやさのたね"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : 67
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Le membre de l'équipe qui la mange voit son agilité augmenter",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Grotte aire de jeu",
+			"Taborov",
+			"Vrenor",
+			"Bazar du désert",
+			"Bourg-les-bains",
+			"Grotte de Parthénia",
+			"Fémiscyra",
+			"Bastione",
+			"Colosse de pierre",
+			"Mine d'Alpion",
+			"Tour des ténèbres",
+			"Donjon d'Azimut",
+			"Ville itinérante (Étape 5)"
+		]
+	},
+	{
+		"id" : 9,
+		"imgPath" : "items/seed_of_wisdom.png",
+		"name" : {
+			"en" : "Seed of wisdom",
+			"es" : "?",
+			"fr" : "Graine de sagesse",
+			"jp" : "かしこさのたね"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : 60
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Le membre de l'équipe qui la mange voit sa sagesse augmenter",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Ringys",
+			"Fémiscyra",
+			"Ville itinérante (Étape 4)"
+		]
+	},
+	{
+		"id" : 10,
+		"imgPath" : "items/seed_of_resilience.png",
+		"name" : {
+			"en" : "Seed of resilience",
+			"es" : "?",
+			"fr" : "Graine de vitalité",
+			"jp" : "まもりのたね"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : 52
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Le membre de l'équipe qui la mange voit sa vitalité augmenter",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Tour de Strattbourg",
+			"Chandor",
+			"Phare de Port-Carène",
+			"Ringys",
+			"Grotte de Fémiscyra"
+		]
+	},
+	{
+		"id" : 11,
+		"imgPath" : "items/seed_of_life.png",
+		"name" : {
+			"en" : "Seed of life",
+			"es" : "?",
+			"fr" : "Graine de vie",
+			"jp" : "いのちのきのみ"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : 187
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Le membre de l'équipe qui la mange augmente son maximum de PV",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Grotte aire de jeu",
+			"Taborov",
+			"Chandor",
+			"Ballimore",
+			"Deadend",
+			"Grotte de Deadend",
+			"Mine d'Alpion",
+			"Cabane du bûcheron",
+			"Grotte de Parthénia",
+			"Bastione",
+			"Ballimore",
+			"Estuaria",
+			"Tour des ténèbres",
+			"Donjon d'Azimut",
+			"Ville itinérante (Étape 3)"
+		]
+	},
+	{
+		"id" : 12,
+		"imgPath" : "items/seed_of_magic.png",
+		"name" : {
+			"en" : "Seed of magic",
+			"es" : "?",
+			"fr" : "Graine de magie",
+			"jp" : "いのちのきのみ"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : 412
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Le membre de l'équipe qui la mange augmente son maximum de PM",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Zamoksva",
+			"Vrenor",
+			"Deadend",
+			"Mine d'Alpion",
+			"Bâteau de Port Lionel",
+			"Parthénia",
+			"Grotte de Deadend",
+			"Rosecolline",
+			"Ballimore",
+			"Palais du démon",
+			"Tour des ténèbres",
+			"Donjon d'Azimut",
+			"Ville itinérante (Étape 2)",
+			"Ville itinérante (Étape 3)",
+			"Ville itinérante (Étape 4)"
+		]
+	},
+	{
+		"id" : 13,
+		"imgPath" : "items/magic_water.png",
+		"name" : {
+			"en" : "Magic water",
+			"es" : "?",
+			"fr" : "Fiole d'eau magique",
+			"jp" : "まほうのせいすい"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : 22
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Restaure une petite partie des PM d'un membre de l'équipe",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Grotte de Vrenor",
+			"Phare de Port-Carène",
+			"Canalot",
+			"Mine d'Alpion",
+			"Ville itinérante (Étape 3)"
+		]
+	},
+	{
+		"id" : 14,
+		"imgPath" : "items/ras_mirror.png",
+		"name" : {
+			"en" : "Ra's mirror",
+			"es" : "?",
+			"fr" : "Miroir de Râ",
+			"jp" : "ラーのかがみ"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : null
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Ce miroir légendaire reflète toujours la vérité",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Casino"
+		]
+	},
+	{
+		"id" : 15,
+		"imgPath" : "items/packed_lunch.png",
+		"name" : {
+			"en" : "Packed lunch",
+			"es" : "?",
+			"fr" : "Panier-repas",
+			"jp" : "おべんとう"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : 7
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Une manière délicieuse de récupérer quelques PV",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Lakanaba",
+			"Chandor",
+			"Village du héros",
+			"Maison de Hank Hoffman junior",
+			"Ville itinérante (Phase 4)"
+		]
+	},
+	{
+		"id" : 16,
+		"imgPath" : "items/horse_manure.png",
+		"name" : {
+			"en" : "Horse manure",
+			"es" : "?",
+			"fr" : "Crottin de cheval",
+			"jp" : "うまのふん"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : 1
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Pouah! Quelle odeur!",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Bazar du désert",
+			"Village des animaux",
+			"Ballimore",
+			"Donjon d'Azimut",
+			"Ville itinérante (Étape 4)"
+		]
+	},
+	{
+		"id" : 17,
+		"imgPath" : "items/yggdrasil_leaf.png",
+		"name" : {
+			"en" : "Yggdrasil leaf",
+			"es" : "?",
+			"fr" : "Feuille d'Yggdrasil",
+			"jp" : "せかいじゅのは"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : null
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Cette feuille magique peut ressuciter un membre de l'équipe",
+			"jp" : "?"
+		},
+		"zone" : [
+			"El forado",
+			"Château des ténèbres",
+			"Donjon d'Azimut"
+		]
+	},
+	{
+		"id" : 18,
+		"imgPath" : "items/yggdrasil_dew.png",
+		"name" : {
+			"en" : "Yggdrasil dew",
+			"es" : "?",
+			"fr" : "Rosée d'Yggdrasil",
+			"jp" : "せかいじゅのしずく"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : null
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Permet de restaurer intégralement les PV de toute l'équipe",
+			"jp" : "?"
+		},
+		"zone" : [
+			"El forado",
+			"Tour du Zénith",
+			"Zénithia"
+		]
+	},
+	{
+		"id" : 19,
+		"imgPath" : "items/mini_medal.png",
+		"name" : {
+			"en" : "Mini medal",
+			"es" : "?",
+			"fr" : "Mini médaille",
+			"jp" : "ちいさなメダル"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : null
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Apparemment, quelqu'un en fait la collection …",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Partout"
+		]
+	},
+	{
+		"id" : 20,
+		"imgPath" : "items/sands_of_time.png",
+		"name" : {
+			"en" : "Sands of time",
+			"es" : "?",
+			"fr" : "Sables du temps",
+			"jp" : "ときのすな"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : null
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Au combat, ils peuvent inverser le cour du temps",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Grotte de Rosecolline"
+		]
+	},
+	{
+		"id" : 21,
+		"imgPath" : "items/sages_stone.png",
+		"name" : {
+			"en" : "Sage's stone",
+			"es" : "?",
+			"fr" : "Pierre philosophale",
+			"jp" : "けんじゃのいし"
+		},
+		"price" : {
+			"buy" : null,
+			"sell" : null
+		},
+		"description" : {
+			"en" : "?",
+			"es" : "?",
+			"fr" : "Au combat, rend quelques PV à chaque membre de l'équipe",
+			"jp" : "?"
+		},
+		"zone" : [
+			"Château des ténèbres"
+		]
+	}
+]
