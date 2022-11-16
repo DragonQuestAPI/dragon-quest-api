@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "northern_continent",
+    "name": {
+      "en": "Northern continent",
+      "es": "Continente norte",
+      "fr": "Continent nord",
+      "jp": "?"
+    },
+    "location": "north"
+  },
+  {
+    "slug": "eastern_continent",
+    "name": {
+      "en": "Eastern continent",
+      "es": "Continente oriental",
+      "fr": "Continent est",
+      "jp": "?"
+    },
+    "location": "east"
+  },
+  {
+    "slug": "siroc",
+    "name": {
+      "en": "Siroc",
+      "es": "Siroco",
+      "fr": "Sirocco",
+      "jp": "?"
+    },
+    "location": "south-east"
+  },
+  {
+    "slug": "ostro",
+    "name": {
+      "en": "Ostro",
+      "es": "Ostro",
+      "fr": "Ostro",
+      "jp": "?"
+    },
+    "location": "south"
+  },
+  {
+    "slug": "libeccio",
+    "name": {
+      "en": "Libeccio",
+      "es": "Leveche",
+      "fr": "Libeccio",
+      "jp": "?"
+    },
+    "location": "south-west"
+  },
+  {
+    "slug": "western_continent",
+    "name": {
+      "en": "Western continent",
+      "es": "Continente occidental",
+      "fr": "Continent ouest",
+      "jp": "?"
+    },
+    "location": "west"
+  },
+  {
+    "slug": "maestral",
+    "name": {
+      "en": "Maestral",
+      "es": "Mistral",
+      "fr": "Mistral",
+      "jp": "?"
+    },
+    "location": "north-west"
+  },
+  {
+    "slug": "azimut",
+    "name": {
+      "en": "The Azimut",
+      "es": "El Azimut",
+      "fr": "L'Azimut",
+      "jp": "ゴットサイド"
+    }
+  },
+  {
+    "slug": "nadiria",
+    "name": {
+      "en": "Nadiria",
+      "es": "Nadiria",
+      "fr": "Nadiria",
+      "jp": "闇の世界"
+    }
+  }
+]
