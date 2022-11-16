@@ -1,0 +1,154 @@
+[
+  {
+    "name": {
+      "en": "World",
+      "es": "Mundo",
+      "fr": "Monde",
+      "jp": "ロトゼタシア"
+    },
+    "map": "img/maps/world.png",
+    "type": "overworld"
+  },
+  {
+    "name": {
+      "en": "The Azimut",
+      "es": "El Azimut",
+      "fr": "L'Azimut",
+      "jp": "ゴットサイド"
+    },
+    "map": "img/maps/the_azimut.png",
+    "type": "overworld",
+  },
+  {
+    "name": {
+      "en": "Nadiria",
+      "es": "Nadiria",
+      "fr": "Nadiria",
+      "jp": "闇の世界"
+    },
+    "map": "img/maps/nadiria.png",
+    "type": "overworld"
+  },
+
+  {
+    "name": {
+      "en": "Burland",
+      "es": "Burlandia",
+      "fr": "Bastione",
+      "jp": "バトランド"
+    },
+    "map": "img/maps/burland.png",
+    "type": "town"
+  },
+  {
+    "name": {
+      "en": "Strathbaile Burrow",
+      "es": "?",
+      "fr": "Grotte de Strattbourg",
+      "jp": "イムル"
+    },
+    "map": null,
+    "type": "dungeon"
+  },
+  {
+    "name": {
+      "en": "Strathbaile",
+      "es": "Candonga",
+      "fr": "Strattbourg",
+      "jp": "イムル"
+    },
+    "map": "img/maps/strathbaile.png",
+    "type": "town"
+  },
+
+  {
+    "name": {
+      "en": "Zamoksva",
+      "es": "Zamoksva",
+      "fr": "Zamoksva",
+      "jp": "サントハイム"
+    },
+    "map": "img/maps/zamoksva.png",
+    "type": "town"
+  },
+  {
+    "name": {
+      "en": "Zalenagrad",
+      "es": "Zalenagrado",
+      "fr": "Zalenagrad",
+      "jp": "サラン"
+    },
+    "map": "img/maps/zalenagrad.png",
+    "type": "town"
+  },
+  {
+    "name": {
+      "en": "Taborov",
+      "es": "Taborov",
+      "fr": "Taborov",
+      "jp": "サラン"
+    },
+    "map": "img/maps/taborov.png",
+    "type": "town"
+  },
+  {
+    "name": {
+      "en": "Vrenor",
+      "es": "Vrenor",
+      "fr": "Vrenor",
+      "jp": "フレノール"
+    },
+    "map": "img/maps/vrenor.png",
+    "type": "town"
+  },
+  {
+    "name": {
+      "en": "Vault of Vrenor",
+      "es": "Bóveda de Vrenor",
+      "fr": "Grotte de Vrenor",
+      "jp": "フレノール南の洞窟"
+    },
+    "map": null,
+    "type": "dungeon"
+  },
+  {
+    "name": {
+      "en": "Desert Bazaar",
+      "es": "Bazar del desierto",
+      "fr": "Bazar du désert",
+      "jp": "砂漠のバザー"
+    },
+    "map": "img/maps/desert_bazaar.png",
+    "type": "town"
+  },
+  {
+    "name": {
+      "en": "Birdsong Tower",
+      "es": "Torre del Piar",
+      "fr": "Tour du Rossignol",
+      "jp": "さえずりの塔"
+    },
+    "map": null,
+    "type": "dungeon"
+  },
+  {
+    "name": {
+      "en": "",
+      "es": "",
+      "fr": "Téléportail vers Chandor",
+      "jp": ""
+    },
+    "map": null,
+    "type": "town"
+  },
+  {
+    "name": {
+      "en": "Endor",
+      "es": "Endor",
+      "fr": "Chandor",
+      "jp": "エンドール"
+    },
+    "map": "img/maps/endor.png",
+    "type": "town"
+  },
+]
