@@ -22,3 +22,8 @@ An API project featuring all the datas about the fourth episode of the Dragon Qu
 - Datas about their stats (HP, MP, attack, defense, speed, the exp and the gold they give)
 - The items they can drop
 - The areas where we can find them, depending on the chapters
+
+### Credits
+
+- Maps ripped by Barubary from the spriters resource
+- Enemy sprites taken from the dragon quest fan website

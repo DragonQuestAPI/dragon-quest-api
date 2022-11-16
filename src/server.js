@@ -1,4 +1,4 @@
-const express = require("express");
+import express from "express";
 const app = express();
 const fs = require("fs"); // File system
 const path = require("path");
@@ -13,26 +13,34 @@ const items = JSON.parse(fs.readFileSync(pathItemsJSON).toString());
 app.use(express.json());
 
 app.get("/items", (req, res) => {
-	res.json(items);
+  res.json(items);
 });
 app.get("/items/:id", (req, res) => {
-	res.json(items.filter(item => item.id == req.params.id));
+  res.json(items.filter((item) => item.id == req.params.id));
 });
 app.get("/items/price/:price", (req, res) => {
-	res.json(items.filter(item => item.price.buy == parseInt(req.params.price)));
+  res.json(
+    items.filter((item) => item.price.buy == parseInt(req.params.price))
+  );
 });
 app.get("/items/price/min/:price", (req, res) => {
-	res.json(items.filter(item => item.price.buy >= parseInt(req.params.price)));
+  res.json(
+    items.filter((item) => item.price.buy >= parseInt(req.params.price))
+  );
 });
 app.get("/items/price/max/:price", (req, res) => {
-	res.json(items.filter(item => item.price.buy <= parseInt(req.params.price)));
+  res.json(
+    items.filter((item) => item.price.buy <= parseInt(req.params.price))
+  );
 });
 
 app.get("/monsters", (req, res) => {
-	res.json(monsters);
+  res.json(monsters);
 });
 app.get("/monsters/:id", (req, res) => {
-	res.json(monsters.filter(monster => monster.id == req.params.id));
+  res.json(monsters.filter((monster) => monster.id == req.params.id));
 });
 
-app.listen(process.env.PORT, () => console.log(`Server started on http://localhost:${process.env.PORT}`));
+app.listen(process.env.PORT, () =>
+  console.log(`Server started on http://localhost:${process.env.PORT}`)
+);
