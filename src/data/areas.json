@@ -43,7 +43,7 @@
   {
     "name": {
       "en": "Strathbaile Burrow",
-      "es": "?",
+      "es": "Torre de Candonga",
       "fr": "Grotte de Strattbourg",
       "jp": "イムル"
     },
@@ -59,6 +59,26 @@
     },
     "map": "img/maps/strathbaile.png",
     "type": "town"
+  },
+  {
+    "name": {
+      "en": "Auld Well",
+      "es": "?",
+      "fr": "Aire de jeu",
+      "jp": "?"
+    },
+    "map": "img/maps/strathbaile.png",
+    "type": "dungeon"
+  },
+  {
+    "name": {
+      "en": "Straithbaile Tower",
+      "es": "?",
+      "fr": "Tour de Strattbourg",
+      "jp": "?"
+    },
+    "map": null,
+    "type": "dungeon"
   },
 
   {
@@ -133,9 +153,9 @@
   },
   {
     "name": {
-      "en": "",
-      "es": "",
-      "fr": "Téléportail vers Chandor",
+      "en": "Zamoksva/Endor Teleportal",
+      "es": "Portal a Zamoksva/Endor",
+      "fr": "Téléportail Zamoksva/Chandor",
       "jp": ""
     },
     "map": null,

@@ -16,7 +16,7 @@
       "en": "Heals a small amount of damage",
       "es": "?",
       "fr": "Restaure une petite partie des PV d'un membre de l'équipe",
-      "jp": "?"
+      "jp": "回复30~40点HP"
     },
     "zone": [
       "Prologue",
@@ -54,7 +54,7 @@
       "en": "?",
       "es": "?",
       "fr": "Peut guérir un membre de l'équipe empoisonné",
-      "jp": "?"
+      "jp": "解毒"
     },
     "zone": [
       "Prologue",
@@ -85,7 +85,7 @@
       "en": "?",
       "es": "?",
       "fr": "Éloigne les ennemis les plus faibles pendant un moment",
-      "jp": "?"
+      "jp": "平常使用弱小敌人不出现一段时间 战斗使用可令敌人受伤"
     },
     "zone": [
       "Zamoksva",
@@ -112,7 +112,7 @@
       "en": "?",
       "es": "?",
       "fr": "Permet de retourner dans tous les lieux déjà visités",
-      "jp": "?"
+      "jp": "瞬间返回已知城镇"
     },
     "zone": [
       "Tour de Strattbourg",
@@ -143,7 +143,7 @@
       "en": "?",
       "es": "?",
       "fr": "Cette racine peut guérir un membre de l'équipe de sa paralysie",
-      "jp": "?"
+      "jp": "解麻痹"
     },
     "zone": ["Phare de Port-Carène", "Ringys", "Estuaria"]
   },
@@ -164,7 +164,7 @@
       "en": "?",
       "es": "?",
       "fr": "Son odeur attirera les monstres jusqu'à ce qu'elle se dissipe",
-      "jp": "?"
+      "jp": "敌人遭遇率升高"
     },
     "zone": ["Rosecolline"]
   },
@@ -185,7 +185,7 @@
       "en": "?",
       "es": "?",
       "fr": "Le membre de l'équipe qui la mange voit sa force augmenter",
-      "jp": "?"
+      "jp": "力量增加1~3点"
     },
     "zone": [
       "Prologue",
@@ -226,7 +226,7 @@
       "en": "?",
       "es": "?",
       "fr": "Le membre de l'équipe qui la mange voit son agilité augmenter",
-      "jp": "?"
+      "jp": "速度增加1~2点"
     },
     "zone": [
       "Grotte aire de jeu",
@@ -261,7 +261,7 @@
       "en": "?",
       "es": "?",
       "fr": "Le membre de l'équipe qui la mange voit sa sagesse augmenter",
-      "jp": "?"
+      "jp": "智慧增加1~3点"
     },
     "zone": ["Ringys", "Fémiscyra", "Ville itinérante (Étape 4)"]
   },
@@ -282,7 +282,7 @@
       "en": "?",
       "es": "?",
       "fr": "Le membre de l'équipe qui la mange voit sa vitalité augmenter",
-      "jp": "?"
+      "jp": "防御增加1~3点"
     },
     "zone": [
       "Tour de Strattbourg",
@@ -309,7 +309,7 @@
       "en": "?",
       "es": "?",
       "fr": "Le membre de l'équipe qui la mange augmente son maximum de PV",
-      "jp": "?"
+      "jp": "HP最大值增加4~6点"
     },
     "zone": [
       "Grotte aire de jeu",
@@ -346,7 +346,7 @@
       "en": "?",
       "es": "?",
       "fr": "Le membre de l'équipe qui la mange augmente son maximum de PM",
-      "jp": "?"
+      "jp": "MP最大值增加3~5点"
     },
     "zone": [
       "Zamoksva",
@@ -383,7 +383,7 @@
       "en": "?",
       "es": "?",
       "fr": "Restaure une petite partie des PM d'un membre de l'équipe",
-      "jp": "?"
+      "jp": "回复30~35点MP"
     },
     "zone": [
       "Grotte de Vrenor",
@@ -410,7 +410,7 @@
       "en": "?",
       "es": "?",
       "fr": "Ce miroir légendaire reflète toujours la vérité",
-      "jp": "?"
+      "jp": "战斗中使用使モシャス咒文无效"
     },
     "zone": ["Casino"]
   },
@@ -431,7 +431,7 @@
       "en": "?",
       "es": "?",
       "fr": "Une manière délicieuse de récupérer quelques PV",
-      "jp": "?"
+      "jp": "回复30~40点HP"
     },
     "zone": [
       "Lakanaba",
@@ -458,7 +458,7 @@
       "en": "?",
       "es": "?",
       "fr": "Pouah! Quelle odeur!",
-      "jp": "?"
+      "jp": "用途不明 狐狸村的やくそう其实是うまのふん"
     },
     "zone": [
       "Bazar du désert",
@@ -485,7 +485,7 @@
       "en": "?",
       "es": "?",
       "fr": "Cette feuille magique peut ressuciter un membre de l'équipe",
-      "jp": "?"
+      "jp": "我方一人复活并HP完全回复"
     },
     "zone": ["El forado", "Château des ténèbres", "Donjon d'Azimut"]
   },
