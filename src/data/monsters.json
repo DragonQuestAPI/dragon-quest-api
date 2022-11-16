@@ -4,9 +4,9 @@
     "imgPath": "img/monsters/1.png",
     "name": {
       "en": "Slime",
-      "es": "?Slime",
+      "es": "",
       "fr": "Gluant",
-      "jp": "?Gluant"
+      "jp": "スライム"
     },
     "type": "enemy",
     "phases": 1,
@@ -37,9 +37,9 @@
     "imgPath": "img/monsters/2.png",
     "name": {
       "en": "Wiggly",
-      "es": "?Wiggly",
+      "es": "",
       "fr": "Londuleux",
-      "jp": "?Londuleux"
+      "jp": "おおみみず"
     },
     "type": "enemy",
     "phases": 1,
@@ -76,9 +76,9 @@
     "imgPath": "img/monsters/3.png",
     "name": {
       "en": "Air rat",
-      "es": "?Air rat",
+      "es": "",
       "fr": "Rat volant",
-      "jp": "?Rat volant"
+      "jp": "エアラット"
     },
     "type": "enemy",
     "phases": 1,
@@ -109,9 +109,9 @@
     "imgPath": "img/monsters/4.png",
     "name": {
       "en": "Scissor beatle",
-      "es": "?Scissor beatle",
+      "es": " beatle",
       "fr": "Scarapince",
-      "jp": "?Scarapince"
+      "jp": "はさみくわがた"
     },
     "type": "enemy",
     "phases": 1,
@@ -142,9 +142,9 @@
     "imgPath": "img/monsters/5.png",
     "name": {
       "en": "Bubble Slime",
-      "es": "?Bubble Slime",
+      "es": " Slime",
       "fr": "Gluanbulle",
-      "jp": "?Gluanbulle"
+      "jp": "バブルスライム"
     },
     "type": "enemy",
     "phases": 1,
@@ -171,9 +171,9 @@
     "imgPath": "img/monsters/6.png",
     "name": {
       "en": "Mischievous mole",
-      "es": "?Mischievous mole",
+      "es": " mole",
       "fr": "Pataupe",
-      "jp": "?Pataupe"
+      "jp": "いたずらもぐら"
     },
     "type": "enemy",
     "phases": 1,
@@ -204,9 +204,9 @@
     "imgPath": "img/monsters/7.png",
     "name": {
       "en": "Stump chump",
-      "es": "?Stump chump",
+      "es": "",
       "fr": "Souche louche",
-      "jp": "?Souche louche"
+      "jp": "きりかぶおばけ"
     },
     "type": "enemy",
     "phases": 1,
@@ -240,9 +240,9 @@
     "imgPath": "img/monsters/8.png",
     "name": {
       "en": "Healslime",
-      "es": "?Healslime",
+      "es": "",
       "fr": "Médigluant",
-      "jp": "?Médigluant"
+      "jp": "ホイミスライム"
     },
     "type": "enemy",
     "phases": 1,
@@ -277,9 +277,9 @@
     "imgPath": "img/monsters/9.png",
     "name": {
       "en": "Mad mole",
-      "es": "?Mad mole",
+      "es": " mole",
       "fr": "Taupelle",
-      "jp": "?Taupelle"
+      "jp": "キラースコップ"
     },
     "type": "enemy",
     "phases": 1,
@@ -309,9 +309,9 @@
     "imgPath": "img/monsters/10.png",
     "name": {
       "en": "Winkster",
-      "es": "?Winkster",
+      "es": "",
       "fr": "Fée tide",
-      "jp": "?Fée tide"
+      "jp": "みならいあくま"
     },
     "type": "enemy",
     "phases": 1,
@@ -338,9 +338,9 @@
     "imgPath": "img/monsters/11.png",
     "name": {
       "en": "Bodkin archer",
-      "es": "?Bodkin archer",
+      "es": " archer",
       "fr": "Archer vert",
-      "jp": "?Archer vert"
+      "jp": "リリパット"
     },
     "type": "enemy",
     "phases": 1,
@@ -367,9 +367,9 @@
     "imgPath": "img/monsters/12.png",
     "name": {
       "en": "Splatypunk",
-      "es": "?Splatypunk",
+      "es": "",
       "fr": "Ornitro",
-      "jp": "?Ornitro"
+      "jp": "ダックスピル"
     },
     "type": "enemy",
     "phases": 1,
@@ -396,9 +396,9 @@
     "imgPath": "img/monsters/13.png",
     "name": {
       "en": "Blinkster",
-      "es": "?Blinkster",
+      "es": "",
       "fr": "Fée brile",
-      "jp": "?Fée brile"
+      "jp": "ベビーマジシャン"
     },
     "type": "enemy",
     "phases": 1,
@@ -425,9 +425,9 @@
     "imgPath": "img/monsters/14.png",
     "name": {
       "en": "Picksy",
-      "es": "?Picksy",
+      "es": "",
       "fr": "Chérubus",
-      "jp": "?Chérubus"
+      "jp": "ピクシー"
     },
     "type": "enemy",
     "phases": 1,
@@ -454,9 +454,9 @@
     "imgPath": "img/monsters/15.png",
     "name": {
       "en": "Bantamweight",
-      "es": "?Bantamweight",
+      "es": "",
       "fr": "Poids-coq",
-      "jp": "?Poids-coq"
+      "jp": "おおにわとり"
     },
     "type": "enemy",
     "phases": 1,
@@ -486,9 +486,9 @@
     "imgPath": "img/monsters/16.png",
     "name": {
       "en": "Winky",
-      "es": "?Winky",
+      "es": "",
       "fr": "Clindœil",
-      "jp": "?Clindœil"
+      "jp": "おおめだま"
     },
     "type": "enemy",
     "phases": 1,
@@ -515,9 +515,9 @@
     "imgPath": "img/monsters/17.png",
     "name": {
       "en": "Walking stick",
-      "es": "?Walking stick",
+      "es": " stick",
       "fr": "Fourmiasme",
-      "jp": "?Fourmiasme"
+      "jp": "キリキリバッタ"
     },
     "type": "enemy",
     "phases": 1,
@@ -544,9 +544,9 @@
     "imgPath": "img/monsters/18.png",
     "name": {
       "en": "She-slime",
-      "es": "?She-slime",
+      "es": "-slime",
       "fr": "Gluante",
-      "jp": "?Gluante"
+      "jp": "スライムベス"
     },
     "type": "enemy",
     "phases": 1,
@@ -573,9 +573,9 @@
     "imgPath": "img/monsters/19.png",
     "name": {
       "en": "Lickspittle",
-      "es": "?Lickspittle",
+      "es": "",
       "fr": "Glair de lune",
-      "jp": "?Glair de lune"
+      "jp": "つちわらし"
     },
     "type": "enemy",
     "phases": 1,
@@ -602,9 +602,9 @@
     "imgPath": "img/monsters/20.png",
     "name": {
       "en": "Mouseflap",
-      "es": "?Mouseflap",
+      "es": "",
       "fr": "Chauve-sourat",
-      "jp": "?Chauve-sourat"
+      "jp": "みみとびねずみ"
     },
     "type": "enemy",
     "phases": 1,
@@ -631,9 +631,9 @@
     "imgPath": "img/monsters/21.png",
     "name": {
       "en": "Foo dog",
-      "es": "?Foo dog",
+      "es": " dog",
       "fr": "Chienfernal",
-      "jp": "?Chienfernal"
+      "jp": "あばれこまいぬ"
     },
     "type": "enemy",
     "phases": 1,
@@ -664,9 +664,9 @@
     "imgPath": "img/monsters/22.png",
     "name": {
       "en": "Bagworm",
-      "es": "?Bagworm",
+      "es": "",
       "fr": "Sacaver",
-      "jp": "?Sacaver"
+      "jp": "ミノーン"
     },
     "type": "enemy",
     "phases": 1,
@@ -693,9 +693,9 @@
     "imgPath": "img/monsters/23.png",
     "name": {
       "en": "Funghoul",
-      "es": "?Funghoul",
+      "es": "",
       "fr": "Champigoule",
-      "jp": "?Champigoule"
+      "jp": "おばけキノコ"
     },
     "type": "enemy",
     "phases": 1,
@@ -722,9 +722,9 @@
     "imgPath": "img/monsters/24.png",
     "name": {
       "en": "Bullfinch",
-      "es": "?Bullfinch",
+      "es": "",
       "fr": "Taurapace",
-      "jp": "?Taurapace"
+      "jp": "あばれうしどり"
     },
     "type": "enemy",
     "phases": 1,
@@ -755,9 +755,9 @@
     "imgPath": "img/monsters/25.png",
     "name": {
       "en": "Carnivine",
-      "es": "?Carnivine",
+      "es": "",
       "fr": "Morchidée",
-      "jp": "?Morchidée"
+      "jp": "ひとくいそう"
     },
     "type": "enemy",
     "phases": 1,
@@ -784,9 +784,9 @@
     "imgPath": "img/monsters/26.png",
     "name": {
       "en": "Firespirit",
-      "es": "?Firespirit",
+      "es": "",
       "fr": "Feu follet",
-      "jp": "?Feu follet"
+      "jp": "メラゴースト"
     },
     "type": "enemy",
     "phases": 1,
@@ -817,9 +817,9 @@
     "imgPath": "img/monsters/27.png",
     "name": {
       "en": "Thorny devil",
-      "es": "?Thorny devil",
+      "es": " devil",
       "fr": "Démon piquant",
-      "jp": "?Démon piquant"
+      "jp": "テペロ"
     },
     "type": "enemy",
     "phases": 1,
@@ -846,9 +846,9 @@
     "imgPath": "img/monsters/28.png",
     "name": {
       "en": "Lugworm",
-      "es": "?Lugworm",
+      "es": "",
       "fr": "Tortilleux",
-      "jp": "?Tortilleux"
+      "jp": "サンドマスター"
     },
     "type": "enemy",
     "phases": 1,
@@ -875,9 +875,9 @@
     "imgPath": "img/monsters/29.png",
     "name": {
       "en": "Bedbug",
-      "es": "?Bedbug",
+      "es": "",
       "fr": "Scarasomniaque",
-      "jp": "?Scarasomniaque"
+      "jp": "ラリホービートル"
     },
     "type": "enemy",
     "phases": 1,
@@ -904,9 +904,9 @@
     "imgPath": "img/monsters/30.png",
     "name": {
       "en": "Komodo",
-      "es": "?Komodo",
+      "es": "",
       "fr": "Komodor",
-      "jp": "?Komodor"
+      "jp": "コドラ"
     },
     "type": "enemy",
     "phases": 1,
@@ -936,9 +936,9 @@
     "imgPath": "img/monsters/31.png",
     "name": {
       "en": "Pickayune",
-      "es": "?Pickayune",
+      "es": "",
       "fr": "Démonius",
-      "jp": "?Démonius"
+      "jp": "おにこぞう"
     },
     "type": "enemy",
     "phases": 1,
@@ -969,9 +969,9 @@
     "imgPath": "img/monsters/32.png",
     "name": {
       "en": "Crested viper",
-      "es": "?Crested viper",
+      "es": " viper",
       "fr": "Vipère à crête",
-      "jp": "?Vipère à crête"
+      "jp": "とさかへび"
     },
     "type": "enemy",
     "phases": 1,
@@ -1002,9 +1002,9 @@
     "imgPath": "img/monsters/33.png",
     "name": {
       "en": "Armoured scorpion",
-      "es": "?Armoured scorpion",
+      "es": " scorpion",
       "fr": "Scorpion blindé",
-      "jp": "?Scorpion blindé"
+      "jp": "さそりアーマー"
     },
     "type": "enemy",
     "phases": 1,
@@ -1031,9 +1031,9 @@
     "imgPath": "img/monsters/34.png",
     "name": {
       "en": "Vampire bat",
-      "es": "?Vampire bat",
+      "es": " bat",
       "fr": "Vampierre",
-      "jp": "?Vampierre"
+      "jp": "きゅうけつこうもり"
     },
     "type": "enemy",
     "phases": 1,
@@ -1060,9 +1060,9 @@
     "imgPath": "img/monsters/35.png",
     "name": {
       "en": "Cyclown",
-      "es": "?Cyclown",
+      "es": "",
       "fr": "Cyclown",
-      "jp": "?Cyclown"
+      "jp": "かまいたち"
     },
     "type": "enemy",
     "phases": 1,
@@ -1092,9 +1092,9 @@
     "imgPath": "img/monsters/36.png",
     "name": {
       "en": "Killer gila",
-      "es": "?Killer gila",
+      "es": " gila",
       "fr": "Batratueur",
-      "jp": "?Batratueur"
+      "jp": "ポイズンリザード"
     },
     "type": "enemy",
     "phases": 1,
@@ -1121,9 +1121,9 @@
     "imgPath": "img/monsters/37.png",
     "name": {
       "en": "Flyguy",
-      "es": "?Flyguy",
+      "es": "",
       "fr": "Mouchomme",
-      "jp": "?Mouchomme"
+      "jp": "はえおとこ"
     },
     "type": "enemy",
     "phases": 1,
@@ -1150,9 +1150,9 @@
     "imgPath": "img/monsters/38.png",
     "name": {
       "en": "Erazor blade",
-      "es": "?Erazor blade",
+      "es": " blade",
       "fr": "Cimetueur",
-      "jp": "?Cimetueur"
+      "jp": "ひとくいサーベル"
     },
     "type": "enemy",
     "phases": 1,
@@ -1179,9 +1179,9 @@
     "imgPath": "img/monsters/39.png",
     "name": {
       "en": "Pteranodon",
-      "es": "?Pteranodon",
+      "es": "",
       "fr": "Ptéranodon",
-      "jp": "?Ptéranodon"
+      "jp": "プテラノドン"
     },
     "type": "enemy",
     "phases": 1,
@@ -1213,9 +1213,9 @@
     "imgPath": "img/monsters/40.png",
     "name": {
       "en": "Flying doctor",
-      "es": "?Flying doctor",
+      "es": " doctor",
       "fr": "Dragonlule",
-      "jp": "?Dragonlule"
+      "jp": "ドラゴンバタフライ"
     },
     "type": "enemy",
     "phases": 1,
@@ -1242,9 +1242,9 @@
     "imgPath": "img/monsters/41.png",
     "name": {
       "en": "Peeper",
-      "es": "?Peeper",
+      "es": "",
       "fr": "Matœil",
-      "jp": "?Matœil"
+      "jp": "スペクテット"
     },
     "type": "enemy",
     "phases": 1,
@@ -1271,9 +1271,9 @@
     "imgPath": "img/monsters/42.png",
     "name": {
       "en": "Skeleton swordsman",
-      "es": "?Skeleton swordsman",
+      "es": " swordsman",
       "fr": "Squelépéiste",
-      "jp": "?Squelépéiste"
+      "jp": "がいこつけんし"
     },
     "type": "enemy",
     "phases": 1,
@@ -1304,9 +1304,9 @@
     "imgPath": "img/monsters/43.png",
     "name": {
       "en": "Restless armour",
-      "es": "?Restless armour",
+      "es": " armour",
       "fr": "Armure errante",
-      "jp": "?Armure errante"
+      "jp": "さまようよろい"
     },
     "type": "enemy",
     "phases": 1,
@@ -1337,9 +1337,9 @@
     "imgPath": "img/monsters/44.png",
     "name": {
       "en": "Metal slime",
-      "es": "?Metal slime",
+      "es": " slime",
       "fr": "Gluant de métal",
-      "jp": "?Gluant de métal"
+      "jp": "メタルスライム"
     },
     "type": "enemy",
     "phases": 1,
@@ -1370,9 +1370,9 @@
     "imgPath": "img/monsters/45.png",
     "name": {
       "en": "Elepus",
-      "es": "?Elepus",
+      "es": "",
       "fr": "Elépieuvre",
-      "jp": "?Elépieuvre"
+      "jp": "エレフローパー"
     },
     "type": "enemy",
     "phases": 1,
@@ -1399,9 +1399,9 @@
     "imgPath": "img/monsters/46.png",
     "name": {
       "en": "Platypunk",
-      "es": "?Platypunk",
+      "es": "",
       "fr": "Ornithox",
-      "jp": "?Ornithox"
+      "jp": "ももんじゃ"
     },
     "type": "enemy",
     "phases": 1,
@@ -1428,38 +1428,9 @@
     "imgPath": "img/monsters/47.png",
     "name": {
       "en": "Horny devil",
-      "es": "?Horny devil",
+      "es": " devil",
       "fr": "Démon cornu",
-      "jp": "?Démon cornu"
-    },
-    "type": "enemy",
-    "phases": 1,
-    "hp": 14,
-    "mp": 0,
-    "attack": 13,
-    "defense": 13,
-    "speed": 7,
-    "exp": 7,
-    "gold": 11,
-    "items": ["Herbe curative"],
-    "zone": [
-      {
-        "chapter1": [],
-        "chapter2": [],
-        "chapter3": [],
-        "chapter4": ["Région de Teafortwo", "Région de Deadend"],
-        "chapter5": []
-      }
-    ]
-  },
-  {
-    "id": 47,
-    "imgPath": "img/monsters/47.png",
-    "name": {
-      "en": "Horny devil",
-      "es": "?Horny devil",
-      "fr": "Démon cornu",
-      "jp": "?Démon cornu"
+      "jp": "とんがりあたま"
     },
     "type": "enemy",
     "phases": 1,
@@ -1486,9 +1457,9 @@
     "imgPath": "img/monsters/48.png",
     "name": {
       "en": "Dirty dogu",
-      "es": "?Dirty dogu",
+      "es": " dogu",
       "fr": "Gris-gris",
-      "jp": "?Gris-gris"
+      "jp": "いしにんぎょう"
     },
     "type": "enemy",
     "phases": 1,
@@ -1515,9 +1486,9 @@
     "imgPath": "img/monsters/49.png",
     "name": {
       "en": "Wimp",
-      "es": "?Wimp",
+      "es": "",
       "fr": "Diablutin",
-      "jp": "?Diablutin"
+      "jp": "つかいま"
     },
     "type": "enemy",
     "phases": 1,
@@ -1549,9 +1520,9 @@
     "imgPath": "img/monsters/50.png",
     "name": {
       "en": "Crack-billed platypunk",
-      "es": "?Crack-billed platypunk",
+      "es": "-billed platypunk",
       "fr": "Ornicryo",
-      "jp": "?Ornicryo"
+      "jp": "メイジももんじゃ"
     },
     "type": "enemy",
     "phases": 1,
@@ -1583,9 +1554,9 @@
     "imgPath": "img/monsters/51.png",
     "name": {
       "en": "Fire beatle",
-      "es": "?Fire beatle",
+      "es": " beatle",
       "fr": "Pyroblatte",
-      "jp": "?Pyroblatte"
+      "jp": "ヘルビートル"
     },
     "type": "enemy",
     "phases": 1,
@@ -1612,9 +1583,9 @@
     "imgPath": "img/monsters/52.png",
     "name": {
       "en": "Slimification",
-      "es": "?Slimification",
+      "es": "",
       "fr": "Gluantification",
-      "jp": "?Gluantification"
+      "jp": "がったいスライム"
     },
     "type": "enemy",
     "phases": 1,
@@ -1644,9 +1615,9 @@
     "imgPath": "img/monsters/53.png",
     "name": {
       "en": "King slime",
-      "es": "?King slime",
+      "es": " slime",
       "fr": "Roi gluant",
-      "jp": "?Roi gluant"
+      "jp": "キングスライム"
     },
     "type": "enemy",
     "phases": 1,
@@ -1676,9 +1647,9 @@
     "imgPath": "img/monsters/54.png",
     "name": {
       "en": "Ratatattack",
-      "es": "?Ratatattack",
+      "es": "",
       "fr": "Ratatattaque",
-      "jp": "?Ratatattaque"
+      "jp": "エビルハムスター"
     },
     "type": "enemy",
     "phases": 1,
@@ -1705,9 +1676,9 @@
     "imgPath": "img/monsters/55.png",
     "name": {
       "en": "Frolicker",
-      "es": "?Frolicker",
+      "es": "",
       "fr": "Salivard",
-      "jp": "?Salivard"
+      "jp": "ペロペロ"
     },
     "type": "enemy",
     "phases": 1,
@@ -1742,9 +1713,9 @@
     "imgPath": "img/monsters/56.png",
     "name": {
       "en": "Stump grump",
-      "es": "?Stump grump",
+      "es": " grump",
       "fr": "Cyclotronc",
-      "jp": "?Cyclotronc"
+      "jp": "ダークドリアード"
     },
     "type": "enemy",
     "phases": 1,
@@ -1771,9 +1742,9 @@
     "imgPath": "img/monsters/57.png",
     "name": {
       "en": "Weartiger",
-      "es": "?Weartiger",
+      "es": "",
       "fr": "Tigriff",
-      "jp": "?Tigriff"
+      "jp": "とらおとこ"
     },
     "type": "enemy",
     "phases": 1,
@@ -1805,9 +1776,9 @@
     "imgPath": "img/monsters/58.png",
     "name": {
       "en": "Jinkster",
-      "es": "?Jinkster",
+      "es": "",
       "fr": "Fée lée",
-      "jp": "?Fée lée"
+      "jp": "ひとつめピエロ"
     },
     "type": "enemy",
     "phases": 1,
@@ -1838,9 +1809,9 @@
     "imgPath": "img/monsters/59.png",
     "name": {
       "en": "Paralyslicer",
-      "es": "?Paralyslicer",
+      "es": "",
       "fr": "Paralysabre",
-      "jp": "?Paralysabre"
+      "jp": "しびれだんびら"
     },
     "type": "enemy",
     "phases": 1,
@@ -1871,9 +1842,9 @@
     "imgPath": "img/monsters/60.png",
     "name": {
       "en": "Lost soul",
-      "es": "?Lost soul",
+      "es": " soul",
       "fr": "Flammerolle",
-      "jp": "?Flammerolle"
+      "jp": "さまようたましい"
     },
     "type": "enemy",
     "phases": 1,
@@ -1900,9 +1871,9 @@
     "imgPath": "img/monsters/61.png",
     "name": {
       "en": "Vampire battler",
-      "es": "?Vampire battler",
+      "es": " battler",
       "fr": "Vampaul",
-      "jp": "?Vampaul"
+      "jp": "バンプドック"
     },
     "type": "enemy",
     "phases": 1,
@@ -1934,9 +1905,9 @@
     "imgPath": "img/monsters/62.png",
     "name": {
       "en": "Metal scorpion",
-      "es": "?Metal scorpion",
+      "es": " scorpion",
       "fr": "Scorpion d'assaut",
-      "jp": "?Scorpion d'assaut"
+      "jp": "メタルスコーピオン"
     },
     "type": "enemy",
     "phases": 1,
@@ -1967,9 +1938,9 @@
     "imgPath": "img/monsters/63.png",
     "name": {
       "en": "Featherweight",
-      "es": "?Featherweight",
+      "es": "",
       "fr": "Poids-plume",
-      "jp": "?Poids-plume"
+      "jp": "ドードーどり"
     },
     "type": "enemy",
     "phases": 1,
@@ -2004,9 +1975,9 @@
     "imgPath": "img/monsters/64.png",
     "name": {
       "en": "Salamander fry",
-      "es": "?Salamander fry",
+      "es": " fry",
       "fr": "Geckorrosif",
-      "jp": "?Geckorrosif"
+      "jp": "ベビーサラマンダ"
     },
     "type": "enemy",
     "phases": 1,
@@ -2037,9 +2008,9 @@
     "imgPath": "img/monsters/65.png",
     "name": {
       "en": "Venus guytrap",
-      "es": "?Venus guytrap",
+      "es": " guytrap",
       "fr": "Dionéneuse",
-      "jp": "?Dionéneuse"
+      "jp": "デビルプラント"
     },
     "type": "enemy",
     "phases": 1,
@@ -2066,9 +2037,9 @@
     "imgPath": "img/monsters/66.png",
     "name": {
       "en": "Bodkin fletcher",
-      "es": "?Bodkin fletcher",
+      "es": " fletcher",
       "fr": "Dardeur",
-      "jp": "?Dardeur"
+      "jp": "どくやずきん"
     },
     "type": "enemy",
     "phases": 1,
@@ -2095,9 +2066,9 @@
     "imgPath": "img/monsters/67.png",
     "name": {
       "en": "Mandragore",
-      "es": "?Mandragore",
+      "es": "",
       "fr": "Mandragore",
-      "jp": "?Mandragore"
+      "jp": "マンドレイク"
     },
     "type": "enemy",
     "phases": 1,
@@ -2124,9 +2095,9 @@
     "imgPath": "img/monsters/68.png",
     "name": {
       "en": "Bodkin bawyer",
-      "es": "?Bodkin bawyer",
+      "es": " bawyer",
       "fr": "Tire-flèches",
-      "jp": "?Tire-flèches"
+      "jp": "アローインプ"
     },
     "type": "enemy",
     "phases": 1,
@@ -2157,38 +2128,9 @@
     "imgPath": "img/monsters/69.png",
     "name": {
       "en": "Sweaty yeti",
-      "es": "?Sweaty yeti",
+      "es": " yeti",
       "fr": "Yeti des sables",
-      "jp": "?Yeti des sables"
-    },
-    "type": "enemy",
-    "phases": 1,
-    "hp": 55,
-    "mp": 0,
-    "attack": 45,
-    "defense": 30,
-    "speed": 25,
-    "exp": 70,
-    "gold": 68,
-    "items": ["Pelisse"],
-    "zone": [
-      {
-        "chapter1": [],
-        "chapter2": [],
-        "chapter3": [],
-        "chapter4": [],
-        "chapter5": ["Grand désert de l'est"]
-      }
-    ]
-  },
-  {
-    "id": 69,
-    "imgPath": "img/monsters/69.png",
-    "name": {
-      "en": "Sweaty yeti",
-      "es": "?Sweaty yeti",
-      "fr": "Yeti des sables",
-      "jp": "?Yeti des sables"
+      "jp": "デザートゴースト"
     },
     "type": "enemy",
     "phases": 1,
@@ -2215,9 +2157,9 @@
     "imgPath": "img/monsters/70.png",
     "name": {
       "en": "Flamethrower",
-      "es": "?Flamethrower",
+      "es": "",
       "fr": "Tizon",
-      "jp": "?Tizon"
+      "jp": "ほのおのせんし"
     },
     "type": "enemy",
     "phases": 1,
@@ -2249,9 +2191,9 @@
     "imgPath": "img/monsters/71.png",
     "name": {
       "en": "Murshroom mage",
-      "es": "?Murshroom mage",
+      "es": " mage",
       "fr": "Champimage",
-      "jp": "?Champimage"
+      "jp": "マージマタンゴ"
     },
     "type": "enemy",
     "phases": 1,
@@ -2283,9 +2225,9 @@
     "imgPath": "img/monsters/72.png",
     "name": {
       "en": "Buffalo wing",
-      "es": "?Buffalo wing",
+      "es": " wing",
       "fr": "Bovipare",
-      "jp": "?Bovipare"
+      "jp": "ブルホーク"
     },
     "type": "enemy",
     "phases": 1,
@@ -2312,9 +2254,9 @@
     "imgPath": "img/monsters/73.png",
     "name": {
       "en": "Imp",
-      "es": "?Imp",
+      "es": "",
       "fr": "Diablotin",
-      "jp": "?Diablotin"
+      "jp": "ベビーサタン"
     },
     "type": "enemy",
     "phases": 1,
@@ -2341,9 +2283,9 @@
     "imgPath": "img/monsters/74.png",
     "name": {
       "en": "Whizzard",
-      "es": "?Whizzard",
+      "es": "",
       "fr": "Marcagicien",
-      "jp": "?Marcagicien"
+      "jp": "コンジャラー"
     },
     "type": "enemy",
     "phases": 1,
@@ -2370,9 +2312,9 @@
     "imgPath": "img/monsters/75.png",
     "name": {
       "en": "Infernal armour",
-      "es": "?Infernal armour",
+      "es": " armour",
       "fr": "Armure infernale",
-      "jp": "?Armure infernale"
+      "jp": "じごくのよろい"
     },
     "type": "enemy",
     "phases": 1,
@@ -2403,9 +2345,9 @@
     "imgPath": "img/monsters/76.png",
     "name": {
       "en": "Powie yowie",
-      "es": "?Powie yowie",
+      "es": " yowie",
       "fr": "Yéti yétu",
-      "jp": "?Yéti yétu"
+      "jp": "イエティ"
     },
     "type": "enemy",
     "phases": 1,
@@ -2432,9 +2374,9 @@
     "imgPath": "img/monsters/77.png",
     "name": {
       "en": "Skeleton soldier",
-      "es": "?Skeleton soldier",
+      "es": " soldier",
       "fr": "Soldat squelette",
-      "jp": "?Soldat squelette"
+      "jp": "しりょうのきし"
     },
     "type": "enemy",
     "phases": 1,
@@ -2467,9 +2409,9 @@
     "imgPath": "img/monsters/78.png",
     "name": {
       "en": "Pocus poppet",
-      "es": "?Pocus poppet",
+      "es": " poppet",
       "fr": "Talismaboule",
-      "jp": "?Talismaboule"
+      "jp": "ミステリードール"
     },
     "type": "enemy",
     "phases": 1,
@@ -2496,9 +2438,9 @@
     "imgPath": "img/monsters/79.png",
     "name": {
       "en": "Wild beast",
-      "es": "?Wild beast",
+      "es": " beast",
       "fr": "Bête sauvage",
-      "jp": "?Bête sauvage"
+      "jp": "オックスベア"
     },
     "type": "enemy",
     "phases": 1,
@@ -2525,9 +2467,9 @@
     "imgPath": "img/monsters/80.png",
     "name": {
       "en": "Dragon pup",
-      "es": "?Dragon pup",
+      "es": " pup",
       "fr": "Dragonnet",
-      "jp": "?Dragonnet"
+      "jp": "ドラゴンパピー"
     },
     "type": "enemy",
     "phases": 1,
@@ -2554,9 +2496,9 @@
     "imgPath": "img/monsters/81.png",
     "name": {
       "en": "Hoodoo gooroo",
-      "es": "?Hoodoo gooroo",
+      "es": " gooroo",
       "fr": "Gourou coucou",
-      "jp": "?Gourou coucou"
+      "jp": "しりょうつかい"
     },
     "type": "enemy",
     "phases": 1,
@@ -2583,9 +2525,9 @@
     "imgPath": "img/monsters/82.png",
     "name": {
       "en": "Cocoon goon",
-      "es": "?Cocoon goon",
+      "es": " goon",
       "fr": "Asticocon",
-      "jp": "?Asticocon"
+      "jp": "あくまのす"
     },
     "type": "enemy",
     "phases": 1,
@@ -2616,9 +2558,9 @@
     "imgPath": "img/monsters/83.png",
     "name": {
       "en": "Cureslime",
-      "es": "?Cureslime",
+      "es": "",
       "fr": "Guérigluant",
-      "jp": "?Guérigluant"
+      "jp": "ベホマスライム"
     },
     "type": "enemy",
     "phases": 1,
@@ -2645,9 +2587,9 @@
     "imgPath": "img/monsters/84.png",
     "name": {
       "en": "Abracadabrador",
-      "es": "?Abracadabrador",
+      "es": "",
       "fr": "Abracadabraque",
-      "jp": "?Abracadabraque"
+      "jp": "サブナック"
     },
     "type": "enemy",
     "phases": 1,
@@ -2674,9 +2616,9 @@
     "imgPath": "img/monsters/85.png",
     "name": {
       "en": "Cheater cheetah",
-      "es": "?Cheater cheetah",
+      "es": " cheetah",
       "fr": "Tigrrr",
-      "jp": "?Tigrrr"
+      "jp": "ベンガル"
     },
     "type": "enemy",
     "phases": 1,
@@ -2707,9 +2649,9 @@
     "imgPath": "img/monsters/86.png",
     "name": {
       "en": "Rhinothrope",
-      "es": "?Rhinothrope",
+      "es": "",
       "fr": "Rhinocérosse",
-      "jp": "?Rhinocérosse"
+      "jp": "サイおとこ"
     },
     "type": "enemy",
     "phases": 1,
@@ -2736,9 +2678,9 @@
     "imgPath": "img/monsters/87.png",
     "name": {
       "en": "Minidemon",
-      "es": "?Minidemon",
+      "es": "",
       "fr": "Mini démon",
-      "jp": "?Mini démon"
+      "jp": "ミニデーモン"
     },
     "type": "enemy",
     "phases": 1,
@@ -2772,9 +2714,9 @@
     "imgPath": "img/monsters/88.png",
     "name": {
       "en": "Chillanodon",
-      "es": "?Chillanodon",
+      "es": "",
       "fr": "Glacianodon",
-      "jp": "?Glacianodon"
+      "jp": "アイスコンドル"
     },
     "type": "enemy",
     "phases": 1,
@@ -2806,9 +2748,9 @@
     "imgPath": "img/monsters/89.png",
     "name": {
       "en": "Lethal armour",
-      "es": "?Lethal armour",
+      "es": " armour",
       "fr": "Armure fatale",
-      "jp": "?Armure fatale"
+      "jp": "キラーアーマー"
     },
     "type": "enemy",
     "phases": 1,
@@ -2835,9 +2777,9 @@
     "imgPath": "img/monsters/90.png",
     "name": {
       "en": "Rockbomb",
-      "es": "?Rockbomb",
+      "es": "",
       "fr": "Rochexplosif",
-      "jp": "?Rochexplosif"
+      "jp": "ばくだんいわ"
     },
     "type": "enemy",
     "phases": 1,
@@ -2864,9 +2806,9 @@
     "imgPath": "img/monsters/91.png",
     "name": {
       "en": "Eoraptor",
-      "es": "?Eoraptor",
+      "es": "",
       "fr": "Radiaptor",
-      "jp": "?Radiaptor"
+      "jp": "テラノザース"
     },
     "type": "enemy",
     "phases": 1,
@@ -2897,9 +2839,9 @@
     "imgPath": "img/monsters/92.png",
     "name": {
       "en": "Beleth",
-      "es": "?Beleth",
+      "es": "",
       "fr": "Byleth",
-      "jp": "?Byleth"
+      "jp": "ベレス"
     },
     "type": "enemy",
     "phases": 1,
@@ -2926,9 +2868,9 @@
     "imgPath": "img/monsters/93.png",
     "name": {
       "en": "Grim rider",
-      "es": "?Grim rider",
+      "es": " rider",
       "fr": "Cavalier fantôme",
-      "jp": "?Cavalier fantôme"
+      "jp": "ボーンナイト"
     },
     "type": "enemy",
     "phases": 1,
@@ -2959,9 +2901,9 @@
     "imgPath": "img/monsters/94.png",
     "name": {
       "en": "Bulldozer",
-      "es": "?Bulldozer",
+      "es": "",
       "fr": "Ronflicorne",
-      "jp": "?Ronflicorne"
+      "jp": "アークバッファロー"
     },
     "type": "enemy",
     "phases": 1,
@@ -2992,9 +2934,9 @@
     "imgPath": "img/monsters/95.png",
     "name": {
       "en": "Chicken poxer",
-      "es": "?Chicken poxer",
+      "es": " poxer",
       "fr": "Coq-toc",
-      "jp": "?Coq-toc"
+      "jp": "マンルースター"
     },
     "type": "enemy",
     "phases": 1,
@@ -3021,9 +2963,9 @@
     "imgPath": "img/monsters/96.png",
     "name": {
       "en": "War-rus",
-      "es": "?War-rus",
+      "es": "-rus",
       "fr": "Toréamorse",
-      "jp": "?Toréamorse"
+      "jp": "グレートオーラス"
     },
     "type": "enemy",
     "phases": 1,
@@ -3050,9 +2992,9 @@
     "imgPath": "img/monsters/97.png",
     "name": {
       "en": "Liquid metal slime",
-      "es": "?Liquid metal slime",
+      "es": " metal slime",
       "fr": "Gluant de mercure",
-      "jp": "?Gluant de mercure"
+      "jp": "はぐれメタル"
     },
     "type": "enemy",
     "phases": 1,
@@ -3079,9 +3021,9 @@
     "imgPath": "img/monsters/98.png",
     "name": {
       "en": "Humbaba",
-      "es": "?Humbaba",
+      "es": "",
       "fr": "Humbaba",
-      "jp": "?Humbaba"
+      "jp": "ハンババ"
     },
     "type": "enemy",
     "phases": 1,
@@ -3112,9 +3054,9 @@
     "imgPath": "img/monsters/99.png",
     "name": {
       "en": "Spitfire",
-      "es": "?Spitfire",
+      "es": "",
       "fr": "Libellugon",
-      "jp": "?Libellugon"
+      "jp": "ドラゴニット"
     },
     "type": "enemy",
     "phases": 1,
@@ -3145,9 +3087,9 @@
     "imgPath": "img/monsters/100.png",
     "name": {
       "en": "Terminonatator",
-      "es": "?Terminonatator",
+      "es": "",
       "fr": "Terminataure",
-      "jp": "?Terminataure"
+      "jp": "プレシオドン"
     },
     "type": "enemy",
     "phases": 1,
@@ -3178,9 +3120,9 @@
     "imgPath": "img/monsters/101.png",
     "name": {
       "en": "Skerleton",
-      "es": "?Skerleton",
+      "es": "",
       "fr": "Berserkerlette",
-      "jp": "?Berserkerlette"
+      "jp": "しにがみ"
     },
     "type": "enemy",
     "phases": 1,
@@ -3213,9 +3155,9 @@
     "imgPath": "img/monsters/102.png",
     "name": {
       "en": "Cheeky tiki",
-      "es": "?Cheeky tiki",
+      "es": " tiki",
       "fr": "Grimasque",
-      "jp": "?Grimasque"
+      "jp": "ガオン"
     },
     "type": "enemy",
     "phases": 1,
@@ -3246,9 +3188,9 @@
     "imgPath": "img/monsters/103.png",
     "name": {
       "en": "Podokesaurus",
-      "es": "?Podokesaurus",
+      "es": "",
       "fr": "Pokérosaure",
-      "jp": "?Pokérosaure"
+      "jp": "はしりとかげ"
     },
     "type": "enemy",
     "phases": 1,
@@ -3275,9 +3217,9 @@
     "imgPath": "img/monsters/104.png",
     "name": {
       "en": "Dragon rider",
-      "es": "?Dragon rider",
+      "es": " rider",
       "fr": "Dragonnier",
-      "jp": "?Dragonnier"
+      "jp": "ドラゴンライダー"
     },
     "type": "enemy",
     "phases": 1,
@@ -3309,9 +3251,9 @@
     "imgPath": "img/monsters/105.png",
     "name": {
       "en": "Freeze fly",
-      "es": "?Freeze fly",
+      "es": " fly",
       "fr": "Mouche des neiges",
-      "jp": "?Mouche des neiges"
+      "jp": "マヒャドフライ"
     },
     "type": "enemy",
     "phases": 1,
@@ -3342,9 +3284,9 @@
     "imgPath": "img/monsters/106.png",
     "name": {
       "en": "Hell raiser",
-      "es": "?Hell raiser",
+      "es": " raiser",
       "fr": "Phacomage",
-      "jp": "?Phacomage"
+      "jp": "カロン"
     },
     "type": "enemy",
     "phases": 1,
@@ -3375,9 +3317,9 @@
     "imgPath": "img/monsters/107.png",
     "name": {
       "en": "Hellspawn",
-      "es": "?Hellspawn",
+      "es": "",
       "fr": "Rejeton de l'enfer",
-      "jp": "?Rejeton de l'enfer"
+      "jp": "フェイスボール"
     },
     "type": "enemy",
     "phases": 1,
@@ -3404,9 +3346,9 @@
     "imgPath": "img/monsters/108.png",
     "name": {
       "en": "Bloody blade",
-      "es": "?Bloody blade",
+      "es": " blade",
       "fr": "Lame sanglante",
-      "jp": "?Lame sanglante"
+      "jp": "ブラッドソード"
     },
     "type": "enemy",
     "phases": 1,
@@ -3437,9 +3379,9 @@
     "imgPath": "img/monsters/109.png",
     "name": {
       "en": "Terrorflyer",
-      "es": "?Terrorflyer",
+      "es": "",
       "fr": "Apprentiran",
-      "jp": "?Apprentiran"
+      "jp": "テラノバット"
     },
     "type": "enemy",
     "phases": 1,
@@ -3466,9 +3408,9 @@
     "imgPath": "img/monsters/110.png",
     "name": {
       "en": "Voodoo gooroo",
-      "es": "?Voodoo gooroo",
+      "es": " gooroo",
       "fr": "Gourou vaudou",
-      "jp": "?Gourou vaudou"
+      "jp": "ビビンバー"
     },
     "type": "enemy",
     "phases": 1,
@@ -3495,9 +3437,9 @@
     "imgPath": "img/monsters/111.png",
     "name": {
       "en": "Medislime",
-      "es": "?Medislime",
+      "es": "",
       "fr": "Coagluant",
-      "jp": "?Coagluant"
+      "jp": "ベホイミスライム"
     },
     "type": "enemy",
     "phases": 1,
@@ -3524,9 +3466,9 @@
     "imgPath": "img/monsters/112.png",
     "name": {
       "en": "Rhinoceraxe",
-      "es": "?Rhinoceraxe",
+      "es": "",
       "fr": "Rhinocérache",
-      "jp": "?Rhinocérache"
+      "jp": "ライノソルジャー"
     },
     "type": "enemy",
     "phases": 1,
@@ -3558,9 +3500,9 @@
     "imgPath": "img/monsters/113.png",
     "name": {
       "en": "Fat bat",
-      "es": "?Fat bat",
+      "es": " bat",
       "fr": "Hippovol",
-      "jp": "?Hippovol"
+      "jp": "ジャイアントバット"
     },
     "type": "enemy",
     "phases": 1,
@@ -3586,28 +3528,32 @@
     "id": 114,
     "imgPath": "img/monsters/114.png",
     "name": {
-      "en": "Fat bat",
-      "es": "?Fat bat",
-      "fr": "Hippovol",
-      "jp": "?Hippovol"
+      "en": "Hellion",
+      "es": "",
+      "fr": "Trublion",
+      "jp": "アームライオン"
     },
     "type": "enemy",
     "phases": 1,
-    "hp": 113,
-    "mp": 3,
-    "attack": 92,
-    "defense": 82,
-    "speed": 38,
-    "exp": 172,
-    "gold": 84,
-    "items": ["Manteau de sérénité"],
+    "hp": 150,
+    "mp": 0,
+    "attack": 94,
+    "defense": 80,
+    "speed": 45,
+    "exp": 224,
+    "gold": 119,
+    "items": ["Robe de cuir"],
     "zone": [
       {
         "chapter1": [],
         "chapter2": [],
         "chapter3": [],
         "chapter4": [],
-        "chapter5": ["Région d'Estuaria", "Colosse de pierre"]
+        "chapter5": [
+          "Région d'Estuaria",
+          "Colosse de pierre",
+          "Palais du démon"
+        ]
       }
     ]
   },
@@ -3616,9 +3562,9 @@
     "imgPath": "img/monsters/115.png",
     "name": {
       "en": "Blizzybody",
-      "es": "?Blizzybody",
+      "es": "",
       "fr": "Glazon",
-      "jp": "?Glazon"
+      "jp": "ブリザードマン"
     },
     "type": "enemy",
     "phases": 1,
@@ -3645,9 +3591,9 @@
     "imgPath": "img/monsters/116.png",
     "name": {
       "en": "Wyvern",
-      "es": "?Wyvern",
+      "es": "",
       "fr": "Wyverne",
-      "jp": "?Wyverne"
+      "jp": "ライバーン"
     },
     "type": "enemy",
     "phases": 1,
@@ -3674,9 +3620,9 @@
     "imgPath": "img/monsters/117.png",
     "name": {
       "en": "Fuddlestick",
-      "es": "?Fuddlestick",
+      "es": "",
       "fr": "Fourmicmac",
-      "jp": "?Fourmicmac"
+      "jp": "メダパニバッタ"
     },
     "type": "enemy",
     "phases": 1,
@@ -3707,9 +3653,9 @@
     "imgPath": "img/monsters/118.png",
     "name": {
       "en": "Moosifer",
-      "es": "?Moosifer",
+      "es": "",
       "fr": "Belzébik",
-      "jp": "?Belzébik"
+      "jp": "アンクルホーン"
     },
     "type": "enemy",
     "phases": 1,
@@ -3736,9 +3682,9 @@
     "imgPath": "img/monsters/119.png",
     "name": {
       "en": "King cureslime",
-      "es": "?King cureslime",
+      "es": " cureslime",
       "fr": "Roi guérigluant",
-      "jp": "?Roi guérigluant"
+      "jp": "スライムベホマズン"
     },
     "type": "enemy",
     "phases": 1,
@@ -3765,9 +3711,9 @@
     "imgPath": "img/monsters/120.png",
     "name": {
       "en": "Rhinocerex",
-      "es": "?Rhinocerex",
+      "es": "",
       "fr": "Rhinofurax",
-      "jp": "?Rhinofurax"
+      "jp": "ライノスキング"
     },
     "type": "enemy",
     "phases": 1,
@@ -3794,9 +3740,9 @@
     "imgPath": "img/monsters/121.png",
     "name": {
       "en": "Joojoo gooroo",
-      "es": "?Joojoo gooroo",
+      "es": " gooroo",
       "fr": "Gourou jajou",
-      "jp": "?Gourou jajou"
+      "jp": "ブラックマージ"
     },
     "type": "enemy",
     "phases": 1,
@@ -3823,9 +3769,9 @@
     "imgPath": "img/monsters/122.png",
     "name": {
       "en": "Grim keeper",
-      "es": "?Grim keeper",
+      "es": " keeper",
       "fr": "Grand faucheur",
-      "jp": "?Grand faucheur"
+      "jp": "じごくのもんばん"
     },
     "type": "enemy",
     "phases": 1,
@@ -3852,9 +3798,9 @@
     "imgPath": "img/monsters/123.png",
     "name": {
       "en": "Ogre",
-      "es": "?Ogre",
+      "es": "",
       "fr": "Bouledogre",
-      "jp": "?Bouledogre"
+      "jp": "オーガー"
     },
     "type": "enemy",
     "phases": 1,
@@ -3881,9 +3827,9 @@
     "imgPath": "img/monsters/124.png",
     "name": {
       "en": "Bullion",
-      "es": "?Bullion",
+      "es": "",
       "fr": "Mygalion",
-      "jp": "?Mygalion"
+      "jp": "やつざきアニマル"
     },
     "type": "enemy",
     "phases": 1,
@@ -3910,9 +3856,9 @@
     "imgPath": "img/monsters/125.png",
     "name": {
       "en": "Night emperor",
-      "es": "?Night emperor",
+      "es": " emperor",
       "fr": "Empereur nocturne",
-      "jp": "?Empereur nocturne"
+      "jp": "よるのていおう"
     },
     "type": "enemy",
     "phases": 1,
@@ -3939,9 +3885,9 @@
     "imgPath": "img/monsters/126.png",
     "name": {
       "en": "Metal king slime",
-      "es": "?Metal king slime",
+      "es": " king slime",
       "fr": "Roi gluant de métal",
-      "jp": "?Roi gluant de métal"
+      "jp": "メタルキング"
     },
     "type": "enemy",
     "phases": 1,
@@ -3968,9 +3914,9 @@
     "imgPath": "img/monsters/127.png",
     "name": {
       "en": "Green dragon",
-      "es": "?Green dragon",
+      "es": " dragon",
       "fr": "Dragon vert",
-      "jp": "?Dragon vert"
+      "jp": "グリーンドラゴン"
     },
     "type": "enemy",
     "phases": 1,
@@ -3997,9 +3943,9 @@
     "imgPath": "img/monsters/128.png",
     "name": {
       "en": "Whirly girly",
-      "es": "?Whirly girly",
+      "es": " girly",
       "fr": "Typhonphonphon",
-      "jp": "?Typhonphonphon"
+      "jp": "レッドサイクロン"
     },
     "type": "enemy",
     "phases": 1,
@@ -4026,9 +3972,9 @@
     "imgPath": "img/monsters/129.png",
     "name": {
       "en": "Bone baron",
-      "es": "?Bone baron",
+      "es": " baron",
       "fr": "Baron d'os",
-      "jp": "?Baron d'os"
+      "jp": "しにがみきぞく"
     },
     "type": "enemy",
     "phases": 1,
@@ -4055,9 +4001,9 @@
     "imgPath": "img/monsters/130.png",
     "name": {
       "en": "Drooling ghoul",
-      "es": "?Drooling ghoul",
+      "es": " ghoul",
       "fr": "Sméagoule",
-      "jp": "?Sméagoule"
+      "jp": "スモールグール"
     },
     "type": "enemy",
     "phases": 1,
@@ -4090,9 +4036,9 @@
     "imgPath": "img/monsters/131.png",
     "name": {
       "en": "Teaky mask",
-      "es": "?Teaky mask",
+      "es": " mask",
       "fr": "Maskoteck",
-      "jp": "?Maskoteck"
+      "jp": "トーテムキラー"
     },
     "type": "enemy",
     "phases": 1,
@@ -4119,9 +4065,9 @@
     "imgPath": "img/monsters/132.png",
     "name": {
       "en": "Pickeerer",
-      "es": "?Pickeerer",
+      "es": "",
       "fr": "Vicius",
-      "jp": "?Vicius"
+      "jp": "バアラック"
     },
     "type": "enemy",
     "phases": 1,
@@ -4153,9 +4099,9 @@
     "imgPath": "img/monsters/133.png",
     "name": {
       "en": "Pit viper",
-      "es": "?Pit viper",
+      "es": " viper",
       "fr": "Crotale",
-      "jp": "?Crotale"
+      "jp": "ピットバイパー"
     },
     "type": "enemy",
     "phases": 1,
@@ -4182,9 +4128,9 @@
     "imgPath": "img/monsters/134.png",
     "name": {
       "en": "Damselfly",
-      "es": "?Damselfly",
+      "es": "",
       "fr": "Damoisel",
-      "jp": "?Damoisel"
+      "jp": "フェアリードラゴン"
     },
     "type": "enemy",
     "phases": 1,
@@ -4211,9 +4157,9 @@
     "imgPath": "img/monsters/135.png",
     "name": {
       "en": "Abullddon",
-      "es": "?Abullddon",
+      "es": "",
       "fr": "Belzébouc",
-      "jp": "?Belzébouc"
+      "jp": "ブルデビル"
     },
     "type": "enemy",
     "phases": 1,
@@ -4240,9 +4186,9 @@
     "imgPath": "img/monsters/136.png",
     "name": {
       "en": "Hot dog",
-      "es": "?Hot dog",
+      "es": " dog",
       "fr": "Pitbrûle",
-      "jp": "?Pitbrûle"
+      "jp": "フレイムドック"
     },
     "type": "enemy",
     "phases": 1,
@@ -4269,9 +4215,9 @@
     "imgPath": "img/monsters/137.png",
     "name": {
       "en": "Beelzebuzz",
-      "es": "?Beelzebuzz",
+      "es": "",
       "fr": "Globulœil",
-      "jp": "?Globulœil"
+      "jp": "ベルザブル"
     },
     "type": "enemy",
     "phases": 1,
@@ -4298,9 +4244,9 @@
     "imgPath": "img/monsters/138.png",
     "name": {
       "en": "Float-o-copier",
-      "es": "?Float-o-copier",
+      "es": "-o-copier",
       "fr": "Feutocopieur",
-      "jp": "?Feutocopieur"
+      "jp": "マネマネ"
     },
     "type": "enemy",
     "phases": 1,
@@ -4332,9 +4278,9 @@
     "imgPath": "img/monsters/139.png",
     "name": {
       "en": "Terracotta warrior",
-      "es": "?Terracotta warrior",
+      "es": " warrior",
       "fr": "Guerracotta",
-      "jp": "?Guerracotta"
+      "jp": "どぐうせんし"
     },
     "type": "enemy",
     "phases": 1,
@@ -4361,9 +4307,9 @@
     "imgPath": "img/monsters/140.png",
     "name": {
       "en": "Swingre",
-      "es": "?Swingre",
+      "es": "",
       "fr": "Fléogre",
-      "jp": "?Fléogre"
+      "jp": "てっきゅうまじん"
     },
     "type": "enemy",
     "phases": 1,
@@ -4390,9 +4336,9 @@
     "imgPath": "img/monsters/141.png",
     "name": {
       "en": "Red dragon",
-      "es": "?Red dragon",
+      "es": " dragon",
       "fr": "Dragon rouge",
-      "jp": "?Dragon rouge"
+      "jp": "レッドドラゴン"
     },
     "type": "enemy",
     "phases": 1,
@@ -4419,9 +4365,9 @@
     "imgPath": "img/monsters/142.png",
     "name": {
       "en": "Sasquash",
-      "es": "?Sasquash",
+      "es": "",
       "fr": "Primatraque",
-      "jp": "?Primatraque"
+      "jp": "ビッグスロース"
     },
     "type": "enemy",
     "phases": 1,
@@ -4448,9 +4394,9 @@
     "imgPath": "img/monsters/143.png",
     "name": {
       "en": "Wilder beast",
-      "es": "?Wilder beast",
+      "es": " beast",
       "fr": "Bebête sauvage",
-      "jp": "?Bebête sauvage"
+      "jp": "ビースト"
     },
     "type": "enemy",
     "phases": 1,
@@ -4477,9 +4423,9 @@
     "imgPath": "img/monsters/144.png",
     "name": {
       "en": "Vis mage",
-      "es": "?Vis mage",
+      "es": " mage",
       "fr": "Maximage",
-      "jp": "?Maximage"
+      "jp": "だいまどう"
     },
     "type": "enemy",
     "phases": 1,
@@ -4511,9 +4457,9 @@
     "imgPath": "img/monsters/145.png",
     "name": {
       "en": "Prince of darkness",
-      "es": "?Prince of darkness",
+      "es": " of darkness",
       "fr": "Prince des ténèbres",
-      "jp": "?Prince des ténèbres"
+      "jp": "デビルプリンス"
     },
     "type": "enemy",
     "phases": 1,
@@ -4540,9 +4486,9 @@
     "imgPath": "img/monsters/146.png",
     "name": {
       "en": "Dragooner",
-      "es": "?Dragooner",
+      "es": "",
       "fr": "Cavalier des enfers",
-      "jp": "?Cavalier des enfers"
+      "jp": "ガーディアン"
     },
     "type": "enemy",
     "phases": 1,
@@ -4573,9 +4519,9 @@
     "imgPath": "img/monsters/147.png",
     "name": {
       "en": "Emperor wyvern",
-      "es": "?Emperor wyvern",
+      "es": " wyvern",
       "fr": "Wyvereine",
-      "jp": "?Wyvereine"
+      "jp": "ライバーンロード"
     },
     "type": "enemy",
     "phases": 1,
@@ -4606,9 +4552,9 @@
     "imgPath": "img/monsters/148.png",
     "name": {
       "en": "Demonspawn",
-      "es": "?Demonspawn",
+      "es": "",
       "fr": "Rejeton du démon",
-      "jp": "?Rejeton du démon"
+      "jp": "デーモンスピリット"
     },
     "type": "enemy",
     "phases": 1,
@@ -4635,9 +4581,9 @@
     "imgPath": "img/monsters/149.png",
     "name": {
       "en": "Night rider",
-      "es": "?Night rider",
+      "es": " rider",
       "fr": "Cavalier nocturne",
-      "jp": "?Cavalier nocturne"
+      "jp": "グレートライドン"
     },
     "type": "enemy",
     "phases": 1,
@@ -4664,9 +4610,9 @@
     "imgPath": "img/monsters/150.png",
     "name": {
       "en": "Night clubber",
-      "es": "?Night clubber",
+      "es": " clubber",
       "fr": "Bastonnier",
-      "jp": "?Bastonnier"
+      "jp": "おにこんぼう"
     },
     "type": "enemy",
     "phases": 1,
@@ -4693,9 +4639,9 @@
     "imgPath": "img/monsters/151.png",
     "name": {
       "en": "Knightshade",
-      "es": "?Knightshade",
+      "es": "",
       "fr": "Chevalier nébuleux",
-      "jp": "?Chevalier nébuleux"
+      "jp": "ダークアーマー"
     },
     "type": "enemy",
     "phases": 1,
@@ -4722,9 +4668,9 @@
     "imgPath": "img/monsters/152.png",
     "name": {
       "en": "Decayurion",
-      "es": "?Decayurion",
+      "es": "",
       "fr": "Légionellos",
-      "jp": "?Légionellos"
+      "jp": "ゾンビソルジャー"
     },
     "type": "enemy",
     "phases": 1,
@@ -4751,9 +4697,9 @@
     "imgPath": "img/monsters/153.png",
     "name": {
       "en": "Bloody hand",
-      "es": "?Bloody hand",
+      "es": " hand",
       "fr": "Main sanglante",
-      "jp": "?Main sanglante"
+      "jp": "ブラッドハンド"
     },
     "type": "enemy",
     "phases": 1,
@@ -4780,9 +4726,9 @@
     "imgPath": "img/monsters/154.png",
     "name": {
       "en": "Demon thunderer",
-      "es": "?Demon thunderer",
+      "es": " thunderer",
       "fr": "Démon orageux",
-      "jp": "?Démon orageux"
+      "jp": "サンダーサタン"
     },
     "type": "enemy",
     "phases": 1,
@@ -4809,9 +4755,9 @@
     "imgPath": "img/monsters/155.png",
     "name": {
       "en": "Draguar",
-      "es": "?Draguar",
+      "es": "",
       "fr": "Draguar",
-      "jp": "?Draguar"
+      "jp": "ゲリュオン"
     },
     "type": "enemy",
     "phases": 1,
@@ -4838,9 +4784,9 @@
     "imgPath": "img/monsters/156.png",
     "name": {
       "en": "Juggular",
-      "es": "?Juggular",
+      "es": "",
       "fr": "Saltimbranque",
-      "jp": "?Saltimbranque"
+      "jp": "デーモンレスラー"
     },
     "type": "enemy",
     "phases": 1,
@@ -4867,9 +4813,9 @@
     "imgPath": "img/monsters/157.png",
     "name": {
       "en": "Cerberuff",
-      "es": "?Cerberuff",
+      "es": "",
       "fr": "Cerberk",
-      "jp": "?Cerberk"
+      "jp": "じごくのばんけん"
     },
     "type": "enemy",
     "phases": 1,
@@ -4896,9 +4842,9 @@
     "imgPath": "img/monsters/158.png",
     "name": {
       "en": "Gnucifer",
-      "es": "?Gnucifer",
+      "es": "",
       "fr": "Satanglier",
-      "jp": "?Satanglier"
+      "jp": "ヌーデビル"
     },
     "type": "enemy",
     "phases": 1,
@@ -4925,9 +4871,9 @@
     "imgPath": "img/monsters/159.png",
     "name": {
       "en": "Div",
-      "es": "?Div",
+      "es": "",
       "fr": "Stryge",
-      "jp": "?Stryge"
+      "jp": "ランガー"
     },
     "type": "enemy",
     "phases": 1,
@@ -4954,9 +4900,9 @@
     "imgPath": "img/monsters/160.png",
     "name": {
       "en": "Prism peacock",
-      "es": "?Prism peacock",
+      "es": " peacock",
       "fr": "Dark-en-ciel",
-      "jp": "?Dark-en-ciel"
+      "jp": "にじくじゃく"
     },
     "type": "enemy",
     "phases": 1,
@@ -4983,9 +4929,9 @@
     "imgPath": "img/monsters/161.png",
     "name": {
       "en": "Testudogre",
-      "es": "?Testudogre",
+      "es": "",
       "fr": "Métallogre",
-      "jp": "?Métallogre"
+      "jp": "オーガキング"
     },
     "type": "enemy",
     "phases": 1,
@@ -5012,9 +4958,9 @@
     "imgPath": "img/monsters/162.png",
     "name": {
       "en": "Drakulard",
-      "es": "?Drakulard",
+      "es": "",
       "fr": "Draculard",
-      "jp": "?Draculard"
+      "jp": "ギガントドラゴン"
     },
     "type": "enemy",
     "phases": 1,
@@ -5041,9 +4987,9 @@
     "imgPath": "img/monsters/163.png",
     "name": {
       "en": "Togre",
-      "es": "?Togre",
+      "es": "",
       "fr": "Togre",
-      "jp": "?Togre"
+      "jp": "ネクロバルサ"
     },
     "type": "enemy",
     "phases": 1,
@@ -5070,9 +5016,9 @@
     "imgPath": "img/monsters/164.png",
     "name": {
       "en": "High djinks",
-      "es": "?High djinks",
+      "es": " djinks",
       "fr": "Djinn-fizz",
-      "jp": "?Djinn-fizz"
+      "jp": "ランプのまおう"
     },
     "type": "enemy",
     "phases": 1,
@@ -5099,9 +5045,9 @@
     "imgPath": "img/monsters/165.png",
     "name": {
       "en": "Perilwinkle",
-      "es": "?Perilwinkle",
+      "es": "",
       "fr": "Bicorneau",
-      "jp": "?Bicorneau"
+      "jp": "あんこくつむり"
     },
     "type": "enemy",
     "phases": 1,
@@ -5128,9 +5074,9 @@
     "imgPath": "img/monsters/166.png",
     "name": {
       "en": "Shelligator",
-      "es": "?Shelligator",
+      "es": "",
       "fr": "Alligatortue",
-      "jp": "?Alligatortue"
+      "jp": "キルゲータ"
     },
     "type": "enemy",
     "phases": 1,
@@ -5157,9 +5103,9 @@
     "imgPath": "img/monsters/167.png",
     "name": {
       "en": "Croaked king",
-      "es": "?Croaked king",
+      "es": " king",
       "fr": "Roi crôa",
-      "jp": "?Roi crôa"
+      "jp": "フロッグキング"
     },
     "type": "enemy",
     "phases": 1,
@@ -5186,9 +5132,9 @@
     "imgPath": "img/monsters/168.png",
     "name": {
       "en": "Seasaur",
-      "es": "?Seasaur",
+      "es": "",
       "fr": "Aquasaure",
-      "jp": "?Aquasaure"
+      "jp": "ギャオース"
     },
     "type": "enemy",
     "phases": 1,
@@ -5215,9 +5161,9 @@
     "imgPath": "img/monsters/169.png",
     "name": {
       "en": "Platinum king jewel",
-      "es": "?Platinum king jewel",
+      "es": " king jewel",
       "fr": "Bijou royal en platine",
-      "jp": "?Bijou royal en platine"
+      "jp": "プラチナキング"
     },
     "type": "enemy",
     "phases": 1,
@@ -5244,9 +5190,9 @@
     "imgPath": "img/monsters/170.png",
     "name": {
       "en": "Cannibox",
-      "es": "?Cannibox",
+      "es": "",
       "fr": "Canniboîte",
-      "jp": "?Canniboîte"
+      "jp": "ひとくいばこ"
     },
     "type": "enemy",
     "phases": 1,
@@ -5273,9 +5219,9 @@
     "imgPath": "img/monsters/171.png",
     "name": {
       "en": "Mimic",
-      "es": "?Mimic",
+      "es": "",
       "fr": "Imitapeur",
-      "jp": "?Imitapeur"
+      "jp": "ミミック"
     },
     "type": "enemy",
     "phases": 1,
@@ -5308,9 +5254,9 @@
     "imgPath": "img/monsters/172.png",
     "name": {
       "en": "Pandora's box",
-      "es": "?Pandora's box",
+      "es": "'s box",
       "fr": "Boîte de Pandore",
-      "jp": "?Boîte de Pandore"
+      "jp": "パンドラボックス"
     },
     "type": "enemy",
     "phases": 1,
@@ -5337,9 +5283,9 @@
     "imgPath": "img/monsters/173.png",
     "name": {
       "en": "Scarewell",
-      "es": "?Scarewell",
+      "es": "",
       "fr": "Puisard",
-      "jp": "?Puisard"
+      "jp": "いどまねき"
     },
     "type": "enemy",
     "phases": 1,
@@ -5366,9 +5312,9 @@
     "imgPath": "img/monsters/174.png",
     "name": {
       "en": "Well wisher",
-      "es": "?Well wisher",
+      "es": " wisher",
       "fr": "Puits-sang",
-      "jp": "?Puits-sang"
+      "jp": "いどまじん"
     },
     "type": "enemy",
     "phases": 1,
@@ -5395,9 +5341,9 @@
     "imgPath": "img/monsters/175.png",
     "name": {
       "en": "Man o' war",
-      "es": "?Man o' war",
+      "es": " o' war",
       "fr": "Méduse",
-      "jp": "?Méduse"
+      "jp": "しびれくらげ"
     },
     "type": "enemy",
     "phases": 1,
@@ -5424,9 +5370,9 @@
     "imgPath": "img/monsters/176.png",
     "name": {
       "en": "Glugworm",
-      "es": "?Glugworm",
+      "es": "",
       "fr": "Ver mine",
-      "jp": "?Ver mine"
+      "jp": "マリンワーム"
     },
     "type": "enemy",
     "phases": 1,
@@ -5453,9 +5399,9 @@
     "imgPath": "img/monsters/177.png",
     "name": {
       "en": "Strangler fish",
-      "es": "?Strangler fish",
+      "es": " fish",
       "fr": "Saumonstrueux",
-      "jp": "?Saumonstrueux"
+      "jp": "ピラニアン"
     },
     "type": "enemy",
     "phases": 1,
@@ -5482,9 +5428,9 @@
     "imgPath": "img/monsters/178.png",
     "name": {
       "en": "Axolotl",
-      "es": "?Axolotl",
+      "es": "",
       "fr": "Axolotl",
-      "jp": "?Axolotl"
+      "jp": "マッドルーパー"
     },
     "type": "enemy",
     "phases": 1,
@@ -5511,9 +5457,9 @@
     "imgPath": "img/monsters/179.png",
     "name": {
       "en": "Preying manta",
-      "es": "?Preying manta",
+      "es": " manta",
       "fr": "Raie pulsive",
-      "jp": "?Raie pulsive"
+      "jp": "さつじんえい"
     },
     "type": "enemy",
     "phases": 1,
@@ -5540,9 +5486,9 @@
     "imgPath": "img/monsters/180.png",
     "name": {
       "en": "Barracuda",
-      "es": "?Barracuda",
+      "es": "",
       "fr": "Barracuda",
-      "jp": "?Barracuda"
+      "jp": "とつげきうお"
     },
     "type": "enemy",
     "phases": 1,
@@ -5569,9 +5515,9 @@
     "imgPath": "img/monsters/181.png",
     "name": {
       "en": "Pterygotus",
-      "es": "?Pterygotus",
+      "es": "",
       "fr": "Pterygotus",
-      "jp": "?Pterygotus"
+      "jp": "じごくのざりがに"
     },
     "type": "enemy",
     "phases": 1,
@@ -5598,9 +5544,9 @@
     "imgPath": "img/monsters/182.png",
     "name": {
       "en": "Devilfish",
-      "es": "?Devilfish",
+      "es": "",
       "fr": "Poulpotrompe",
-      "jp": "?Poulpotrompe"
+      "jp": "たこまじん"
     },
     "type": "enemy",
     "phases": 1,
@@ -5627,9 +5573,9 @@
     "imgPath": "img/monsters/183.png",
     "name": {
       "en": "Mangler fish",
-      "es": "?Mangler fish",
+      "es": " fish",
       "fr": "Rascrasse",
-      "jp": "?Rascrasse"
+      "jp": "しびれあんこう"
     },
     "type": "enemy",
     "phases": 1,
@@ -5656,9 +5602,9 @@
     "imgPath": "img/monsters/184.png",
     "name": {
       "en": "Maulrus",
-      "es": "?Maulrus",
+      "es": "",
       "fr": "Matamorse",
-      "jp": "?Matamorse"
+      "jp": "シーライオン"
     },
     "type": "enemy",
     "phases": 1,
@@ -5685,9 +5631,9 @@
     "imgPath": "img/monsters/185.png",
     "name": {
       "en": "Woolungasaurus",
-      "es": "?Woolungasaurus",
+      "es": "",
       "fr": "Elasmosaure",
-      "jp": "?Elasmosaure"
+      "jp": "くびながりゅう"
     },
     "type": "enemy",
     "phases": 1,
@@ -5714,9 +5660,9 @@
     "imgPath": "img/monsters/186.png",
     "name": {
       "en": "Sand viper",
-      "es": "?Sand viper",
+      "es": " viper",
       "fr": "Vipère des sables",
-      "jp": "?Vipère des sables"
+      "jp": "フルスネイカー"
     },
     "type": "enemy",
     "phases": 1,
@@ -5743,9 +5689,9 @@
     "imgPath": "img/monsters/187.png",
     "name": {
       "en": "Ultraviolent ray",
-      "es": "?Ultraviolent ray",
+      "es": " ray",
       "fr": "Massacraie",
-      "jp": "?Massacraie"
+      "jp": "シャークマンタ"
     },
     "type": "enemy",
     "phases": 1,
@@ -5772,9 +5718,9 @@
     "imgPath": "img/monsters/188.png",
     "name": {
       "en": "Terrornodon",
-      "es": "?Terrornodon",
+      "es": "",
       "fr": "Pterroridactyle",
-      "jp": "?Pterroridactyle"
+      "jp": "フライングデス"
     },
     "type": "enemy",
     "phases": 1,
@@ -5801,9 +5747,9 @@
     "imgPath": "img/monsters/189.png",
     "name": {
       "en": "Spinchilla",
-      "es": "?Spinchilla",
+      "es": "",
       "fr": "Glacyclone",
-      "jp": "?Glacyclone"
+      "jp": "うずしおキング"
     },
     "type": "enemy",
     "phases": 1,
@@ -5830,9 +5776,9 @@
     "imgPath": "img/monsters/190.png",
     "name": {
       "en": "Picuda",
-      "es": "?Picuda",
+      "es": "",
       "fr": "Mégacuda",
-      "jp": "?Mégacuda"
+      "jp": "バラクーダ"
     },
     "type": "enemy",
     "phases": 1,
@@ -5859,9 +5805,9 @@
     "imgPath": "img/monsters/191.png",
     "name": {
       "en": "Dangler fish",
-      "es": "?Dangler fish",
+      "es": " fish",
       "fr": "Charpiranha",
-      "jp": "?Charpiranha"
+      "jp": "エビルアングラー"
     },
     "type": "enemy",
     "phases": 1,
@@ -5888,9 +5834,9 @@
     "imgPath": "img/monsters/192.png",
     "name": {
       "en": "Octophant",
-      "es": "?Octophant",
+      "es": "",
       "fr": "Calaphant",
-      "jp": "?Calaphant"
+      "jp": "ダゴン"
     },
     "type": "enemy",
     "phases": 1,
@@ -5917,9 +5863,9 @@
     "imgPath": "img/monsters/193.png",
     "name": {
       "en": "Incineraytor",
-      "es": "?Incineraytor",
+      "es": "",
       "fr": "Incinéraiteur",
-      "jp": "?Incinéraiteur"
+      "jp": "レイギガース"
     },
     "type": "enemy",
     "phases": 1,
@@ -5946,9 +5892,9 @@
     "imgPath": "img/monsters/194.png",
     "name": {
       "en": "Tuskateer",
-      "es": "?Tuskateer",
+      "es": "",
       "fr": "Misamorse",
-      "jp": "?Misamorse"
+      "jp": "トドマン"
     },
     "type": "enemy",
     "phases": 1,
@@ -5975,9 +5921,9 @@
     "imgPath": "img/monsters/195.png",
     "name": {
       "en": "Psaro's Pawn",
-      "es": "?Psaro's Pawn",
+      "es": "'s Pawn",
       "fr": "Sbire de Psaro",
-      "jp": "?Sbire de Psaro"
+      "jp": "ピサロのてさき"
     },
     "type": "boss",
     "phases": 1,
@@ -6004,9 +5950,9 @@
     "imgPath": "img/monsters/196.png",
     "name": {
       "en": "Master Kung",
-      "es": "?Master Kung",
+      "es": " Kung",
       "fr": "Maître Kung",
-      "jp": "?Maître Kung"
+      "jp": "カメレオンマン"
     },
     "type": "boss",
     "phases": 1,
@@ -6033,9 +5979,9 @@
     "imgPath": "img/monsters/197.png",
     "name": {
       "en": "Abominable showman",
-      "es": "?Abominable showman",
+      "es": " showman",
       "fr": "Abominhomme des neiges",
-      "jp": "?Abominhomme des neiges"
+      "jp": "ベロリンマン"
     },
     "type": "boss",
     "phases": 1,
@@ -6062,9 +6008,9 @@
     "imgPath": "img/monsters/198.png",
     "name": {
       "en": "Balzack",
-      "es": "?Balzack",
+      "es": "",
       "fr": "Dickenz",
-      "jp": "?Dickenz"
+      "jp": "バルザック"
     },
     "type": "boss",
     "phases": 1,
@@ -6091,9 +6037,9 @@
     "imgPath": "img/monsters/199.png",
     "name": {
       "en": "Tricksy",
-      "es": "?Tricksy",
+      "es": "",
       "fr": "Angélus",
-      "jp": "?Angélus"
+      "jp": "うらぎりこぞう"
     },
     "type": "boss",
     "phases": 1,
@@ -6120,9 +6066,9 @@
     "imgPath": "img/monsters/200.png",
     "name": {
       "en": "Tigergram",
-      "es": "?Tigergram",
+      "es": "",
       "fr": "Tigroar",
-      "jp": "?Tigroar"
+      "jp": "とうだいタイガー"
     },
     "type": "boss",
     "phases": 1,
@@ -6149,9 +6095,9 @@
     "imgPath": "img/monsters/201.png",
     "name": {
       "en": "Marquis de Léon",
-      "es": "?Marquis de Léon",
+      "es": " de Léon",
       "fr": "Lord Lionel",
-      "jp": "?Lord Lionel"
+      "jp": "キングレオ"
     },
     "type": "boss",
     "phases": 1,
@@ -6178,9 +6124,9 @@
     "imgPath": "img/monsters/202.png",
     "name": {
       "en": "Baalzack",
-      "es": "?Baalzack",
+      "es": "",
       "fr": "Déickenz",
-      "jp": "?Déickenz"
+      "jp": "バルザック"
     },
     "type": "boss",
     "phases": 1,
@@ -6207,9 +6153,9 @@
     "imgPath": "img/monsters/203.png",
     "name": {
       "en": "Sir Roseguardin",
-      "es": "?Sir Roseguardin",
+      "es": " Roseguardin",
       "fr": "Sire Rosegarde",
-      "jp": "?Sire Rosegarde"
+      "jp": "ピサロナイト"
     },
     "type": "boss",
     "phases": 1,
@@ -6236,9 +6182,9 @@
     "imgPath": "img/monsters/204.png",
     "name": {
       "en": "Rashaverak",
-      "es": "?Rashaverak",
+      "es": "",
       "fr": "Rashaverak",
-      "jp": "?Rashaverak"
+      "jp": "アンドレアル"
     },
     "type": "boss",
     "phases": 1,
@@ -6265,9 +6211,9 @@
     "imgPath": "img/monsters/205.png",
     "name": {
       "en": "Pruslas",
-      "es": "?Pruslas",
+      "es": "",
       "fr": "Pruslas",
-      "jp": "?Pruslas"
+      "jp": "ギガデーモン"
     },
     "type": "boss",
     "phases": 1,
@@ -6294,9 +6240,9 @@
     "imgPath": "img/monsters/206.png",
     "name": {
       "en": "Barbatos",
-      "es": "?Barbatos",
+      "es": "",
       "fr": "Barbatos",
-      "jp": "?Barbatos"
+      "jp": "ヘルバトラー"
     },
     "type": "boss",
     "phases": 1,
@@ -6323,9 +6269,9 @@
     "imgPath": "img/monsters/207.png",
     "name": {
       "en": "Aamon",
-      "es": "?Aamon",
+      "es": "",
       "fr": "Aamon",
-      "jp": "?Aamon"
+      "jp": "エビルプリースト"
     },
     "type": "boss",
     "phases": 1,
@@ -6352,9 +6298,9 @@
     "imgPath": "img/monsters/208.png",
     "name": {
       "en": "Estark",
-      "es": "?Estark",
+      "es": "",
       "fr": "Estark",
-      "jp": "?Estark"
+      "jp": "エスターク"
     },
     "type": "boss",
     "phases": 1,
@@ -6381,9 +6327,9 @@
     "imgPath": "img/monsters/209.png",
     "name": {
       "en": "Foo Yung",
-      "es": "?Foo Yung",
+      "es": " Yung",
       "fr": "Cent-ans",
-      "jp": "?Cent-ans"
+      "jp": "エッグラ"
     },
     "type": "boss",
     "phases": 1,
@@ -6410,9 +6356,9 @@
     "imgPath": "img/monsters/210.png",
     "name": {
       "en": "Chow Mein",
-      "es": "?Chow Mein",
+      "es": " Mein",
       "fr": "Cinq-épices",
-      "jp": "?Cinq-épices"
+      "jp": "チキーラ"
     },
     "type": "boss",
     "phases": 1,
@@ -6447,9 +6393,9 @@
     },
     "name": {
       "en": "Psaro",
-      "es": "?Psaro",
+      "es": "",
       "fr": "Psaro",
-      "jp": "?Psaro"
+      "jp": "デスピサロ"
     },
     "type": "boss",
     "phases": 7,
@@ -6521,9 +6467,9 @@
     },
     "name": {
       "en": "Aamon",
-      "es": "?Aamon",
+      "es": "",
       "fr": "Aamon",
-      "jp": "?Aamon"
+      "jp": "究極エビルプリースト"
     },
     "type": "boss",
     "phases": 4,
