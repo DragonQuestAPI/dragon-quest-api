@@ -4,7 +4,7 @@
     "imgPath": "items/medicinal_herb.png",
     "name": {
       "en": "Medicinal herb",
-      "es": "?",
+      "es": "Planta medicinal",
       "fr": "Herbe médicinale",
       "jp": "やくそう"
     },
@@ -42,7 +42,7 @@
     "imgPath": "items/antidotal_herb.png",
     "name": {
       "en": "Antidotal herb",
-      "es": "?",
+      "es": "Planta de fierabrás",
       "fr": "Herbe curative",
       "jp": "どくけしそう"
     },
@@ -73,7 +73,7 @@
     "imgPath": "items/holy_water.png",
     "name": {
       "en": "Holy water",
-      "es": "?",
+      "es": "Agua bendita",
       "fr": "Fiole d'eau sacrée",
       "jp": "せいすい"
     },
@@ -100,7 +100,7 @@
     "imgPath": "items/chimaera_wing.png",
     "name": {
       "en": "Chimaera wing",
-      "es": "?",
+      "es": "Ala de quimera",
       "fr": "Aile de chimère",
       "jp": "キメラのつばさ"
     },
@@ -131,7 +131,7 @@
     "imgPath": "items/moonwort_bulb.png",
     "name": {
       "en": "Moonwort bulb",
-      "es": "?",
+      "es": "Bulbo lunar",
       "fr": "Botryche lunaire",
       "jp": "まんげつそう"
     },
@@ -152,7 +152,7 @@
     "imgPath": "items/musk.png",
     "name": {
       "en": "Musk",
-      "es": "?",
+      "es": "Bolsita de almizcle",
       "fr": "Sac de musc",
       "jp": "においぶくろ"
     },
@@ -173,7 +173,7 @@
     "imgPath": "items/seed_of_strength.png",
     "name": {
       "en": "Seed of strength",
-      "es": "?",
+      "es": "Simiente de fuerza",
       "fr": "Graine de force",
       "jp": "ちからのたね"
     },
@@ -214,7 +214,7 @@
     "imgPath": "items/seed_of_agility.png",
     "name": {
       "en": "Seed of agility",
-      "es": "?",
+      "es": "Simiente de agilidad",
       "fr": "Graine d'agilité",
       "jp": "すばやさのたね"
     },
@@ -249,7 +249,7 @@
     "imgPath": "items/seed_of_wisdom.png",
     "name": {
       "en": "Seed of wisdom",
-      "es": "?",
+      "es": "Simiente de sabiduría",
       "fr": "Graine de sagesse",
       "jp": "かしこさのたね"
     },
@@ -270,7 +270,7 @@
     "imgPath": "items/seed_of_resilience.png",
     "name": {
       "en": "Seed of resilience",
-      "es": "?",
+      "es": "Simiente de resistencia",
       "fr": "Graine de vitalité",
       "jp": "まもりのたね"
     },
@@ -297,7 +297,7 @@
     "imgPath": "items/seed_of_life.png",
     "name": {
       "en": "Seed of life",
-      "es": "?",
+      "es": "Simiente de vida",
       "fr": "Graine de vie",
       "jp": "いのちのきのみ"
     },
@@ -334,7 +334,7 @@
     "imgPath": "items/seed_of_magic.png",
     "name": {
       "en": "Seed of magic",
-      "es": "?",
+      "es": "Simiente de magia",
       "fr": "Graine de magie",
       "jp": "いのちのきのみ"
     },
@@ -371,7 +371,7 @@
     "imgPath": "items/magic_water.png",
     "name": {
       "en": "Magic water",
-      "es": "?",
+      "es": "Agua mágica",
       "fr": "Fiole d'eau magique",
       "jp": "まほうのせいすい"
     },
@@ -398,7 +398,7 @@
     "imgPath": "items/ras_mirror.png",
     "name": {
       "en": "Ra's mirror",
-      "es": "?",
+      "es": "Espejo de Ra",
       "fr": "Miroir de Râ",
       "jp": "ラーのかがみ"
     },
@@ -446,7 +446,7 @@
     "imgPath": "items/horse_manure.png",
     "name": {
       "en": "Horse manure",
-      "es": "?",
+      "es": "Boñiga de caballo",
       "fr": "Crottin de cheval",
       "jp": "うまのふん"
     },
@@ -473,7 +473,7 @@
     "imgPath": "items/yggdrasil_leaf.png",
     "name": {
       "en": "Yggdrasil leaf",
-      "es": "?",
+      "es": "Hoja de Yggdrasil",
       "fr": "Feuille d'Yggdrasil",
       "jp": "せかいじゅのは"
     },
@@ -494,7 +494,7 @@
     "imgPath": "items/yggdrasil_dew.png",
     "name": {
       "en": "Yggdrasil dew",
-      "es": "?",
+      "es": "Rocío de Yggdrasil",
       "fr": "Rosée d'Yggdrasil",
       "jp": "せかいじゅのしずく"
     },
@@ -536,7 +536,7 @@
     "imgPath": "items/sands_of_time.png",
     "name": {
       "en": "Sands of time",
-      "es": "?",
+      "es": "Arenas del tiempo",
       "fr": "Sables du temps",
       "jp": "ときのすな"
     },
@@ -557,7 +557,7 @@
     "imgPath": "items/sages_stone.png",
     "name": {
       "en": "Sage's stone",
-      "es": "?",
+      "es": "Piedra de sabio",
       "fr": "Pierre philosophale",
       "jp": "けんじゃのいし"
     },
