@@ -4,7 +4,7 @@
     "imgPath": "items/medicinal_herb.png",
     "name": {
       "en": "Medicinal herb",
-      "es": "?",
+      "es": "Planta medicinal",
       "fr": "Herbe médicinale",
       "jp": "やくそう"
     },
@@ -14,7 +14,7 @@
     },
     "description": {
       "en": "Heals a small amount of damage",
-      "es": "?",
+      "es": "Hierbas que restablecen algunos PV de un miembro del grupo.",
       "fr": "Restaure une petite partie des PV d'un membre de l'équipe",
       "jp": "回复30~40点HP"
     },
@@ -42,7 +42,7 @@
     "imgPath": "items/antidotal_herb.png",
     "name": {
       "en": "Antidotal herb",
-      "es": "?",
+      "es": "Planta de Fierabrás",
       "fr": "Herbe curative",
       "jp": "どくけしそう"
     },
@@ -52,7 +52,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Pueden curar el envenenamiento a un miembro del grupo.",
       "fr": "Peut guérir un membre de l'équipe empoisonné",
       "jp": "解毒"
     },
@@ -73,7 +73,7 @@
     "imgPath": "items/holy_water.png",
     "name": {
       "en": "Holy water",
-      "es": "?",
+      "es": "Agua bendita",
       "fr": "Fiole d'eau sacrée",
       "jp": "せいすい"
     },
@@ -83,7 +83,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Agua que protege un tiempo contra los enemigos más débiles.",
       "fr": "Éloigne les ennemis les plus faibles pendant un moment",
       "jp": "平常使用弱小敌人不出现一段时间 战斗使用可令敌人受伤"
     },
@@ -100,7 +100,7 @@
     "imgPath": "items/chimaera_wing.png",
     "name": {
       "en": "Chimaera wing",
-      "es": "?",
+      "es": "Ala de quimera",
       "fr": "Aile de chimère",
       "jp": "キメラのつばさ"
     },
@@ -110,7 +110,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Se puede utilizar para volver a cualquier lugar ya visitado.",
       "fr": "Permet de retourner dans tous les lieux déjà visités",
       "jp": "瞬间返回已知城镇"
     },
@@ -131,7 +131,7 @@
     "imgPath": "items/moonwort_bulb.png",
     "name": {
       "en": "Moonwort bulb",
-      "es": "?",
+      "es": "Bulbo lunar",
       "fr": "Botryche lunaire",
       "jp": "まんげつそう"
     },
@@ -141,7 +141,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Esta raís lunar puede curar la parálisis a un miembro del grupo.",
       "fr": "Cette racine peut guérir un membre de l'équipe de sa paralysie",
       "jp": "解麻痹"
     },
@@ -152,7 +152,7 @@
     "imgPath": "items/musk.png",
     "name": {
       "en": "Musk",
-      "es": "?",
+      "es": "Bolsita de almizcle",
       "fr": "Sac de musc",
       "jp": "においぶくろ"
     },
@@ -162,7 +162,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Su aroma atrae a los monstruos un rato hasta que se agota.",
       "fr": "Son odeur attirera les monstres jusqu'à ce qu'elle se dissipe",
       "jp": "敌人遭遇率升高"
     },
@@ -173,7 +173,7 @@
     "imgPath": "items/seed_of_strength.png",
     "name": {
       "en": "Seed of strength",
-      "es": "?",
+      "es": "Simiente de fuerza",
       "fr": "Graine de force",
       "jp": "ちからのたね"
     },
@@ -183,7 +183,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Aumentará la fuerza del miembro del grupo que se la coma.",
       "fr": "Le membre de l'équipe qui la mange voit sa force augmenter",
       "jp": "力量增加1~3点"
     },
@@ -214,7 +214,7 @@
     "imgPath": "items/seed_of_agility.png",
     "name": {
       "en": "Seed of agility",
-      "es": "?",
+      "es": "Simiente de agilidad",
       "fr": "Graine d'agilité",
       "jp": "すばやさのたね"
     },
@@ -224,7 +224,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Aumentará la agilidad del miembro del grupo que se la coma.",
       "fr": "Le membre de l'équipe qui la mange voit son agilité augmenter",
       "jp": "速度增加1~2点"
     },
@@ -249,7 +249,7 @@
     "imgPath": "items/seed_of_wisdom.png",
     "name": {
       "en": "Seed of wisdom",
-      "es": "?",
+      "es": "Simiente de saber",
       "fr": "Graine de sagesse",
       "jp": "かしこさのたね"
     },
@@ -259,7 +259,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Aumentará la sabiduría del miembro del grupo que se la coma.",
       "fr": "Le membre de l'équipe qui la mange voit sa sagesse augmenter",
       "jp": "智慧增加1~3点"
     },
@@ -270,7 +270,7 @@
     "imgPath": "items/seed_of_resilience.png",
     "name": {
       "en": "Seed of resilience",
-      "es": "?",
+      "es": "Simiente de resistencia",
       "fr": "Graine de vitalité",
       "jp": "まもりのたね"
     },
@@ -280,7 +280,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Aumentará la resistencia del miembro del grupo que se la coma.",
       "fr": "Le membre de l'équipe qui la mange voit sa vitalité augmenter",
       "jp": "防御增加1~3点"
     },
@@ -297,7 +297,7 @@
     "imgPath": "items/seed_of_life.png",
     "name": {
       "en": "Seed of life",
-      "es": "?",
+      "es": "Simiente de vida",
       "fr": "Graine de vie",
       "jp": "いのちのきのみ"
     },
@@ -307,7 +307,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Aumentará los PV máximos del miembro del grupo que se la coma.",
       "fr": "Le membre de l'équipe qui la mange augmente son maximum de PV",
       "jp": "HP最大值增加4~6点"
     },
@@ -334,7 +334,7 @@
     "imgPath": "items/seed_of_magic.png",
     "name": {
       "en": "Seed of magic",
-      "es": "?",
+      "es": "Simiente de magia",
       "fr": "Graine de magie",
       "jp": "いのちのきのみ"
     },
@@ -344,7 +344,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Aumentará el PM máximo del miembro del grupo que se la coma.",
       "fr": "Le membre de l'équipe qui la mange augmente son maximum de PM",
       "jp": "MP最大值增加3~5点"
     },
@@ -371,7 +371,7 @@
     "imgPath": "items/magic_water.png",
     "name": {
       "en": "Magic water",
-      "es": "?",
+      "es": "Agua mágica",
       "fr": "Fiole d'eau magique",
       "jp": "まほうのせいすい"
     },
@@ -381,7 +381,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Recupera parte del PM de un miembro del grupo.",
       "fr": "Restaure une petite partie des PM d'un membre de l'équipe",
       "jp": "回复30~35点MP"
     },
@@ -398,7 +398,7 @@
     "imgPath": "items/ras_mirror.png",
     "name": {
       "en": "Ra's mirror",
-      "es": "?",
+      "es": "Espejo de Ra",
       "fr": "Miroir de Râ",
       "jp": "ラーのかがみ"
     },
@@ -408,7 +408,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Este espejo legendario refleja siempre la verdad.",
       "fr": "Ce miroir légendaire reflète toujours la vérité",
       "jp": "战斗中使用使モシャス咒文无效"
     },
@@ -419,7 +419,7 @@
     "imgPath": "items/packed_lunch.png",
     "name": {
       "en": "Packed lunch",
-      "es": "?",
+      "es": "Almuerzo",
       "fr": "Panier-repas",
       "jp": "おべんとう"
     },
@@ -429,7 +429,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Una forma deliciosa de recuperar parte de los PV.",
       "fr": "Une manière délicieuse de récupérer quelques PV",
       "jp": "回复30~40点HP"
     },
@@ -446,7 +446,7 @@
     "imgPath": "items/horse_manure.png",
     "name": {
       "en": "Horse manure",
-      "es": "?",
+      "es": "Boñiga de caballo",
       "fr": "Crottin de cheval",
       "jp": "うまのふん"
     },
@@ -456,7 +456,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "¡Puaj! ¡Eso apesta!",
       "fr": "Pouah! Quelle odeur!",
       "jp": "用途不明 狐狸村的やくそう其实是うまのふん"
     },
@@ -473,7 +473,7 @@
     "imgPath": "items/yggdrasil_leaf.png",
     "name": {
       "en": "Yggdrasil leaf",
-      "es": "?",
+      "es": "Hoja de Yggdrasil",
       "fr": "Feuille d'Yggdrasil",
       "jp": "せかいじゅのは"
     },
@@ -483,7 +483,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Hoja mágica capaz de resucitar a un miembro del grupo.",
       "fr": "Cette feuille magique peut ressuciter un membre de l'équipe",
       "jp": "我方一人复活并HP完全回复"
     },
@@ -494,7 +494,7 @@
     "imgPath": "items/yggdrasil_dew.png",
     "name": {
       "en": "Yggdrasil dew",
-      "es": "?",
+      "es": "Rocío de Yggdrasil",
       "fr": "Rosée d'Yggdrasil",
       "jp": "せかいじゅのしずく"
     },
@@ -504,7 +504,7 @@
     },
     "description": {
       "en": "?",
-      "es": "?",
+      "es": "Rocío que puede recuperar por completo los PV del grupo.",
       "fr": "Permet de restaurer intégralement les PV de toute l'équipe",
       "jp": "?"
     },
@@ -515,7 +515,7 @@
     "imgPath": "items/mini_medal.png",
     "name": {
       "en": "Mini medal",
-      "es": "?",
+      "es": "Minimedalla",
       "fr": "Mini médaille",
       "jp": "ちいさなメダル"
     },

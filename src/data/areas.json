@@ -43,7 +43,7 @@
   {
     "name": {
       "en": "Strathbaile Burrow",
-      "es": "Torre de Candonga",
+      "es": "Madriguera de Candonga",
       "fr": "Grotte de Strattbourg",
       "jp": "イムル"
     },
@@ -62,20 +62,20 @@
   },
   {
     "name": {
-      "en": "Auld Well",
-      "es": "?",
+      "en": "Auld well",
+      "es": "Pozo del bosque",
       "fr": "Aire de jeu",
       "jp": "?"
     },
-    "map": "img/maps/strathbaile.png",
+    "map": null,
     "type": "dungeon"
   },
   {
     "name": {
-      "en": "Straithbaile Tower",
-      "es": "?",
+      "en": "Loch Tur",
+      "es": "Torre de Candonga",
       "fr": "Tour de Strattbourg",
-      "jp": "?"
+      "jp": "湖の塔"
     },
     "map": null,
     "type": "dungeon"
