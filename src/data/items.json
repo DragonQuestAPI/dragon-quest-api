@@ -249,7 +249,7 @@
     "imgPath": "items/seed_of_wisdom.png",
     "name": {
       "en": "Seed of wisdom",
-      "es": "Simiente de saber",
+      "es": "Simiente de sabiduría",
       "fr": "Graine de sagesse",
       "jp": "かしこさのたね"
     },
@@ -536,7 +536,7 @@
     "imgPath": "items/sands_of_time.png",
     "name": {
       "en": "Sands of time",
-      "es": "?",
+      "es": "Arenas del tiempo",
       "fr": "Sables du temps",
       "jp": "ときのすな"
     },
@@ -557,7 +557,7 @@
     "imgPath": "items/sages_stone.png",
     "name": {
       "en": "Sage's stone",
-      "es": "?",
+      "es": "Piedra de sabio",
       "fr": "Pierre philosophale",
       "jp": "けんじゃのいし"
     },
