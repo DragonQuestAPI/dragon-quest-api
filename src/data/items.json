@@ -1,7 +1,6 @@
 [
   {
-    "id": 1,
-    "imgPath": "items/medicinal_herb.png",
+    "sprite": "items_sprites/medicinal_herb.png",
     "name": {
       "en": "Medicinal herb",
       "es": "Planta medicinal",
@@ -14,35 +13,36 @@
     },
     "description": {
       "en": "Heals a small amount of damage",
-      "es": "Hierbas que restablecen algunos PV de un miembro del grupo.",
+      "es": "",
       "fr": "Restaure une petite partie des PV d'un membre de l'équipe",
       "jp": "回复30~40点HP"
     },
     "zone": [
-      "Prologue",
-      "Bastione",
-      "Grotte de Bastionne",
-      "Grotte aire de jeu",
-      "Zamoksva",
-      "Bazar du désert",
-      "Lakanaba",
-      "Village des animaux",
-      "Ballimore",
-      "Chandor",
-      "Teafortwo",
-      "Deadend",
-      "Palais de Lord Lionel",
-      "Port Lionel",
-      "Mine d'Alpion",
+      "prologue",
+      "bastione",
+      "grotte de bastionne",
+      "grotte aire de jeu",
+      "zamoksva",
+      "bazar du désert",
+      "lakanaba",
+      "village des animaux",
+      "ballimore",
+      "chandor",
+      "teafortwo",
+      "deadend",
+      "palais de lord lionel",
+      "port lionel",
+      "mine d'alpion",
       "etc."
-    ]
+    ],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 2,
-    "imgPath": "items/antidotal_herb.png",
+    "sprite": "items_sprites/antidotal_herb.png",
     "name": {
       "en": "Antidotal herb",
-      "es": "Planta de Fierabrás",
+      "es": "Planta de fierabrás",
       "fr": "Herbe curative",
       "jp": "どくけしそう"
     },
@@ -51,26 +51,27 @@
       "sell": 7
     },
     "description": {
-      "en": "?",
-      "es": "Pueden curar el envenenamiento a un miembro del grupo.",
+      "en": "",
+      "es": "",
       "fr": "Peut guérir un membre de l'équipe empoisonné",
       "jp": "解毒"
     },
     "zone": [
-      "Prologue",
-      "Taborov",
-      "Vrenor",
-      "Chandor",
-      "Lakanaba",
-      "Grotte de Chandor",
-      "Maison de Hank Hoffman junior",
-      "Bourg-les-bains",
+      "prologue",
+      "taborov",
+      "vrenor",
+      "chandor",
+      "lakanaba",
+      "grotte de chandor",
+      "maison de hank hoffman junior",
+      "bourg-les-bains",
       "etc."
-    ]
+    ],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 3,
-    "imgPath": "items/holy_water.png",
+    "sprite": "items_sprites/holy_water.png",
     "name": {
       "en": "Holy water",
       "es": "Agua bendita",
@@ -82,22 +83,23 @@
       "sell": 15
     },
     "description": {
-      "en": "?",
-      "es": "Agua que protege un tiempo contra los enemigos más débiles.",
+      "en": "",
+      "es": "",
       "fr": "Éloigne les ennemis les plus faibles pendant un moment",
       "jp": "平常使用弱小敌人不出现一段时间 战斗使用可令敌人受伤"
     },
     "zone": [
-      "Zamoksva",
-      "Chandor",
-      "Mine d'Alpion",
-      "Port-Carène",
-      "Grotte de Fémiscyra"
-    ]
+      "zamoksva",
+      "chandor",
+      "mine d'alpion",
+      "port-carène",
+      "grotte de fémiscyra"
+    ],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 4,
-    "imgPath": "items/chimaera_wing.png",
+    "sprite": "items_sprites/chimaera_wing.png",
     "name": {
       "en": "Chimaera wing",
       "es": "Ala de quimera",
@@ -109,26 +111,27 @@
       "sell": 18
     },
     "description": {
-      "en": "?",
-      "es": "Se puede utilizar para volver a cualquier lugar ya visitado.",
+      "en": "",
+      "es": "",
       "fr": "Permet de retourner dans tous les lieux déjà visités",
       "jp": "瞬间返回已知城镇"
     },
     "zone": [
-      "Tour de Strattbourg",
-      "Zamoksva",
-      "Vrenor",
-      "Chandor",
-      "Lakanaba",
-      "Grotte de Chandor",
-      "Maison de Hank Hoffman junior",
-      "Bourg-les-bains",
+      "tour de strattbourg",
+      "zamoksva",
+      "vrenor",
+      "chandor",
+      "lakanaba",
+      "grotte de chandor",
+      "maison de hank hoffman junior",
+      "bourg-les-bains",
       "etc."
-    ]
+    ],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 5,
-    "imgPath": "items/moonwort_bulb.png",
+    "sprite": "items_sprites/moonwort_bulb.png",
     "name": {
       "en": "Moonwort bulb",
       "es": "Bulbo lunar",
@@ -140,16 +143,17 @@
       "sell": 22
     },
     "description": {
-      "en": "?",
-      "es": "Esta raís lunar puede curar la parálisis a un miembro del grupo.",
+      "en": "",
+      "es": "",
       "fr": "Cette racine peut guérir un membre de l'équipe de sa paralysie",
       "jp": "解麻痹"
     },
-    "zone": ["Phare de Port-Carène", "Ringys", "Estuaria"]
+    "zone": ["phare de port-carène", "ringys", "estuaria"],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 6,
-    "imgPath": "items/musk.png",
+    "sprite": "items_sprites/musk.png",
     "name": {
       "en": "Musk",
       "es": "Bolsita de almizcle",
@@ -161,16 +165,17 @@
       "sell": 112
     },
     "description": {
-      "en": "?",
-      "es": "Su aroma atrae a los monstruos un rato hasta que se agota.",
+      "en": "",
+      "es": "",
       "fr": "Son odeur attirera les monstres jusqu'à ce qu'elle se dissipe",
       "jp": "敌人遭遇率升高"
     },
-    "zone": ["Rosecolline"]
+    "zone": ["rosecolline"],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 7,
-    "imgPath": "items/seed_of_strength.png",
+    "sprite": "items_sprites/seed_of_strength.png",
     "name": {
       "en": "Seed of strength",
       "es": "Simiente de fuerza",
@@ -182,36 +187,37 @@
       "sell": 90
     },
     "description": {
-      "en": "?",
-      "es": "Aumentará la fuerza del miembro del grupo que se la coma.",
+      "en": "",
+      "es": "",
       "fr": "Le membre de l'équipe qui la mange voit sa force augmenter",
       "jp": "力量增加1~3点"
     },
     "zone": [
-      "Prologue",
-      "Tour de Strattbourg",
-      "Bazar du désert",
-      "Tour du nectar de rossignol",
-      "Teafortwo",
-      "Palais de Lord Lionel",
-      "Bourg-les-bains",
-      "Port-Carène",
-      "Phare de Port-Carène",
-      "Zamoksva",
-      "Canalot",
-      "Grotte de Fémiscyra",
-      "Chandor",
-      "Port Lionel",
-      "Bastione",
-      "Mine d'Alpion",
-      "Tour du Zénith",
-      "Tour des ténèbres",
-      "Ville itinérante (Étape 3)"
-    ]
+      "prologue",
+      "tour de strattbourg",
+      "bazar du désert",
+      "tour du nectar de rossignol",
+      "teafortwo",
+      "palais de lord lionel",
+      "bourg-les-bains",
+      "port-carène",
+      "phare de port-carène",
+      "zamoksva",
+      "canalot",
+      "grotte de fémiscyra",
+      "chandor",
+      "port lionel",
+      "bastione",
+      "mine d'alpion",
+      "tour du zénith",
+      "tour des ténèbres",
+      "ville itinérante (étape 3)"
+    ],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 8,
-    "imgPath": "items/seed_of_agility.png",
+    "sprite": "items_sprites/seed_of_agility.png",
     "name": {
       "en": "Seed of agility",
       "es": "Simiente de agilidad",
@@ -223,30 +229,31 @@
       "sell": 67
     },
     "description": {
-      "en": "?",
-      "es": "Aumentará la agilidad del miembro del grupo que se la coma.",
+      "en": "",
+      "es": "",
       "fr": "Le membre de l'équipe qui la mange voit son agilité augmenter",
       "jp": "速度增加1~2点"
     },
     "zone": [
-      "Grotte aire de jeu",
-      "Taborov",
-      "Vrenor",
-      "Bazar du désert",
-      "Bourg-les-bains",
-      "Grotte de Parthénia",
-      "Fémiscyra",
-      "Bastione",
-      "Colosse de pierre",
-      "Mine d'Alpion",
-      "Tour des ténèbres",
-      "Donjon d'Azimut",
-      "Ville itinérante (Étape 5)"
-    ]
+      "grotte aire de jeu",
+      "taborov",
+      "vrenor",
+      "bazar du désert",
+      "bourg-les-bains",
+      "grotte de parthénia",
+      "fémiscyra",
+      "bastione",
+      "colosse de pierre",
+      "mine d'alpion",
+      "tour des ténèbres",
+      "donjon d'azimut",
+      "ville itinérante (étape 5)"
+    ],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 9,
-    "imgPath": "items/seed_of_wisdom.png",
+    "sprite": "items_sprites/seed_of_wisdom.png",
     "name": {
       "en": "Seed of wisdom",
       "es": "Simiente de sabiduría",
@@ -258,16 +265,17 @@
       "sell": 60
     },
     "description": {
-      "en": "?",
-      "es": "Aumentará la sabiduría del miembro del grupo que se la coma.",
+      "en": "",
+      "es": "",
       "fr": "Le membre de l'équipe qui la mange voit sa sagesse augmenter",
       "jp": "智慧增加1~3点"
     },
-    "zone": ["Ringys", "Fémiscyra", "Ville itinérante (Étape 4)"]
+    "zone": ["ringys", "fémiscyra", "ville itinérante (étape 4)"],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 10,
-    "imgPath": "items/seed_of_resilience.png",
+    "sprite": "items_sprites/seed_of_resilience.png",
     "name": {
       "en": "Seed of resilience",
       "es": "Simiente de resistencia",
@@ -279,22 +287,23 @@
       "sell": 52
     },
     "description": {
-      "en": "?",
-      "es": "Aumentará la resistencia del miembro del grupo que se la coma.",
+      "en": "",
+      "es": "",
       "fr": "Le membre de l'équipe qui la mange voit sa vitalité augmenter",
       "jp": "防御增加1~3点"
     },
     "zone": [
-      "Tour de Strattbourg",
-      "Chandor",
-      "Phare de Port-Carène",
-      "Ringys",
-      "Grotte de Fémiscyra"
-    ]
+      "tour de strattbourg",
+      "chandor",
+      "phare de port-carène",
+      "ringys",
+      "grotte de fémiscyra"
+    ],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 11,
-    "imgPath": "items/seed_of_life.png",
+    "sprite": "items_sprites/seed_of_life.png",
     "name": {
       "en": "Seed of life",
       "es": "Simiente de vida",
@@ -306,32 +315,33 @@
       "sell": 187
     },
     "description": {
-      "en": "?",
-      "es": "Aumentará los PV máximos del miembro del grupo que se la coma.",
+      "en": "",
+      "es": "",
       "fr": "Le membre de l'équipe qui la mange augmente son maximum de PV",
       "jp": "HP最大值增加4~6点"
     },
     "zone": [
-      "Grotte aire de jeu",
-      "Taborov",
-      "Chandor",
-      "Ballimore",
-      "Deadend",
-      "Grotte de Deadend",
-      "Mine d'Alpion",
-      "Cabane du bûcheron",
-      "Grotte de Parthénia",
-      "Bastione",
-      "Ballimore",
-      "Estuaria",
-      "Tour des ténèbres",
-      "Donjon d'Azimut",
-      "Ville itinérante (Étape 3)"
-    ]
+      "grotte aire de jeu",
+      "taborov",
+      "chandor",
+      "ballimore",
+      "deadend",
+      "grotte de deadend",
+      "mine d'alpion",
+      "cabane du bûcheron",
+      "grotte de parthénia",
+      "bastione",
+      "ballimore",
+      "estuaria",
+      "tour des ténèbres",
+      "donjon d'azimut",
+      "ville itinérante (étape 3)"
+    ],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 12,
-    "imgPath": "items/seed_of_magic.png",
+    "sprite": "items_sprites/seed_of_magic.png",
     "name": {
       "en": "Seed of magic",
       "es": "Simiente de magia",
@@ -343,32 +353,33 @@
       "sell": 412
     },
     "description": {
-      "en": "?",
-      "es": "Aumentará el PM máximo del miembro del grupo que se la coma.",
+      "en": "",
+      "es": "",
       "fr": "Le membre de l'équipe qui la mange augmente son maximum de PM",
       "jp": "MP最大值增加3~5点"
     },
     "zone": [
-      "Zamoksva",
-      "Vrenor",
-      "Deadend",
-      "Mine d'Alpion",
-      "Bâteau de Port Lionel",
-      "Parthénia",
-      "Grotte de Deadend",
-      "Rosecolline",
-      "Ballimore",
-      "Palais du démon",
-      "Tour des ténèbres",
-      "Donjon d'Azimut",
-      "Ville itinérante (Étape 2)",
-      "Ville itinérante (Étape 3)",
-      "Ville itinérante (Étape 4)"
-    ]
+      "zamoksva",
+      "vrenor",
+      "deadend",
+      "mine d'alpion",
+      "bâteau de port lionel",
+      "parthénia",
+      "grotte de deadend",
+      "rosecolline",
+      "ballimore",
+      "palais du démon",
+      "tour des ténèbres",
+      "donjon d'azimut",
+      "ville itinérante (étape 2)",
+      "ville itinérante (étape 3)",
+      "ville itinérante (étape 4)"
+    ],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 13,
-    "imgPath": "items/magic_water.png",
+    "sprite": "items_sprites/magic_water.png",
     "name": {
       "en": "Magic water",
       "es": "Agua mágica",
@@ -380,22 +391,23 @@
       "sell": 22
     },
     "description": {
-      "en": "?",
-      "es": "Recupera parte del PM de un miembro del grupo.",
+      "en": "",
+      "es": "",
       "fr": "Restaure une petite partie des PM d'un membre de l'équipe",
       "jp": "回复30~35点MP"
     },
     "zone": [
-      "Grotte de Vrenor",
-      "Phare de Port-Carène",
-      "Canalot",
-      "Mine d'Alpion",
-      "Ville itinérante (Étape 3)"
-    ]
+      "grotte de vrenor",
+      "phare de port-carène",
+      "canalot",
+      "mine d'alpion",
+      "ville itinérante (étape 3)"
+    ],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 14,
-    "imgPath": "items/ras_mirror.png",
+    "sprite": "items_sprites/ras_mirror.png",
     "name": {
       "en": "Ra's mirror",
       "es": "Espejo de Ra",
@@ -407,16 +419,17 @@
       "sell": null
     },
     "description": {
-      "en": "?",
-      "es": "Este espejo legendario refleja siempre la verdad.",
+      "en": "",
+      "es": "",
       "fr": "Ce miroir légendaire reflète toujours la vérité",
       "jp": "战斗中使用使モシャス咒文无效"
     },
-    "zone": ["Casino"]
+    "zone": ["casino"],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 15,
-    "imgPath": "items/packed_lunch.png",
+    "sprite": "items_sprites/packed_lunch.png",
     "name": {
       "en": "Packed lunch",
       "es": "Almuerzo",
@@ -428,22 +441,23 @@
       "sell": 7
     },
     "description": {
-      "en": "?",
-      "es": "Una forma deliciosa de recuperar parte de los PV.",
+      "en": "",
+      "es": "",
       "fr": "Une manière délicieuse de récupérer quelques PV",
       "jp": "回复30~40点HP"
     },
     "zone": [
-      "Lakanaba",
-      "Chandor",
-      "Village du héros",
-      "Maison de Hank Hoffman junior",
-      "Ville itinérante (Phase 4)"
-    ]
+      "lakanaba",
+      "chandor",
+      "village du héros",
+      "maison de hank hoffman junior",
+      "ville itinérante (phase 4)"
+    ],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 16,
-    "imgPath": "items/horse_manure.png",
+    "sprite": "items_sprites/horse_manure.png",
     "name": {
       "en": "Horse manure",
       "es": "Boñiga de caballo",
@@ -455,22 +469,23 @@
       "sell": 1
     },
     "description": {
-      "en": "?",
-      "es": "¡Puaj! ¡Eso apesta!",
+      "en": "",
+      "es": "",
       "fr": "Pouah! Quelle odeur!",
       "jp": "用途不明 狐狸村的やくそう其实是うまのふん"
     },
     "zone": [
-      "Bazar du désert",
-      "Village des animaux",
-      "Ballimore",
-      "Donjon d'Azimut",
-      "Ville itinérante (Étape 4)"
-    ]
+      "bazar du désert",
+      "village des animaux",
+      "ballimore",
+      "donjon d'azimut",
+      "ville itinérante (étape 4)"
+    ],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 17,
-    "imgPath": "items/yggdrasil_leaf.png",
+    "sprite": "items_sprites/yggdrasil_leaf.png",
     "name": {
       "en": "Yggdrasil leaf",
       "es": "Hoja de Yggdrasil",
@@ -482,16 +497,17 @@
       "sell": null
     },
     "description": {
-      "en": "?",
-      "es": "Hoja mágica capaz de resucitar a un miembro del grupo.",
+      "en": "",
+      "es": "",
       "fr": "Cette feuille magique peut ressuciter un membre de l'équipe",
       "jp": "我方一人复活并HP完全回复"
     },
-    "zone": ["El forado", "Château des ténèbres", "Donjon d'Azimut"]
+    "zone": ["el forado", "château des ténèbres", "donjon d'azimut"],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 18,
-    "imgPath": "items/yggdrasil_dew.png",
+    "sprite": "items_sprites/yggdrasil_dew.png",
     "name": {
       "en": "Yggdrasil dew",
       "es": "Rocío de Yggdrasil",
@@ -503,16 +519,17 @@
       "sell": null
     },
     "description": {
-      "en": "?",
-      "es": "Rocío que puede recuperar por completo los PV del grupo.",
+      "en": "",
+      "es": "",
       "fr": "Permet de restaurer intégralement les PV de toute l'équipe",
-      "jp": "?"
+      "jp": ""
     },
-    "zone": ["El forado", "Tour du Zénith", "Zénithia"]
+    "zone": ["el forado", "tour du zénith", "zénithia"],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 19,
-    "imgPath": "items/mini_medal.png",
+    "sprite": "items_sprites/mini_medal.png",
     "name": {
       "en": "Mini medal",
       "es": "Minimedalla",
@@ -524,16 +541,17 @@
       "sell": null
     },
     "description": {
-      "en": "?",
-      "es": "?",
+      "en": "",
+      "es": "",
       "fr": "Apparemment, quelqu'un en fait la collection …",
-      "jp": "?"
+      "jp": ""
     },
-    "zone": ["Partout"]
+    "zone": ["partout"],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 20,
-    "imgPath": "items/sands_of_time.png",
+    "sprite": "items_sprites/sands_of_time.png",
     "name": {
       "en": "Sands of time",
       "es": "Arenas del tiempo",
@@ -545,16 +563,17 @@
       "sell": null
     },
     "description": {
-      "en": "?",
-      "es": "?",
+      "en": "",
+      "es": "",
       "fr": "Au combat, ils peuvent inverser le cour du temps",
-      "jp": "?"
+      "jp": ""
     },
-    "zone": ["Grotte de Rosecolline"]
+    "zone": ["grotte de rosecolline"],
+    "type": "normal",
+    "slug": "slug"
   },
   {
-    "id": 21,
-    "imgPath": "items/sages_stone.png",
+    "sprite": "items_sprites/sages_stone.png",
     "name": {
       "en": "Sage's stone",
       "es": "Piedra de sabio",
@@ -566,11 +585,585 @@
       "sell": null
     },
     "description": {
-      "en": "?",
-      "es": "?",
+      "en": "",
+      "es": "",
       "fr": "Au combat, rend quelques PV à chaque membre de l'équipe",
-      "jp": "?"
+      "jp": ""
     },
-    "zone": ["Château des ténèbres"]
+    "zone": ["château des ténèbres"],
+    "type": "normal",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/talaria.png",
+    "name": {
+      "en": "Talaria",
+      "es": "Sandalias aladas",
+      "fr": "Chaussures ailées",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Des ailes sont fixés sur ces drôles de chaussures!",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/armlet_of_transmutation.png",
+    "name": {
+      "en": "Armlet of transmutation",
+      "es": "Brazalete de transmutación",
+      "fr": "Brassard étincelant",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "La lumière joue sur ce mystérieux brassard doré",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/thiefs_key.png",
+    "name": {
+      "en": "Thief's key",
+      "es": "Llave del ladrón",
+      "fr": "Clef de voleur",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Cette clef peut ouvrir des serrures simples",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/img?.png",
+    "name": {
+      "en": "",
+      "es": "Néctar de piar",
+      "fr": "Nectar du rossignol",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Sa texture veloutée donne une voix mélodieuse",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/img?.png",
+    "name": {
+      "en": "",
+      "es": "",
+      "fr": "Coffre-fort de fer",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Protège l'or de l'équipe, même si celle-ci se fait décimer",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/img?.png",
+    "name": {
+      "en": "",
+      "es": "",
+      "fr": "Lettre du prince",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Une lettre écrite de la main du prince Réginald",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/img?.png",
+    "name": {
+      "en": "",
+      "es": "Pergamino real",
+      "fr": "Parchemin royal",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Une correspondante du roi Norbert de Chandor",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/img?.png",
+    "name": {
+      "en": "",
+      "es": "",
+      "fr": "Statuette en argent",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Une statuette de la Déesse en argent poli",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/img?.png",
+    "name": {
+      "en": "",
+      "es": "",
+      "fr": "Lampe des ténèbres",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Cette lampe fait venir l'obscurité lorsqu'on l'allume",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/img?.png",
+    "name": {
+      "en": "",
+      "es": "",
+      "fr": "Sphère du silence",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Peut enfermer les sort d'un ennemi pendant le combat",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/img?.png",
+    "name": {
+      "en": "",
+      "es": "",
+      "fr": "Jarre de poudre",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Un récipient rempli de poudre à canon",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/img?.png",
+    "name": {
+      "en": "",
+      "es": "Pasaje",
+      "fr": "Permis d'embarquer",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Un billet valable pour un voyage vers Chandor",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/img?.png",
+    "name": {
+      "en": "",
+      "es": "",
+      "fr": "Livre des créatures",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Un guide des monstres illustré",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/symbol_of_faith.png",
+    "name": {
+      "en": "Symbol of Faith",
+      "es": "Símbolo de Fe",
+      "fr": "Symbole de la Foi",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Ce joyau peut ouvrir le cœur de n'importe qui",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/holy_embers.png",
+    "name": {
+      "en": "Holy embers",
+      "es": "Fuego sagrado",
+      "fr": "Braises Sacrées",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Elles luisent avec une puissance divine",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/treasure_map.png",
+    "name": {
+      "en": "Treasure map",
+      "es": "Mapa del Tesoro",
+      "fr": "Carte au trésor",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Indique l'emplacement d'un trésor légendaire",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/feverfew_seed.png",
+    "name": {
+      "en": "Feverfew seed",
+      "es": "Semilla reducefiebre",
+      "fr": "Graine de camomille",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Une graine pleine de vigueur",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/feverfew_root.png",
+    "name": {
+      "en": "Feverfew root",
+      "es": "Raíz reducefiebre",
+      "fr": "Racine de Camomille",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Cette puissante racine guérit beaucoup de maladies",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/magic_key.png",
+    "name": {
+      "en": "Magic key",
+      "es": "Llave mágica",
+      "fr": "Clef magique",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Cette clef permet d'ouvrir des serrures complexes",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/karstaway_stone.png",
+    "name": {
+      "en": "Karstaway stone",
+      "es": "Piedra porosa",
+      "fr": "Pierre éponge",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Une roche étrange qui peut absorber un grand volume d'eau",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/ultimate_key.png",
+    "name": {
+      "en": "Ultimate key",
+      "es": "Llave suprema",
+      "fr": "Clef suprême",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Cette clef permet d'ouvrir tous types de serrures",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/flute_of_uncovering.png",
+    "name": {
+      "en": "Flute of uncovering",
+      "es": "Flauta reveladora",
+      "fr": "Flûte de révélation",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Cet instrument dispose de propriétés magiques rares",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/mod_rod.png",
+    "name": {
+      "en": "Mod rod",
+      "es": "Vara meta",
+      "fr": "Bâton de transformation",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Peut modifier l'apparence de l'équipe pendant un court moment",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/gas_cannister.png",
+    "name": {
+      "en": "Gas cannister",
+      "es": "Recipiente de gas",
+      "fr": "Bonbonne de gaz",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Un gros récipient contenant du gaz",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/barons_bugle.png",
+    "name": {
+      "en": "Baron's bugle",
+      "es": "Cuerno del barón",
+      "fr": "Clairon du baron",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "Sonné au combat, il fait venir un énorme troupeau de cheveaux",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
+    "sprite": "items_sprites/yggdrasil_flower.png",
+    "name": {
+      "en": "Yggdrasil flower",
+      "es": "Flor de Yggdrasil",
+      "fr": "Fleur d'Yggdrasil",
+      "jp": ""
+    },
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "",
+      "es": "",
+      "fr": "La plus rare des fleurs, qui fleurit tous les milles ans",
+      "jp": ""
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
   }
 ]
