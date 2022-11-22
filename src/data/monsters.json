@@ -1,11 +1,14 @@
 [
   {
     "id": 1,
-    "imgPath": "img/monsters/1.png",
+    "sprite": "img/monsters/1.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Slime",
-      "es": "",
+      "es": "?",
       "fr": "Gluant",
+      "ge": "Schleim",
+      "it": "???",
       "jp": "スライム"
     },
     "type": "enemy",
@@ -34,11 +37,14 @@
   },
   {
     "id": 2,
-    "imgPath": "img/monsters/2.png",
+    "sprite": "img/monsters/2.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Wiggly",
-      "es": "",
+      "es": "?",
       "fr": "Londuleux",
+      "ge": "Schlängler",
+      "it": "???",
       "jp": "おおみみず"
     },
     "type": "enemy",
@@ -73,11 +79,14 @@
   },
   {
     "id": 3,
-    "imgPath": "img/monsters/3.png",
+    "sprite": "img/monsters/3.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Air rat",
-      "es": "",
+      "es": "?",
       "fr": "Rat volant",
+      "ge": "Ohrensauser",
+      "it": "???",
       "jp": "エアラット"
     },
     "type": "enemy",
@@ -106,11 +115,14 @@
   },
   {
     "id": 4,
-    "imgPath": "img/monsters/4.png",
+    "sprite": "img/monsters/4.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Scissor beatle",
-      "es": " beatle",
+      "es": "?",
       "fr": "Scarapince",
+      "ge": "Scherenkäfer",
+      "it": "???",
       "jp": "はさみくわがた"
     },
     "type": "enemy",
@@ -139,11 +151,14 @@
   },
   {
     "id": 5,
-    "imgPath": "img/monsters/5.png",
+    "sprite": "img/monsters/5.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Bubble Slime",
-      "es": " Slime",
+      "es": "?",
       "fr": "Gluanbulle",
+      "ge": "Blasenchleim",
+      "it": "???",
       "jp": "バブルスライム"
     },
     "type": "enemy",
@@ -168,11 +183,14 @@
   },
   {
     "id": 6,
-    "imgPath": "img/monsters/6.png",
+    "sprite": "img/monsters/6.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Mischievous mole",
-      "es": " mole",
+      "es": "?",
       "fr": "Pataupe",
+      "ge": "Maulwurfschelm",
+      "it": "???",
       "jp": "いたずらもぐら"
     },
     "type": "enemy",
@@ -201,11 +219,14 @@
   },
   {
     "id": 7,
-    "imgPath": "img/monsters/7.png",
+    "sprite": "img/monsters/7.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Stump chump",
-      "es": "",
+      "es": "?",
       "fr": "Souche louche",
+      "ge": "Stumpfpimpf",
+      "it": "???",
       "jp": "きりかぶおばけ"
     },
     "type": "enemy",
@@ -237,11 +258,14 @@
   },
   {
     "id": 8,
-    "imgPath": "img/monsters/8.png",
+    "sprite": "img/monsters/8.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Healslime",
-      "es": "",
+      "es": "?",
       "fr": "Médigluant",
+      "ge": "Doktorschleim",
+      "it": "???",
       "jp": "ホイミスライム"
     },
     "type": "enemy",
@@ -274,11 +298,14 @@
   },
   {
     "id": 9,
-    "imgPath": "img/monsters/9.png",
+    "sprite": "img/monsters/9.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Mad mole",
-      "es": " mole",
+      "es": "?",
       "fr": "Taupelle",
+      "ge": "Manischer Maulwurf",
+      "it": "???",
       "jp": "キラースコップ"
     },
     "type": "enemy",
@@ -306,11 +333,14 @@
   },
   {
     "id": 10,
-    "imgPath": "img/monsters/10.png",
+    "sprite": "img/monsters/10.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Winkster",
-      "es": "",
+      "es": "?",
       "fr": "Fée tide",
+      "ge": "Blinzler",
+      "it": "???",
       "jp": "みならいあくま"
     },
     "type": "enemy",
@@ -335,11 +365,14 @@
   },
   {
     "id": 11,
-    "imgPath": "img/monsters/11.png",
+    "sprite": "img/monsters/11.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Bodkin archer",
-      "es": " archer",
+      "es": "?",
       "fr": "Archer vert",
+      "ge": "Schützenwicht",
+      "it": "???",
       "jp": "リリパット"
     },
     "type": "enemy",
@@ -364,11 +397,14 @@
   },
   {
     "id": 12,
-    "imgPath": "img/monsters/12.png",
+    "sprite": "img/monsters/12.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Splatypunk",
-      "es": "",
+      "es": "?",
       "fr": "Ornitro",
+      "ge": "Muddel",
+      "it": "???",
       "jp": "ダックスピル"
     },
     "type": "enemy",
@@ -393,11 +429,14 @@
   },
   {
     "id": 13,
-    "imgPath": "img/monsters/13.png",
+    "sprite": "img/monsters/13.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Blinkster",
-      "es": "",
+      "es": "?",
       "fr": "Fée brile",
+      "ge": "Zwinkerer",
+      "it": "???",
       "jp": "ベビーマジシャン"
     },
     "type": "enemy",
@@ -422,11 +461,14 @@
   },
   {
     "id": 14,
-    "imgPath": "img/monsters/14.png",
+    "sprite": "img/monsters/14.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Picksy",
-      "es": "",
+      "es": "?",
       "fr": "Chérubus",
+      "ge": "Piekser",
+      "it": "???",
       "jp": "ピクシー"
     },
     "type": "enemy",
@@ -451,11 +493,14 @@
   },
   {
     "id": 15,
-    "imgPath": "img/monsters/15.png",
+    "sprite": "img/monsters/15.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Bantamweight",
-      "es": "",
+      "es": "?",
       "fr": "Poids-coq",
+      "ge": "Kampfhuhn",
+      "it": "???",
       "jp": "おおにわとり"
     },
     "type": "enemy",
@@ -483,11 +528,14 @@
   },
   {
     "id": 16,
-    "imgPath": "img/monsters/16.png",
+    "sprite": "img/monsters/16.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Winky",
-      "es": "",
+      "es": "?",
       "fr": "Clindœil",
+      "ge": "Monekel",
+      "it": "???",
       "jp": "おおめだま"
     },
     "type": "enemy",
@@ -512,11 +560,14 @@
   },
   {
     "id": 17,
-    "imgPath": "img/monsters/17.png",
+    "sprite": "img/monsters/17.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Walking stick",
-      "es": " stick",
+      "es": "?",
       "fr": "Fourmiasme",
+      "ge": "Gelbschrecke",
+      "it": "???",
       "jp": "キリキリバッタ"
     },
     "type": "enemy",
@@ -541,11 +592,14 @@
   },
   {
     "id": 18,
-    "imgPath": "img/monsters/18.png",
+    "sprite": "img/monsters/18.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "She-slime",
-      "es": "-slime",
+      "es": "?",
       "fr": "Gluante",
+      "ge": "Schleimette",
+      "it": "???",
       "jp": "スライムベス"
     },
     "type": "enemy",
@@ -570,11 +624,14 @@
   },
   {
     "id": 19,
-    "imgPath": "img/monsters/19.png",
+    "sprite": "img/monsters/19.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Lickspittle",
-      "es": "",
+      "es": "?",
       "fr": "Glair de lune",
+      "ge": "Speichellecker",
+      "it": "???",
       "jp": "つちわらし"
     },
     "type": "enemy",
@@ -599,11 +656,14 @@
   },
   {
     "id": 20,
-    "imgPath": "img/monsters/20.png",
+    "sprite": "img/monsters/20.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Mouseflap",
-      "es": "",
+      "es": "?",
       "fr": "Chauve-sourat",
+      "ge": "Flattermaus",
+      "it": "???",
       "jp": "みみとびねずみ"
     },
     "type": "enemy",
@@ -628,11 +688,14 @@
   },
   {
     "id": 21,
-    "imgPath": "img/monsters/21.png",
+    "sprite": "img/monsters/21.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Foo dog",
-      "es": " dog",
+      "es": "?",
       "fr": "Chienfernal",
+      "ge": "Fu-Hund",
+      "it": "???",
       "jp": "あばれこまいぬ"
     },
     "type": "enemy",
@@ -661,11 +724,14 @@
   },
   {
     "id": 22,
-    "imgPath": "img/monsters/22.png",
+    "sprite": "img/monsters/22.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Bagworm",
-      "es": "",
+      "es": "?",
       "fr": "Sacaver",
+      "ge": "Raupenrüpel",
+      "it": "???",
       "jp": "ミノーン"
     },
     "type": "enemy",
@@ -690,11 +756,14 @@
   },
   {
     "id": 23,
-    "imgPath": "img/monsters/23.png",
+    "sprite": "img/monsters/23.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Funghoul",
-      "es": "",
+      "es": "?",
       "fr": "Champigoule",
+      "ge": "Pestpilz",
+      "it": "???",
       "jp": "おばけキノコ"
     },
     "type": "enemy",
@@ -719,11 +788,14 @@
   },
   {
     "id": 24,
-    "imgPath": "img/monsters/24.png",
+    "sprite": "img/monsters/24.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Bullfinch",
-      "es": "",
+      "es": "?",
       "fr": "Taurapace",
+      "ge": "Stierstar",
+      "it": "???",
       "jp": "あばれうしどり"
     },
     "type": "enemy",
@@ -752,11 +824,14 @@
   },
   {
     "id": 25,
-    "imgPath": "img/monsters/25.png",
+    "sprite": "img/monsters/25.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Carnivine",
-      "es": "",
+      "es": "?",
       "fr": "Morchidée",
+      "ge": "Fleischfresser",
+      "it": "???",
       "jp": "ひとくいそう"
     },
     "type": "enemy",
@@ -781,11 +856,14 @@
   },
   {
     "id": 26,
-    "imgPath": "img/monsters/26.png",
+    "sprite": "img/monsters/26.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Firespirit",
-      "es": "",
+      "es": "?",
       "fr": "Feu follet",
+      "ge": "Feuergeist",
+      "it": "???",
       "jp": "メラゴースト"
     },
     "type": "enemy",
@@ -814,11 +892,14 @@
   },
   {
     "id": 27,
-    "imgPath": "img/monsters/27.png",
+    "sprite": "img/monsters/27.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Thorny devil",
-      "es": " devil",
+      "es": "?",
       "fr": "Démon piquant",
+      "ge": "Dornteufel",
+      "it": "???",
       "jp": "テペロ"
     },
     "type": "enemy",
@@ -843,11 +924,14 @@
   },
   {
     "id": 28,
-    "imgPath": "img/monsters/28.png",
+    "sprite": "img/monsters/28.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Lugworm",
-      "es": "",
+      "es": "?",
       "fr": "Tortilleux",
+      "ge": "Kreuchler",
+      "it": "???",
       "jp": "サンドマスター"
     },
     "type": "enemy",
@@ -872,11 +956,14 @@
   },
   {
     "id": 29,
-    "imgPath": "img/monsters/29.png",
+    "sprite": "img/monsters/29.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Bedbug",
-      "es": "",
+      "es": "?",
       "fr": "Scarasomniaque",
+      "ge": "Bettwanze",
+      "it": "???",
       "jp": "ラリホービートル"
     },
     "type": "enemy",
@@ -901,11 +988,14 @@
   },
   {
     "id": 30,
-    "imgPath": "img/monsters/30.png",
+    "sprite": "img/monsters/30.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Komodo",
-      "es": "",
+      "es": "?",
       "fr": "Komodor",
+      "ge": "Komodo",
+      "it": "???",
       "jp": "コドラ"
     },
     "type": "enemy",
@@ -933,11 +1023,14 @@
   },
   {
     "id": 31,
-    "imgPath": "img/monsters/31.png",
+    "sprite": "img/monsters/31.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Pickayune",
-      "es": "",
+      "es": "?",
       "fr": "Démonius",
+      "ge": "Necker",
+      "it": "???",
       "jp": "おにこぞう"
     },
     "type": "enemy",
@@ -966,11 +1059,14 @@
   },
   {
     "id": 32,
-    "imgPath": "img/monsters/32.png",
+    "sprite": "img/monsters/32.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Crested viper",
-      "es": " viper",
+      "es": "",
       "fr": "Vipère à crête",
+      "ge": "Kranzviper",
+      "it": "???",
       "jp": "とさかへび"
     },
     "type": "enemy",
@@ -999,11 +1095,14 @@
   },
   {
     "id": 33,
-    "imgPath": "img/monsters/33.png",
+    "sprite": "img/monsters/33.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Armoured scorpion",
-      "es": " scorpion",
+      "es": "?",
       "fr": "Scorpion blindé",
+      "ge": "Panzerskorpion",
+      "it": "???",
       "jp": "さそりアーマー"
     },
     "type": "enemy",
@@ -1028,11 +1127,14 @@
   },
   {
     "id": 34,
-    "imgPath": "img/monsters/34.png",
+    "sprite": "img/monsters/34.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Vampire bat",
-      "es": " bat",
+      "es": "?",
       "fr": "Vampierre",
+      "ge": "Vampirfledermaus",
+      "it": "???",
       "jp": "きゅうけつこうもり"
     },
     "type": "enemy",
@@ -1057,11 +1159,14 @@
   },
   {
     "id": 35,
-    "imgPath": "img/monsters/35.png",
+    "sprite": "img/monsters/35.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Cyclown",
-      "es": "",
+      "es": "?",
       "fr": "Cyclown",
+      "ge": "Tornadoteufel",
+      "it": "???",
       "jp": "かまいたち"
     },
     "type": "enemy",
@@ -1089,11 +1194,14 @@
   },
   {
     "id": 36,
-    "imgPath": "img/monsters/36.png",
+    "sprite": "img/monsters/36.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Killer gila",
-      "es": " gila",
+      "es": "?",
       "fr": "Batratueur",
+      "ge": "Giftechse",
+      "it": "???",
       "jp": "ポイズンリザード"
     },
     "type": "enemy",
@@ -1118,11 +1226,14 @@
   },
   {
     "id": 37,
-    "imgPath": "img/monsters/37.png",
+    "sprite": "img/monsters/37.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Flyguy",
-      "es": "",
+      "es": "?",
       "fr": "Mouchomme",
+      "ge": "Fliegerich",
+      "it": "???",
       "jp": "はえおとこ"
     },
     "type": "enemy",
@@ -1147,11 +1258,14 @@
   },
   {
     "id": 38,
-    "imgPath": "img/monsters/38.png",
+    "sprite": "img/monsters/38.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Erazor blade",
-      "es": " blade",
+      "es": "?",
       "fr": "Cimetueur",
+      "ge": "Sichelschlitzer",
+      "it": "???",
       "jp": "ひとくいサーベル"
     },
     "type": "enemy",
@@ -1176,11 +1290,14 @@
   },
   {
     "id": 39,
-    "imgPath": "img/monsters/39.png",
+    "sprite": "img/monsters/39.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Pteranodon",
-      "es": "",
+      "es": "?",
       "fr": "Ptéranodon",
+      "ge": "Pteranodon",
+      "it": "???",
       "jp": "プテラノドン"
     },
     "type": "enemy",
@@ -1210,11 +1327,14 @@
   },
   {
     "id": 40,
-    "imgPath": "img/monsters/40.png",
+    "sprite": "img/monsters/40.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Flying doctor",
-      "es": " doctor",
+      "es": "?",
       "fr": "Dragonlule",
+      "ge": "Medikopter",
+      "it": "???",
       "jp": "ドラゴンバタフライ"
     },
     "type": "enemy",
@@ -1239,11 +1359,14 @@
   },
   {
     "id": 41,
-    "imgPath": "img/monsters/41.png",
+    "sprite": "img/monsters/41.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Peeper",
-      "es": "",
+      "es": "?",
       "fr": "Matœil",
+      "ge": "Glubscher",
+      "it": "???",
       "jp": "スペクテット"
     },
     "type": "enemy",
@@ -1268,11 +1391,14 @@
   },
   {
     "id": 42,
-    "imgPath": "img/monsters/42.png",
+    "sprite": "img/monsters/42.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Skeleton swordsman",
-      "es": " swordsman",
+      "es": "?",
       "fr": "Squelépéiste",
+      "ge": "Skelettkämpfer",
+      "it": "???",
       "jp": "がいこつけんし"
     },
     "type": "enemy",
@@ -1301,11 +1427,14 @@
   },
   {
     "id": 43,
-    "imgPath": "img/monsters/43.png",
+    "sprite": "img/monsters/43.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Restless armour",
-      "es": " armour",
+      "es": "?",
       "fr": "Armure errante",
+      "ge": "Ruhelose Rüstung",
+      "it": "???",
       "jp": "さまようよろい"
     },
     "type": "enemy",
@@ -1334,11 +1463,14 @@
   },
   {
     "id": 44,
-    "imgPath": "img/monsters/44.png",
+    "sprite": "img/monsters/44.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Metal slime",
-      "es": " slime",
+      "es": "?",
       "fr": "Gluant de métal",
+      "ge": "Metallschleim",
+      "it": "???",
       "jp": "メタルスライム"
     },
     "type": "enemy",
@@ -1367,11 +1499,14 @@
   },
   {
     "id": 45,
-    "imgPath": "img/monsters/45.png",
+    "sprite": "img/monsters/45.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Elepus",
-      "es": "",
+      "es": "?",
       "fr": "Elépieuvre",
+      "ge": "Elepus",
+      "it": "???",
       "jp": "エレフローパー"
     },
     "type": "enemy",
@@ -1396,11 +1531,14 @@
   },
   {
     "id": 46,
-    "imgPath": "img/monsters/46.png",
+    "sprite": "img/monsters/46.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Platypunk",
-      "es": "",
+      "es": "?",
       "fr": "Ornithox",
+      "ge": "Kuddel",
+      "it": "???",
       "jp": "ももんじゃ"
     },
     "type": "enemy",
@@ -1425,11 +1563,14 @@
   },
   {
     "id": 47,
-    "imgPath": "img/monsters/47.png",
+    "sprite": "img/monsters/47.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Horny devil",
-      "es": " devil",
+      "es": "?",
       "fr": "Démon cornu",
+      "ge": "Hornteufel",
+      "it": "???",
       "jp": "とんがりあたま"
     },
     "type": "enemy",
@@ -1454,11 +1595,14 @@
   },
   {
     "id": 48,
-    "imgPath": "img/monsters/48.png",
+    "sprite": "img/monsters/48.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Dirty dogu",
-      "es": " dogu",
+      "es": "?",
       "fr": "Gris-gris",
+      "ge": "Adrette Statuette",
+      "it": "???",
       "jp": "いしにんぎょう"
     },
     "type": "enemy",
@@ -1483,11 +1627,14 @@
   },
   {
     "id": 49,
-    "imgPath": "img/monsters/49.png",
+    "sprite": "img/monsters/49.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Wimp",
-      "es": "",
+      "es": "?",
       "fr": "Diablutin",
+      "ge": "Kümmerling",
+      "it": "???",
       "jp": "つかいま"
     },
     "type": "enemy",
@@ -1517,11 +1664,14 @@
   },
   {
     "id": 50,
-    "imgPath": "img/monsters/50.png",
+    "sprite": "img/monsters/50.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Crack-billed platypunk",
-      "es": "-billed platypunk",
+      "es": "?",
       "fr": "Ornicryo",
+      "ge": "Knirschkuddel",
+      "it": "???",
       "jp": "メイジももんじゃ"
     },
     "type": "enemy",
@@ -1551,11 +1701,14 @@
   },
   {
     "id": 51,
-    "imgPath": "img/monsters/51.png",
+    "sprite": "img/monsters/51.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Fire beatle",
-      "es": " beatle",
+      "es": "?",
       "fr": "Pyroblatte",
+      "ge": "Feuerkäfer",
+      "it": "???",
       "jp": "ヘルビートル"
     },
     "type": "enemy",
@@ -1580,11 +1733,14 @@
   },
   {
     "id": 52,
-    "imgPath": "img/monsters/52.png",
+    "sprite": "img/monsters/52.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Slimification",
-      "es": "",
+      "es": "?",
       "fr": "Gluantification",
+      "ge": "Schleimifizierung",
+      "it": "???",
       "jp": "がったいスライム"
     },
     "type": "enemy",
@@ -1612,11 +1768,14 @@
   },
   {
     "id": 53,
-    "imgPath": "img/monsters/53.png",
+    "sprite": "img/monsters/53.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "King slime",
-      "es": " slime",
+      "es": "?",
       "fr": "Roi gluant",
+      "ge": "Königsschleim",
+      "it": "???",
       "jp": "キングスライム"
     },
     "type": "enemy",
@@ -1644,11 +1803,14 @@
   },
   {
     "id": 54,
-    "imgPath": "img/monsters/54.png",
+    "sprite": "img/monsters/54.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Ratatattack",
-      "es": "",
+      "es": "?",
       "fr": "Ratatattaque",
+      "ge": "Rattentäter",
+      "it": "???",
       "jp": "エビルハムスター"
     },
     "type": "enemy",
@@ -1673,11 +1835,14 @@
   },
   {
     "id": 55,
-    "imgPath": "img/monsters/55.png",
+    "sprite": "img/monsters/55.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Frolicker",
-      "es": "",
+      "es": "?",
       "fr": "Salivard",
+      "ge": "Sabberschlabber",
+      "it": "???",
       "jp": "ペロペロ"
     },
     "type": "enemy",
@@ -1710,11 +1875,14 @@
   },
   {
     "id": 56,
-    "imgPath": "img/monsters/56.png",
+    "sprite": "img/monsters/56.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Stump grump",
-      "es": " grump",
+      "es": "?",
       "fr": "Cyclotronc",
+      "ge": "Dumpfstumpf",
+      "it": "???",
       "jp": "ダークドリアード"
     },
     "type": "enemy",
@@ -1739,11 +1907,14 @@
   },
   {
     "id": 57,
-    "imgPath": "img/monsters/57.png",
+    "sprite": "img/monsters/57.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Weartiger",
-      "es": "",
+      "es": "?",
       "fr": "Tigriff",
+      "ge": "Abartiger",
+      "it": "???",
       "jp": "とらおとこ"
     },
     "type": "enemy",
@@ -1773,11 +1944,14 @@
   },
   {
     "id": 58,
-    "imgPath": "img/monsters/58.png",
+    "sprite": "img/monsters/58.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Jinkster",
-      "es": "",
+      "es": "?",
       "fr": "Fée lée",
+      "ge": "Blödler",
+      "it": "???",
       "jp": "ひとつめピエロ"
     },
     "type": "enemy",
@@ -1806,11 +1980,14 @@
   },
   {
     "id": 59,
-    "imgPath": "img/monsters/59.png",
+    "sprite": "img/monsters/59.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Paralyslicer",
-      "es": "",
+      "es": "?",
       "fr": "Paralysabre",
+      "ge": "Sichel der Starre",
+      "it": "???",
       "jp": "しびれだんびら"
     },
     "type": "enemy",
@@ -1839,11 +2016,14 @@
   },
   {
     "id": 60,
-    "imgPath": "img/monsters/60.png",
+    "sprite": "img/monsters/60.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Lost soul",
-      "es": " soul",
+      "es": "?",
       "fr": "Flammerolle",
+      "ge": "Verlorene Seele",
+      "it": "???",
       "jp": "さまようたましい"
     },
     "type": "enemy",
@@ -1868,11 +2048,14 @@
   },
   {
     "id": 61,
-    "imgPath": "img/monsters/61.png",
+    "sprite": "img/monsters/61.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Vampire battler",
-      "es": " battler",
+      "es": "?",
       "fr": "Vampaul",
+      "ge": "Vampirkämpfer",
+      "it": "???",
       "jp": "バンプドック"
     },
     "type": "enemy",
@@ -1902,11 +2085,14 @@
   },
   {
     "id": 62,
-    "imgPath": "img/monsters/62.png",
+    "sprite": "img/monsters/62.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Metal scorpion",
-      "es": " scorpion",
+      "es": "?",
       "fr": "Scorpion d'assaut",
+      "ge": "Metallskorpion",
+      "it": "???",
       "jp": "メタルスコーピオン"
     },
     "type": "enemy",
@@ -1935,11 +2121,14 @@
   },
   {
     "id": 63,
-    "imgPath": "img/monsters/63.png",
+    "sprite": "img/monsters/63.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Featherweight",
-      "es": "",
+      "es": "?",
       "fr": "Poids-plume",
+      "ge": "Federfaust",
+      "it": "???",
       "jp": "ドードーどり"
     },
     "type": "enemy",
@@ -1972,11 +2161,14 @@
   },
   {
     "id": 64,
-    "imgPath": "img/monsters/64.png",
+    "sprite": "img/monsters/64.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Salamander fry",
-      "es": " fry",
+      "es": "?",
       "fr": "Geckorrosif",
+      "ge": "Geckorrosif",
+      "it": "???",
       "jp": "ベビーサラマンダ"
     },
     "type": "enemy",
@@ -2005,11 +2197,14 @@
   },
   {
     "id": 65,
-    "imgPath": "img/monsters/65.png",
+    "sprite": "img/monsters/65.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Venus guytrap",
-      "es": " guytrap",
+      "es": "?",
       "fr": "Dionéneuse",
+      "ge": "Venus-Menschenfalle",
+      "it": "???",
       "jp": "デビルプラント"
     },
     "type": "enemy",
@@ -2034,11 +2229,14 @@
   },
   {
     "id": 66,
-    "imgPath": "img/monsters/66.png",
+    "sprite": "img/monsters/66.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Bodkin fletcher",
-      "es": " fletcher",
+      "es": "",
       "fr": "Dardeur",
+      "ge": "Pfeilwicht",
+      "it": "???",
       "jp": "どくやずきん"
     },
     "type": "enemy",
@@ -2063,11 +2261,14 @@
   },
   {
     "id": 67,
-    "imgPath": "img/monsters/67.png",
+    "sprite": "img/monsters/67.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Mandragore",
-      "es": "",
+      "es": "?",
       "fr": "Mandragore",
+      "ge": "Mandragora",
+      "it": "???",
       "jp": "マンドレイク"
     },
     "type": "enemy",
@@ -2092,11 +2293,14 @@
   },
   {
     "id": 68,
-    "imgPath": "img/monsters/68.png",
+    "sprite": "img/monsters/68.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Bodkin bawyer",
-      "es": " bawyer",
+      "es": "?",
       "fr": "Tire-flèches",
+      "ge": "Bogenwicht",
+      "it": "???",
       "jp": "アローインプ"
     },
     "type": "enemy",
@@ -2125,11 +2329,14 @@
   },
   {
     "id": 69,
-    "imgPath": "img/monsters/69.png",
+    "sprite": "img/monsters/69.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Sweaty yeti",
-      "es": " yeti",
+      "es": "?",
       "fr": "Yeti des sables",
+      "ge": "Yetigitt",
+      "it": "???",
       "jp": "デザートゴースト"
     },
     "type": "enemy",
@@ -2154,11 +2361,14 @@
   },
   {
     "id": 70,
-    "imgPath": "img/monsters/70.png",
+    "sprite": "img/monsters/70.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Flamethrower",
-      "es": "",
+      "es": "?",
       "fr": "Tizon",
+      "ge": "Flammenwerfer",
+      "it": "???",
       "jp": "ほのおのせんし"
     },
     "type": "enemy",
@@ -2188,11 +2398,14 @@
   },
   {
     "id": 71,
-    "imgPath": "img/monsters/71.png",
+    "sprite": "img/monsters/71.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Murshroom mage",
-      "es": " mage",
+      "es": "?",
       "fr": "Champimage",
+      "ge": "Plizmagier",
+      "it": "???",
       "jp": "マージマタンゴ"
     },
     "type": "enemy",
@@ -2222,11 +2435,14 @@
   },
   {
     "id": 72,
-    "imgPath": "img/monsters/72.png",
+    "sprite": "img/monsters/72.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Buffalo wing",
-      "es": " wing",
+      "es": "?",
       "fr": "Bovipare",
+      "ge": "Flügelbüffel",
+      "it": "???",
       "jp": "ブルホーク"
     },
     "type": "enemy",
@@ -2251,11 +2467,14 @@
   },
   {
     "id": 73,
-    "imgPath": "img/monsters/73.png",
+    "sprite": "img/monsters/73.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Imp",
-      "es": "",
+      "es": "?",
       "fr": "Diablotin",
+      "ge": "Kobold",
+      "it": "???",
       "jp": "ベビーサタン"
     },
     "type": "enemy",
@@ -2280,11 +2499,14 @@
   },
   {
     "id": 74,
-    "imgPath": "img/monsters/74.png",
+    "sprite": "img/monsters/74.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Whizzard",
-      "es": "",
+      "es": "?",
       "fr": "Marcagicien",
+      "ge": "Scharlatan",
+      "it": "???",
       "jp": "コンジャラー"
     },
     "type": "enemy",
@@ -2309,11 +2531,14 @@
   },
   {
     "id": 75,
-    "imgPath": "img/monsters/75.png",
+    "sprite": "img/monsters/75.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Infernal armour",
-      "es": " armour",
+      "es": "?",
       "fr": "Armure infernale",
+      "ge": "Höllenrüstung",
+      "it": "???",
       "jp": "じごくのよろい"
     },
     "type": "enemy",
@@ -2342,11 +2567,14 @@
   },
   {
     "id": 76,
-    "imgPath": "img/monsters/76.png",
+    "sprite": "img/monsters/76.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Powie yowie",
-      "es": " yowie",
+      "es": "?",
       "fr": "Yéti yétu",
+      "ge": "Schneestrolch",
+      "it": "???",
       "jp": "イエティ"
     },
     "type": "enemy",
@@ -2371,11 +2599,14 @@
   },
   {
     "id": 77,
-    "imgPath": "img/monsters/77.png",
+    "sprite": "img/monsters/77.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Skeleton soldier",
-      "es": " soldier",
+      "es": "?",
       "fr": "Soldat squelette",
+      "ge": "Skelettsoldat",
+      "it": "???",
       "jp": "しりょうのきし"
     },
     "type": "enemy",
@@ -2406,11 +2637,14 @@
   },
   {
     "id": 78,
-    "imgPath": "img/monsters/78.png",
+    "sprite": "img/monsters/78.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Pocus poppet",
-      "es": " poppet",
+      "es": "?",
       "fr": "Talismaboule",
+      "ge": "Fiese Figurine",
+      "it": "???",
       "jp": "ミステリードール"
     },
     "type": "enemy",
@@ -2435,11 +2669,14 @@
   },
   {
     "id": 79,
-    "imgPath": "img/monsters/79.png",
+    "sprite": "img/monsters/79.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Wild beast",
-      "es": " beast",
+      "es": "?",
       "fr": "Bête sauvage",
+      "ge": "Grobian",
+      "it": "???",
       "jp": "オックスベア"
     },
     "type": "enemy",
@@ -2464,11 +2701,14 @@
   },
   {
     "id": 80,
-    "imgPath": "img/monsters/80.png",
+    "sprite": "img/monsters/80.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Dragon pup",
-      "es": " pup",
+      "es": "?",
       "fr": "Dragonnet",
+      "ge": "Drachenbaby",
+      "it": "???",
       "jp": "ドラゴンパピー"
     },
     "type": "enemy",
@@ -2493,11 +2733,14 @@
   },
   {
     "id": 81,
-    "imgPath": "img/monsters/81.png",
+    "sprite": "img/monsters/81.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Hoodoo gooroo",
-      "es": " gooroo",
+      "es": "?",
       "fr": "Gourou coucou",
+      "ge": "Unglücksbringer",
+      "it": "???",
       "jp": "しりょうつかい"
     },
     "type": "enemy",
@@ -2522,11 +2765,14 @@
   },
   {
     "id": 82,
-    "imgPath": "img/monsters/82.png",
+    "sprite": "img/monsters/82.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Cocoon goon",
-      "es": " goon",
+      "es": "?",
       "fr": "Asticocon",
+      "ge": "Kokonkiller",
+      "it": "???",
       "jp": "あくまのす"
     },
     "type": "enemy",
@@ -2555,11 +2801,14 @@
   },
   {
     "id": 83,
-    "imgPath": "img/monsters/83.png",
+    "sprite": "img/monsters/83.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Cureslime",
-      "es": "",
+      "es": "?",
       "fr": "Guérigluant",
+      "ge": "Heilschleim",
+      "it": "???",
       "jp": "ベホマスライム"
     },
     "type": "enemy",
@@ -2584,11 +2833,14 @@
   },
   {
     "id": 84,
-    "imgPath": "img/monsters/84.png",
+    "sprite": "img/monsters/84.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Abracadabrador",
-      "es": "",
+      "es": "?",
       "fr": "Abracadabraque",
+      "ge": "Abrakadabrador",
+      "it": "???",
       "jp": "サブナック"
     },
     "type": "enemy",
@@ -2613,11 +2865,14 @@
   },
   {
     "id": 85,
-    "imgPath": "img/monsters/85.png",
+    "sprite": "img/monsters/85.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Cheater cheetah",
-      "es": " cheetah",
+      "es": "?",
       "fr": "Tigrrr",
+      "ge": "Unartiger",
+      "it": "???",
       "jp": "ベンガル"
     },
     "type": "enemy",
@@ -2646,11 +2901,14 @@
   },
   {
     "id": 86,
-    "imgPath": "img/monsters/86.png",
+    "sprite": "img/monsters/86.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Rhinothrope",
-      "es": "",
+      "es": "?",
       "fr": "Rhinocérosse",
+      "ge": "Beilhorn",
+      "it": "???",
       "jp": "サイおとこ"
     },
     "type": "enemy",
@@ -2675,11 +2933,14 @@
   },
   {
     "id": 87,
-    "imgPath": "img/monsters/87.png",
+    "sprite": "img/monsters/87.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Minidemon",
-      "es": "",
+      "es": "?",
       "fr": "Mini démon",
+      "ge": "Minidämon",
+      "it": "???",
       "jp": "ミニデーモン"
     },
     "type": "enemy",
@@ -2711,11 +2972,14 @@
   },
   {
     "id": 88,
-    "imgPath": "img/monsters/88.png",
+    "sprite": "img/monsters/88.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Chillanodon",
-      "es": "",
+      "es": "?",
       "fr": "Glacianodon",
+      "ge": "Schocknodon",
+      "it": "???",
       "jp": "アイスコンドル"
     },
     "type": "enemy",
@@ -2745,11 +3009,14 @@
   },
   {
     "id": 89,
-    "imgPath": "img/monsters/89.png",
+    "sprite": "img/monsters/89.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Lethal armour",
-      "es": " armour",
+      "es": "?",
       "fr": "Armure fatale",
+      "ge": "Todesrüstung",
+      "it": "???",
       "jp": "キラーアーマー"
     },
     "type": "enemy",
@@ -2774,11 +3041,14 @@
   },
   {
     "id": 90,
-    "imgPath": "img/monsters/90.png",
+    "sprite": "img/monsters/90.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Rockbomb",
-      "es": "",
+      "es": "?",
       "fr": "Rochexplosif",
+      "ge": "Falsenbombe",
+      "it": "???",
       "jp": "ばくだんいわ"
     },
     "type": "enemy",
@@ -2803,11 +3073,14 @@
   },
   {
     "id": 91,
-    "imgPath": "img/monsters/91.png",
+    "sprite": "img/monsters/91.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Eoraptor",
-      "es": "",
+      "es": "?",
       "fr": "Radiaptor",
+      "ge": "Eoraptor",
+      "it": "???",
       "jp": "テラノザース"
     },
     "type": "enemy",
@@ -2836,11 +3109,14 @@
   },
   {
     "id": 92,
-    "imgPath": "img/monsters/92.png",
+    "sprite": "img/monsters/92.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Beleth",
-      "es": "",
+      "es": "?",
       "fr": "Byleth",
+      "ge": "Beleth",
+      "it": "???",
       "jp": "ベレス"
     },
     "type": "enemy",
@@ -2865,11 +3141,14 @@
   },
   {
     "id": 93,
-    "imgPath": "img/monsters/93.png",
+    "sprite": "img/monsters/93.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Grim rider",
-      "es": " rider",
+      "es": "?",
       "fr": "Cavalier fantôme",
+      "ge": "Galgenreiter",
+      "it": "???",
       "jp": "ボーンナイト"
     },
     "type": "enemy",
@@ -2898,11 +3177,14 @@
   },
   {
     "id": 94,
-    "imgPath": "img/monsters/94.png",
+    "sprite": "img/monsters/94.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Bulldozer",
-      "es": "",
+      "es": "?",
       "fr": "Ronflicorne",
+      "ge": "Bulldozer",
+      "it": "???",
       "jp": "アークバッファロー"
     },
     "type": "enemy",
@@ -2931,11 +3213,14 @@
   },
   {
     "id": 95,
-    "imgPath": "img/monsters/95.png",
+    "sprite": "img/monsters/95.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Chicken poxer",
-      "es": " poxer",
+      "es": "?",
       "fr": "Coq-toc",
+      "ge": "Haudraufhenne",
+      "it": "???",
       "jp": "マンルースター"
     },
     "type": "enemy",
@@ -2960,11 +3245,14 @@
   },
   {
     "id": 96,
-    "imgPath": "img/monsters/96.png",
+    "sprite": "img/monsters/96.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "War-rus",
-      "es": "-rus",
+      "es": "?",
       "fr": "Toréamorse",
+      "ge": "Qualross",
+      "it": "???",
       "jp": "グレートオーラス"
     },
     "type": "enemy",
@@ -2989,11 +3277,14 @@
   },
   {
     "id": 97,
-    "imgPath": "img/monsters/97.png",
+    "sprite": "img/monsters/97.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Liquid metal slime",
-      "es": " metal slime",
+      "es": "?",
       "fr": "Gluant de mercure",
+      "ge": "Flüssigmetallschleim",
+      "it": "???",
       "jp": "はぐれメタル"
     },
     "type": "enemy",
@@ -3018,11 +3309,14 @@
   },
   {
     "id": 98,
-    "imgPath": "img/monsters/98.png",
+    "sprite": "img/monsters/98.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Humbaba",
-      "es": "",
+      "es": "?",
       "fr": "Humbaba",
+      "ge": "Humbaba",
+      "it": "???",
       "jp": "ハンババ"
     },
     "type": "enemy",
@@ -3051,11 +3345,14 @@
   },
   {
     "id": 99,
-    "imgPath": "img/monsters/99.png",
+    "sprite": "img/monsters/99.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Spitfire",
-      "es": "",
+      "es": "?",
       "fr": "Libellugon",
+      "ge": "Feuerspeier",
+      "it": "???",
       "jp": "ドラゴニット"
     },
     "type": "enemy",
@@ -3084,11 +3381,14 @@
   },
   {
     "id": 100,
-    "imgPath": "img/monsters/100.png",
+    "sprite": "img/monsters/100.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Terminonatator",
-      "es": "",
+      "es": "?",
       "fr": "Terminataure",
+      "ge": "Terminonatator",
+      "it": "???",
       "jp": "プレシオドン"
     },
     "type": "enemy",
@@ -3117,11 +3417,14 @@
   },
   {
     "id": 101,
-    "imgPath": "img/monsters/101.png",
+    "sprite": "img/monsters/101.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Skerleton",
-      "es": "",
+      "es": "?",
       "fr": "Berserkerlette",
+      "ge": "Sokarlett",
+      "it": "???",
       "jp": "しにがみ"
     },
     "type": "enemy",
@@ -3152,11 +3455,14 @@
   },
   {
     "id": 102,
-    "imgPath": "img/monsters/102.png",
+    "sprite": "img/monsters/102.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Cheeky tiki",
-      "es": " tiki",
+      "es": "?",
       "fr": "Grimasque",
+      "ge": "Grinsgötze",
+      "it": "???",
       "jp": "ガオン"
     },
     "type": "enemy",
@@ -3185,11 +3491,14 @@
   },
   {
     "id": 103,
-    "imgPath": "img/monsters/103.png",
+    "sprite": "img/monsters/103.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Podokesaurus",
-      "es": "",
+      "es": "?",
       "fr": "Pokérosaure",
+      "ge": "Podokesaurus",
+      "it": "???",
       "jp": "はしりとかげ"
     },
     "type": "enemy",
@@ -3214,11 +3523,14 @@
   },
   {
     "id": 104,
-    "imgPath": "img/monsters/104.png",
+    "sprite": "img/monsters/104.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Dragon rider",
-      "es": " rider",
+      "es": "?",
       "fr": "Dragonnier",
+      "ge": "Drachenreiter",
+      "it": "???",
       "jp": "ドラゴンライダー"
     },
     "type": "enemy",
@@ -3248,11 +3560,14 @@
   },
   {
     "id": 105,
-    "imgPath": "img/monsters/105.png",
+    "sprite": "img/monsters/105.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Freeze fly",
-      "es": " fly",
+      "es": "?",
       "fr": "Mouche des neiges",
+      "ge": "Frostfliege",
+      "it": "???",
       "jp": "マヒャドフライ"
     },
     "type": "enemy",
@@ -3281,11 +3596,14 @@
   },
   {
     "id": 106,
-    "imgPath": "img/monsters/106.png",
+    "sprite": "img/monsters/106.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Hell raiser",
-      "es": " raiser",
+      "es": "?",
       "fr": "Phacomage",
+      "ge": "Höllenhexer",
+      "it": "???",
       "jp": "カロン"
     },
     "type": "enemy",
@@ -3314,11 +3632,14 @@
   },
   {
     "id": 107,
-    "imgPath": "img/monsters/107.png",
+    "sprite": "img/monsters/107.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Hellspawn",
-      "es": "",
+      "es": "?",
       "fr": "Rejeton de l'enfer",
+      "ge": "Ausgeburt der Hölle",
+      "it": "???",
       "jp": "フェイスボール"
     },
     "type": "enemy",
@@ -3343,11 +3664,14 @@
   },
   {
     "id": 108,
-    "imgPath": "img/monsters/108.png",
+    "sprite": "img/monsters/108.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Bloody blade",
-      "es": " blade",
+      "es": "?",
       "fr": "Lame sanglante",
+      "ge": "Blutsichel",
+      "it": "???",
       "jp": "ブラッドソード"
     },
     "type": "enemy",
@@ -3376,11 +3700,14 @@
   },
   {
     "id": 109,
-    "imgPath": "img/monsters/109.png",
+    "sprite": "img/monsters/109.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Terrorflyer",
-      "es": "",
+      "es": "?",
       "fr": "Apprentiran",
+      "ge": "Flugschrecken",
+      "it": "???",
       "jp": "テラノバット"
     },
     "type": "enemy",
@@ -3405,11 +3732,14 @@
   },
   {
     "id": 110,
-    "imgPath": "img/monsters/110.png",
+    "sprite": "img/monsters/110.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Voodoo gooroo",
-      "es": " gooroo",
+      "es": "?",
       "fr": "Gourou vaudou",
+      "ge": "Voodooguru",
+      "it": "???",
       "jp": "ビビンバー"
     },
     "type": "enemy",
@@ -3434,11 +3764,14 @@
   },
   {
     "id": 111,
-    "imgPath": "img/monsters/111.png",
+    "sprite": "img/monsters/111.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Medislime",
-      "es": "",
+      "es": "?",
       "fr": "Coagluant",
+      "ge": "??",
+      "it": "???",
       "jp": "ベホイミスライム"
     },
     "type": "enemy",
@@ -3463,11 +3796,14 @@
   },
   {
     "id": 112,
-    "imgPath": "img/monsters/112.png",
+    "sprite": "img/monsters/112.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Rhinoceraxe",
-      "es": "",
+      "es": "?",
       "fr": "Rhinocérache",
+      "ge": "??",
+      "it": "???",
       "jp": "ライノソルジャー"
     },
     "type": "enemy",
@@ -3497,11 +3833,14 @@
   },
   {
     "id": 113,
-    "imgPath": "img/monsters/113.png",
+    "sprite": "img/monsters/113.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Fat bat",
-      "es": " bat",
+      "es": "?",
       "fr": "Hippovol",
+      "ge": "??",
+      "it": "???",
       "jp": "ジャイアントバット"
     },
     "type": "enemy",
@@ -3526,11 +3865,14 @@
   },
   {
     "id": 114,
-    "imgPath": "img/monsters/114.png",
+    "sprite": "img/monsters/114.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Hellion",
-      "es": "",
+      "es": "?",
       "fr": "Trublion",
+      "ge": "??",
+      "it": "???",
       "jp": "アームライオン"
     },
     "type": "enemy",
@@ -3559,11 +3901,14 @@
   },
   {
     "id": 115,
-    "imgPath": "img/monsters/115.png",
+    "sprite": "img/monsters/115.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Blizzybody",
-      "es": "",
+      "es": "?",
       "fr": "Glazon",
+      "ge": "??",
+      "it": "???",
       "jp": "ブリザードマン"
     },
     "type": "enemy",
@@ -3588,11 +3933,14 @@
   },
   {
     "id": 116,
-    "imgPath": "img/monsters/116.png",
+    "sprite": "img/monsters/116.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Wyvern",
-      "es": "",
+      "es": "?",
       "fr": "Wyverne",
+      "ge": "Flügeldrache",
+      "it": "???",
       "jp": "ライバーン"
     },
     "type": "enemy",
@@ -3617,11 +3965,14 @@
   },
   {
     "id": 117,
-    "imgPath": "img/monsters/117.png",
+    "sprite": "img/monsters/117.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Fuddlestick",
-      "es": "",
+      "es": "?",
       "fr": "Fourmicmac",
+      "ge": "Blauschrecke",
+      "it": "???",
       "jp": "メダパニバッタ"
     },
     "type": "enemy",
@@ -3650,11 +4001,14 @@
   },
   {
     "id": 118,
-    "imgPath": "img/monsters/118.png",
+    "sprite": "img/monsters/118.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Moosifer",
-      "es": "",
+      "es": "?",
       "fr": "Belzébik",
+      "ge": "Bullzebub",
+      "it": "???",
       "jp": "アンクルホーン"
     },
     "type": "enemy",
@@ -3679,11 +4033,14 @@
   },
   {
     "id": 119,
-    "imgPath": "img/monsters/119.png",
+    "sprite": "img/monsters/119.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "King cureslime",
-      "es": " cureslime",
+      "es": "?",
       "fr": "Roi guérigluant",
+      "ge": "Heilschleimkönig",
+      "it": "???",
       "jp": "スライムベホマズン"
     },
     "type": "enemy",
@@ -3708,11 +4065,14 @@
   },
   {
     "id": 120,
-    "imgPath": "img/monsters/120.png",
+    "sprite": "img/monsters/120.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Rhinocerex",
-      "es": "",
+      "es": "?",
       "fr": "Rhinofurax",
+      "ge": "Henkerhorn",
+      "it": "???",
       "jp": "ライノスキング"
     },
     "type": "enemy",
@@ -3737,11 +4097,14 @@
   },
   {
     "id": 121,
-    "imgPath": "img/monsters/121.png",
+    "sprite": "img/monsters/121.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Joojoo gooroo",
-      "es": " gooroo",
+      "es": "?",
       "fr": "Gourou jajou",
+      "ge": "Miesmagier",
+      "it": "???",
       "jp": "ブラックマージ"
     },
     "type": "enemy",
@@ -3766,11 +4129,14 @@
   },
   {
     "id": 122,
-    "imgPath": "img/monsters/122.png",
+    "sprite": "img/monsters/122.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Grim keeper",
-      "es": " keeper",
+      "es": "?",
       "fr": "Grand faucheur",
+      "ge": "Sensenhüter",
+      "it": "???",
       "jp": "じごくのもんばん"
     },
     "type": "enemy",
@@ -3795,11 +4161,14 @@
   },
   {
     "id": 123,
-    "imgPath": "img/monsters/123.png",
+    "sprite": "img/monsters/123.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Ogre",
-      "es": "",
+      "es": "?",
       "fr": "Bouledogre",
+      "ge": "Oger",
+      "it": "???",
       "jp": "オーガー"
     },
     "type": "enemy",
@@ -3824,11 +4193,14 @@
   },
   {
     "id": 124,
-    "imgPath": "img/monsters/124.png",
+    "sprite": "img/monsters/124.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Bullion",
-      "es": "",
+      "es": "?",
       "fr": "Mygalion",
+      "ge": "??",
+      "it": "???",
       "jp": "やつざきアニマル"
     },
     "type": "enemy",
@@ -3853,11 +4225,14 @@
   },
   {
     "id": 125,
-    "imgPath": "img/monsters/125.png",
+    "sprite": "img/monsters/125.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Night emperor",
-      "es": " emperor",
+      "es": "?",
       "fr": "Empereur nocturne",
+      "ge": "??",
+      "it": "???",
       "jp": "よるのていおう"
     },
     "type": "enemy",
@@ -3882,11 +4257,14 @@
   },
   {
     "id": 126,
-    "imgPath": "img/monsters/126.png",
+    "sprite": "img/monsters/126.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Metal king slime",
-      "es": " king slime",
+      "es": "?",
       "fr": "Roi gluant de métal",
+      "ge": "??",
+      "it": "???",
       "jp": "メタルキング"
     },
     "type": "enemy",
@@ -3911,11 +4289,14 @@
   },
   {
     "id": 127,
-    "imgPath": "img/monsters/127.png",
+    "sprite": "img/monsters/127.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Green dragon",
-      "es": " dragon",
+      "es": "",
       "fr": "Dragon vert",
+      "ge": "Grüner Drache",
+      "it": "???",
       "jp": "グリーンドラゴン"
     },
     "type": "enemy",
@@ -3940,11 +4321,14 @@
   },
   {
     "id": 128,
-    "imgPath": "img/monsters/128.png",
+    "sprite": "img/monsters/128.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Whirly girly",
-      "es": " girly",
+      "es": "",
       "fr": "Typhonphonphon",
+      "ge": "Wirbeline",
+      "it": "???",
       "jp": "レッドサイクロン"
     },
     "type": "enemy",
@@ -3969,11 +4353,14 @@
   },
   {
     "id": 129,
-    "imgPath": "img/monsters/129.png",
+    "sprite": "img/monsters/129.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Bone baron",
-      "es": " baron",
+      "es": "?",
       "fr": "Baron d'os",
+      "ge": "??",
+      "it": "???",
       "jp": "しにがみきぞく"
     },
     "type": "enemy",
@@ -3998,11 +4385,14 @@
   },
   {
     "id": 130,
-    "imgPath": "img/monsters/130.png",
+    "sprite": "img/monsters/130.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Drooling ghoul",
-      "es": " ghoul",
+      "es": "?",
       "fr": "Sméagoule",
+      "ge": "Geifernder Ghul",
+      "it": "???",
       "jp": "スモールグール"
     },
     "type": "enemy",
@@ -4033,11 +4423,14 @@
   },
   {
     "id": 131,
-    "imgPath": "img/monsters/131.png",
+    "sprite": "img/monsters/131.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Teaky mask",
-      "es": " mask",
+      "es": "?",
       "fr": "Maskoteck",
+      "ge": "??",
+      "it": "???",
       "jp": "トーテムキラー"
     },
     "type": "enemy",
@@ -4062,11 +4455,14 @@
   },
   {
     "id": 132,
-    "imgPath": "img/monsters/132.png",
+    "sprite": "img/monsters/132.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Pickeerer",
-      "es": "",
+      "es": "?",
       "fr": "Vicius",
+      "ge": "Triezer",
+      "it": "???",
       "jp": "バアラック"
     },
     "type": "enemy",
@@ -4096,11 +4492,14 @@
   },
   {
     "id": 133,
-    "imgPath": "img/monsters/133.png",
+    "sprite": "img/monsters/133.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Pit viper",
-      "es": " viper",
+      "es": "?",
       "fr": "Crotale",
+      "ge": "??",
+      "it": "???",
       "jp": "ピットバイパー"
     },
     "type": "enemy",
@@ -4125,11 +4524,14 @@
   },
   {
     "id": 134,
-    "imgPath": "img/monsters/134.png",
+    "sprite": "img/monsters/134.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Damselfly",
-      "es": "",
+      "es": "?",
       "fr": "Damoisel",
+      "ge": "Seejungfer",
+      "it": "???",
       "jp": "フェアリードラゴン"
     },
     "type": "enemy",
@@ -4154,11 +4556,14 @@
   },
   {
     "id": 135,
-    "imgPath": "img/monsters/135.png",
+    "sprite": "img/monsters/135.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Abullddon",
-      "es": "",
+      "es": "?",
       "fr": "Belzébouc",
+      "ge": "??",
+      "it": "???",
       "jp": "ブルデビル"
     },
     "type": "enemy",
@@ -4183,11 +4588,14 @@
   },
   {
     "id": 136,
-    "imgPath": "img/monsters/136.png",
+    "sprite": "img/monsters/136.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Hot dog",
-      "es": " dog",
+      "es": "?",
       "fr": "Pitbrûle",
+      "ge": "??",
+      "it": "???",
       "jp": "フレイムドック"
     },
     "type": "enemy",
@@ -4212,11 +4620,14 @@
   },
   {
     "id": 137,
-    "imgPath": "img/monsters/137.png",
+    "sprite": "img/monsters/137.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Beelzebuzz",
-      "es": "",
+      "es": "?",
       "fr": "Globulœil",
+      "ge": "Herr der Fliegen",
+      "it": "???",
       "jp": "ベルザブル"
     },
     "type": "enemy",
@@ -4241,11 +4652,14 @@
   },
   {
     "id": 138,
-    "imgPath": "img/monsters/138.png",
+    "sprite": "img/monsters/138.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Float-o-copier",
-      "es": "-o-copier",
+      "es": "?-copier",
       "fr": "Feutocopieur",
+      "ge": "Doppelmoppel",
+      "it": "???",
       "jp": "マネマネ"
     },
     "type": "enemy",
@@ -4275,11 +4689,14 @@
   },
   {
     "id": 139,
-    "imgPath": "img/monsters/139.png",
+    "sprite": "img/monsters/139.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Terracotta warrior",
-      "es": " warrior",
+      "es": "?",
       "fr": "Guerracotta",
+      "ge": "Terrakottakrieger",
+      "it": "???",
       "jp": "どぐうせんし"
     },
     "type": "enemy",
@@ -4304,11 +4721,14 @@
   },
   {
     "id": 140,
-    "imgPath": "img/monsters/140.png",
+    "sprite": "img/monsters/140.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Swingre",
-      "es": "",
+      "es": "?",
       "fr": "Fléogre",
+      "ge": "??",
+      "it": "???",
       "jp": "てっきゅうまじん"
     },
     "type": "enemy",
@@ -4333,11 +4753,14 @@
   },
   {
     "id": 141,
-    "imgPath": "img/monsters/141.png",
+    "sprite": "img/monsters/141.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Red dragon",
-      "es": " dragon",
+      "es": "?",
       "fr": "Dragon rouge",
+      "ge": "??",
+      "it": "???",
       "jp": "レッドドラゴン"
     },
     "type": "enemy",
@@ -4362,11 +4785,14 @@
   },
   {
     "id": 142,
-    "imgPath": "img/monsters/142.png",
+    "sprite": "img/monsters/142.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Sasquash",
-      "es": "",
+      "es": "?",
       "fr": "Primatraque",
+      "ge": "??",
+      "it": "???",
       "jp": "ビッグスロース"
     },
     "type": "enemy",
@@ -4391,11 +4817,14 @@
   },
   {
     "id": 143,
-    "imgPath": "img/monsters/143.png",
+    "sprite": "img/monsters/143.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Wilder beast",
-      "es": " beast",
+      "es": "?",
       "fr": "Bebête sauvage",
+      "ge": "??",
+      "it": "???",
       "jp": "ビースト"
     },
     "type": "enemy",
@@ -4420,11 +4849,14 @@
   },
   {
     "id": 144,
-    "imgPath": "img/monsters/144.png",
+    "sprite": "img/monsters/144.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Vis mage",
-      "es": " mage",
+      "es": "?",
       "fr": "Maximage",
+      "ge": "??",
+      "it": "???",
       "jp": "だいまどう"
     },
     "type": "enemy",
@@ -4454,11 +4886,14 @@
   },
   {
     "id": 145,
-    "imgPath": "img/monsters/145.png",
+    "sprite": "img/monsters/145.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Prince of darkness",
-      "es": " of darkness",
+      "es": "?",
       "fr": "Prince des ténèbres",
+      "ge": "Prinz der Finsternis",
+      "it": "???",
       "jp": "デビルプリンス"
     },
     "type": "enemy",
@@ -4483,11 +4918,14 @@
   },
   {
     "id": 146,
-    "imgPath": "img/monsters/146.png",
+    "sprite": "img/monsters/146.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Dragooner",
-      "es": "",
+      "es": "?",
       "fr": "Cavalier des enfers",
+      "ge": "??",
+      "it": "???",
       "jp": "ガーディアン"
     },
     "type": "enemy",
@@ -4516,11 +4954,14 @@
   },
   {
     "id": 147,
-    "imgPath": "img/monsters/147.png",
+    "sprite": "img/monsters/147.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Emperor wyvern",
-      "es": " wyvern",
+      "es": "?",
       "fr": "Wyvereine",
+      "ge": "??",
+      "it": "???",
       "jp": "ライバーンロード"
     },
     "type": "enemy",
@@ -4549,11 +4990,14 @@
   },
   {
     "id": 148,
-    "imgPath": "img/monsters/148.png",
+    "sprite": "img/monsters/148.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Demonspawn",
-      "es": "",
+      "es": "?",
       "fr": "Rejeton du démon",
+      "ge": "Dämonenbrut",
+      "it": "???",
       "jp": "デーモンスピリット"
     },
     "type": "enemy",
@@ -4578,11 +5022,14 @@
   },
   {
     "id": 149,
-    "imgPath": "img/monsters/149.png",
+    "sprite": "img/monsters/149.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Night rider",
-      "es": " rider",
+      "es": "?",
       "fr": "Cavalier nocturne",
+      "ge": "??",
+      "it": "???",
       "jp": "グレートライドン"
     },
     "type": "enemy",
@@ -4607,11 +5054,14 @@
   },
   {
     "id": 150,
-    "imgPath": "img/monsters/150.png",
+    "sprite": "img/monsters/150.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Night clubber",
-      "es": " clubber",
+      "es": "?",
       "fr": "Bastonnier",
+      "ge": "??",
+      "it": "???",
       "jp": "おにこんぼう"
     },
     "type": "enemy",
@@ -4636,11 +5086,14 @@
   },
   {
     "id": 151,
-    "imgPath": "img/monsters/151.png",
+    "sprite": "img/monsters/151.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Knightshade",
-      "es": "",
+      "es": "?",
       "fr": "Chevalier nébuleux",
+      "ge": "??",
+      "it": "???",
       "jp": "ダークアーマー"
     },
     "type": "enemy",
@@ -4665,11 +5118,14 @@
   },
   {
     "id": 152,
-    "imgPath": "img/monsters/152.png",
+    "sprite": "img/monsters/152.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Decayurion",
-      "es": "",
+      "es": "?",
       "fr": "Légionellos",
+      "ge": "??",
+      "it": "???",
       "jp": "ゾンビソルジャー"
     },
     "type": "enemy",
@@ -4694,11 +5150,14 @@
   },
   {
     "id": 153,
-    "imgPath": "img/monsters/153.png",
+    "sprite": "img/monsters/153.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Bloody hand",
-      "es": " hand",
+      "es": "?",
       "fr": "Main sanglante",
+      "ge": "??",
+      "it": "???",
       "jp": "ブラッドハンド"
     },
     "type": "enemy",
@@ -4723,11 +5182,14 @@
   },
   {
     "id": 154,
-    "imgPath": "img/monsters/154.png",
+    "sprite": "img/monsters/154.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Demon thunderer",
-      "es": " thunderer",
+      "es": "?",
       "fr": "Démon orageux",
+      "ge": "??",
+      "it": "???",
       "jp": "サンダーサタン"
     },
     "type": "enemy",
@@ -4752,11 +5214,14 @@
   },
   {
     "id": 155,
-    "imgPath": "img/monsters/155.png",
+    "sprite": "img/monsters/155.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Draguar",
-      "es": "",
+      "es": "?",
       "fr": "Draguar",
+      "ge": "??",
+      "it": "???",
       "jp": "ゲリュオン"
     },
     "type": "enemy",
@@ -4781,11 +5246,14 @@
   },
   {
     "id": 156,
-    "imgPath": "img/monsters/156.png",
+    "sprite": "img/monsters/156.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Juggular",
-      "es": "",
+      "es": "?",
       "fr": "Saltimbranque",
+      "ge": "Gurgelgaukler",
+      "it": "???",
       "jp": "デーモンレスラー"
     },
     "type": "enemy",
@@ -4810,11 +5278,14 @@
   },
   {
     "id": 157,
-    "imgPath": "img/monsters/157.png",
+    "sprite": "img/monsters/157.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Cerberuff",
-      "es": "",
+      "es": "?",
       "fr": "Cerberk",
+      "ge": "??",
+      "it": "???",
       "jp": "じごくのばんけん"
     },
     "type": "enemy",
@@ -4839,11 +5310,14 @@
   },
   {
     "id": 158,
-    "imgPath": "img/monsters/158.png",
+    "sprite": "img/monsters/158.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Gnucifer",
-      "es": "",
+      "es": "?",
       "fr": "Satanglier",
+      "ge": "Gnuzifer",
+      "it": "???",
       "jp": "ヌーデビル"
     },
     "type": "enemy",
@@ -4868,11 +5342,14 @@
   },
   {
     "id": 159,
-    "imgPath": "img/monsters/159.png",
+    "sprite": "img/monsters/159.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Div",
-      "es": "",
+      "es": "?",
       "fr": "Stryge",
+      "ge": "Greifer",
+      "it": "???",
       "jp": "ランガー"
     },
     "type": "enemy",
@@ -4897,11 +5374,14 @@
   },
   {
     "id": 160,
-    "imgPath": "img/monsters/160.png",
+    "sprite": "img/monsters/160.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Prism peacock",
-      "es": " peacock",
+      "es": "?",
       "fr": "Dark-en-ciel",
+      "ge": "??",
+      "it": "???",
       "jp": "にじくじゃく"
     },
     "type": "enemy",
@@ -4926,11 +5406,14 @@
   },
   {
     "id": 161,
-    "imgPath": "img/monsters/161.png",
+    "sprite": "img/monsters/161.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Testudogre",
-      "es": "",
+      "es": "?",
       "fr": "Métallogre",
+      "ge": "Testosteroger",
+      "it": "???",
       "jp": "オーガキング"
     },
     "type": "enemy",
@@ -4955,11 +5438,14 @@
   },
   {
     "id": 162,
-    "imgPath": "img/monsters/162.png",
+    "sprite": "img/monsters/162.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Drakulard",
-      "es": "",
+      "es": "?",
       "fr": "Draculard",
+      "ge": "??",
+      "it": "???",
       "jp": "ギガントドラゴン"
     },
     "type": "enemy",
@@ -4984,11 +5470,14 @@
   },
   {
     "id": 163,
-    "imgPath": "img/monsters/163.png",
+    "sprite": "img/monsters/163.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Togre",
-      "es": "",
+      "es": "?",
       "fr": "Togre",
+      "ge": "??",
+      "it": "???",
       "jp": "ネクロバルサ"
     },
     "type": "enemy",
@@ -5013,11 +5502,14 @@
   },
   {
     "id": 164,
-    "imgPath": "img/monsters/164.png",
+    "sprite": "img/monsters/164.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "High djinks",
-      "es": " djinks",
+      "es": "?",
       "fr": "Djinn-fizz",
+      "ge": "??",
+      "it": "???",
       "jp": "ランプのまおう"
     },
     "type": "enemy",
@@ -5042,11 +5534,14 @@
   },
   {
     "id": 165,
-    "imgPath": "img/monsters/165.png",
+    "sprite": "img/monsters/165.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Perilwinkle",
-      "es": "",
+      "es": "?",
       "fr": "Bicorneau",
+      "ge": "??",
+      "it": "???",
       "jp": "あんこくつむり"
     },
     "type": "enemy",
@@ -5071,11 +5566,14 @@
   },
   {
     "id": 166,
-    "imgPath": "img/monsters/166.png",
+    "sprite": "img/monsters/166.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Shelligator",
-      "es": "",
+      "es": "?",
       "fr": "Alligatortue",
+      "ge": "??",
+      "it": "???",
       "jp": "キルゲータ"
     },
     "type": "enemy",
@@ -5100,11 +5598,14 @@
   },
   {
     "id": 167,
-    "imgPath": "img/monsters/167.png",
+    "sprite": "img/monsters/167.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Croaked king",
-      "es": " king",
+      "es": "?",
       "fr": "Roi crôa",
+      "ge": "??",
+      "it": "???",
       "jp": "フロッグキング"
     },
     "type": "enemy",
@@ -5129,11 +5630,14 @@
   },
   {
     "id": 168,
-    "imgPath": "img/monsters/168.png",
+    "sprite": "img/monsters/168.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Seasaur",
-      "es": "",
+      "es": "?",
       "fr": "Aquasaure",
+      "ge": "??",
+      "it": "???",
       "jp": "ギャオース"
     },
     "type": "enemy",
@@ -5158,11 +5662,14 @@
   },
   {
     "id": 169,
-    "imgPath": "img/monsters/169.png",
+    "sprite": "img/monsters/169.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Platinum king jewel",
-      "es": " king jewel",
+      "es": "?",
       "fr": "Bijou royal en platine",
+      "ge": "Platinkönigsjuwel",
+      "it": "???",
       "jp": "プラチナキング"
     },
     "type": "enemy",
@@ -5187,11 +5694,14 @@
   },
   {
     "id": 170,
-    "imgPath": "img/monsters/170.png",
+    "sprite": "img/monsters/170.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Cannibox",
-      "es": "",
+      "es": "?",
       "fr": "Canniboîte",
+      "ge": "Fresskiste",
+      "it": "???",
       "jp": "ひとくいばこ"
     },
     "type": "enemy",
@@ -5216,11 +5726,14 @@
   },
   {
     "id": 171,
-    "imgPath": "img/monsters/171.png",
+    "sprite": "img/monsters/171.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Mimic",
-      "es": "",
+      "es": "?",
       "fr": "Imitapeur",
+      "ge": "Imitator",
+      "it": "???",
       "jp": "ミミック"
     },
     "type": "enemy",
@@ -5251,11 +5764,14 @@
   },
   {
     "id": 172,
-    "imgPath": "img/monsters/172.png",
+    "sprite": "img/monsters/172.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Pandora's box",
-      "es": "'s box",
+      "es": "?",
       "fr": "Boîte de Pandore",
+      "ge": "Pandorabüchse",
+      "it": "???",
       "jp": "パンドラボックス"
     },
     "type": "enemy",
@@ -5280,11 +5796,14 @@
   },
   {
     "id": 173,
-    "imgPath": "img/monsters/173.png",
+    "sprite": "img/monsters/173.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Scarewell",
-      "es": "",
+      "es": "?",
       "fr": "Puisard",
+      "ge": "Brunnenspuk",
+      "it": "???",
       "jp": "いどまねき"
     },
     "type": "enemy",
@@ -5309,11 +5828,14 @@
   },
   {
     "id": 174,
-    "imgPath": "img/monsters/174.png",
+    "sprite": "img/monsters/174.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Well wisher",
-      "es": " wisher",
+      "es": "?",
       "fr": "Puits-sang",
+      "ge": "Quellgeist",
+      "it": "???",
       "jp": "いどまじん"
     },
     "type": "enemy",
@@ -5338,11 +5860,14 @@
   },
   {
     "id": 175,
-    "imgPath": "img/monsters/175.png",
+    "sprite": "img/monsters/175.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Man o' war",
-      "es": " o' war",
+      "es": "?",
       "fr": "Méduse",
+      "ge": "Seeblase",
+      "it": "???",
       "jp": "しびれくらげ"
     },
     "type": "enemy",
@@ -5367,11 +5892,14 @@
   },
   {
     "id": 176,
-    "imgPath": "img/monsters/176.png",
+    "sprite": "img/monsters/176.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Glugworm",
-      "es": "",
+      "es": "?",
       "fr": "Ver mine",
+      "ge": "??",
+      "it": "???",
       "jp": "マリンワーム"
     },
     "type": "enemy",
@@ -5396,11 +5924,14 @@
   },
   {
     "id": 177,
-    "imgPath": "img/monsters/177.png",
+    "sprite": "img/monsters/177.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Strangler fish",
-      "es": " fish",
+      "es": "?",
       "fr": "Saumonstrueux",
+      "ge": "Drosselfisch",
+      "it": "???",
       "jp": "ピラニアン"
     },
     "type": "enemy",
@@ -5425,11 +5956,14 @@
   },
   {
     "id": 178,
-    "imgPath": "img/monsters/178.png",
+    "sprite": "img/monsters/178.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Axolotl",
-      "es": "",
+      "es": "?",
       "fr": "Axolotl",
+      "ge": "??",
+      "it": "???",
       "jp": "マッドルーパー"
     },
     "type": "enemy",
@@ -5454,11 +5988,14 @@
   },
   {
     "id": 179,
-    "imgPath": "img/monsters/179.png",
+    "sprite": "img/monsters/179.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Preying manta",
-      "es": " manta",
+      "es": "?",
       "fr": "Raie pulsive",
+      "ge": "??",
+      "it": "???",
       "jp": "さつじんえい"
     },
     "type": "enemy",
@@ -5483,11 +6020,14 @@
   },
   {
     "id": 180,
-    "imgPath": "img/monsters/180.png",
+    "sprite": "img/monsters/180.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Barracuda",
-      "es": "",
+      "es": "?",
       "fr": "Barracuda",
+      "ge": "??",
+      "it": "???",
       "jp": "とつげきうお"
     },
     "type": "enemy",
@@ -5512,11 +6052,14 @@
   },
   {
     "id": 181,
-    "imgPath": "img/monsters/181.png",
+    "sprite": "img/monsters/181.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Pterygotus",
-      "es": "",
+      "es": "?",
       "fr": "Pterygotus",
+      "ge": "??",
+      "it": "???",
       "jp": "じごくのざりがに"
     },
     "type": "enemy",
@@ -5541,11 +6084,14 @@
   },
   {
     "id": 182,
-    "imgPath": "img/monsters/182.png",
+    "sprite": "img/monsters/182.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Devilfish",
-      "es": "",
+      "es": "?",
       "fr": "Poulpotrompe",
+      "ge": "??",
+      "it": "???",
       "jp": "たこまじん"
     },
     "type": "enemy",
@@ -5570,11 +6116,14 @@
   },
   {
     "id": 183,
-    "imgPath": "img/monsters/183.png",
+    "sprite": "img/monsters/183.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Mangler fish",
-      "es": " fish",
+      "es": "?",
       "fr": "Rascrasse",
+      "ge": "??",
+      "it": "???",
       "jp": "しびれあんこう"
     },
     "type": "enemy",
@@ -5599,11 +6148,14 @@
   },
   {
     "id": 184,
-    "imgPath": "img/monsters/184.png",
+    "sprite": "img/monsters/184.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Maulrus",
-      "es": "",
+      "es": "?",
       "fr": "Matamorse",
+      "ge": "Schlachtross",
+      "it": "???",
       "jp": "シーライオン"
     },
     "type": "enemy",
@@ -5628,11 +6180,14 @@
   },
   {
     "id": 185,
-    "imgPath": "img/monsters/185.png",
+    "sprite": "img/monsters/185.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Woolungasaurus",
-      "es": "",
+      "es": "?",
       "fr": "Elasmosaure",
+      "ge": "Woolungasaurier",
+      "it": "???",
       "jp": "くびながりゅう"
     },
     "type": "enemy",
@@ -5657,11 +6212,14 @@
   },
   {
     "id": 186,
-    "imgPath": "img/monsters/186.png",
+    "sprite": "img/monsters/186.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Sand viper",
-      "es": " viper",
+      "es": "?",
       "fr": "Vipère des sables",
+      "ge": "Sandviper",
+      "it": "???",
       "jp": "フルスネイカー"
     },
     "type": "enemy",
@@ -5686,11 +6244,14 @@
   },
   {
     "id": 187,
-    "imgPath": "img/monsters/187.png",
+    "sprite": "img/monsters/187.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Ultraviolent ray",
-      "es": " ray",
+      "es": "?",
       "fr": "Massacraie",
+      "ge": "Rochenrächer",
+      "it": "???",
       "jp": "シャークマンタ"
     },
     "type": "enemy",
@@ -5715,11 +6276,14 @@
   },
   {
     "id": 188,
-    "imgPath": "img/monsters/188.png",
+    "sprite": "img/monsters/188.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Terrornodon",
-      "es": "",
+      "es": "?",
       "fr": "Pterroridactyle",
+      "ge": "??",
+      "it": "???",
       "jp": "フライングデス"
     },
     "type": "enemy",
@@ -5744,11 +6308,14 @@
   },
   {
     "id": 189,
-    "imgPath": "img/monsters/189.png",
+    "sprite": "img/monsters/189.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Spinchilla",
-      "es": "",
+      "es": "?",
       "fr": "Glacyclone",
+      "ge": "Frostfeger",
+      "it": "???",
       "jp": "うずしおキング"
     },
     "type": "enemy",
@@ -5773,11 +6340,14 @@
   },
   {
     "id": 190,
-    "imgPath": "img/monsters/190.png",
+    "sprite": "img/monsters/190.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Picuda",
-      "es": "",
+      "es": "?",
       "fr": "Mégacuda",
+      "ge": "??",
+      "it": "???",
       "jp": "バラクーダ"
     },
     "type": "enemy",
@@ -5802,11 +6372,14 @@
   },
   {
     "id": 191,
-    "imgPath": "img/monsters/191.png",
+    "sprite": "img/monsters/191.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Dangler fish",
-      "es": " fish",
+      "es": "?",
       "fr": "Charpiranha",
+      "ge": "Schnappfisch",
+      "it": "???",
       "jp": "エビルアングラー"
     },
     "type": "enemy",
@@ -5831,11 +6404,14 @@
   },
   {
     "id": 192,
-    "imgPath": "img/monsters/192.png",
+    "sprite": "img/monsters/192.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Octophant",
-      "es": "",
+      "es": "?",
       "fr": "Calaphant",
+      "ge": "Oktofant",
+      "it": "???",
       "jp": "ダゴン"
     },
     "type": "enemy",
@@ -5860,11 +6436,14 @@
   },
   {
     "id": 193,
-    "imgPath": "img/monsters/193.png",
+    "sprite": "img/monsters/193.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Incineraytor",
-      "es": "",
+      "es": "?",
       "fr": "Incinéraiteur",
+      "ge": "??",
+      "it": "???",
       "jp": "レイギガース"
     },
     "type": "enemy",
@@ -5889,11 +6468,14 @@
   },
   {
     "id": 194,
-    "imgPath": "img/monsters/194.png",
+    "sprite": "img/monsters/194.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Tuskateer",
-      "es": "",
+      "es": "?",
       "fr": "Misamorse",
+      "ge": "Horrorhauer",
+      "it": "???",
       "jp": "トドマン"
     },
     "type": "enemy",
@@ -5918,11 +6500,14 @@
   },
   {
     "id": 195,
-    "imgPath": "img/monsters/195.png",
+    "sprite": "img/monsters/195.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Psaro's Pawn",
-      "es": "'s Pawn",
+      "es": "?",
       "fr": "Sbire de Psaro",
+      "ge": "Diener des Psaro",
+      "it": "???",
       "jp": "ピサロのてさき"
     },
     "type": "boss",
@@ -5947,11 +6532,14 @@
   },
   {
     "id": 196,
-    "imgPath": "img/monsters/196.png",
+    "sprite": "img/monsters/196.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Master Kung",
-      "es": " Kung",
+      "es": "?",
       "fr": "Maître Kung",
+      "ge": "Meister Kung",
+      "it": "???",
       "jp": "カメレオンマン"
     },
     "type": "boss",
@@ -5976,11 +6564,14 @@
   },
   {
     "id": 197,
-    "imgPath": "img/monsters/197.png",
+    "sprite": "img/monsters/197.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Abominable showman",
-      "es": " showman",
+      "es": "?",
       "fr": "Abominhomme des neiges",
+      "ge": "Yetiminator",
+      "it": "???",
       "jp": "ベロリンマン"
     },
     "type": "boss",
@@ -6005,11 +6596,14 @@
   },
   {
     "id": 198,
-    "imgPath": "img/monsters/198.png",
+    "sprite": "img/monsters/198.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Balzack",
-      "es": "",
+      "es": "?",
       "fr": "Dickenz",
+      "ge": "Balzack",
+      "it": "???",
       "jp": "バルザック"
     },
     "type": "boss",
@@ -6034,11 +6628,14 @@
   },
   {
     "id": 199,
-    "imgPath": "img/monsters/199.png",
+    "sprite": "img/monsters/199.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Tricksy",
-      "es": "",
+      "es": "?",
       "fr": "Angélus",
+      "ge": "Trickser",
+      "it": "???",
       "jp": "うらぎりこぞう"
     },
     "type": "boss",
@@ -6063,11 +6660,14 @@
   },
   {
     "id": 200,
-    "imgPath": "img/monsters/200.png",
+    "sprite": "img/monsters/200.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Tigergram",
-      "es": "",
+      "es": "?",
       "fr": "Tigroar",
+      "ge": "Gewaltiger",
+      "it": "???",
       "jp": "とうだいタイガー"
     },
     "type": "boss",
@@ -6092,11 +6692,14 @@
   },
   {
     "id": 201,
-    "imgPath": "img/monsters/201.png",
+    "sprite": "img/monsters/201.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Marquis de Léon",
-      "es": " de Léon",
+      "es": "?",
       "fr": "Lord Lionel",
+      "ge": "Marquis de Léon",
+      "it": "???",
       "jp": "キングレオ"
     },
     "type": "boss",
@@ -6121,11 +6724,14 @@
   },
   {
     "id": 202,
-    "imgPath": "img/monsters/202.png",
+    "sprite": "img/monsters/202.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Baalzack",
-      "es": "",
+      "es": "?",
       "fr": "Déickenz",
+      "ge": "Baalzack",
+      "it": "???",
       "jp": "バルザック"
     },
     "type": "boss",
@@ -6150,11 +6756,14 @@
   },
   {
     "id": 203,
-    "imgPath": "img/monsters/203.png",
+    "sprite": "img/monsters/203.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Sir Roseguardin",
-      "es": " Roseguardin",
+      "es": "?",
       "fr": "Sire Rosegarde",
+      "ge": "Fürst Grünspan",
+      "it": "???",
       "jp": "ピサロナイト"
     },
     "type": "boss",
@@ -6179,11 +6788,14 @@
   },
   {
     "id": 204,
-    "imgPath": "img/monsters/204.png",
+    "sprite": "img/monsters/204.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Rashaverak",
-      "es": "",
+      "es": "?",
       "fr": "Rashaverak",
+      "ge": "Rashaverak",
+      "it": "???",
       "jp": "アンドレアル"
     },
     "type": "boss",
@@ -6208,11 +6820,14 @@
   },
   {
     "id": 205,
-    "imgPath": "img/monsters/205.png",
+    "sprite": "img/monsters/205.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Pruslas",
-      "es": "",
+      "es": "?",
       "fr": "Pruslas",
+      "ge": "Pruslas",
+      "it": "???",
       "jp": "ギガデーモン"
     },
     "type": "boss",
@@ -6237,11 +6852,14 @@
   },
   {
     "id": 206,
-    "imgPath": "img/monsters/206.png",
+    "sprite": "img/monsters/206.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Barbatos",
-      "es": "",
+      "es": "?",
       "fr": "Barbatos",
+      "ge": "Barbatos",
+      "it": "???",
       "jp": "ヘルバトラー"
     },
     "type": "boss",
@@ -6266,11 +6884,14 @@
   },
   {
     "id": 207,
-    "imgPath": "img/monsters/207.png",
+    "sprite": "img/monsters/207.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Aamon",
-      "es": "",
+      "es": "?",
       "fr": "Aamon",
+      "ge": "Aamon",
+      "it": "???",
       "jp": "エビルプリースト"
     },
     "type": "boss",
@@ -6295,11 +6916,14 @@
   },
   {
     "id": 208,
-    "imgPath": "img/monsters/208.png",
+    "sprite": "img/monsters/208.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Estark",
-      "es": "",
+      "es": "?",
       "fr": "Estark",
+      "ge": "Estark",
+      "it": "???",
       "jp": "エスターク"
     },
     "type": "boss",
@@ -6324,11 +6948,14 @@
   },
   {
     "id": 209,
-    "imgPath": "img/monsters/209.png",
+    "sprite": "img/monsters/209.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Foo Yung",
-      "es": " Yung",
+      "es": "?",
       "fr": "Cent-ans",
+      "ge": "Fu Yung",
+      "it": "???",
       "jp": "エッグラ"
     },
     "type": "boss",
@@ -6353,11 +6980,14 @@
   },
   {
     "id": 210,
-    "imgPath": "img/monsters/210.png",
+    "sprite": "img/monsters/210.png",
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Chow Mein",
-      "es": " Mein",
+      "es": "?",
       "fr": "Cinq-épices",
+      "ge": "Chow Mein",
+      "it": "???",
       "jp": "チキーラ"
     },
     "type": "boss",
@@ -6382,7 +7012,7 @@
   },
   {
     "id": 211,
-    "imgPath": {
+    "sprite": {
       "phase1": "img/monsters/211.png",
       "phase2": "img/monsters/211.png",
       "phase3": "img/monsters/211.png",
@@ -6391,10 +7021,13 @@
       "phase6": "img/monsters/211.png",
       "phase7": "img/monsters/211.png"
     },
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Psaro",
-      "es": "",
+      "es": "?",
       "fr": "Psaro",
+      "ge": "Psaro",
+      "it": "???",
       "jp": "デスピサロ"
     },
     "type": "boss",
@@ -6459,16 +7092,19 @@
   },
   {
     "id": 212,
-    "imgPath": {
+    "sprite": {
       "phase1": "img/monsters/212.png",
       "phase2": "img/monsters/212.png",
       "phase3": "img/monsters/212.png",
       "phase4": "img/monsters/212.png"
     },
+    "artwork": "monsters_artworks/?.png",
     "name": {
       "en": "Aamon",
-      "es": "",
+      "es": "?",
       "fr": "Aamon",
+      "ge": "??",
+      "it": "???",
       "jp": "究極エビルプリースト"
     },
     "type": "boss",
