@@ -2,8 +2,8 @@
   {
     "id": 1,
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Leather hat",
+      "es": "",
       "fr": "Casque de cuir",
       "jp": "かわのぼうし"
     },
@@ -11,25 +11,40 @@
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 2 },
     "price": { "buy": 65, "sell": 48, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avor d'effets particuliers.",
+      "jp": "?"
+    },
     "zone": [],
     "slug": "_slug"
   },
   {
     "id": 2,
-    "name": { "en": "?", "es": "?", "fr": "Diadème", "jp": "ヘアバンド" },
+    "name": {
+      "en": "Hairband",
+      "es": "?",
+      "fr": "Diadème",
+      "jp": "ヘアバンド"
+    },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 5 },
     "price": { "buy": 110, "sell": 82, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avor d'effets particuliers.",
+      "jp": "?"
+    },
     "zone": [],
     "slug": "_slug"
   },
   {
     "id": 3,
     "name": {
-      "en": "?",
+      "en": "Hardwood headwear",
       "es": "?",
       "fr": "Casque de bois",
       "jp": "きのぼうし"
@@ -38,14 +53,19 @@
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 6 },
     "price": { "buy": 120, "sell": 90, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avor d'effets particuliers.",
+      "jp": "?"
+    },
     "zone": [],
     "slug": "_slug"
   },
   {
     "id": 4,
     "name": {
-      "en": "?",
+      "en": "Feathered cap",
       "es": "?",
       "fr": "Chapeau à plumes",
       "jp": "はねぼうし"
@@ -54,14 +74,19 @@
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 8 },
     "price": { "buy": 280, "sell": 210, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avor d'effets particuliers.",
+      "jp": "?"
+    },
     "zone": [],
     "slug": "_slug"
   },
   {
     "id": 5,
     "name": {
-      "en": "?",
+      "en": "Golden tiara",
       "es": "?",
       "fr": "Tiare d'or",
       "jp": "きんのかみかざり"
@@ -70,14 +95,19 @@
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 12 },
     "price": { "buy": 540, "sell": 405, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "This precious tiara protects against Fuddle",
+      "es": "?",
+      "fr": "?",
+      "jp": "?"
+    },
     "zone": [],
     "slug": "_slug"
   },
   {
     "id": 6,
     "name": {
-      "en": "?",
+      "en": "Happy hat",
       "es": "?",
       "fr": "Chapeau de félicité",
       "jp": "しあわせのぼうし"
@@ -86,36 +116,56 @@
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 15 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 43 },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "Recovers some of the wearer's MP with each and every step.",
+      "es": "?",
+      "fr": "?",
+      "jp": "?"
+    },
     "zone": [],
     "slug": "_slug"
   },
   {
     "id": 7,
-    "name": { "en": "?", "es": "?", "fr": "Heaume de fer", "jp": "てつかぶと" },
+    "name": {
+      "en": "Iron helmet",
+      "es": "?",
+      "fr": "Heaume de fer",
+      "jp": "てつかぶと"
+    },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 16 },
     "price": { "buy": 1100, "sell": 825, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avor d'effets particuliers.",
+      "jp": "?"
+    },
     "zone": [],
     "slug": "_slug"
   },
   {
     "id": 8,
-    "name": { "en": "?", "es": "?", "fr": "Masque de fer", "jp": "てっかめん" },
+    "name": { "en": "Iron mask", "es": "?", "fr": "Masque de fer", "jp": "てっかめん" },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 25 },
     "price": { "buy": 3500, "sell": 2625, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avor d'effets particuliers.",
+      "jp": "?"
+    },
     "zone": [],
     "slug": "_slug"
   },
   {
     "id": 9,
     "name": {
-      "en": "?",
+      "en": "Zenithian Helm",
       "es": "?",
       "fr": "Casque zénithien",
       "jp": "てんくうのかぶと"
@@ -124,7 +174,12 @@
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 30 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avor d'effets particuliers.",
+      "jp": "?"
+    },
     "zone": [],
     "slug": "_slug"
   },
@@ -140,14 +195,19 @@
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 40 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avor d'effets particuliers.",
+      "jp": "?"
+    },
     "zone": [],
     "slug": "_slug"
   },
   {
     "id": 11,
     "name": {
-      "en": "?",
+      "en": "Liquid metal helm",
       "es": "?",
       "fr": "Casque de mercure",
       "jp": "はぐれメタルヘルム"
@@ -156,14 +216,19 @@
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 50 },
     "price": { "buy": "-", "sell": "-", "token": 100000, "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avor d'effets particuliers.",
+      "jp": "?"
+    },
     "zone": [],
     "slug": "_slug"
   },
   {
     "id": 12,
     "name": {
-      "en": "?",
+      "en": "Death mask",
       "es": "?",
       "fr": "Heaume d'Hadès",
       "jp": "じゃしんのめん"
@@ -172,7 +237,12 @@
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 200 },
     "price": { "buy": "-", "sell": 6, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avor d'effets particuliers.",
+      "jp": "?"
+    },
     "zone": [],
     "slug": "_slug"
   }
