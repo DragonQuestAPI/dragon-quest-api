@@ -1,7 +1,12 @@
 [
   {
     "id": 1,
-    "name": { "en": "?", "es": "?", "fr": "?", "jp": "かわのぼうし" },
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "!Casque de cuir",
+      "jp": "かわのぼうし"
+    },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 2 },
@@ -12,7 +17,7 @@
   },
   {
     "id": 2,
-    "name": { "en": "?", "es": "?", "fr": "?", "jp": "ヘアバンド" },
+    "name": { "en": "?", "es": "?", "fr": "Diadème", "jp": "ヘアバンド" },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 5 },
@@ -23,7 +28,12 @@
   },
   {
     "id": 3,
-    "name": { "en": "?", "es": "?", "fr": "?", "jp": "きのぼうし" },
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Casque de bois",
+      "jp": "きのぼうし"
+    },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 6 },
@@ -34,7 +44,12 @@
   },
   {
     "id": 4,
-    "name": { "en": "?", "es": "?", "fr": "?", "jp": "はねぼうし" },
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Chapeau à plumes",
+      "jp": "はねぼうし"
+    },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 8 },
@@ -45,7 +60,12 @@
   },
   {
     "id": 5,
-    "name": { "en": "?", "es": "?", "fr": "?", "jp": "きんのかみかざり" },
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Tiare d'or",
+      "jp": "きんのかみかざり"
+    },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 12 },
@@ -56,7 +76,12 @@
   },
   {
     "id": 6,
-    "name": { "en": "?", "es": "?", "fr": "?", "jp": "しあわせのぼうし" },
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Chapeau de félicité",
+      "jp": "しあわせのぼうし"
+    },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 15 },
@@ -67,7 +92,7 @@
   },
   {
     "id": 7,
-    "name": { "en": "?", "es": "?", "fr": "?", "jp": "てつかぶと" },
+    "name": { "en": "?", "es": "?", "fr": "Heaume de fer", "jp": "てつかぶと" },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 16 },
@@ -78,7 +103,7 @@
   },
   {
     "id": 8,
-    "name": { "en": "?", "es": "?", "fr": "?", "jp": "てっかめん" },
+    "name": { "en": "?", "es": "?", "fr": "Masque de fer", "jp": "てっかめん" },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 25 },
@@ -89,7 +114,12 @@
   },
   {
     "id": 9,
-    "name": { "en": "?", "es": "?", "fr": "?", "jp": "てんくうのかぶと" },
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Casque zénithien",
+      "jp": "てんくうのかぶと"
+    },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 30 },
@@ -111,7 +141,12 @@
   },
   {
     "id": 11,
-    "name": { "en": "?", "es": "?", "fr": "?", "jp": "はぐれメタルヘルム" },
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Casque de mercure",
+      "jp": "はぐれメタルヘルム"
+    },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 50 },
@@ -122,7 +157,12 @@
   },
   {
     "id": 12,
-    "name": { "en": "?", "es": "?", "fr": "?", "jp": "じゃしんのめん" },
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Heaume d'Hadès",
+      "jp": "じゃしんのめん"
+    },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 200 },
