@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": { "en": "?", "es": "?", "fr": "?", "jp": "かわのぼうし" },
+    "sprite": "helmets_sprites/?.png",
+    "artwork": "helmets_artworks/?.png",
+    "stats": { "defense": 2 },
+    "price": { "buy": 65, "sell": 48, "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "zone": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 2,
+    "name": { "en": "?", "es": "?", "fr": "?", "jp": "ヘアバンド" },
+    "sprite": "helmets_sprites/?.png",
+    "artwork": "helmets_artworks/?.png",
+    "stats": { "defense": 5 },
+    "price": { "buy": 110, "sell": 82, "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "zone": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 3,
+    "name": { "en": "?", "es": "?", "fr": "?", "jp": "きのぼうし" },
+    "sprite": "helmets_sprites/?.png",
+    "artwork": "helmets_artworks/?.png",
+    "stats": { "defense": 6 },
+    "price": { "buy": 120, "sell": 90, "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "zone": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 4,
+    "name": { "en": "?", "es": "?", "fr": "?", "jp": "はねぼうし" },
+    "sprite": "helmets_sprites/?.png",
+    "artwork": "helmets_artworks/?.png",
+    "stats": { "defense": 8 },
+    "price": { "buy": 280, "sell": 210, "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "zone": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 5,
+    "name": { "en": "?", "es": "?", "fr": "?", "jp": "きんのかみかざり" },
+    "sprite": "helmets_sprites/?.png",
+    "artwork": "helmets_artworks/?.png",
+    "stats": { "defense": 12 },
+    "price": { "buy": 540, "sell": 405, "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "zone": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 6,
+    "name": { "en": "?", "es": "?", "fr": "?", "jp": "しあわせのぼうし" },
+    "sprite": "helmets_sprites/?.png",
+    "artwork": "helmets_artworks/?.png",
+    "stats": { "defense": 15 },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 43 },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "zone": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 7,
+    "name": { "en": "?", "es": "?", "fr": "?", "jp": "てつかぶと" },
+    "sprite": "helmets_sprites/?.png",
+    "artwork": "helmets_artworks/?.png",
+    "stats": { "defense": 16 },
+    "price": { "buy": 1100, "sell": 825, "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "zone": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 8,
+    "name": { "en": "?", "es": "?", "fr": "?", "jp": "てっかめん" },
+    "sprite": "helmets_sprites/?.png",
+    "artwork": "helmets_artworks/?.png",
+    "stats": { "defense": 25 },
+    "price": { "buy": 3500, "sell": 2625, "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "zone": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 9,
+    "name": { "en": "?", "es": "?", "fr": "?", "jp": "てんくうのかぶと" },
+    "sprite": "helmets_sprites/?.png",
+    "artwork": "helmets_artworks/?.png",
+    "stats": { "defense": 30 },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "zone": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 10,
+    "name": { "en": "?", "es": "?", "fr": "?", "jp": "まかいのかぶと" },
+    "sprite": "helmets_sprites/?.png",
+    "artwork": "helmets_artworks/?.png",
+    "stats": { "defense": 40 },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "zone": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 11,
+    "name": { "en": "?", "es": "?", "fr": "?", "jp": "はぐれメタルヘルム" },
+    "sprite": "helmets_sprites/?.png",
+    "artwork": "helmets_artworks/?.png",
+    "stats": { "defense": 50 },
+    "price": { "buy": "-", "sell": "-", "token": 100000, "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "zone": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 12,
+    "name": { "en": "?", "es": "?", "fr": "?", "jp": "じゃしんのめん" },
+    "sprite": "helmets_sprites/?.png",
+    "artwork": "helmets_artworks/?.png",
+    "stats": { "defense": 200 },
+    "price": { "buy": "-", "sell": 6, "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "zone": [],
+    "slug": "_slug"
+  }
+]
