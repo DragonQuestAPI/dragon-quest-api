@@ -4,7 +4,7 @@
     "name": {
       "en": "?",
       "es": "?",
-      "fr": "!Casque de cuir",
+      "fr": "Casque de cuir",
       "jp": "かわのぼうし"
     },
     "sprite": "helmets_sprites/?.png",
@@ -130,7 +130,12 @@
   },
   {
     "id": 10,
-    "name": { "en": "?", "es": "?", "fr": "?", "jp": "まかいのかぶと" },
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Casque des enfers",
+      "jp": "まかいのかぶと"
+    },
     "sprite": "helmets_sprites/?.png",
     "artwork": "helmets_artworks/?.png",
     "stats": { "defense": 40 },
