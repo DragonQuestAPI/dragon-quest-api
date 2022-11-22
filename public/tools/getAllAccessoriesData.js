@@ -22,7 +22,7 @@ const getAllAccessories = (tableSelector = "#accessories", offset = 2) => {
       .split("\n")[0]
       .trim();
     // const defense = parseInt(tr.querySelector("td:nth-child(3)").textContent);
-    let price = tr.querySelector("td:nth-child(4)").textContent.split(" ");
+    let price = tr.querySelector("td:nth-child(3)").textContent.split(" ");
     price = price.map((p) => p.replace("*", ""));
 
     let priceSystem = {
@@ -51,11 +51,11 @@ const getAllAccessories = (tableSelector = "#accessories", offset = 2) => {
         jp: name,
       },
       stats: {
-        attack : "-",
-        defense : "-",
-        wisdom: "-",
-        speed : "-",
-        luck : "-",
+        attack: "?",
+        defense: "?",
+        wisdom: "?",
+        speed: "?",
+        luck: "?",
       },
       price: {
         buy: priceSystem.buy ? formatPrice(priceSystem.buy) : "-",
