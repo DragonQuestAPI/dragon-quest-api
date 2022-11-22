@@ -1,6 +1,10 @@
 {
   "id": 9,
-  "imgPath": "img/heroes/psaro.png",
+  "sprite": "characters_sprites/psaro.png",
+  "animatedSprite": "characters_animated_sprites/psaro.gif",
+  "copySprite": "characters_copy_sprites/psaro.gif",
+  "animatedCopySprite": "characters_animated_copy_sprites/psaro.gif",
+  "artwork": "characters_artworks/psaro.png",
   "name": {
     "en": "Psaro",
     "es": "Psaro",

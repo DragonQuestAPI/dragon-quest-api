@@ -1,6 +1,10 @@
 {
   "id": 7,
-  "imgPath": "img/heroes/maya.png",
+  "sprite": "characters_sprites/maya.png",
+  "animatedSprite": "characters_animated_sprites/maya.gif",
+  "copySprite": "characters_copy_sprites/maya.gif",
+  "animatedCopySprite": "characters_animated_copy_sprites/maya.gif",
+  "artwork": "characters_artworks/maya.png",
   "name": {
     "en": "Maya Mahabala",
     "es": "Maya Mahabala",

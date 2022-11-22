@@ -1,6 +1,10 @@
 {
   "id": 1,
-  "imgPath": "img/heroes/herof.png",
+  "sprite": "characters_sprites/herom.png",
+  "animatedSprite": "characters_animated_sprites/herom.gif",
+  "copySprite": "characters_copy_sprites/herom.gif",
+  "animatedCopySprite": "characters_animated_copy_sprites/herom.gif",
+  "artwork": "characters_artworks/herom.png",
   "name": {
     "en": "hero",
     "es": "héroe",

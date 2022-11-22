@@ -1,6 +1,10 @@
 {
   "id": 8,
-  "imgPath": "img/heroes/meena.png",
+  "sprite": "characters_sprites/meena.png",
+  "animatedSprite": "characters_animated_sprites/meena.gif",
+  "copySprite": "characters_copy_sprites/meena.gif",
+  "animatedCopySprite": "characters_animated_copy_sprites/meena.gif",
+  "artwork": "characters_artworks/meena.png",
   "name": {
     "en": "Meena Mahabala",
     "es": "Meena Mahabala",

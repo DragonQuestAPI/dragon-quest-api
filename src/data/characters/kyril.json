@@ -1,6 +1,10 @@
 {
   "id": 4,
-  "imgPath": "img/heroes/kyril.png",
+  "sprite": "characters_sprites/kyril.png",
+  "animatedSprite": "characters_animated_sprites/kyril.gif",
+  "copySprite": "characters_copy_sprites/kyril.gif",
+  "animatedCopySprite": "characters_animated_copy_sprites/kyril.gif",
+  "artwork": "characters_artworks/kyril.png",
   "name": {
     "en": "Kyril",
     "es": "Kyril",

@@ -1,6 +1,10 @@
 {
   "id": 5,
-  "imgPath": "img/heroes/borya.png",
+  "sprite": "characters_sprites/borya.png",
+  "animatedSprite": "characters_animated_sprites/borya.gif",
+  "copySprite": "characters_copy_sprites/borya.gif",
+  "animatedCopySprite": "characters_animated_copy_sprites/borya.gif",
+  "artwork": "characters_artworks/borya.png",
   "name": {
     "en": "Borya",
     "es": "Borya",

@@ -1,6 +1,10 @@
 {
   "id": 6,
-  "imgPath": "img/heroes/torneko.png",
+  "sprite": "characters_sprites/torneko.png",
+  "animatedSprite": "characters_animated_sprites/torneko.gif",
+  "copySprite": "characters_copy_sprites/torneko.gif",
+  "animatedCopySprite": "characters_animated_copy_sprites/torneko.gif",
+  "artwork": "characters_artworks/torneko.png",
   "name": {
     "en": "Torneko Taloon",
     "es": "Torneko Taloon",

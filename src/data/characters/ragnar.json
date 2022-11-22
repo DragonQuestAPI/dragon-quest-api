@@ -1,6 +1,10 @@
 {
   "id": 2,
-  "imgPath": "img/heroes/ragnar.png",
+  "sprite": "characters_sprites/ragnar.png",
+  "animatedSprite": "characters_animated_sprites/ragnar.gif",
+  "copySprite": "characters_copy_sprites/ragnar.gif",
+  "animatedCopySprite": "characters_animated_copy_sprites/ragnar.gif",
+  "artwork": "characters_artworks/ragnar.png",
   "name": {
     "en": "Ragnar McRyan",
     "es": "Ragnar McRyan",

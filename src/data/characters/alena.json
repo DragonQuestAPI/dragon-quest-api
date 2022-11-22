@@ -1,6 +1,10 @@
 {
   "id": 3,
-  "imgPath": "img/heroes/alena.png",
+  "sprite": "characters_sprites/alena.png",
+  "animatedSprite": "characters_animated_sprites/alena.gif",
+  "copySprite": "characters_copy_sprites/alena.gif",
+  "animatedCopySprite": "characters_animated_copy_sprites/alena.gif",
+  "artwork": "characters_artworks/alena.png",
   "name": {
     "en": "Alena Zamoksva",
     "es": "Alena Zamoksva",
