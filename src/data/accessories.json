@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Bague de choc",
+      "jp": "ちからのゆびわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 15 },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 2,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Brassard de choc",
+      "jp": "ごうけつのうでわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 47 },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 3,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Brassard d'or",
+      "jp": "きんのブレスレット"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": "-", "sell": "-", "token": 1000, "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 4,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Bague de prière",
+      "jp": "いのりのゆびわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": "-", "sell": "-", "token": 500, "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 5,
+    "sprite": "helmets_sprites/?.png",
+    "name": { "en": "?", "es": "?", "fr": "Bas résille", "jp": "あみタイツ" },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 1200, "sell": 900, "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 6,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Rubis de protection",
+      "jp": "まもりのルビー"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 2700, "sell": "-", "token": "-", "minimedal": 20 },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 7,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Bague de vie",
+      "jp": "いのちのゆびわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 8,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Brassard de kamikaze",
+      "jp": "メガンテのうでわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 5000, "sell": "-", "token": 500, "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 9,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Brassard de conjuration",
+      "jp": "メガザルのうでわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 10000, "sell": "-", "token": "-", "minimedal": 34 },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 10,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Bague de la déesse",
+      "jp": "めがみのゆびわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 11,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Foulard d'Hermès",
+      "jp": "しっぷうのバンダナ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 650, "sell": 487, "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 12,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Brassard de météore",
+      "jp": "ほしふるうでわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": "-", "sell": "-", "token": 10000, "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 13,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Éclat d'étoile",
+      "jp": "ほしのかけら"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 500, "sell": 375, "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 14,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Queue de lapin",
+      "jp": "うざぎのしっぽ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 230, "sell": 172, "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 15,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Chaussures à talons",
+      "jp": "しあわせのくつ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  },
+  {
+    "id": 16,
+    "sprite": "helmets_sprites/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Anneau évangélique",
+      "jp": "ゴスペルリング"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": "-", "sell": "-", "token": 250000, "minimedal": "-" },
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+  }
+]
