@@ -1,0 +1,926 @@
+[
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Bâton de cyprès",
+      "ge": "???",
+      "it": "????",
+      "jp": "ひのきのぼう"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 2 },
+    "price": { "buy": 10, "sell": 7, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "Garrote de roble",
+      "fr": "Massue de chêne",
+      "ge": "???",
+      "it": "????",
+      "jp": "こんぼう"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 7 },
+    "price": { "buy": 30, "sell": 22, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "Espada de cobre",
+      "fr": "Épée de cuivre",
+      "ge": "???",
+      "it": "????",
+      "jp": "どうのつるぎ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 12 },
+    "price": { "buy": 100, "sell": 75, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "Espada de acero",
+      "fr": "Épée large d'acier",
+      "ge": "???",
+      "it": "????",
+      "jp": "はがねのつるぎ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 40 },
+    "price": { "buy": 2000, "sell": 1500, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "Cauterizadora",
+      "fr": "Épée ardente",
+      "ge": "???",
+      "it": "????",
+      "jp": "はじゃのつるぎ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 45 },
+    "price": { "buy": 3500, "sell": 2625, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "Se puede utilizar también como herramienta en combate.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Épée du rêve",
+      "ge": "???",
+      "it": "????",
+      "jp": "まどろみのけん"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 60 },
+    "price": { "buy": 8000, "sell": 6000, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Lame du Faucon",
+      "ge": "???",
+      "it": "????",
+      "jp": "はやぶさのけん"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 67 },
+    "price": { "buy": "-", "sell": "-", "token": 65000, "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Dague de glace",
+      "ge": "???",
+      "it": "????",
+      "jp": "こおりのやいば"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 75 },
+    "price": { "buy": "-", "sell": 600, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Fléau des dragons",
+      "ge": "???",
+      "it": "????",
+      "jp": "ドラゴンキラー"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 90 },
+    "price": { "buy": 15000, "sell": 11250, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Épée double",
+      "ge": "???",
+      "it": "????",
+      "jp": "もろはのつるぎ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 99 },
+    "price": { "buy": "-", "sell": 2475, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Épée miraculeuse",
+      "ge": "???",
+      "it": "????",
+      "jp": "きせきのつるぎ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 100 },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 38 },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Épée zénithienne",
+      "ge": "???",
+      "it": "????",
+      "jp": "てんくうのつるぎ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 65 },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Épée zénithienne",
+      "ge": "???",
+      "it": "????",
+      "jp": "てんくうのつるぎ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 110 },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Épée du massacre",
+      "ge": "???",
+      "it": "????",
+      "jp": "みなごろしのけん"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 120 },
+    "price": { "buy": 15000, "sell": 11250, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Épée de mercure",
+      "ge": "???",
+      "it": "????",
+      "jp": "はぐれメタルのけん"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 130 },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Épée des enfers",
+      "ge": "???",
+      "it": "????",
+      "jp": "まかいのつるぎ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 150 },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Bâton du salut",
+      "ge": "???",
+      "it": "????",
+      "jp": "しゅくふくのつえ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 5 },
+    "price": { "buy": "-", "sell": 4500, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Bâton de foudre",
+      "ge": "???",
+      "it": "????",
+      "jp": "いかづちのつえ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 29 },
+    "price": { "buy": "-", "sell": 15000, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Bâton de Thalie",
+      "ge": "???",
+      "it": "????",
+      "jp": "ほほえみのつえ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 33 },
+    "price": { "buy": "-", "sell": "-", "token": 3000, "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Bâton du courroux",
+      "ge": "???",
+      "it": "????",
+      "jp": "てんばつのつえ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 35 },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 30 },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Bâton d'antimagie",
+      "ge": "???",
+      "it": "????",
+      "jp": "まふうじのつえ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 50 },
+    "price": { "buy": "-", "sell": 3000, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Bâton sommatique",
+      "ge": "???",
+      "it": "????",
+      "jp": "りりょくのつえ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 55 },
+    "price": { "buy": 2500, "sell": 1875, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Bâton de lave",
+      "ge": "???",
+      "it": "????",
+      "jp": "マグマのつえ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 63 },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Aiguille empoisonnée",
+      "ge": "???",
+      "it": "????",
+      "jp": "どくばり"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 0 },
+    "price": { "buy": 1300, "sell": 975, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Dagues d'oreille",
+      "ge": "???",
+      "it": "????",
+      "jp": "キラーピアス"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 5 },
+    "price": { "buy": 7500, "sell": 5625, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "Daga divina",
+      "fr": "Dague divine",
+      "ge": "???",
+      "it": "????",
+      "jp": "せいなるナイフ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 14 },
+    "price": { "buy": 200, "sell": 150, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "Puñal envenenado",
+      "fr": "Poignard empoisonné",
+      "ge": "???",
+      "it": "????",
+      "jp": "どくがのナイフ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 24 },
+    "price": { "buy": 750, "sell": 562, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "Algunas veces, este puñal puede paralizar a su objetivo.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "Lanza de hierro",
+      "fr": "Lance de fer",
+      "ge": "???",
+      "it": "????",
+      "jp": "てつのやり"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 28 },
+    "price": { "buy": 880, "sell": 660, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "Lanza sagrada",
+      "fr": "Lance sacrée",
+      "ge": "???",
+      "it": "????",
+      "jp": "ホーリーランス"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 33 },
+    "price": { "buy": 1250, "sell": 937, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Lance du démon",
+      "ge": "???",
+      "it": "????",
+      "jp": "デーモンスピア"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 90 },
+    "price": { "buy": "-", "sell": 18750, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Griffe de fer",
+      "jp": "てつのツメ"
+    },
+    "stats": { "attack": 38 },
+    "price": { "buy": 1500, "sell": 1125, "token": "-", "minimedal": "-" },
+    "description": {
+      "ge": "???",
+      "it": "????",
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "sprite": "weapons_sprites/?.png",
+      "artwork": "weapons_artworks/?.png",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Griffe de feu",
+      "ge": "???",
+      "it": "????",
+      "jp": "ほのおのツメ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 60 },
+    "price": { "buy": 7300, "sell": 5475, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Griffe de cobra",
+      "ge": "???",
+      "it": "????",
+      "jp": "あくまのツメ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 80 },
+    "price": { "buy": 13500, "sell": 10125, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "Ballesta de caza",
+      "fr": "Arc de chasseur",
+      "ge": "???",
+      "it": "????",
+      "jp": "クロスボウ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 18 },
+    "price": { "buy": 350, "sell": 262, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "Martillo con cadena",
+      "fr": "Faucille à chaîne",
+      "ge": "???",
+      "it": "????",
+      "jp": "くさりがま"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 20 },
+    "price": { "buy": 550, "sell": 412, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Cartes argentées",
+      "ge": "???",
+      "it": "????",
+      "jp": "ぎんのタロット"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 21 },
+    "price": { "buy": "-", "sell": 375, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "Abanico de hierro",
+      "fr": "Éventail de fer",
+      "ge": "???",
+      "it": "????",
+      "jp": "てつのおうぎ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 22 },
+    "price": { "buy": 620, "sell": 465, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "Ábaco de Astrae",
+      "fr": "Boulier d'astrae",
+      "ge": "???",
+      "it": "????",
+      "jp": "せいぎのそろばん"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 35 },
+    "price": { "buy": 1600, "sell": 1200, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "Se puede utilizar también como herramienta en combate.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Hache de guerre",
+      "ge": "???",
+      "it": "????",
+      "jp": "バトルアックス"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 50 },
+    "price": { "buy": 5500, "sell": 4125, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Marteau de Hela",
+      "ge": "???",
+      "it": "????",
+      "jp": "まじんのかなづち"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 70 },
+    "price": { "buy": 8500, "sell": 6375, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Fouet de Gringham",
+      "ge": "???",
+      "it": "????",
+      "jp": "グリンガムのムチ"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 135 },
+    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 60 },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  },
+  {
+    "name": {
+      "en": "?",
+      "es": "??",
+      "fr": "Fléau du carnage",
+      "ge": "???",
+      "it": "????",
+      "jp": "はかいのてっきゅう"
+    },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
+    "stats": { "attack": 115 },
+    "price": { "buy": 65000, "sell": 48750, "token": "-", "minimedal": "-" },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "No parece tener efecto especial alguno.",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "it": "Non sembra avere alcun effeto speciale.",
+      "jp": "?"
+    }
+  }
+]
