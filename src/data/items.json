@@ -1,20 +1,25 @@
 [
   {
-    "sprite": "items_sprites/medicinal_herb.png",
     "name": {
       "en": "Medicinal herb",
       "es": "Planta medicinal",
       "fr": "Herbe médicinale",
+      "ge": "Heilkraut",
+      "it": "Erba medicinale",
       "jp": "やくそう"
     },
+    "sprite": "items_sprites/medicinal_herb.png",
+    "artwork": "items_artworks/medicinal_herb.png",
     "price": {
       "buy": 8,
       "sell": 6
     },
     "description": {
       "en": "Heals a small amount of damage",
-      "es": "",
-      "fr": "Restaure une petite partie des PV d'un membre de l'équipe",
+      "es": "Hierbas que restablecen algunos PV de un miembro del grupo.",
+      "fr": "Restaure une petite partie des PV d'un membre de l'équipe.",
+      "ge": "Gibt einem Mitglied der Gruppe ein paar LP zurück.",
+      "it": "Quest'erba fa recuperare un po' di HP a un membro del gruppo.",
       "jp": "回复30~40点HP"
     },
     "zone": [
@@ -39,21 +44,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/antidotal_herb.png",
     "name": {
       "en": "Antidotal herb",
       "es": "Planta de Fierabrás",
       "fr": "Herbe curative",
+      "ge": "Gebengiftkraut",
+      "it": "Erba per antidoti",
       "jp": "どくけしそう"
     },
+    "sprite": "items_sprites/antidotal_herb.png",
+    "artwork": "items_artworks/antidotal_herb.png",
     "price": {
       "buy": 10,
       "sell": 7
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Peut guérir un membre de l'équipe empoisonné",
+      "en": "!?",
+      "es": "Pueden curar el envenenamiento a un miembro del grupo.",
+      "fr": "Peut guérir un membre de l'équipe empoisonné.",
+      "ge": "Dieses Heilkraut kann ein Mitglied der Gruppe von Gift heilen.",
+      "it": "Quest'erba cura un membro del gruppo dall'avvelenamento.",
       "jp": "解毒"
     },
     "zone": [
@@ -71,21 +81,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/holy_water.png",
     "name": {
       "en": "Holy water",
       "es": "Agua bendita",
       "fr": "Fiole d'eau sacrée",
+      "ge": "Weihwasser",
+      "it": "Acqua santa",
       "jp": "せいすい"
     },
+    "sprite": "items_sprites/holy_water.png",
+    "artwork": "items_artworks/holy_water.png",
     "price": {
       "buy": 20,
       "sell": 15
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Éloigne les ennemis les plus faibles pendant un moment",
+      "en": "!?",
+      "es": "Agua que protege un tiempo contra los enemigos más débiles.",
+      "fr": "Éloigne les ennemis les plus faibles pendant un moment.",
+      "ge": "Dieses Wunderwasser wehrt kurzzeitig schwächere Feinde ab.",
+      "it": "Tiene lontani i nemici più deboli per un po' di tempo.",
       "jp": "平常使用弱小敌人不出现一段时间 战斗使用可令敌人受伤"
     },
     "zone": [
@@ -99,21 +114,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/chimaera_wing.png",
     "name": {
       "en": "Chimaera wing",
       "es": "Ala de quimera",
       "fr": "Aile de chimère",
+      "ge": "Chimärenflügel",
+      "it": "Ala di chimera",
       "jp": "キメラのつばさ"
     },
+    "sprite": "items_sprites/chimaera_wing.png",
+    "artwork": "items_artworks/chimaera_wing.png",
     "price": {
       "buy": 25,
       "sell": 18
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Permet de retourner dans tous les lieux déjà visités",
+      "en": "!?",
+      "es": "Se puede utilizar para volver a cualquier lugar yua visitado.",
+      "fr": "Permet de retourner dans tous les lieux déjà visités.",
+      "ge": "Damit kann man an bereits besuchte Orte zurückkehren.",
+      "it": "Permette di tornare all'istante nei luoghi già visitati.",
       "jp": "瞬间返回已知城镇"
     },
     "zone": [
@@ -131,21 +151,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/moonwort_bulb.png",
     "name": {
       "en": "Moonwort bulb",
       "es": "Bulbo lunar",
       "fr": "Botryche lunaire",
+      "ge": "Mondrauten-Knolle",
+      "it": "Bulbo di erbaluna",
       "jp": "まんげつそう"
     },
+    "sprite": "items_sprites/moonwort_bulb.png",
+    "artwork": "items_artworks/moonwort_bulb.png",
     "price": {
       "buy": 30,
       "sell": 22
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Cette racine peut guérir un membre de l'équipe de sa paralysie",
+      "en": "!?",
+      "es": "Esta raíz lunar puede curar la parálisis a un miembro del grupo.",
+      "fr": "Cette racine peut guérir un membre de l'équipe de sa paralysie.",
+      "ge": "Diese Wurzel kann ein Mitglied der Gruppe von Lämung befreien.",
+      "it": "Questa radice lunare cura dalla paralisi un membro del gruppo.",
       "jp": "解麻痹"
     },
     "zone": ["phare de port-carène", "ringys", "estuaria"],
@@ -153,21 +178,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/musk.png",
     "name": {
       "en": "Musk",
       "es": "Bolsita de almizcle",
       "fr": "Sac de musc",
+      "ge": "Moschus",
+      "it": "Muschio",
       "jp": "においぶくろ"
     },
+    "sprite": "items_sprites/musk.png",
+    "artwork": "items_artworks/musk.png",
     "price": {
       "buy": 150,
       "sell": 112
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Son odeur attirera les monstres jusqu'à ce qu'elle se dissipe",
+      "en": "!?",
+      "es": "?",
+      "fr": "Son odeur attirera les monstres jusqu'à ce qu'elle se dissipe.",
+      "ge": "Ihr Duft lockt eine Weile Ungehever an und verfliegt dann wieder.",
+      "it": "Il suo profumo attira i mostri per un po' di tempo.",
       "jp": "敌人遭遇率升高"
     },
     "zone": ["rosecolline"],
@@ -175,21 +205,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/seed_of_strength.png",
     "name": {
       "en": "Seed of strength",
       "es": "Simiente de fuerza",
       "fr": "Graine de force",
+      "ge": "Stärkesamen",
+      "it": "Seme della potenza",
       "jp": "ちからのたね"
     },
+    "sprite": "items_sprites/seed_of_strength.png",
+    "artwork": "items_artworks/seed_of_strength.png",
     "price": {
       "buy": null,
       "sell": 90
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Le membre de l'équipe qui la mange voit sa force augmenter",
+      "en": "!?",
+      "es": "?",
+      "fr": "Le membre de l'équipe qui la mange voit sa force augmenter.",
+      "ge": "Ein Gruppenmitglied kann ihn essen, um stärker zu werden.",
+      "it": "Accresce la forza di chi lo mangia.",
       "jp": "力量增加1~3点"
     },
     "zone": [
@@ -217,21 +252,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/seed_of_agility.png",
     "name": {
       "en": "Seed of agility",
       "es": "Simiente de agilidad",
       "fr": "Graine d'agilité",
+      "ge": "Flinkheits-samen",
+      "it": "Seme dell'agilità",
       "jp": "すばやさのたね"
     },
+    "sprite": "items_sprites/seed_of_agility.png",
+    "artwork": "items_artworks/seed_of_agility.png",
     "price": {
       "buy": null,
       "sell": 67
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Le membre de l'équipe qui la mange voit son agilité augmenter",
+      "en": "!?",
+      "es": "?",
+      "fr": "Le membre de l'équipe qui la mange voit son agilité augmenter.",
+      "ge": "Ein Gruppenmitglied kann ihn essen um flinker zu werden.",
+      "it": "Accresce l'agilità di chi lo mangia.",
       "jp": "速度增加1~2点"
     },
     "zone": [
@@ -253,21 +293,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/seed_of_wisdom.png",
     "name": {
       "en": "Seed of wisdom",
       "es": "Simiente de sabiduría",
       "fr": "Graine de sagesse",
+      "ge": "Weisheits-samen",
+      "it": "Seme della saggezza",
       "jp": "かしこさのたね"
     },
+    "sprite": "items_sprites/seed_of_wisdom.png",
+    "artwork": "items_artworks/seed_of_wisdom.png",
     "price": {
       "buy": null,
       "sell": 60
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Le membre de l'équipe qui la mange voit sa sagesse augmenter",
+      "en": "!?",
+      "es": "?",
+      "fr": "Le membre de l'équipe qui la mange voit sa sagesse augmenter.",
+      "ge": "Ein Gruppenmitglied kann ihn essen, um weiser zu werden.",
+      "it": "Accresce la forza di chi lo mangia.",
       "jp": "智慧增加1~3点"
     },
     "zone": ["ringys", "fémiscyra", "ville itinérante (étape 4)"],
@@ -275,21 +320,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/seed_of_resilience.png",
     "name": {
       "en": "Seed of resilience",
       "es": "Simiente de resistencia",
       "fr": "Graine de vitalité",
+      "ge": "Ausdauersamen",
+      "it": "Seme della resistenza",
       "jp": "まもりのたね"
     },
+    "sprite": "items_sprites/seed_of_resilience.png",
+    "artwork": "items_artworks/seed_of_resilience.png",
     "price": {
       "buy": null,
       "sell": 52
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Le membre de l'équipe qui la mange voit sa vitalité augmenter",
+      "en": "!?",
+      "es": "?",
+      "fr": "Le membre de l'équipe qui la mange voit sa vitalité augmenter.",
+      "ge": "Ein Gruppenmitglied kann ihn essen, um die Ausdauer zu steigern.",
+      "it": "Accresce la resistenza di chi lo mangia.",
       "jp": "防御增加1~3点"
     },
     "zone": [
@@ -303,21 +353,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/seed_of_life.png",
     "name": {
       "en": "Seed of life",
       "es": "Simiente de vida",
       "fr": "Graine de vie",
+      "ge": "Lebenssamen",
+      "it": "Seme della vita",
       "jp": "いのちのきのみ"
     },
+    "sprite": "items_sprites/seed_of_life.png",
+    "artwork": "items_artworks/seed_of_life.png",
     "price": {
       "buy": null,
       "sell": 187
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Le membre de l'équipe qui la mange augmente son maximum de PV",
+      "ge": "Ein Gruppenmitglied kann ihn essen, um das LP-Maximum zu steigern.",
+      "it": "Accresce la capacità massima di HP di chi lo mangia.",
       "jp": "HP最大值增加4~6点"
     },
     "zone": [
@@ -341,21 +396,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/seed_of_magic.png",
     "name": {
       "en": "Seed of magic",
       "es": "Simiente de magia",
       "fr": "Graine de magie",
+      "ge": "Magiesamen",
+      "it": "Seme della magia",
       "jp": "いのちのきのみ"
     },
+    "sprite": "items_sprites/seed_of_magic.png",
+    "artwork": "items_artworks/seed_of_magic.png",
     "price": {
       "buy": null,
       "sell": 412
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Le membre de l'équipe qui la mange augmente son maximum de PM",
+      "ge": "Ein Gruppenmitglied kann ihn essen, um das MP-Maximum zu steigern.",
+      "it": "Accresce la capacità massima di PM di chi lo mangia.",
       "jp": "MP最大值增加3~5点"
     },
     "zone": [
@@ -379,21 +439,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/magic_water.png",
     "name": {
       "en": "Magic water",
       "es": "Agua mágica",
       "fr": "Fiole d'eau magique",
+      "ge": "Zauberwasser",
+      "it": "Acqua magica",
       "jp": "まほうのせいすい"
     },
+    "sprite": "items_sprites/magic_water.png",
+    "artwork": "items_artworks/magic_water.png",
     "price": {
       "buy": null,
       "sell": 22
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Restaure une petite partie des PM d'un membre de l'équipe",
+      "ge": "Regeneriert ein paar MP bei einem Mitglied der Gruppe.",
+      "it": "Fa recuperare un po' di PM a un membro del gruppo.",
       "jp": "回复30~35点MP"
     },
     "zone": [
@@ -407,21 +472,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/ras_mirror.png",
     "name": {
       "en": "Ra's mirror",
       "es": "Espejo de Ra",
       "fr": "Miroir de Râ",
+      "ge": "Spiegel des Ra",
+      "it": "Specchio di Ra",
       "jp": "ラーのかがみ"
     },
+    "sprite": "items_sprites/ras_mirror.png",
+    "artwork": "items_artworks/ras_mirror.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Ce miroir légendaire reflète toujours la vérité",
+      "en": "!?",
+      "es": "?",
+      "fr": "Ce miroir légendaire reflète toujours la vérité.",
+      "ge": "Dieses legendäre Kunstwerk spiegelt stets die Wahrheit wider.",
+      "it": "Questo vetro leggendario riflette sempre la verità.",
       "jp": "战斗中使用使モシャス咒文无效"
     },
     "zone": ["casino"],
@@ -429,21 +499,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/packed_lunch.png",
     "name": {
       "en": "Packed lunch",
       "es": "Almuerzo",
       "fr": "Panier-repas",
+      "ge": "Essenskorb",
+      "it": "Cestino con il pranzo",
       "jp": "おべんとう"
     },
+    "sprite": "items_sprites/packed_lunch.png",
+    "artwork": "items_artworks/packed_lunch.png",
     "price": {
       "buy": null,
       "sell": 7
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Une manière délicieuse de récupérer quelques PV",
+      "ge": "Eine köstliche Methode, einige LP zurückzugewinnen.",
+      "it": "Fa recuperare un po' di HP. Delizioso!",
       "jp": "回复30~40点HP"
     },
     "zone": [
@@ -457,21 +532,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/horse_manure.png",
     "name": {
       "en": "Horse manure",
       "es": "Boñiga de caballo",
       "fr": "Crottin de cheval",
+      "ge": "Pferdemist",
+      "it": "Sterco di cavallo",
       "jp": "うまのふん"
     },
+    "sprite": "items_sprites/horse_manure.png",
+    "artwork": "items_artworks/horse_manure.png",
     "price": {
       "buy": null,
       "sell": 1
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Pouah! Quelle odeur!",
+      "ge": "Uh! Das stinkt!",
+      "it": "Argh! Che tanfo!",
       "jp": "用途不明 狐狸村的やくそう其实是うまのふん"
     },
     "zone": [
@@ -485,21 +565,26 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/yggdrasil_leaf.png",
     "name": {
       "en": "Yggdrasil leaf",
       "es": "Hoja de Yggdrasil",
       "fr": "Feuille d'Yggdrasil",
+      "ge": "Yggdrasil-Blatt",
+      "it": "Foglia di Ygdrasil",
       "jp": "せかいじゅのは"
     },
+    "sprite": "items_sprites/yggdrasil_leaf.png",
+    "artwork": "items_artworks/yggdrasil_leaf.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Cette feuille magique peut ressuciter un membre de l'équipe",
+      "ge": "Kann ein Mitglied der Gruppe ins Leben zurückrufen.",
+      "it": "Questa foglia può riportare in vita un membro del gruppo.",
       "jp": "我方一人复活并HP完全回复"
     },
     "zone": ["el forado", "château des ténèbres", "donjon d'azimut"],
@@ -507,660 +592,810 @@
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/yggdrasil_dew.png",
     "name": {
       "en": "Yggdrasil dew",
       "es": "Rocío de Yggdrasil",
       "fr": "Rosée d'Yggdrasil",
+      "ge": "Yggdrasil-Tau",
+      "it": "Rugiada di Ygdrasil",
       "jp": "せかいじゅのしずく"
     },
+    "sprite": "items_sprites/yggdrasil_dew.png",
+    "artwork": "items_artworks/yggdrasil_dew.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Permet de restaurer intégralement les PV de toute l'équipe",
-      "jp": ""
+      "en": "!?",
+      "es": "?",
+      "fr": "Permet de restaurer intégralement les PV de toute l'équipe.",
+      "ge": "Stellt die LP aller Gruppenmitglieder vollständig wieder her.",
+      "it": "Fa recuperare pienamente gli HP a tutti membri del gruppo.",
+      "jp": "????"
     },
     "zone": ["el forado", "tour du zénith", "zénithia"],
     "type": "normal",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/mini_medal.png",
     "name": {
       "en": "Mini medal",
       "es": "Minimedalla",
       "fr": "Mini médaille",
+      "ge": "Minimedaillen",
+      "it": "???",
       "jp": "ちいさなメダル"
     },
+    "sprite": "items_sprites/mini_medal.png",
+    "artwork": "items_artworks/mini_medal.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Apparemment, quelqu'un en fait la collection …",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
     "zone": ["partout"],
     "type": "normal",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/sands_of_time.png",
     "name": {
       "en": "Sands of time",
       "es": "Arenas del tiempo",
       "fr": "Sables du temps",
+      "ge": "Sand der Zeit",
+      "it": "Sabbie del tempo",
       "jp": "ときのすな"
     },
+    "sprite": "items_sprites/sands_of_time.png",
+    "artwork": "items_artworks/sands_of_time.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Au combat, ils peuvent inverser le cour du temps",
-      "jp": ""
+      "en": "!?",
+      "es": "?",
+      "fr": "Au combat, ils peuvent inverser le cour du temps.",
+      "ge": "Im Kampf kann er die Zeit selbst umkehren.",
+      "it": "Se usate in battaglia, possono invertire lo scorrere del tempo.",
+      "jp": "????"
     },
     "zone": ["grotte de rosecolline"],
     "type": "normal",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/sages_stone.png",
     "name": {
       "en": "Sage's stone",
       "es": "Piedra de sabio",
       "fr": "Pierre philosophale",
+      "ge": "Stein des Weisen",
+      "it": "Pietra del saggio",
       "jp": "けんじゃのいし"
     },
+    "sprite": "items_sprites/sages_stone.png",
+    "artwork": "items_artworks/sages_stone.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Au combat, rend quelques PV à chaque membre de l'équipe",
-      "jp": ""
+      "ge": "Stellt im Kampf einige LP jedes Gruppenmitglieds wieder her.",
+      "it": "Fa recuperare HP a tutti i membri del gruppo in battaglia.",
+      "jp": "????"
     },
     "zone": ["château des ténèbres"],
     "type": "normal",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/talaria.png",
     "name": {
       "en": "Talaria",
       "es": "Sandalias aladas",
       "fr": "Chaussures ailées",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/talaria.png",
+    "artwork": "items_artworks/talaria.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Des ailes sont fixés sur ces drôles de chaussures!",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/armlet_of_transmutation.png",
     "name": {
       "en": "Armlet of transmutation",
       "es": "Brazalete de transmutación",
       "fr": "Brassard étincelant",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/armlet_of_transmutation.png",
+    "artwork": "items_artworks/armlet_of_transmutation.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "La lumière joue sur ce mystérieux brassard doré",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/thiefs_key.png",
     "name": {
       "en": "Thief's key",
       "es": "Llave del ladrón",
       "fr": "Clef de voleur",
-      "jp": ""
+      "ge": "Diebesschlüssel",
+      "it": "Chiavre del ladro",
+      "jp": "????"
     },
+    "sprite": "items_sprites/thiefs_key.png",
+    "artwork": "items_artworks/thiefs_key.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Cette clef peut ouvrir des serrures simples",
-      "jp": ""
+      "en": "!?",
+      "es": "?",
+      "fr": "Cette clef peut ouvrir des serrures simples.",
+      "ge": "Der Besitzer dieses Schlüssels kann einfache Schlösser öffnen.",
+      "it": "Questa chiave permette di aprire le serrature meno ostiche.",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/img?.png",
     "name": {
-      "en": "",
+      "en": "!?",
       "es": "Néctar de piar",
       "fr": "Nectar du rossignol",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/img?.png",
+    "artwork": "items_sprites/items_artworks?.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Sa texture veloutée donne une voix mélodieuse",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/img?.png",
     "name": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Coffre-fort de fer",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/img?.png",
+    "artwork": "items_sprites/items_artworks?.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Protège l'or de l'équipe, même si celle-ci se fait décimer",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/img?.png",
     "name": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Lettre du prince",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/img?.png",
+    "artwork": "items_sprites/items_artworks?.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Une lettre écrite de la main du prince Réginald",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/img?.png",
     "name": {
-      "en": "",
+      "en": "!?",
       "es": "Pergamino real",
       "fr": "Parchemin royal",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/img?.png",
+    "artwork": "items_sprites/items_artworks?.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Une correspondante du roi Norbert de Chandor",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/img?.png",
     "name": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Statuette en argent",
-      "jp": ""
+      "ge": "Silberne Göttin",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/img?.png",
+    "artwork": "items_sprites/items_artworks?.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Une statuette de la Déesse en argent poli",
-      "jp": ""
+      "ge": "Eine polierte Silberstatue der Göttin.",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/img?.png",
     "name": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Lampe des ténèbres",
-      "jp": ""
+      "ge": "Nachtlicht",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/img?.png",
+    "artwork": "items_sprites/items_artworks?.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Cette lampe fait venir l'obscurité lorsqu'on l'allume",
-      "jp": ""
+      "ge": "Eine Lampe, die die Nacht herbeiruft, wenn sie angezündet wird.",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/img?.png",
     "name": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Sphère du silence",
-      "jp": ""
+      "ge": "Stillesphäre",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/img?.png",
+    "artwork": "items_sprites/items_artworks?.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Peut enfermer les sort d'un ennemi pendant le combat",
-      "jp": ""
+      "en": "!?",
+      "es": "?",
+      "fr": "Peut enfermer les sort d'un ennemi pendant le combat.",
+      "ge": "Diese heimtückische Kugel kann die Zauber eines Feindes im Kampf blockieren.",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/img?.png",
     "name": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Jarre de poudre",
-      "jp": ""
+      "ge": "Pulverfass",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/img?.png",
+    "artwork": "items_sprites/items_artworks?.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Un récipient rempli de poudre à canon",
-      "jp": ""
+      "en": "!?",
+      "es": "?",
+      "fr": "Un récipient rempli de poudre à canon.",
+      "ge": "Ein Behältnis, bis zum Rand voll mit Schießpulver.",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/img?.png",
     "name": {
-      "en": "",
+      "en": "!?",
       "es": "Pasaje",
       "fr": "Permis d'embarquer",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
-    "price": {
-      "buy": null,
-      "sell": null
-    },
-    "description": {
-      "en": "",
-      "es": "",
-      "fr": "Un billet valable pour un voyage vers Chandor",
-      "jp": ""
-    },
-    "zone": [""],
-    "type": "key",
-    "slug": "slug"
-  },
-  {
     "sprite": "items_sprites/img?.png",
-    "name": {
-      "en": "",
-      "es": "",
-      "fr": "Livre des créatures",
-      "jp": ""
-    },
+    "artwork": "items_sprites/items_artworks?.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Un guide des monstres illustré",
-      "jp": ""
+      "en": "!?",
+      "es": "?",
+      "fr": "Un billet valable pour un voyage vers Chandor",
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/symbol_of_faith.png",
+    "name": {
+      "en": "!?",
+      "es": "?",
+      "fr": "Livre des créatures",
+      "ge": "Buch der Bestien",
+      "it": "Libro delle Bestie",
+      "jp": "????"
+    },
+    "sprite": "items_sprites/img?.png",
+    "artwork": "items_sprites/items_artworks?.png",
+    "price": {
+      "buy": null,
+      "sell": null
+    },
+    "description": {
+      "en": "!?",
+      "es": "?",
+      "fr": "Un guide des monstres illustré.",
+      "ge": "Ein bebildertes Buch über Ungehever.",
+      "it": "Questo volume illustrato contiene informazioni su tutti i mostri.",
+      "jp": "????"
+    },
+    "zone": [""],
+    "type": "key",
+    "slug": "slug"
+  },
+  {
     "name": {
       "en": "Symbol of Faith",
       "es": "Símbolo de Fe",
       "fr": "Symbole de la Foi",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/symbol_of_faith.png",
+    "artwork": "items_artworks/symbol_of_faith.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Ce joyau peut ouvrir le cœur de n'importe qui",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/holy_embers.png",
     "name": {
       "en": "Holy embers",
       "es": "Fuego sagrado",
       "fr": "Braises Sacrées",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/holy_embers.png",
+    "artwork": "items_artworks/holy_embers.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Elles luisent avec une puissance divine",
-      "jp": ""
+      "en": "!?",
+      "es": "?",
+      "fr": "Elles luisent avec une puissance divine.",
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/treasure_map.png",
     "name": {
       "en": "Treasure map",
       "es": "Mapa del Tesoro",
       "fr": "Carte au trésor",
-      "jp": ""
+      "ge": "Schatzkarte",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/treasure_map.png",
+    "artwork": "items_artworks/treasure_map.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Indique l'emplacement d'un trésor légendaire",
-      "jp": ""
+      "en": "!?",
+      "es": "?",
+      "fr": "Indique l'emplacement d'un trésor légendaire.",
+      "ge": "Darauf sieht man, wo ein legendärer Schatz wersteckt ist.",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/feverfew_seed.png",
     "name": {
       "en": "Feverfew seed",
       "es": "Semilla reducefiebre",
       "fr": "Graine de camomille",
-      "jp": ""
+      "ge": "??",
+      "it": "Seme di parthenio",
+      "jp": "????"
     },
+    "sprite": "items_sprites/feverfew_seed.png",
+    "artwork": "items_artworks/feverfew_seed.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Une graine pleine de vigueur",
-      "jp": ""
+      "ge": "??",
+      "it": "Un seme pieno di vitalità!",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/feverfew_root.png",
     "name": {
       "en": "Feverfew root",
       "es": "Raíz reducefiebre",
       "fr": "Racine de Camomille",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/feverfew_root.png",
+    "artwork": "items_artworks/feverfew_root.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Cette puissante racine guérit beaucoup de maladies",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/magic_key.png",
     "name": {
       "en": "Magic key",
       "es": "Llave mágica",
       "fr": "Clef magique",
-      "jp": ""
+      "ge": "Zauber-schlüssel",
+      "it": "Chiave magica",
+      "jp": "????"
     },
+    "sprite": "items_sprites/magic_key.png",
+    "artwork": "items_artworks/magic_key.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Cette clef permet d'ouvrir des serrures complexes",
-      "jp": ""
+      "en": "!?",
+      "es": "?",
+      "fr": "Cette clef permet d'ouvrir des serrures complexes.",
+      "ge": "Der Besitzer des Schlüssels kann komplizierte Schlösser öffnen.",
+      "it": "Questa chiave permette di aprire la serrature complicate.",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/karstaway_stone.png",
     "name": {
       "en": "Karstaway stone",
       "es": "Piedra porosa",
       "fr": "Pierre éponge",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/karstaway_stone.png",
+    "artwork": "items_artworks/karstaway_stone.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Une roche étrange qui peut absorber un grand volume d'eau",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/ultimate_key.png",
     "name": {
       "en": "Ultimate key",
       "es": "Llave suprema",
       "fr": "Clef suprême",
-      "jp": ""
+      "ge": "Universal-schlüssel",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/ultimate_key.png",
+    "artwork": "items_artworks/ultimate_key.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Cette clef permet d'ouvrir tous types de serrures",
-      "jp": ""
+      "en": "!?",
+      "es": "?",
+      "fr": "Cette clef permet d'ouvrir tous types de serrures.",
+      "ge": "Der Besitzer dieses Schlüssels kann alle Schlösser öffnen.",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/flute_of_uncovering.png",
     "name": {
       "en": "Flute of uncovering",
       "es": "Flauta reveladora",
       "fr": "Flûte de révélation",
-      "jp": ""
+      "ge": "Flöte der Enthüllung",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/flute_of_uncovering.png",
+    "artwork": "items_artworks/flute_of_uncovering.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "Cet instrument dispose de propriétés magiques rares",
-      "jp": ""
+      "ge": "Ein Instrument, dem seltene magische Eigenschaften innewohnen.",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/mod_rod.png",
     "name": {
       "en": "Mod rod",
       "es": "Vara meta",
       "fr": "Bâton de transformation",
-      "jp": ""
+      "ge": "Mutationsstab",
+      "it": "Bacchetta mutatrice",
+      "jp": "????"
     },
+    "sprite": "items_sprites/mod_rod.png",
+    "artwork": "items_artworks/mod_rod.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Peut modifier l'apparence de l'équipe pendant un court moment",
-      "jp": ""
+      "en": "!?",
+      "es": "?",
+      "fr": "Peut modifier l'apparence de l'équipe pendant un court moment.",
+      "ge": "Kann das Erscheinungsbild der Gruppe für kurze Zeit varändern.",
+      "it": "Può cambiare l'aspetto del gruppo per un po' di tempo.",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/gas_cannister.png",
     "name": {
       "en": "Gas cannister",
       "es": "Recipiente de gas",
       "fr": "Bonbonne de gaz",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/gas_cannister.png",
+    "artwork": "items_artworks/gas_cannister.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Un gros récipient contenant du gaz",
-      "jp": ""
+      "en": "!?",
+      "es": "?",
+      "fr": "Un gros récipient contenant du gaz.",
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/barons_bugle.png",
     "name": {
       "en": "Baron's bugle",
       "es": "Cuerno del barón",
       "fr": "Clairon du baron",
-      "jp": ""
+      "ge": "Horn des Barons",
+      "it": "Tromba del barone",
+      "jp": "????"
     },
+    "sprite": "items_sprites/barons_bugle.png",
+    "artwork": "items_artworks/barons_bugle.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
-      "fr": "Sonné au combat, il fait venir un énorme troupeau de cheveaux",
-      "jp": ""
+      "en": "!?",
+      "es": "?",
+      "fr": "Sonné au combat, il fait venir un énorme troupeau de cheveaux.",
+      "ge": "Blase vor der letzten Schlacht hinein, um den Wagen herbeizuholen!",
+      "it": "Suonala prima della battaglia finale per far accorrere il carro!",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
     "slug": "slug"
   },
   {
-    "sprite": "items_sprites/yggdrasil_flower.png",
     "name": {
       "en": "Yggdrasil flower",
       "es": "Flor de Yggdrasil",
       "fr": "Fleur d'Yggdrasil",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
+    "sprite": "items_sprites/yggdrasil_flower.png",
+    "artwork": "items_artworks/yggdrasil_flower.png",
     "price": {
       "buy": null,
       "sell": null
     },
     "description": {
-      "en": "",
-      "es": "",
+      "en": "!?",
+      "es": "?",
       "fr": "La plus rare des fleurs, qui fleurit tous les milles ans",
-      "jp": ""
+      "ge": "??",
+      "it": "???",
+      "jp": "????"
     },
     "zone": [""],
     "type": "key",
