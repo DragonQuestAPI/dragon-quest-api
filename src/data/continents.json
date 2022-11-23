@@ -1,90 +1,101 @@
 [
   {
-    "slug": "northern_continent",
+    "id": 1,
     "name": {
       "en": "Northern continent",
       "es": "Continente norte",
       "fr": "Continent nord",
       "jp": "?"
     },
-    "location": "north"
+    "location": "north",
+    "slug": "northern_continent"
   },
   {
-    "slug": "eastern_continent",
+    "id": 2,
     "name": {
       "en": "Eastern continent",
       "es": "Continente oriental",
       "fr": "Continent est",
       "jp": "?"
     },
-    "location": "east"
+    "location": "east",
+    "slug": "eastern_continent"
   },
   {
-    "slug": "siroc",
+    "id": 3,
     "name": {
       "en": "Siroc",
       "es": "Siroco",
       "fr": "Sirocco",
       "jp": "?"
     },
-    "location": "south-east"
+    "location": "south-east",
+    "slug": "siroc"
   },
   {
-    "slug": "ostro",
+    "id": 4,
     "name": {
       "en": "Ostro",
       "es": "Ostro",
       "fr": "Ostro",
       "jp": "?"
     },
-    "location": "south"
+    "location": "south",
+    "slug": "ostro"
   },
   {
-    "slug": "libeccio",
+    "id": 5,
     "name": {
       "en": "Libeccio",
       "es": "Leveche",
       "fr": "Libeccio",
       "jp": "?"
     },
-    "location": "south-west"
+    "location": "south-west",
+    "slug": "libeccio"
   },
   {
-    "slug": "western_continent",
+    "id": 6,
     "name": {
       "en": "Western continent",
       "es": "Continente occidental",
       "fr": "Continent ouest",
       "jp": "?"
     },
-    "location": "west"
+    "location": "west",
+    "slug": "western_continent"
   },
   {
-    "slug": "maestral",
+    "id": 7,
     "name": {
       "en": "Maestral",
       "es": "Mistral",
       "fr": "Mistral",
       "jp": "?"
     },
-    "location": "north-west"
+    "location": "north-west",
+    "slug": "maestral"
   },
   {
-    "slug": "azimut",
+    "id": 8,
     "name": {
       "en": "The Azimut",
       "es": "El Azimut",
       "fr": "L'Azimut",
       "jp": "ゴットサイド"
-    }
+    },
+    "location": "center",
+    "slug": "azimut"
   },
   {
-    "slug": "nadiria",
+    "id": 9,
     "name": {
       "en": "Nadiria",
       "es": "Nadiria",
       "fr": "Nadiria",
       "jp": "闇の世界"
-    }
+    },
+    "location": "otherworld",
+    "slug": "nadiria"
   }
 ]
