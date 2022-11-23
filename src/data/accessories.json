@@ -16,10 +16,11 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": null, "sell": null, "token": null, "minimedal": 15 },
+    "price": { "buy": "???", "sell": "???", "token": "???", "minimedal": 15 },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 2,
@@ -38,10 +39,11 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": null, "sell": null, "token": null, "minimedal": 47 },
+    "price": { "buy": "???", "sell": "???", "token": "???", "minimedal": 47 },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 3,
@@ -60,10 +62,11 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": null, "sell": null, "token": 1000, "minimedal": null },
+    "price": { "buy": "???", "sell": "???", "token": 1000, "minimedal": "???" },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 4,
@@ -82,10 +85,11 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": null, "sell": null, "token": 500, "minimedal": null },
+    "price": { "buy": "???", "sell": "???", "token": 500, "minimedal": "???" },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 5,
@@ -99,10 +103,11 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 1200, "sell": 900, "token": null, "minimedal": null },
+    "price": { "buy": 1200, "sell": 900, "token": "???", "minimedal": "???" },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 6,
@@ -121,10 +126,11 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 2700, "sell": null, "token": null, "minimedal": 20 },
+    "price": { "buy": 2700, "sell": "???", "token": "???", "minimedal": 20 },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 7,
@@ -143,10 +149,16 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "price": {
+      "buy": "???",
+      "sell": "???",
+      "token": "???",
+      "minimedal": "???"
+    },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 8,
@@ -165,10 +177,11 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 5000, "sell": null, "token": 500, "minimedal": null },
+    "price": { "buy": 5000, "sell": "???", "token": 500, "minimedal": "???" },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 9,
@@ -187,10 +200,11 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 10000, "sell": null, "token": null, "minimedal": 34 },
+    "price": { "buy": 10000, "sell": "???", "token": "???", "minimedal": 34 },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 10,
@@ -209,10 +223,16 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "price": {
+      "buy": "???",
+      "sell": "???",
+      "token": "???",
+      "minimedal": "???"
+    },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 11,
@@ -231,10 +251,11 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 650, "sell": 487, "token": null, "minimedal": null },
+    "price": { "buy": 650, "sell": 487, "token": "???", "minimedal": "???" },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 12,
@@ -253,10 +274,16 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": null, "sell": null, "token": 10000, "minimedal": null },
+    "price": {
+      "buy": "???",
+      "sell": "???",
+      "token": 10000,
+      "minimedal": "???"
+    },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 13,
@@ -275,10 +302,11 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 500, "sell": 375, "token": null, "minimedal": null },
+    "price": { "buy": 500, "sell": 375, "token": "???", "minimedal": "???" },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 14,
@@ -297,10 +325,11 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 230, "sell": 172, "token": null, "minimedal": null },
+    "price": { "buy": 230, "sell": 172, "token": "???", "minimedal": "???" },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 15,
@@ -319,10 +348,16 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "price": {
+      "buy": "???",
+      "sell": "???",
+      "token": "???",
+      "minimedal": "???"
+    },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   },
   {
     "id": 16,
@@ -341,9 +376,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": null, "sell": null, "token": 250000, "minimedal": null },
+    "price": {
+      "buy": "???",
+      "sell": "???",
+      "token": 250000,
+      "minimedal": "???"
+    },
     "zone": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "slug": "_slug"
   }
 ]
