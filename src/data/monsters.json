@@ -8,7 +8,7 @@
       "es": "?",
       "fr": "Gluant",
       "ge": "Schleim",
-      "it": "???",
+      "it": "?",
       "jp": "スライム"
     },
     "type": "enemy",
@@ -20,8 +20,8 @@
     "speed": 5,
     "exp": 1,
     "gold": 2,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [
           "Région de Bastione",
@@ -44,7 +44,7 @@
       "es": "?",
       "fr": "Londuleux",
       "ge": "Schlängler",
-      "it": "???",
+      "it": "?",
       "jp": "おおみみず"
     },
     "type": "enemy",
@@ -56,8 +56,8 @@
     "speed": 2,
     "exp": 3,
     "gold": 6,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [
           "Région de Bastione",
@@ -86,7 +86,7 @@
       "es": "?",
       "fr": "Rat volant",
       "ge": "Ohrensauser",
-      "it": "???",
+      "it": "?",
       "jp": "エアラット"
     },
     "type": "enemy",
@@ -98,8 +98,8 @@
     "speed": 7,
     "exp": 3,
     "gold": 7,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [
           "Région de Bastione",
@@ -122,7 +122,7 @@
       "es": "?",
       "fr": "Scarapince",
       "ge": "Scherenkäfer",
-      "it": "???",
+      "it": "?",
       "jp": "はさみくわがた"
     },
     "type": "enemy",
@@ -134,8 +134,8 @@
     "speed": 3,
     "exp": 1,
     "gold": 4,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [
           "Région de Bastione",
@@ -158,7 +158,7 @@
       "es": "?",
       "fr": "Gluanbulle",
       "ge": "Blasenchleim",
-      "it": "???",
+      "it": "?",
       "jp": "バブルスライム"
     },
     "type": "enemy",
@@ -170,8 +170,8 @@
     "speed": 8,
     "exp": 6,
     "gold": 8,
-    "items": ["Herbe curative"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": ["Région de Bastione", "Région de Strattbourg"],
         "chapter2": [],
@@ -190,7 +190,7 @@
       "es": "?",
       "fr": "Pataupe",
       "ge": "Maulwurfschelm",
-      "it": "???",
+      "it": "?",
       "jp": "いたずらもぐら"
     },
     "type": "enemy",
@@ -202,8 +202,8 @@
     "speed": 5,
     "exp": 2,
     "gold": 4,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Région de Zalenagrad"],
@@ -226,7 +226,7 @@
       "es": "?",
       "fr": "Souche louche",
       "ge": "Stumpfpimpf",
-      "it": "???",
+      "it": "?",
       "jp": "きりかぶおばけ"
     },
     "type": "enemy",
@@ -238,8 +238,8 @@
     "speed": 1,
     "exp": 7,
     "gold": 13,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [
           "Région de Strattbourg",
@@ -265,7 +265,7 @@
       "es": "?",
       "fr": "Médigluant",
       "ge": "Doktorschleim",
-      "it": "???",
+      "it": "?",
       "jp": "ホイミスライム"
     },
     "type": "enemy",
@@ -277,8 +277,8 @@
     "speed": 12,
     "exp": 7,
     "gold": 11,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [
           "Grotte aire de jeu de Strattbourg",
@@ -305,7 +305,7 @@
       "es": "?",
       "fr": "Taupelle",
       "ge": "Manischer Maulwurf",
-      "it": "???",
+      "it": "?",
       "jp": "キラースコップ"
     },
     "type": "enemy",
@@ -317,8 +317,8 @@
     "speed": 10,
     "exp": 9,
     "gold": 10,
-    "items": ["Graine de force"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [
           "Grotte aire de jeu de Strattbourg",
@@ -340,7 +340,7 @@
       "es": "?",
       "fr": "Fée tide",
       "ge": "Blinzler",
-      "it": "???",
+      "it": "?",
       "jp": "みならいあくま"
     },
     "type": "enemy",
@@ -352,8 +352,8 @@
     "speed": 7,
     "exp": 11,
     "gold": 13,
-    "items": ["Bâton de cyprès"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": ["Grotte aire de jeu de Strattbourg"],
         "chapter2": [],
@@ -372,7 +372,7 @@
       "es": "?",
       "fr": "Archer vert",
       "ge": "Schützenwicht",
-      "it": "???",
+      "it": "?",
       "jp": "リリパット"
     },
     "type": "enemy",
@@ -384,8 +384,8 @@
     "speed": 20,
     "exp": 13,
     "gold": 15,
-    "items": ["Vêtement simple"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": ["Grande tour de Strattbourg"],
         "chapter2": [],
@@ -404,7 +404,7 @@
       "es": "?",
       "fr": "Ornitro",
       "ge": "Muddel",
-      "it": "???",
+      "it": "?",
       "jp": "ダックスピル"
     },
     "type": "enemy",
@@ -416,8 +416,8 @@
     "speed": 12,
     "exp": 14,
     "gold": 10,
-    "items": ["Bouclier de cuir"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": ["Grande tour de Strattbourg"],
         "chapter2": [],
@@ -436,7 +436,7 @@
       "es": "?",
       "fr": "Fée brile",
       "ge": "Zwinkerer",
-      "it": "???",
+      "it": "?",
       "jp": "ベビーマジシャン"
     },
     "type": "enemy",
@@ -448,8 +448,8 @@
     "speed": 14,
     "exp": 18,
     "gold": 20,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": ["Grande tour de Strattbourg"],
         "chapter2": ["Grotte de Vrenor"],
@@ -468,7 +468,7 @@
       "es": "?",
       "fr": "Chérubus",
       "ge": "Piekser",
-      "it": "???",
+      "it": "?",
       "jp": "ピクシー"
     },
     "type": "enemy",
@@ -480,8 +480,8 @@
     "speed": 15,
     "exp": 16,
     "gold": 20,
-    "items": ["Graine d'agilité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": ["Grande tour de Strattbourg"],
         "chapter2": [],
@@ -500,7 +500,7 @@
       "es": "?",
       "fr": "Poids-coq",
       "ge": "Kampfhuhn",
-      "it": "???",
+      "it": "?",
       "jp": "おおにわとり"
     },
     "type": "enemy",
@@ -512,8 +512,8 @@
     "speed": 18,
     "exp": 20,
     "gold": 9,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": ["Grande tour de Strattbourg"],
         "chapter2": [],
@@ -535,7 +535,7 @@
       "es": "?",
       "fr": "Clindœil",
       "ge": "Monekel",
-      "it": "???",
+      "it": "?",
       "jp": "おおめだま"
     },
     "type": "enemy",
@@ -547,8 +547,8 @@
     "speed": 20,
     "exp": 27,
     "gold": 40,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": ["Grande tour de Strattbourg"],
         "chapter2": [],
@@ -567,7 +567,7 @@
       "es": "?",
       "fr": "Fourmiasme",
       "ge": "Gelbschrecke",
-      "it": "???",
+      "it": "?",
       "jp": "キリキリバッタ"
     },
     "type": "enemy",
@@ -579,8 +579,8 @@
     "speed": 8,
     "exp": 1,
     "gold": 2,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Région de Zalenagrad", "Région de Vrenor"],
@@ -599,7 +599,7 @@
       "es": "?",
       "fr": "Gluante",
       "ge": "Schleimette",
-      "it": "???",
+      "it": "?",
       "jp": "スライムベス"
     },
     "type": "enemy",
@@ -611,8 +611,8 @@
     "speed": 3,
     "exp": 2,
     "gold": 5,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Région de Zalenagrad"],
@@ -631,7 +631,7 @@
       "es": "?",
       "fr": "Glair de lune",
       "ge": "Speichellecker",
-      "it": "???",
+      "it": "?",
       "jp": "つちわらし"
     },
     "type": "enemy",
@@ -643,8 +643,8 @@
     "speed": 5,
     "exp": 4,
     "gold": 10,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Région de Zalenagrad", "Région de Vrenor"],
@@ -663,7 +663,7 @@
       "es": "?",
       "fr": "Chauve-sourat",
       "ge": "Flattermaus",
-      "it": "???",
+      "it": "?",
       "jp": "みみとびねずみ"
     },
     "type": "enemy",
@@ -675,8 +675,8 @@
     "speed": 9,
     "exp": 3,
     "gold": 5,
-    "items": ["Casque de cuir"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Région de Zalenagrad", "Région de Taborov"],
@@ -695,7 +695,7 @@
       "es": "?",
       "fr": "Chienfernal",
       "ge": "Fu-Hund",
-      "it": "???",
+      "it": "?",
       "jp": "あばれこまいぬ"
     },
     "type": "enemy",
@@ -707,8 +707,8 @@
     "speed": 7,
     "exp": 7,
     "gold": 20,
-    "items": ["Aile de chimère"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [
@@ -731,7 +731,7 @@
       "es": "?",
       "fr": "Sacaver",
       "ge": "Raupenrüpel",
-      "it": "???",
+      "it": "?",
       "jp": "ミノーン"
     },
     "type": "enemy",
@@ -743,8 +743,8 @@
     "speed": 8,
     "exp": 5,
     "gold": 18,
-    "items": ["Aile de chimère"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Région de Zalenagrad"],
@@ -763,7 +763,7 @@
       "es": "?",
       "fr": "Champigoule",
       "ge": "Pestpilz",
-      "it": "???",
+      "it": "?",
       "jp": "おばけキノコ"
     },
     "type": "enemy",
@@ -775,8 +775,8 @@
     "speed": 10,
     "exp": 6,
     "gold": 15,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Région de Vrenor", "Grotte de Vrenor"],
@@ -795,7 +795,7 @@
       "es": "?",
       "fr": "Taurapace",
       "ge": "Stierstar",
-      "it": "???",
+      "it": "?",
       "jp": "あばれうしどり"
     },
     "type": "enemy",
@@ -807,8 +807,8 @@
     "speed": 10,
     "exp": 7,
     "gold": 17,
-    "items": ["Graine de force"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [
@@ -831,7 +831,7 @@
       "es": "?",
       "fr": "Morchidée",
       "ge": "Fleischfresser",
-      "it": "???",
+      "it": "?",
       "jp": "ひとくいそう"
     },
     "type": "enemy",
@@ -843,8 +843,8 @@
     "speed": 4,
     "exp": 7,
     "gold": 18,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Région de Vrenor", "Région de Chandor"],
@@ -863,7 +863,7 @@
       "es": "?",
       "fr": "Feu follet",
       "ge": "Feuergeist",
-      "it": "???",
+      "it": "?",
       "jp": "メラゴースト"
     },
     "type": "enemy",
@@ -875,8 +875,8 @@
     "speed": 8,
     "exp": 6,
     "gold": 18,
-    "items": ["Fiole d'eau sacrée"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [
@@ -899,7 +899,7 @@
       "es": "?",
       "fr": "Démon piquant",
       "ge": "Dornteufel",
-      "it": "???",
+      "it": "?",
       "jp": "テペロ"
     },
     "type": "enemy",
@@ -911,8 +911,8 @@
     "speed": 15,
     "exp": 15,
     "gold": 25,
-    "items": ["Bouclier de cuir"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Grotte de Vrenor"],
@@ -931,7 +931,7 @@
       "es": "?",
       "fr": "Tortilleux",
       "ge": "Kreuchler",
-      "it": "???",
+      "it": "?",
       "jp": "サンドマスター"
     },
     "type": "enemy",
@@ -943,8 +943,8 @@
     "speed": 24,
     "exp": 22,
     "gold": 27,
-    "items": ["Vêtement simple"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Région du bazar du désert"],
@@ -963,7 +963,7 @@
       "es": "?",
       "fr": "Scarasomniaque",
       "ge": "Bettwanze",
-      "it": "???",
+      "it": "?",
       "jp": "ラリホービートル"
     },
     "type": "enemy",
@@ -975,8 +975,8 @@
     "speed": 10,
     "exp": 12,
     "gold": 15,
-    "items": ["Fiole d'eau magique"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Région de la grotte de Vrenor", "Grotte de Vrenor"],
@@ -995,7 +995,7 @@
       "es": "?",
       "fr": "Komodor",
       "ge": "Komodo",
-      "it": "???",
+      "it": "?",
       "jp": "コドラ"
     },
     "type": "enemy",
@@ -1007,8 +1007,8 @@
     "speed": 25,
     "exp": 25,
     "gold": 39,
-    "items": ["Lance sacrée"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [
@@ -1030,7 +1030,7 @@
       "es": "?",
       "fr": "Démonius",
       "ge": "Necker",
-      "it": "???",
+      "it": "?",
       "jp": "おにこぞう"
     },
     "type": "enemy",
@@ -1042,8 +1042,8 @@
     "speed": 21,
     "exp": 18,
     "gold": 36,
-    "items": ["Fiole d'eau sacrée"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [
@@ -1066,7 +1066,7 @@
       "es": "",
       "fr": "Vipère à crête",
       "ge": "Kranzviper",
-      "it": "???",
+      "it": "?",
       "jp": "とさかへび"
     },
     "type": "enemy",
@@ -1078,8 +1078,8 @@
     "speed": 18,
     "exp": 18,
     "gold": 25,
-    "items": ["Chapeau à plumes"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Grotte de Vrenor"],
@@ -1102,7 +1102,7 @@
       "es": "?",
       "fr": "Scorpion blindé",
       "ge": "Panzerskorpion",
-      "it": "???",
+      "it": "?",
       "jp": "さそりアーマー"
     },
     "type": "enemy",
@@ -1114,8 +1114,8 @@
     "speed": 9,
     "exp": 38,
     "gold": 44,
-    "items": ["Armure de cuir"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Région du bazar du désert", "Région de Chandor"],
@@ -1134,7 +1134,7 @@
       "es": "?",
       "fr": "Vampierre",
       "ge": "Vampirfledermaus",
-      "it": "???",
+      "it": "?",
       "jp": "きゅうけつこうもり"
     },
     "type": "enemy",
@@ -1146,8 +1146,8 @@
     "speed": 14,
     "exp": 11,
     "gold": 23,
-    "items": ["Graine d'agilité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Grotte de Vrenor"],
@@ -1166,7 +1166,7 @@
       "es": "?",
       "fr": "Cyclown",
       "ge": "Tornadoteufel",
-      "it": "???",
+      "it": "?",
       "jp": "かまいたち"
     },
     "type": "enemy",
@@ -1178,8 +1178,8 @@
     "speed": 40,
     "exp": 32,
     "gold": 34,
-    "items": ["Arc de chasseur"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Tour elfique", "Région de Chandor"],
@@ -1201,7 +1201,7 @@
       "es": "?",
       "fr": "Batratueur",
       "ge": "Giftechse",
-      "it": "???",
+      "it": "?",
       "jp": "ポイズンリザード"
     },
     "type": "enemy",
@@ -1213,8 +1213,8 @@
     "speed": 15,
     "exp": 18,
     "gold": 21,
-    "items": ["Herbe curative"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Tour elfique"],
@@ -1233,7 +1233,7 @@
       "es": "?",
       "fr": "Mouchomme",
       "ge": "Fliegerich",
-      "it": "???",
+      "it": "?",
       "jp": "はえおとこ"
     },
     "type": "enemy",
@@ -1245,8 +1245,8 @@
     "speed": 17,
     "exp": 35,
     "gold": 47,
-    "items": ["Fiole d'eau magique"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Tour elfique"],
@@ -1265,7 +1265,7 @@
       "es": "?",
       "fr": "Cimetueur",
       "ge": "Sichelschlitzer",
-      "it": "???",
+      "it": "?",
       "jp": "ひとくいサーベル"
     },
     "type": "enemy",
@@ -1277,8 +1277,8 @@
     "speed": 17,
     "exp": 30,
     "gold": 46,
-    "items": ["Épée de cuivre"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Tour elfique"],
@@ -1297,7 +1297,7 @@
       "es": "?",
       "fr": "Ptéranodon",
       "ge": "Pteranodon",
-      "it": "???",
+      "it": "?",
       "jp": "プテラノドン"
     },
     "type": "enemy",
@@ -1309,8 +1309,8 @@
     "speed": 19,
     "exp": 36,
     "gold": 50,
-    "items": ["Graine d'agilité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Tour elfique", "Région de Chandor"],
@@ -1334,7 +1334,7 @@
       "es": "?",
       "fr": "Dragonlule",
       "ge": "Medikopter",
-      "it": "???",
+      "it": "?",
       "jp": "ドラゴンバタフライ"
     },
     "type": "enemy",
@@ -1346,8 +1346,8 @@
     "speed": 25,
     "exp": 38,
     "gold": 60,
-    "items": ["Aile de chimère"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Tour elfique"],
@@ -1366,7 +1366,7 @@
       "es": "?",
       "fr": "Matœil",
       "ge": "Glubscher",
-      "it": "???",
+      "it": "?",
       "jp": "スペクテット"
     },
     "type": "enemy",
@@ -1378,8 +1378,8 @@
     "speed": 21,
     "exp": 31,
     "gold": 62,
-    "items": ["Casque de cuir"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Tour elfique"],
@@ -1398,7 +1398,7 @@
       "es": "?",
       "fr": "Squelépéiste",
       "ge": "Skelettkämpfer",
-      "it": "???",
+      "it": "?",
       "jp": "がいこつけんし"
     },
     "type": "enemy",
@@ -1410,8 +1410,8 @@
     "speed": 27,
     "exp": 53,
     "gold": 54,
-    "items": ["Griffe de fer"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Région de Chandor"],
@@ -1434,7 +1434,7 @@
       "es": "?",
       "fr": "Armure errante",
       "ge": "Ruhelose Rüstung",
-      "it": "???",
+      "it": "?",
       "jp": "さまようよろい"
     },
     "type": "enemy",
@@ -1446,8 +1446,8 @@
     "speed": 25,
     "exp": 55,
     "gold": 49,
-    "items": ["Cottes de mailles"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Région de Chandor"],
@@ -1470,7 +1470,7 @@
       "es": "?",
       "fr": "Gluant de métal",
       "ge": "Metallschleim",
-      "it": "???",
+      "it": "?",
       "jp": "メタルスライム"
     },
     "type": "enemy",
@@ -1482,8 +1482,8 @@
     "speed": 50,
     "exp": 1350,
     "gold": 5,
-    "items": ["Tiare d'or"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Région de Chandor"],
@@ -1506,7 +1506,7 @@
       "es": "?",
       "fr": "Elépieuvre",
       "ge": "Elepus",
-      "it": "???",
+      "it": "?",
       "jp": "エレフローパー"
     },
     "type": "enemy",
@@ -1518,8 +1518,8 @@
     "speed": 10,
     "exp": 14,
     "gold": 18,
-    "items": ["Costume de danseuse"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -1538,7 +1538,7 @@
       "es": "?",
       "fr": "Ornithox",
       "ge": "Kuddel",
-      "it": "???",
+      "it": "?",
       "jp": "ももんじゃ"
     },
     "type": "enemy",
@@ -1550,8 +1550,8 @@
     "speed": 5,
     "exp": 3,
     "gold": 8,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -1570,7 +1570,7 @@
       "es": "?",
       "fr": "Démon cornu",
       "ge": "Hornteufel",
-      "it": "???",
+      "it": "?",
       "jp": "とんがりあたま"
     },
     "type": "enemy",
@@ -1582,8 +1582,8 @@
     "speed": 7,
     "exp": 7,
     "gold": 11,
-    "items": ["Herbe curative"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -1602,7 +1602,7 @@
       "es": "?",
       "fr": "Gris-gris",
       "ge": "Adrette Statuette",
-      "it": "???",
+      "it": "?",
       "jp": "いしにんぎょう"
     },
     "type": "enemy",
@@ -1614,8 +1614,8 @@
     "speed": 5,
     "exp": 12,
     "gold": 17,
-    "items": ["Fiole d'eau magique"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -1634,7 +1634,7 @@
       "es": "?",
       "fr": "Diablutin",
       "ge": "Kümmerling",
-      "it": "???",
+      "it": "?",
       "jp": "つかいま"
     },
     "type": "enemy",
@@ -1646,8 +1646,8 @@
     "speed": 12,
     "exp": 15,
     "gold": 28,
-    "items": ["Casque de bois"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -1671,7 +1671,7 @@
       "es": "?",
       "fr": "Ornicryo",
       "ge": "Knirschkuddel",
-      "it": "???",
+      "it": "?",
       "jp": "メイジももんじゃ"
     },
     "type": "enemy",
@@ -1683,8 +1683,8 @@
     "speed": 17,
     "exp": 18,
     "gold": 30,
-    "items": ["Casque de cuir"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -1708,7 +1708,7 @@
       "es": "?",
       "fr": "Pyroblatte",
       "ge": "Feuerkäfer",
-      "it": "???",
+      "it": "?",
       "jp": "ヘルビートル"
     },
     "type": "enemy",
@@ -1720,8 +1720,8 @@
     "speed": 10,
     "exp": 16,
     "gold": 21,
-    "items": ["Massue de chêne"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -1740,7 +1740,7 @@
       "es": "?",
       "fr": "Gluantification",
       "ge": "Schleimifizierung",
-      "it": "???",
+      "it": "?",
       "jp": "がったいスライム"
     },
     "type": "enemy",
@@ -1752,8 +1752,8 @@
     "speed": 15,
     "exp": 3,
     "gold": 1,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -1775,7 +1775,7 @@
       "es": "?",
       "fr": "Roi gluant",
       "ge": "Königsschleim",
-      "it": "???",
+      "it": "?",
       "jp": "キングスライム"
     },
     "type": "enemy",
@@ -1787,8 +1787,8 @@
     "speed": 17,
     "exp": 100,
     "gold": 150,
-    "items": ["Graine de magie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -1810,7 +1810,7 @@
       "es": "?",
       "fr": "Ratatattaque",
       "ge": "Rattentäter",
-      "it": "???",
+      "it": "?",
       "jp": "エビルハムスター"
     },
     "type": "enemy",
@@ -1822,8 +1822,8 @@
     "speed": 30,
     "exp": 43,
     "gold": 18,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -1842,7 +1842,7 @@
       "es": "?",
       "fr": "Salivard",
       "ge": "Sabberschlabber",
-      "it": "???",
+      "it": "?",
       "jp": "ペロペロ"
     },
     "type": "enemy",
@@ -1854,8 +1854,8 @@
     "speed": 15,
     "exp": 28,
     "gold": 61,
-    "items": ["Bâton de cyprès"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -1882,7 +1882,7 @@
       "es": "?",
       "fr": "Cyclotronc",
       "ge": "Dumpfstumpf",
-      "it": "???",
+      "it": "?",
       "jp": "ダークドリアード"
     },
     "type": "enemy",
@@ -1894,8 +1894,8 @@
     "speed": 18,
     "exp": 25,
     "gold": 30,
-    "items": ["Casque de bois"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -1914,7 +1914,7 @@
       "es": "?",
       "fr": "Tigriff",
       "ge": "Abartiger",
-      "it": "???",
+      "it": "?",
       "jp": "とらおとこ"
     },
     "type": "enemy",
@@ -1926,8 +1926,8 @@
     "speed": 20,
     "exp": 30,
     "gold": 50,
-    "items": ["Tenue de voyageur"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -1951,7 +1951,7 @@
       "es": "?",
       "fr": "Fée lée",
       "ge": "Blödler",
-      "it": "???",
+      "it": "?",
       "jp": "ひとつめピエロ"
     },
     "type": "enemy",
@@ -1963,8 +1963,8 @@
     "speed": 16,
     "exp": 27,
     "gold": 52,
-    "items": ["Graine de vie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -1987,7 +1987,7 @@
       "es": "?",
       "fr": "Paralysabre",
       "ge": "Sichel der Starre",
-      "it": "???",
+      "it": "?",
       "jp": "しびれだんびら"
     },
     "type": "enemy",
@@ -1999,8 +1999,8 @@
     "speed": 16,
     "exp": 25,
     "gold": 18,
-    "items": ["Botryche lunaire"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2023,7 +2023,7 @@
       "es": "?",
       "fr": "Flammerolle",
       "ge": "Verlorene Seele",
-      "it": "???",
+      "it": "?",
       "jp": "さまようたましい"
     },
     "type": "enemy",
@@ -2035,8 +2035,8 @@
     "speed": 1,
     "exp": 20,
     "gold": 28,
-    "items": ["Fiole d'eau sacrée"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2055,7 +2055,7 @@
       "es": "?",
       "fr": "Vampaul",
       "ge": "Vampirkämpfer",
-      "it": "???",
+      "it": "?",
       "jp": "バンプドック"
     },
     "type": "enemy",
@@ -2067,8 +2067,8 @@
     "speed": 28,
     "exp": 36,
     "gold": 24,
-    "items": ["Dague divine"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2092,7 +2092,7 @@
       "es": "?",
       "fr": "Scorpion d'assaut",
       "ge": "Metallskorpion",
-      "it": "???",
+      "it": "?",
       "jp": "メタルスコーピオン"
     },
     "type": "enemy",
@@ -2104,8 +2104,8 @@
     "speed": 25,
     "exp": 59,
     "gold": 38,
-    "items": ["Bouclier d'écailles"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2128,7 +2128,7 @@
       "es": "?",
       "fr": "Poids-plume",
       "ge": "Federfaust",
-      "it": "???",
+      "it": "?",
       "jp": "ドードーどり"
     },
     "type": "enemy",
@@ -2140,8 +2140,8 @@
     "speed": 26,
     "exp": 50,
     "gold": 51,
-    "items": ["Chapeau à plumes"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2168,7 +2168,7 @@
       "es": "?",
       "fr": "Geckorrosif",
       "ge": "Geckorrosif",
-      "it": "???",
+      "it": "?",
       "jp": "ベビーサラマンダ"
     },
     "type": "enemy",
@@ -2180,8 +2180,8 @@
     "speed": 27,
     "exp": 59,
     "gold": 58,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2204,7 +2204,7 @@
       "es": "?",
       "fr": "Dionéneuse",
       "ge": "Venus-Menschenfalle",
-      "it": "???",
+      "it": "?",
       "jp": "デビルプラント"
     },
     "type": "enemy",
@@ -2216,8 +2216,8 @@
     "speed": 15,
     "exp": 40,
     "gold": 34,
-    "items": ["Graine de vitalité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2236,7 +2236,7 @@
       "es": "",
       "fr": "Dardeur",
       "ge": "Pfeilwicht",
-      "it": "???",
+      "it": "?",
       "jp": "どくやずきん"
     },
     "type": "enemy",
@@ -2248,8 +2248,8 @@
     "speed": 10,
     "exp": 18,
     "gold": 16,
-    "items": ["Herbe curative"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2268,7 +2268,7 @@
       "es": "?",
       "fr": "Mandragore",
       "ge": "Mandragora",
-      "it": "???",
+      "it": "?",
       "jp": "マンドレイク"
     },
     "type": "enemy",
@@ -2280,8 +2280,8 @@
     "speed": 15,
     "exp": 26,
     "gold": 17,
-    "items": ["Graine de magie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2300,7 +2300,7 @@
       "es": "?",
       "fr": "Tire-flèches",
       "ge": "Bogenwicht",
-      "it": "???",
+      "it": "?",
       "jp": "アローインプ"
     },
     "type": "enemy",
@@ -2312,8 +2312,8 @@
     "speed": 21,
     "exp": 47,
     "gold": 16,
-    "items": ["Tenue de voyageur"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2336,7 +2336,7 @@
       "es": "?",
       "fr": "Yeti des sables",
       "ge": "Yetigitt",
-      "it": "???",
+      "it": "?",
       "jp": "デザートゴースト"
     },
     "type": "enemy",
@@ -2348,8 +2348,8 @@
     "speed": 25,
     "exp": 70,
     "gold": 68,
-    "items": ["Pelisse"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2368,7 +2368,7 @@
       "es": "?",
       "fr": "Tizon",
       "ge": "Flammenwerfer",
-      "it": "???",
+      "it": "?",
       "jp": "ほのおのせんし"
     },
     "type": "enemy",
@@ -2380,8 +2380,8 @@
     "speed": 36,
     "exp": 110,
     "gold": 52,
-    "items": ["Lance sacrée"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2405,7 +2405,7 @@
       "es": "?",
       "fr": "Champimage",
       "ge": "Plizmagier",
-      "it": "???",
+      "it": "?",
       "jp": "マージマタンゴ"
     },
     "type": "enemy",
@@ -2417,8 +2417,8 @@
     "speed": 20,
     "exp": 45,
     "gold": 30,
-    "items": ["Fiole d'eau sacrée"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2442,7 +2442,7 @@
       "es": "?",
       "fr": "Bovipare",
       "ge": "Flügelbüffel",
-      "it": "???",
+      "it": "?",
       "jp": "ブルホーク"
     },
     "type": "enemy",
@@ -2454,8 +2454,8 @@
     "speed": 26,
     "exp": 49,
     "gold": 39,
-    "items": ["Lance de fer"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2474,7 +2474,7 @@
       "es": "?",
       "fr": "Diablotin",
       "ge": "Kobold",
-      "it": "???",
+      "it": "?",
       "jp": "ベビーサタン"
     },
     "type": "enemy",
@@ -2486,8 +2486,8 @@
     "speed": 23,
     "exp": 80,
     "gold": 75,
-    "items": ["Graine de vitalité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2506,7 +2506,7 @@
       "es": "?",
       "fr": "Marcagicien",
       "ge": "Scharlatan",
-      "it": "???",
+      "it": "?",
       "jp": "コンジャラー"
     },
     "type": "enemy",
@@ -2518,8 +2518,8 @@
     "speed": 30,
     "exp": 70,
     "gold": 31,
-    "items": ["Graine de vitalité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2538,7 +2538,7 @@
       "es": "?",
       "fr": "Armure infernale",
       "ge": "Höllenrüstung",
-      "it": "???",
+      "it": "?",
       "jp": "じごくのよろい"
     },
     "type": "enemy",
@@ -2550,8 +2550,8 @@
     "speed": 24,
     "exp": 77,
     "gold": 76,
-    "items": ["Armure de fer"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2574,7 +2574,7 @@
       "es": "?",
       "fr": "Yéti yétu",
       "ge": "Schneestrolch",
-      "it": "???",
+      "it": "?",
       "jp": "イエティ"
     },
     "type": "enemy",
@@ -2586,8 +2586,8 @@
     "speed": 25,
     "exp": 85,
     "gold": 38,
-    "items": ["Pelisse"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2606,7 +2606,7 @@
       "es": "?",
       "fr": "Soldat squelette",
       "ge": "Skelettsoldat",
-      "it": "???",
+      "it": "?",
       "jp": "しりょうのきし"
     },
     "type": "enemy",
@@ -2618,8 +2618,8 @@
     "speed": 40,
     "exp": 106,
     "gold": 47,
-    "items": ["Épée large d'acier"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2644,7 +2644,7 @@
       "es": "?",
       "fr": "Talismaboule",
       "ge": "Fiese Figurine",
-      "it": "???",
+      "it": "?",
       "jp": "ミステリードール"
     },
     "type": "enemy",
@@ -2656,8 +2656,8 @@
     "speed": 30,
     "exp": 37,
     "gold": 300,
-    "items": ["Tiare d'or"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2676,7 +2676,7 @@
       "es": "?",
       "fr": "Bête sauvage",
       "ge": "Grobian",
-      "it": "???",
+      "it": "?",
       "jp": "オックスベア"
     },
     "type": "enemy",
@@ -2688,8 +2688,8 @@
     "speed": 33,
     "exp": 89,
     "gold": 49,
-    "items": ["Tablier de fer"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2708,7 +2708,7 @@
       "es": "?",
       "fr": "Dragonnet",
       "ge": "Drachenbaby",
-      "it": "???",
+      "it": "?",
       "jp": "ドラゴンパピー"
     },
     "type": "enemy",
@@ -2720,8 +2720,8 @@
     "speed": 34,
     "exp": 96,
     "gold": 50,
-    "items": ["Faucille à chaîne"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2740,7 +2740,7 @@
       "es": "?",
       "fr": "Gourou coucou",
       "ge": "Unglücksbringer",
-      "it": "???",
+      "it": "?",
       "jp": "しりょうつかい"
     },
     "type": "enemy",
@@ -2752,8 +2752,8 @@
     "speed": 55,
     "exp": 200,
     "gold": 54,
-    "items": ["Griffe de fer"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2772,7 +2772,7 @@
       "es": "?",
       "fr": "Asticocon",
       "ge": "Kokonkiller",
-      "it": "???",
+      "it": "?",
       "jp": "あくまのす"
     },
     "type": "enemy",
@@ -2784,8 +2784,8 @@
     "speed": 5,
     "exp": 80,
     "gold": 10,
-    "items": ["Cottes de mailles"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2808,7 +2808,7 @@
       "es": "?",
       "fr": "Guérigluant",
       "ge": "Heilschleim",
-      "it": "???",
+      "it": "?",
       "jp": "ベホマスライム"
     },
     "type": "enemy",
@@ -2820,8 +2820,8 @@
     "speed": 28,
     "exp": 68,
     "gold": 43,
-    "items": ["Graine de magie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2840,7 +2840,7 @@
       "es": "?",
       "fr": "Abracadabraque",
       "ge": "Abrakadabrador",
-      "it": "???",
+      "it": "?",
       "jp": "サブナック"
     },
     "type": "enemy",
@@ -2852,8 +2852,8 @@
     "speed": 38,
     "exp": 125,
     "gold": 81,
-    "items": ["Herbe curative"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2872,7 +2872,7 @@
       "es": "?",
       "fr": "Tigrrr",
       "ge": "Unartiger",
-      "it": "???",
+      "it": "?",
       "jp": "ベンガル"
     },
     "type": "enemy",
@@ -2884,8 +2884,8 @@
     "speed": 36,
     "exp": 115,
     "gold": 62,
-    "items": ["Pelisse"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2908,7 +2908,7 @@
       "es": "?",
       "fr": "Rhinocérosse",
       "ge": "Beilhorn",
-      "it": "???",
+      "it": "?",
       "jp": "サイおとこ"
     },
     "type": "enemy",
@@ -2920,8 +2920,8 @@
     "speed": 22,
     "exp": 126,
     "gold": 39,
-    "items": ["Hache de guerre"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2940,7 +2940,7 @@
       "es": "?",
       "fr": "Mini démon",
       "ge": "Minidämon",
-      "it": "???",
+      "it": "?",
       "jp": "ミニデーモン"
     },
     "type": "enemy",
@@ -2952,8 +2952,8 @@
     "speed": 54,
     "exp": 193,
     "gold": 43,
-    "items": ["Masque d'Hadès"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -2979,7 +2979,7 @@
       "es": "?",
       "fr": "Glacianodon",
       "ge": "Schocknodon",
-      "it": "???",
+      "it": "?",
       "jp": "アイスコンドル"
     },
     "type": "enemy",
@@ -2991,8 +2991,8 @@
     "speed": 37,
     "exp": 104,
     "gold": 33,
-    "items": ["Graine de force"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3016,7 +3016,7 @@
       "es": "?",
       "fr": "Armure fatale",
       "ge": "Todesrüstung",
-      "it": "???",
+      "it": "?",
       "jp": "キラーアーマー"
     },
     "type": "enemy",
@@ -3028,8 +3028,8 @@
     "speed": 30,
     "exp": 120,
     "gold": 58,
-    "items": ["Armure de plates"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3048,7 +3048,7 @@
       "es": "?",
       "fr": "Rochexplosif",
       "ge": "Falsenbombe",
-      "it": "???",
+      "it": "?",
       "jp": "ばくだんいわ"
     },
     "type": "enemy",
@@ -3060,8 +3060,8 @@
     "speed": 0,
     "exp": 150,
     "gold": 40,
-    "items": ["Graine de vie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3080,7 +3080,7 @@
       "es": "?",
       "fr": "Radiaptor",
       "ge": "Eoraptor",
-      "it": "???",
+      "it": "?",
       "jp": "テラノザース"
     },
     "type": "enemy",
@@ -3092,8 +3092,8 @@
     "speed": 40,
     "exp": 116,
     "gold": 45,
-    "items": ["Armure de bronze"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3116,7 +3116,7 @@
       "es": "?",
       "fr": "Byleth",
       "ge": "Beleth",
-      "it": "???",
+      "it": "?",
       "jp": "ベレス"
     },
     "type": "enemy",
@@ -3128,8 +3128,8 @@
     "speed": 57,
     "exp": 132,
     "gold": 70,
-    "items": ["Bâton somatique"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3148,7 +3148,7 @@
       "es": "?",
       "fr": "Cavalier fantôme",
       "ge": "Galgenreiter",
-      "it": "???",
+      "it": "?",
       "jp": "ボーンナイト"
     },
     "type": "enemy",
@@ -3160,8 +3160,8 @@
     "speed": 40,
     "exp": 216,
     "gold": 82,
-    "items": ["Lance de fer"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3184,7 +3184,7 @@
       "es": "?",
       "fr": "Ronflicorne",
       "ge": "Bulldozer",
-      "it": "???",
+      "it": "?",
       "jp": "アークバッファロー"
     },
     "type": "enemy",
@@ -3196,8 +3196,8 @@
     "speed": 39,
     "exp": 121,
     "gold": 72,
-    "items": ["Graine de force"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3220,7 +3220,7 @@
       "es": "?",
       "fr": "Coq-toc",
       "ge": "Haudraufhenne",
-      "it": "???",
+      "it": "?",
       "jp": "マンルースター"
     },
     "type": "enemy",
@@ -3232,8 +3232,8 @@
     "speed": 61,
     "exp": 108,
     "gold": 40,
-    "items": ["Aile de chimère"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3252,7 +3252,7 @@
       "es": "?",
       "fr": "Toréamorse",
       "ge": "Qualross",
-      "it": "???",
+      "it": "?",
       "jp": "グレートオーラス"
     },
     "type": "enemy",
@@ -3264,8 +3264,8 @@
     "speed": 40,
     "exp": 120,
     "gold": 54,
-    "items": ["Boulier d'astrae"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3284,7 +3284,7 @@
       "es": "?",
       "fr": "Gluant de mercure",
       "ge": "Flüssigmetallschleim",
-      "it": "???",
+      "it": "?",
       "jp": "はぐれメタル"
     },
     "type": "enemy",
@@ -3296,8 +3296,8 @@
     "speed": 150,
     "exp": 10050,
     "gold": 10,
-    "items": ["Chapeau de félicité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3316,7 +3316,7 @@
       "es": "?",
       "fr": "Humbaba",
       "ge": "Humbaba",
-      "it": "???",
+      "it": "?",
       "jp": "ハンババ"
     },
     "type": "enemy",
@@ -3328,8 +3328,8 @@
     "speed": 30,
     "exp": 144,
     "gold": 76,
-    "items": ["Botryche lunaire"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3352,7 +3352,7 @@
       "es": "?",
       "fr": "Libellugon",
       "ge": "Feuerspeier",
-      "it": "???",
+      "it": "?",
       "jp": "ドラゴニット"
     },
     "type": "enemy",
@@ -3364,8 +3364,8 @@
     "speed": 41,
     "exp": 180,
     "gold": 100,
-    "items": ["Manteau d'esquive"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3388,7 +3388,7 @@
       "es": "?",
       "fr": "Terminataure",
       "ge": "Terminonatator",
-      "it": "???",
+      "it": "?",
       "jp": "プレシオドン"
     },
     "type": "enemy",
@@ -3400,8 +3400,8 @@
     "speed": 30,
     "exp": 135,
     "gold": 57,
-    "items": ["Robe de soie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3424,7 +3424,7 @@
       "es": "?",
       "fr": "Berserkerlette",
       "ge": "Sokarlett",
-      "it": "???",
+      "it": "?",
       "jp": "しにがみ"
     },
     "type": "enemy",
@@ -3436,8 +3436,8 @@
     "speed": 53,
     "exp": 315,
     "gold": 50,
-    "items": ["Cuirasse de zombie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3462,7 +3462,7 @@
       "es": "?",
       "fr": "Grimasque",
       "ge": "Grinsgötze",
-      "it": "???",
+      "it": "?",
       "jp": "ガオン"
     },
     "type": "enemy",
@@ -3474,8 +3474,8 @@
     "speed": 50,
     "exp": 290,
     "gold": 102,
-    "items": ["Dagues d'oreilles"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3498,7 +3498,7 @@
       "es": "?",
       "fr": "Pokérosaure",
       "ge": "Podokesaurus",
-      "it": "???",
+      "it": "?",
       "jp": "はしりとかげ"
     },
     "type": "enemy",
@@ -3510,8 +3510,8 @@
     "speed": 74,
     "exp": 270,
     "gold": 81,
-    "items": ["Graine d'agilité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3530,7 +3530,7 @@
       "es": "?",
       "fr": "Dragonnier",
       "ge": "Drachenreiter",
-      "it": "???",
+      "it": "?",
       "jp": "ドラゴンライダー"
     },
     "type": "enemy",
@@ -3542,8 +3542,8 @@
     "speed": 70,
     "exp": 351,
     "gold": 108,
-    "items": ["Graine de force"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3567,7 +3567,7 @@
       "es": "?",
       "fr": "Mouche des neiges",
       "ge": "Frostfliege",
-      "it": "???",
+      "it": "?",
       "jp": "マヒャドフライ"
     },
     "type": "enemy",
@@ -3579,8 +3579,8 @@
     "speed": 35,
     "exp": 261,
     "gold": 151,
-    "items": ["Crottin de cheval"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3603,7 +3603,7 @@
       "es": "?",
       "fr": "Phacomage",
       "ge": "Höllenhexer",
-      "it": "???",
+      "it": "?",
       "jp": "カロン"
     },
     "type": "enemy",
@@ -3615,8 +3615,8 @@
     "speed": 50,
     "exp": 234,
     "gold": 91,
-    "items": ["Bague de prière"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3639,7 +3639,7 @@
       "es": "?",
       "fr": "Rejeton de l'enfer",
       "ge": "Ausgeburt der Hölle",
-      "it": "???",
+      "it": "?",
       "jp": "フェイスボール"
     },
     "type": "enemy",
@@ -3651,8 +3651,8 @@
     "speed": 67,
     "exp": 225,
     "gold": 186,
-    "items": ["Botryche lunaire"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3671,7 +3671,7 @@
       "es": "?",
       "fr": "Lame sanglante",
       "ge": "Blutsichel",
-      "it": "???",
+      "it": "?",
       "jp": "ブラッドソード"
     },
     "type": "enemy",
@@ -3683,8 +3683,8 @@
     "speed": 49,
     "exp": 180,
     "gold": 80,
-    "items": ["Épée large d'acier"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3707,7 +3707,7 @@
       "es": "?",
       "fr": "Apprentiran",
       "ge": "Flugschrecken",
-      "it": "???",
+      "it": "?",
       "jp": "テラノバット"
     },
     "type": "enemy",
@@ -3719,8 +3719,8 @@
     "speed": 43,
     "exp": 187,
     "gold": 74,
-    "items": ["Aile de chimère"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3739,7 +3739,7 @@
       "es": "?",
       "fr": "Gourou vaudou",
       "ge": "Voodooguru",
-      "it": "???",
+      "it": "?",
       "jp": "ビビンバー"
     },
     "type": "enemy",
@@ -3751,8 +3751,8 @@
     "speed": 57,
     "exp": 211,
     "gold": 88,
-    "items": ["Bâton du salut"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3771,7 +3771,7 @@
       "es": "?",
       "fr": "Coagluant",
       "ge": "Arztschleim",
-      "it": "???",
+      "it": "?",
       "jp": "ベホイミスライム"
     },
     "type": "enemy",
@@ -3783,8 +3783,8 @@
     "speed": 47,
     "exp": 162,
     "gold": 55,
-    "items": ["Graine de vie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3803,7 +3803,7 @@
       "es": "?",
       "fr": "Rhinocérache",
       "ge": "Rhinozeraxt",
-      "it": "???",
+      "it": "?",
       "jp": "ライノソルジャー"
     },
     "type": "enemy",
@@ -3815,8 +3815,8 @@
     "speed": 35,
     "exp": 245,
     "gold": 68,
-    "items": ["Marteau de hela"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3840,7 +3840,7 @@
       "es": "?",
       "fr": "Hippovol",
       "ge": "Fledermops",
-      "it": "???",
+      "it": "?",
       "jp": "ジャイアントバット"
     },
     "type": "enemy",
@@ -3852,8 +3852,8 @@
     "speed": 38,
     "exp": 172,
     "gold": 84,
-    "items": ["Manteau de sérénité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3872,7 +3872,7 @@
       "es": "?",
       "fr": "Trublion",
       "ge": "Höllenlöwe",
-      "it": "???",
+      "it": "?",
       "jp": "アームライオン"
     },
     "type": "enemy",
@@ -3884,8 +3884,8 @@
     "speed": 45,
     "exp": 224,
     "gold": 119,
-    "items": ["Robe de cuir"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3908,7 +3908,7 @@
       "es": "?",
       "fr": "Glazon",
       "ge": "Eiswerfer",
-      "it": "???",
+      "it": "?",
       "jp": "ブリザードマン"
     },
     "type": "enemy",
@@ -3920,8 +3920,8 @@
     "speed": 47,
     "exp": 286,
     "gold": 100,
-    "items": ["Graine de magie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3940,7 +3940,7 @@
       "es": "?",
       "fr": "Wyverne",
       "ge": "Flügeldrache",
-      "it": "???",
+      "it": "?",
       "jp": "ライバーン"
     },
     "type": "enemy",
@@ -3952,8 +3952,8 @@
     "speed": 82,
     "exp": 393,
     "gold": 116,
-    "items": ["Aiguille empoisonnée"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -3972,7 +3972,7 @@
       "es": "?",
       "fr": "Fourmicmac",
       "ge": "Blauschrecke",
-      "it": "???",
+      "it": "?",
       "jp": "メダパニバッタ"
     },
     "type": "enemy",
@@ -3984,8 +3984,8 @@
     "speed": 59,
     "exp": 261,
     "gold": 99,
-    "items": ["Sac de musc"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4008,7 +4008,7 @@
       "es": "?",
       "fr": "Belzébik",
       "ge": "Bullzebub",
-      "it": "???",
+      "it": "?",
       "jp": "アンクルホーン"
     },
     "type": "enemy",
@@ -4020,8 +4020,8 @@
     "speed": 78,
     "exp": 387,
     "gold": 122,
-    "items": ["Graine de vie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4040,7 +4040,7 @@
       "es": "?",
       "fr": "Roi guérigluant",
       "ge": "Heilschleimkönig",
-      "it": "???",
+      "it": "?",
       "jp": "スライムベホマズン"
     },
     "type": "enemy",
@@ -4052,8 +4052,8 @@
     "speed": 30,
     "exp": 384,
     "gold": 300,
-    "items": ["Épée de cuivre"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4072,7 +4072,7 @@
       "es": "?",
       "fr": "Rhinofurax",
       "ge": "Henkerhorn",
-      "it": "???",
+      "it": "?",
       "jp": "ライノスキング"
     },
     "type": "enemy",
@@ -4084,8 +4084,8 @@
     "speed": 70,
     "exp": 655,
     "gold": 150,
-    "items": ["Armure de plates"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4104,7 +4104,7 @@
       "es": "?",
       "fr": "Gourou jajou",
       "ge": "Miesmagier",
-      "it": "???",
+      "it": "?",
       "jp": "ブラックマージ"
     },
     "type": "enemy",
@@ -4116,8 +4116,8 @@
     "speed": 58,
     "exp": 477,
     "gold": 146,
-    "items": ["Absorboléro"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4136,7 +4136,7 @@
       "es": "?",
       "fr": "Grand faucheur",
       "ge": "Sensenhüter",
-      "it": "???",
+      "it": "?",
       "jp": "じごくのもんばん"
     },
     "type": "enemy",
@@ -4148,8 +4148,8 @@
     "speed": 61,
     "exp": 585,
     "gold": 73,
-    "items": ["Faucille à chaîne"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4168,7 +4168,7 @@
       "es": "?",
       "fr": "Bouledogre",
       "ge": "Oger",
-      "it": "???",
+      "it": "?",
       "jp": "オーガー"
     },
     "type": "enemy",
@@ -4180,8 +4180,8 @@
     "speed": 47,
     "exp": 391,
     "gold": 65,
-    "items": ["Griffe de feu"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4200,7 +4200,7 @@
       "es": "?",
       "fr": "Mygalion",
       "ge": "Löwenmaul",
-      "it": "???",
+      "it": "?",
       "jp": "やつざきアニマル"
     },
     "type": "enemy",
@@ -4212,8 +4212,8 @@
     "speed": 57,
     "exp": 447,
     "gold": 92,
-    "items": ["Carte argentées"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4232,7 +4232,7 @@
       "es": "?",
       "fr": "Empereur nocturne",
       "ge": "König der Nacht",
-      "it": "???",
+      "it": "?",
       "jp": "よるのていおう"
     },
     "type": "enemy",
@@ -4244,8 +4244,8 @@
     "speed": 60,
     "exp": 495,
     "gold": 144,
-    "items": ["Body rose"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4264,7 +4264,7 @@
       "es": "?",
       "fr": "Roi gluant de métal",
       "ge": "Metall-Königsschleim",
-      "it": "???",
+      "it": "?",
       "jp": "メタルキング"
     },
     "type": "enemy",
@@ -4276,8 +4276,8 @@
     "speed": 165,
     "exp": 30010,
     "gold": 20,
-    "items": ["Casque de mercure"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4296,7 +4296,7 @@
       "es": "",
       "fr": "Dragon vert",
       "ge": "Grüner Drache",
-      "it": "???",
+      "it": "?",
       "jp": "グリーンドラゴン"
     },
     "type": "enemy",
@@ -4308,8 +4308,8 @@
     "speed": 55,
     "exp": 405,
     "gold": 132,
-    "items": ["Bouclier du dragon"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4328,7 +4328,7 @@
       "es": "",
       "fr": "Typhonphonphon",
       "ge": "Wirbeline",
-      "it": "???",
+      "it": "?",
       "jp": "レッドサイクロン"
     },
     "type": "enemy",
@@ -4340,8 +4340,8 @@
     "speed": 79,
     "exp": 403,
     "gold": 128,
-    "items": ["Arc de chasseur"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4360,7 +4360,7 @@
       "es": "?",
       "fr": "Baron d'os",
       "ge": "Knochenbaron",
-      "it": "???",
+      "it": "?",
       "jp": "しにがみきぞく"
     },
     "type": "enemy",
@@ -4372,8 +4372,8 @@
     "speed": 65,
     "exp": 543,
     "gold": 139,
-    "items": ["Graine de vie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4392,7 +4392,7 @@
       "es": "?",
       "fr": "Sméagoule",
       "ge": "Geifernder Ghul",
-      "it": "???",
+      "it": "?",
       "jp": "スモールグール"
     },
     "type": "enemy",
@@ -4404,8 +4404,8 @@
     "speed": 66,
     "exp": 448,
     "gold": 63,
-    "items": ["Cuirasse de zombie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4430,7 +4430,7 @@
       "es": "?",
       "fr": "Maskoteck",
       "ge": "Teak-Tiki",
-      "it": "???",
+      "it": "?",
       "jp": "トーテムキラー"
     },
     "type": "enemy",
@@ -4442,8 +4442,8 @@
     "speed": 75,
     "exp": 485,
     "gold": 52,
-    "items": ["Masque de fer"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4462,7 +4462,7 @@
       "es": "?",
       "fr": "Vicius",
       "ge": "Triezer",
-      "it": "???",
+      "it": "?",
       "jp": "バアラック"
     },
     "type": "enemy",
@@ -4474,8 +4474,8 @@
     "speed": 70,
     "exp": 573,
     "gold": 172,
-    "items": ["Bague de prière"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4499,7 +4499,7 @@
       "es": "?",
       "fr": "Crotale",
       "ge": "Schlundviper",
-      "it": "???",
+      "it": "?",
       "jp": "ピットバイパー"
     },
     "type": "enemy",
@@ -4511,8 +4511,8 @@
     "speed": 60,
     "exp": 563,
     "gold": 95,
-    "items": ["Botryche lunaire"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4531,7 +4531,7 @@
       "es": "?",
       "fr": "Damoisel",
       "ge": "Seejungfer",
-      "it": "???",
+      "it": "?",
       "jp": "フェアリードラゴン"
     },
     "type": "enemy",
@@ -4543,8 +4543,8 @@
     "speed": 110,
     "exp": 615,
     "gold": 390,
-    "items": ["Graine de magie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4563,7 +4563,7 @@
       "es": "?",
       "fr": "Belzébouc",
       "ge": "Zornhorn",
-      "it": "???",
+      "it": "?",
       "jp": "ブルデビル"
     },
     "type": "enemy",
@@ -4575,8 +4575,8 @@
     "speed": 88,
     "exp": 670,
     "gold": 205,
-    "items": ["Cuirasse du dragon"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4595,7 +4595,7 @@
       "es": "?",
       "fr": "Pitbrûle",
       "ge": "Flammenfiffi",
-      "it": "???",
+      "it": "?",
       "jp": "フレイムドック"
     },
     "type": "enemy",
@@ -4607,8 +4607,8 @@
     "speed": 61,
     "exp": 515,
     "gold": 205,
-    "items": ["Graine de vie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4627,7 +4627,7 @@
       "es": "?",
       "fr": "Globulœil",
       "ge": "Herr der Fliegen",
-      "it": "???",
+      "it": "?",
       "jp": "ベルザブル"
     },
     "type": "enemy",
@@ -4639,8 +4639,8 @@
     "speed": 68,
     "exp": 570,
     "gold": 123,
-    "items": ["Épée double"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4659,7 +4659,7 @@
       "es": "?-copier",
       "fr": "Feutocopieur",
       "ge": "Doppelmoppel",
-      "it": "???",
+      "it": "?",
       "jp": "マネマネ"
     },
     "type": "enemy",
@@ -4671,8 +4671,8 @@
     "speed": 120,
     "exp": 582,
     "gold": 316,
-    "items": ["Miroir de Râ"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4696,7 +4696,7 @@
       "es": "?",
       "fr": "Guerracotta",
       "ge": "Terrakottakrieger",
-      "it": "???",
+      "it": "?",
       "jp": "どぐうせんし"
     },
     "type": "enemy",
@@ -4708,8 +4708,8 @@
     "speed": 120,
     "exp": 693,
     "gold": 15,
-    "items": ["Graine de vie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4728,7 +4728,7 @@
       "es": "?",
       "fr": "Fléogre",
       "ge": "Schwinger",
-      "it": "???",
+      "it": "?",
       "jp": "てっきゅうまじん"
     },
     "type": "enemy",
@@ -4740,8 +4740,8 @@
     "speed": 55,
     "exp": 1094,
     "gold": 53,
-    "items": ["Armure de hela"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4760,7 +4760,7 @@
       "es": "?",
       "fr": "Dragon rouge",
       "ge": "Roter Drache",
-      "it": "???",
+      "it": "?",
       "jp": "レッドドラゴン"
     },
     "type": "enemy",
@@ -4772,8 +4772,8 @@
     "speed": 78,
     "exp": 603,
     "gold": 215,
-    "items": ["Graine de vitalité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4791,8 +4791,8 @@
       "en": "Sasquash",
       "es": "?",
       "fr": "Primatraque",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "ビッグスロース"
     },
     "type": "enemy",
@@ -4804,8 +4804,8 @@
     "speed": 37,
     "exp": 589,
     "gold": 99,
-    "items": ["Bâton de thalie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4823,8 +4823,8 @@
       "en": "Wilder beast",
       "es": "?",
       "fr": "Bebête sauvage",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "ビースト"
     },
     "type": "enemy",
@@ -4836,8 +4836,8 @@
     "speed": 54,
     "exp": 480,
     "gold": 81,
-    "items": ["Graine d'agilité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4855,8 +4855,8 @@
       "en": "Vis mage",
       "es": "?",
       "fr": "Maximage",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "だいまどう"
     },
     "type": "enemy",
@@ -4868,8 +4868,8 @@
     "speed": 220,
     "exp": 1232,
     "gold": 112,
-    "items": ["Robe chatoyante"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4893,7 +4893,7 @@
       "es": "?",
       "fr": "Prince des ténèbres",
       "ge": "Prinz der Finsternis",
-      "it": "???",
+      "it": "?",
       "jp": "デビルプリンス"
     },
     "type": "enemy",
@@ -4905,8 +4905,8 @@
     "speed": 70,
     "exp": 684,
     "gold": 226,
-    "items": ["Bâton d'antimagie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4924,8 +4924,8 @@
       "en": "Dragooner",
       "es": "?",
       "fr": "Cavalier des enfers",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "ガーディアン"
     },
     "type": "enemy",
@@ -4937,8 +4937,8 @@
     "speed": 75,
     "exp": 740,
     "gold": 169,
-    "items": ["Fléau des dragons"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4960,8 +4960,8 @@
       "en": "Emperor wyvern",
       "es": "?",
       "fr": "Wyvereine",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "ライバーンロード"
     },
     "type": "enemy",
@@ -4973,8 +4973,8 @@
     "speed": 67,
     "exp": 786,
     "gold": 254,
-    "items": ["Graine d'agilité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -4997,7 +4997,7 @@
       "es": "?",
       "fr": "Rejeton du démon",
       "ge": "Dämonenbrut",
-      "it": "???",
+      "it": "?",
       "jp": "デーモンスピリット"
     },
     "type": "enemy",
@@ -5009,8 +5009,8 @@
     "speed": 80,
     "exp": 586,
     "gold": 247,
-    "items": ["Manteau d'esquive"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5028,8 +5028,8 @@
       "en": "Night rider",
       "es": "?",
       "fr": "Cavalier nocturne",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "グレートライドン"
     },
     "type": "enemy",
@@ -5041,8 +5041,8 @@
     "speed": 71,
     "exp": 1678,
     "gold": 20,
-    "items": ["Épée double"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5060,8 +5060,8 @@
       "en": "Night clubber",
       "es": "?",
       "fr": "Bastonnier",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "おにこんぼう"
     },
     "type": "enemy",
@@ -5073,8 +5073,8 @@
     "speed": 22,
     "exp": 1023,
     "gold": 137,
-    "items": ["Massue de chêne"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5093,7 +5093,7 @@
       "es": "?",
       "fr": "Chevalier nébuleux",
       "ge": "Schattenritter",
-      "it": "???",
+      "it": "?",
       "jp": "ダークアーマー"
     },
     "type": "enemy",
@@ -5105,8 +5105,8 @@
     "speed": 78,
     "exp": 450,
     "gold": 92,
-    "items": ["Épée ardente"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5124,8 +5124,8 @@
       "en": "Decayurion",
       "es": "?",
       "fr": "Légionellos",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "ゾンビソルジャー"
     },
     "type": "enemy",
@@ -5137,8 +5137,8 @@
     "speed": 70,
     "exp": 563,
     "gold": 72,
-    "items": ["Cuirasse de zombie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5157,7 +5157,7 @@
       "es": "?",
       "fr": "Main sanglante",
       "ge": "Blutige Hand",
-      "it": "???",
+      "it": "?",
       "jp": "ブラッドハンド"
     },
     "type": "enemy",
@@ -5169,8 +5169,8 @@
     "speed": 112,
     "exp": 347,
     "gold": 50,
-    "items": ["Brassard d'or"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5189,7 +5189,7 @@
       "es": "?",
       "fr": "Démon orageux",
       "ge": "Donnerdämon",
-      "it": "???",
+      "it": "?",
       "jp": "サンダーサタン"
     },
     "type": "enemy",
@@ -5201,8 +5201,8 @@
     "speed": 91,
     "exp": 480,
     "gold": 95,
-    "items": ["Graine de vitalité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5221,7 +5221,7 @@
       "es": "?",
       "fr": "Draguar",
       "ge": "Draguar",
-      "it": "???",
+      "it": "?",
       "jp": "ゲリュオン"
     },
     "type": "enemy",
@@ -5233,8 +5233,8 @@
     "speed": 102,
     "exp": 543,
     "gold": 102,
-    "items": ["Graine d'agilité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5253,7 +5253,7 @@
       "es": "?",
       "fr": "Saltimbranque",
       "ge": "Gurgelgaukler",
-      "it": "???",
+      "it": "?",
       "jp": "デーモンレスラー"
     },
     "type": "enemy",
@@ -5265,8 +5265,8 @@
     "speed": 105,
     "exp": 680,
     "gold": 142,
-    "items": ["Brassard de choc"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5284,8 +5284,8 @@
       "en": "Cerberuff",
       "es": "?",
       "fr": "Cerberk",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "じごくのばんけん"
     },
     "type": "enemy",
@@ -5297,8 +5297,8 @@
     "speed": 123,
     "exp": 435,
     "gold": 95,
-    "items": ["Sac de musc"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5317,7 +5317,7 @@
       "es": "?",
       "fr": "Satanglier",
       "ge": "Gnuzifer",
-      "it": "???",
+      "it": "?",
       "jp": "ヌーデビル"
     },
     "type": "enemy",
@@ -5329,8 +5329,8 @@
     "speed": 83,
     "exp": 685,
     "gold": 121,
-    "items": ["Masque d'Hadès"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5349,7 +5349,7 @@
       "es": "?",
       "fr": "Stryge",
       "ge": "Greifer",
-      "it": "???",
+      "it": "?",
       "jp": "ランガー"
     },
     "type": "enemy",
@@ -5361,8 +5361,8 @@
     "speed": 125,
     "exp": 712,
     "gold": 160,
-    "items": ["Graine d'agilité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5380,8 +5380,8 @@
       "en": "Prism peacock",
       "es": "?",
       "fr": "Dark-en-ciel",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "にじくじゃく"
     },
     "type": "enemy",
@@ -5393,8 +5393,8 @@
     "speed": 95,
     "exp": 885,
     "gold": 155,
-    "items": ["Graine de magie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5413,7 +5413,7 @@
       "es": "?",
       "fr": "Métallogre",
       "ge": "Testosteroger",
-      "it": "???",
+      "it": "?",
       "jp": "オーガキング"
     },
     "type": "enemy",
@@ -5425,8 +5425,8 @@
     "speed": 115,
     "exp": 750,
     "gold": 200,
-    "items": ["Armure de hela"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5444,8 +5444,8 @@
       "en": "Drakulard",
       "es": "?",
       "fr": "Draculard",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "ギガントドラゴン"
     },
     "type": "enemy",
@@ -5457,8 +5457,8 @@
     "speed": 82,
     "exp": 935,
     "gold": 130,
-    "items": ["Graine de vie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5476,8 +5476,8 @@
       "en": "Togre",
       "es": "?",
       "fr": "Togre",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "ネクロバルサ"
     },
     "type": "enemy",
@@ -5489,8 +5489,8 @@
     "speed": 102,
     "exp": 525,
     "gold": 142,
-    "items": ["Armure de piques"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5508,8 +5508,8 @@
       "en": "High djinks",
       "es": "?",
       "fr": "Djinn-fizz",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "ランプのまおう"
     },
     "type": "enemy",
@@ -5521,8 +5521,8 @@
     "speed": 88,
     "exp": 710,
     "gold": 117,
-    "items": ["Caleçon"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5540,8 +5540,8 @@
       "en": "Perilwinkle",
       "es": "?",
       "fr": "Bicorneau",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "あんこくつむり"
     },
     "type": "enemy",
@@ -5553,8 +5553,8 @@
     "speed": 62,
     "exp": 356,
     "gold": 83,
-    "items": ["Graine de sagesse"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5573,7 +5573,7 @@
       "es": "?",
       "fr": "Alligatortue",
       "ge": "Schaligator",
-      "it": "???",
+      "it": "?",
       "jp": "キルゲータ"
     },
     "type": "enemy",
@@ -5585,8 +5585,8 @@
     "speed": 106,
     "exp": 415,
     "gold": 77,
-    "items": ["Lance du démon"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5604,8 +5604,8 @@
       "en": "Croaked king",
       "es": "?",
       "fr": "Roi crôa",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "フロッグキング"
     },
     "type": "enemy",
@@ -5617,8 +5617,8 @@
     "speed": 88,
     "exp": 740,
     "gold": 110,
-    "items": ["Bague de prière"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5636,8 +5636,8 @@
       "en": "Seasaur",
       "es": "?",
       "fr": "Aquasaure",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "ギャオース"
     },
     "type": "enemy",
@@ -5649,8 +5649,8 @@
     "speed": 90,
     "exp": 640,
     "gold": 150,
-    "items": ["Graine de force"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5669,7 +5669,7 @@
       "es": "?",
       "fr": "Bijou royal en platine",
       "ge": "Platinkönigsjuwel",
-      "it": "???",
+      "it": "?",
       "jp": "プラチナキング"
     },
     "type": "enemy",
@@ -5681,8 +5681,8 @@
     "speed": 255,
     "exp": 65000,
     "gold": 700,
-    "items": ["Brassard de conjuration"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5701,7 +5701,7 @@
       "es": "?",
       "fr": "Canniboîte",
       "ge": "Fresskiste",
-      "it": "???",
+      "it": "?",
       "jp": "ひとくいばこ"
     },
     "type": "enemy",
@@ -5713,8 +5713,8 @@
     "speed": 62,
     "exp": 150,
     "gold": 25,
-    "items": ["Cottes de mailles"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5733,7 +5733,7 @@
       "es": "?",
       "fr": "Imitapeur",
       "ge": "Imitator",
-      "it": "???",
+      "it": "?",
       "jp": "ミミック"
     },
     "type": "enemy",
@@ -5745,8 +5745,8 @@
     "speed": 70,
     "exp": 350,
     "gold": 48,
-    "items": ["Costume de danseuse"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5771,7 +5771,7 @@
       "es": "?",
       "fr": "Boîte de Pandore",
       "ge": "Pandorabüchse",
-      "it": "???",
+      "it": "?",
       "jp": "パンドラボックス"
     },
     "type": "enemy",
@@ -5783,8 +5783,8 @@
     "speed": 131,
     "exp": 1250,
     "gold": 280,
-    "items": ["Body rose"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5803,7 +5803,7 @@
       "es": "?",
       "fr": "Puisard",
       "ge": "Brunnenspuk",
-      "it": "???",
+      "it": "?",
       "jp": "いどまねき"
     },
     "type": "enemy",
@@ -5815,8 +5815,8 @@
     "speed": 65,
     "exp": 350,
     "gold": 100,
-    "items": ["Rubis de protection"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5835,7 +5835,7 @@
       "es": "?",
       "fr": "Puits-sang",
       "ge": "Quellgeist",
-      "it": "???",
+      "it": "?",
       "jp": "いどまじん"
     },
     "type": "enemy",
@@ -5847,8 +5847,8 @@
     "speed": 61,
     "exp": 574,
     "gold": 67,
-    "items": ["Graine de force"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5867,7 +5867,7 @@
       "es": "?",
       "fr": "Méduse",
       "ge": "Seeblase",
-      "it": "???",
+      "it": "?",
       "jp": "しびれくらげ"
     },
     "type": "enemy",
@@ -5879,8 +5879,8 @@
     "speed": 20,
     "exp": 35,
     "gold": 12,
-    "items": ["Botryche lunaire"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5898,8 +5898,8 @@
       "en": "Glugworm",
       "es": "?",
       "fr": "Ver mine",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "マリンワーム"
     },
     "type": "enemy",
@@ -5911,8 +5911,8 @@
     "speed": 41,
     "exp": 94,
     "gold": 29,
-    "items": ["Herbe médicinale"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5931,7 +5931,7 @@
       "es": "?",
       "fr": "Saumonstrueux",
       "ge": "Drosselfisch",
-      "it": "???",
+      "it": "?",
       "jp": "ピラニアン"
     },
     "type": "enemy",
@@ -5943,8 +5943,8 @@
     "speed": 50,
     "exp": 80,
     "gold": 43,
-    "items": ["Faucille à chaîne"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5962,8 +5962,8 @@
       "en": "Axolotl",
       "es": "?",
       "fr": "Axolotl",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "マッドルーパー"
     },
     "type": "enemy",
@@ -5975,8 +5975,8 @@
     "speed": 25,
     "exp": 113,
     "gold": 60,
-    "items": ["Bâton de cyprès"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -5994,8 +5994,8 @@
       "en": "Preying manta",
       "es": "?",
       "fr": "Raie pulsive",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "さつじんえい"
     },
     "type": "enemy",
@@ -6007,8 +6007,8 @@
     "speed": 23,
     "exp": 70,
     "gold": 24,
-    "items": ["Graine de vie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6026,8 +6026,8 @@
       "en": "Barracuda",
       "es": "?",
       "fr": "Barracuda",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "とつげきうお"
     },
     "type": "enemy",
@@ -6039,8 +6039,8 @@
     "speed": 10,
     "exp": 75,
     "gold": 33,
-    "items": ["Heaume de fer"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6058,8 +6058,8 @@
       "en": "Pterygotus",
       "es": "?",
       "fr": "Pterygotus",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "じごくのざりがに"
     },
     "type": "enemy",
@@ -6071,8 +6071,8 @@
     "speed": 40,
     "exp": 95,
     "gold": 25,
-    "items": ["Masque de fer"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6090,8 +6090,8 @@
       "en": "Devilfish",
       "es": "?",
       "fr": "Poulpotrompe",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "たこまじん"
     },
     "type": "enemy",
@@ -6103,8 +6103,8 @@
     "speed": 29,
     "exp": 120,
     "gold": 72,
-    "items": ["Arc de chasseur"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6122,8 +6122,8 @@
       "en": "Mangler fish",
       "es": "?",
       "fr": "Rascrasse",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "しびれあんこう"
     },
     "type": "enemy",
@@ -6135,8 +6135,8 @@
     "speed": 51,
     "exp": 155,
     "gold": 72,
-    "items": ["Botryche lunaire"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6155,7 +6155,7 @@
       "es": "?",
       "fr": "Matamorse",
       "ge": "Schlachtross",
-      "it": "???",
+      "it": "?",
       "jp": "シーライオン"
     },
     "type": "enemy",
@@ -6167,8 +6167,8 @@
     "speed": 30,
     "exp": 140,
     "gold": 80,
-    "items": ["Dague de glace"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6187,7 +6187,7 @@
       "es": "?",
       "fr": "Elasmosaure",
       "ge": "Woolungasaurier",
-      "it": "???",
+      "it": "?",
       "jp": "くびながりゅう"
     },
     "type": "enemy",
@@ -6199,8 +6199,8 @@
     "speed": 26,
     "exp": 65,
     "gold": 38,
-    "items": ["Dagues d'oreilles"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6219,7 +6219,7 @@
       "es": "?",
       "fr": "Vipère des sables",
       "ge": "Sandviper",
-      "it": "???",
+      "it": "?",
       "jp": "フルスネイカー"
     },
     "type": "enemy",
@@ -6231,8 +6231,8 @@
     "speed": 38,
     "exp": 170,
     "gold": 124,
-    "items": ["Tiare d'or"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6251,7 +6251,7 @@
       "es": "?",
       "fr": "Massacraie",
       "ge": "Rochenrächer",
-      "it": "???",
+      "it": "?",
       "jp": "シャークマンタ"
     },
     "type": "enemy",
@@ -6263,8 +6263,8 @@
     "speed": 39,
     "exp": 103,
     "gold": 48,
-    "items": ["Graine d'agilité"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6282,8 +6282,8 @@
       "en": "Terrornodon",
       "es": "?",
       "fr": "Pterroridactyle",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "フライングデス"
     },
     "type": "enemy",
@@ -6295,8 +6295,8 @@
     "speed": 60,
     "exp": 187,
     "gold": 70,
-    "items": ["Graine de magie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6315,7 +6315,7 @@
       "es": "?",
       "fr": "Glacyclone",
       "ge": "Frostfeger",
-      "it": "???",
+      "it": "?",
       "jp": "うずしおキング"
     },
     "type": "enemy",
@@ -6327,8 +6327,8 @@
     "speed": 42,
     "exp": 180,
     "gold": 84,
-    "items": ["Manteau d'esquive"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6346,8 +6346,8 @@
       "en": "Picuda",
       "es": "?",
       "fr": "Mégacuda",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "バラクーダ"
     },
     "type": "enemy",
@@ -6359,8 +6359,8 @@
     "speed": 47,
     "exp": 165,
     "gold": 69,
-    "items": ["Éventail de fer"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6379,7 +6379,7 @@
       "es": "?",
       "fr": "Charpiranha",
       "ge": "Schnappfisch",
-      "it": "???",
+      "it": "?",
       "jp": "エビルアングラー"
     },
     "type": "enemy",
@@ -6391,8 +6391,8 @@
     "speed": 25,
     "exp": 48,
     "gold": 30,
-    "items": ["Fiole d'eau magique"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6411,7 +6411,7 @@
       "es": "?",
       "fr": "Calaphant",
       "ge": "Oktofant",
-      "it": "???",
+      "it": "?",
       "jp": "ダゴン"
     },
     "type": "enemy",
@@ -6423,8 +6423,8 @@
     "speed": 30,
     "exp": 208,
     "gold": 98,
-    "items": ["Graine de vie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6442,8 +6442,8 @@
       "en": "Incineraytor",
       "es": "?",
       "fr": "Incinéraiteur",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "レイギガース"
     },
     "type": "enemy",
@@ -6455,8 +6455,8 @@
     "speed": 62,
     "exp": 221,
     "gold": 100,
-    "items": ["Bouclier de fer"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6475,7 +6475,7 @@
       "es": "?",
       "fr": "Misamorse",
       "ge": "Horrorhauer",
-      "it": "???",
+      "it": "?",
       "jp": "トドマン"
     },
     "type": "enemy",
@@ -6487,8 +6487,8 @@
     "speed": 25,
     "exp": 98,
     "gold": 55,
-    "items": ["Aile de chimère"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6507,7 +6507,7 @@
       "es": "?",
       "fr": "Sbire de Psaro",
       "ge": "Diener des Psaro",
-      "it": "???",
+      "it": "?",
       "jp": "ピサロのてさき"
     },
     "type": "boss",
@@ -6520,7 +6520,7 @@
     "exp": 73,
     "gold": 60,
     "items": [],
-    "zone": [
+    "found_at": [
       {
         "chapter1": ["Tour de Strattbourg"],
         "chapter2": [],
@@ -6539,7 +6539,7 @@
       "es": "?",
       "fr": "Maître Kung",
       "ge": "Meister Kung",
-      "it": "???",
+      "it": "?",
       "jp": "カメレオンマン"
     },
     "type": "boss",
@@ -6551,8 +6551,8 @@
     "speed": 50,
     "exp": 136,
     "gold": 60,
-    "items": ["Graine de vie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Taborov"],
@@ -6571,7 +6571,7 @@
       "es": "?",
       "fr": "Abominhomme des neiges",
       "ge": "Yetiminator",
-      "it": "???",
+      "it": "?",
       "jp": "ベロリンマン"
     },
     "type": "boss",
@@ -6584,7 +6584,7 @@
     "exp": 0,
     "gold": 0,
     "items": [],
-    "zone": [
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": ["Colisée de Chandor"],
@@ -6603,7 +6603,7 @@
       "es": "?",
       "fr": "Dickenz",
       "ge": "Balzack",
-      "it": "???",
+      "it": "?",
       "jp": "バルザック"
     },
     "type": "boss",
@@ -6616,7 +6616,7 @@
     "exp": 500,
     "gold": 0,
     "items": [],
-    "zone": [
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6635,7 +6635,7 @@
       "es": "?",
       "fr": "Angélus",
       "ge": "Trickser",
-      "it": "???",
+      "it": "?",
       "jp": "うらぎりこぞう"
     },
     "type": "boss",
@@ -6648,7 +6648,7 @@
     "exp": 450,
     "gold": 20,
     "items": [],
-    "zone": [
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6667,7 +6667,7 @@
       "es": "?",
       "fr": "Tigroar",
       "ge": "Gewaltiger",
-      "it": "???",
+      "it": "?",
       "jp": "とうだいタイガー"
     },
     "type": "boss",
@@ -6680,7 +6680,7 @@
     "exp": 2000,
     "gold": 350,
     "items": [],
-    "zone": [
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6699,7 +6699,7 @@
       "es": "?",
       "fr": "Lord Lionel",
       "ge": "Marquis de Léon",
-      "it": "???",
+      "it": "?",
       "jp": "キングレオ"
     },
     "type": "boss",
@@ -6711,8 +6711,8 @@
     "speed": 18,
     "exp": 5100,
     "gold": 0,
-    "items": ["Armure de plates"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6731,7 +6731,7 @@
       "es": "?",
       "fr": "Déickenz",
       "ge": "Baalzack",
-      "it": "???",
+      "it": "?",
       "jp": "バルザック"
     },
     "type": "boss",
@@ -6744,7 +6744,7 @@
     "exp": 6500,
     "gold": 0,
     "items": [],
-    "zone": [
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6763,7 +6763,7 @@
       "es": "?",
       "fr": "Sire Rosegarde",
       "ge": "Fürst Grünspan",
-      "it": "???",
+      "it": "?",
       "jp": "ピサロナイト"
     },
     "type": "boss",
@@ -6775,8 +6775,8 @@
     "speed": 77,
     "exp": 6800,
     "gold": 0,
-    "items": ["Sphère du silence"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6795,7 +6795,7 @@
       "es": "?",
       "fr": "Rashaverak",
       "ge": "Rashaverak",
-      "it": "???",
+      "it": "?",
       "jp": "アンドレアル"
     },
     "type": "boss",
@@ -6807,8 +6807,8 @@
     "speed": 60,
     "exp": 1020,
     "gold": 300,
-    "items": ["Bouclier du dragon"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6827,7 +6827,7 @@
       "es": "?",
       "fr": "Pruslas",
       "ge": "Pruslas",
-      "it": "???",
+      "it": "?",
       "jp": "ギガデーモン"
     },
     "type": "boss",
@@ -6839,8 +6839,8 @@
     "speed": 5,
     "exp": 4100,
     "gold": 250,
-    "items": ["Massue de chêne"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6859,7 +6859,7 @@
       "es": "?",
       "fr": "Barbatos",
       "ge": "Barbatos",
-      "it": "???",
+      "it": "?",
       "jp": "ヘルバトラー"
     },
     "type": "boss",
@@ -6871,8 +6871,8 @@
     "speed": 72,
     "exp": 5500,
     "gold": 0,
-    "items": ["Épée miraculeuse"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6891,7 +6891,7 @@
       "es": "?",
       "fr": "Aamon",
       "ge": "Aamon",
-      "it": "???",
+      "it": "?",
       "jp": "エビルプリースト"
     },
     "type": "boss",
@@ -6904,7 +6904,7 @@
     "exp": 6300,
     "gold": 0,
     "items": [],
-    "zone": [
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6923,7 +6923,7 @@
       "es": "?",
       "fr": "Estark",
       "ge": "Estark",
-      "it": "???",
+      "it": "?",
       "jp": "エスターク"
     },
     "type": "boss",
@@ -6936,7 +6936,7 @@
     "exp": 15000,
     "gold": 0,
     "items": [],
-    "zone": [
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6955,7 +6955,7 @@
       "es": "?",
       "fr": "Cent-ans",
       "ge": "Fu Yung",
-      "it": "???",
+      "it": "?",
       "jp": "エッグラ"
     },
     "type": "boss",
@@ -6967,8 +6967,8 @@
     "speed": 95,
     "exp": 12000,
     "gold": 850,
-    "items": ["Graine de magie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -6987,7 +6987,7 @@
       "es": "?",
       "fr": "Cinq-épices",
       "ge": "Chow Mein",
-      "it": "???",
+      "it": "?",
       "jp": "チキーラ"
     },
     "type": "boss",
@@ -6999,8 +6999,8 @@
     "speed": 95,
     "exp": 12000,
     "gold": 850,
-    "items": ["Graine de vie"],
-    "zone": [
+    "items": [],
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -7027,7 +7027,7 @@
       "es": "?",
       "fr": "Psaro",
       "ge": "Psaro",
-      "it": "???",
+      "it": "?",
       "jp": "デスピサロ"
     },
     "type": "boss",
@@ -7080,7 +7080,7 @@
     "exp": 0,
     "gold": 0,
     "items": [],
-    "zone": [
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
@@ -7103,8 +7103,8 @@
       "en": "Aamon",
       "es": "?",
       "fr": "Aamon",
-      "ge": "??",
-      "it": "???",
+      "ge": "?",
+      "it": "?",
       "jp": "究極エビルプリースト"
     },
     "type": "boss",
@@ -7142,7 +7142,7 @@
     "exp": 0,
     "gold": 0,
     "items": [],
-    "zone": [
+    "found_at": [
       {
         "chapter1": [],
         "chapter2": [],
