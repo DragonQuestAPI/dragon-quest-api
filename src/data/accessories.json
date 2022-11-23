@@ -1,7 +1,8 @@
 [
   {
     "id": 1,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -15,12 +16,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 15 },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": 15 },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 2,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -34,12 +38,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 47 },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": 47 },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 3,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -53,12 +60,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "-", "sell": "-", "token": 1000, "minimedal": "-" },
+    "price": { "buy": null, "sell": null, "token": 1000, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 4,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -72,12 +82,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "-", "sell": "-", "token": 500, "minimedal": "-" },
+    "price": { "buy": null, "sell": null, "token": 500, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 5,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": { "en": "?", "es": "?", "fr": "Bas résille", "jp": "あみタイツ" },
     "stats": {
       "attack": "?",
@@ -86,12 +99,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 1200, "sell": 900, "token": "-", "minimedal": "-" },
+    "price": { "buy": 1200, "sell": 900, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 6,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -105,12 +121,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 2700, "sell": "-", "token": "-", "minimedal": 20 },
+    "price": { "buy": 2700, "sell": null, "token": null, "minimedal": 20 },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 7,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -124,12 +143,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 8,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -143,12 +165,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 5000, "sell": "-", "token": 500, "minimedal": "-" },
+    "price": { "buy": 5000, "sell": null, "token": 500, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 9,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -162,12 +187,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 10000, "sell": "-", "token": "-", "minimedal": 34 },
+    "price": { "buy": 10000, "sell": null, "token": null, "minimedal": 34 },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 10,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -181,12 +209,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 11,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -200,12 +231,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 650, "sell": 487, "token": "-", "minimedal": "-" },
+    "price": { "buy": 650, "sell": 487, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 12,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -219,12 +253,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "-", "sell": "-", "token": 10000, "minimedal": "-" },
+    "price": { "buy": null, "sell": null, "token": 10000, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 13,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -238,12 +275,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 500, "sell": 375, "token": "-", "minimedal": "-" },
+    "price": { "buy": 500, "sell": 375, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 14,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -257,12 +297,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 230, "sell": 172, "token": "-", "minimedal": "-" },
+    "price": { "buy": 230, "sell": 172, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 15,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -276,12 +319,15 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 16,
-    "sprite": "helmets_sprites/?.png",
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -295,7 +341,9 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "-", "sell": "-", "token": 250000, "minimedal": "-" },
+    "price": { "buy": null, "sell": null, "token": 250000, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   }
 ]
