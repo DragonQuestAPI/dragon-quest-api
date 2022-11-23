@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 
-const model = require("../models/shields.js");
+const model = require("../models/continents.js");
 
 router.get("/", async (req, res) => {
   try {
