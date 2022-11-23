@@ -1,4 +1,4 @@
-import express from "express";
+const express = require("express");
 const app = express();
 const fs = require("fs"); // File system
 const path = require("path");
@@ -7,39 +7,25 @@ require("dotenv").config();
 const pathMonstersJSON = path.join(__dirname, "/data/monsters.json");
 const monsters = JSON.parse(fs.readFileSync(pathMonstersJSON).toString());
 
-const pathItemsJSON = path.join(__dirname, "/data/items.json");
-const items = JSON.parse(fs.readFileSync(pathItemsJSON).toString());
+const characterRoutes = require("./routes/characters.js");
+const weaponRoutes = require("./routes/weapons.js");
+const helmetRoutes = require("./routes/helmets.js");
+const armorRoutes = require("./routes/armors.js");
+const shieldRoutes = require("./routes/shields.js");
+const accessoryRoutes = require("./routes/accessories.js");
+const itemRoutes = require("./routes/items.js");
+const monsterRoutes = require("./routes/monsters.js");
 
 app.use(express.json());
 
-app.get("/items", (req, res) => {
-  res.json(items);
-});
-app.get("/items/:id", (req, res) => {
-  res.json(items.filter((item) => item.id == req.params.id));
-});
-app.get("/items/price/:price", (req, res) => {
-  res.json(
-    items.filter((item) => item.price.buy == parseInt(req.params.price))
-  );
-});
-app.get("/items/price/min/:price", (req, res) => {
-  res.json(
-    items.filter((item) => item.price.buy >= parseInt(req.params.price))
-  );
-});
-app.get("/items/price/max/:price", (req, res) => {
-  res.json(
-    items.filter((item) => item.price.buy <= parseInt(req.params.price))
-  );
-});
-
-app.get("/monsters", (req, res) => {
-  res.json(monsters);
-});
-app.get("/monsters/:id", (req, res) => {
-  res.json(monsters.filter((monster) => monster.id == req.params.id));
-});
+app.use("/characters", characterRoutes);
+app.use("/weapons", weaponRoutes);
+app.use("/helmets", helmetRoutes);
+app.use("/armors", armorRoutes);
+app.use("/shields", shieldRoutes);
+app.use("/accessories", accessoryRoutes);
+app.use("/items", itemRoutes);
+app.use("/monsters", monsterRoutes);
 
 app.listen(process.env.PORT, () =>
   console.log(`Server started on http://localhost:${process.env.PORT}`)
