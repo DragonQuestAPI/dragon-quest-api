@@ -5,6 +5,8 @@
       "en": "Northern continent",
       "es": "Continente norte",
       "fr": "Continent nord",
+      "ge": "???",
+      "it": "????",
       "jp": "?"
     },
     "location": "north",
@@ -16,6 +18,8 @@
       "en": "Eastern continent",
       "es": "Continente oriental",
       "fr": "Continent est",
+      "ge": "???",
+      "it": "????",
       "jp": "?"
     },
     "location": "east",
@@ -27,6 +31,8 @@
       "en": "Siroc",
       "es": "Siroco",
       "fr": "Sirocco",
+      "ge": "???",
+      "it": "????",
       "jp": "?"
     },
     "location": "south-east",
@@ -38,6 +44,8 @@
       "en": "Ostro",
       "es": "Ostro",
       "fr": "Ostro",
+      "ge": "???",
+      "it": "????",
       "jp": "?"
     },
     "location": "south",
@@ -49,6 +57,8 @@
       "en": "Libeccio",
       "es": "Leveche",
       "fr": "Libeccio",
+      "ge": "???",
+      "it": "????",
       "jp": "?"
     },
     "location": "south-west",
@@ -60,6 +70,8 @@
       "en": "Western continent",
       "es": "Continente occidental",
       "fr": "Continent ouest",
+      "ge": "???",
+      "it": "????",
       "jp": "?"
     },
     "location": "west",
@@ -71,6 +83,8 @@
       "en": "Maestral",
       "es": "Mistral",
       "fr": "Mistral",
+      "ge": "???",
+      "it": "????",
       "jp": "?"
     },
     "location": "north-west",
@@ -79,13 +93,15 @@
   {
     "id": 8,
     "name": {
-      "en": "The Azimut",
-      "es": "El Azimut",
-      "fr": "L'Azimut",
+      "en": "Central Island",
+      "es": "Isla Central",
+      "fr": "Île Centrale",
+      "ge": "???",
+      "it": "????",
       "jp": "ゴットサイド"
     },
     "location": "center",
-    "slug": "azimut"
+    "slug": "central_island"
   },
   {
     "id": 9,
@@ -93,6 +109,8 @@
       "en": "Nadiria",
       "es": "Nadiria",
       "fr": "Nadiria",
+      "ge": "???",
+      "it": "????",
       "jp": "闇の世界"
     },
     "location": "otherworld",
