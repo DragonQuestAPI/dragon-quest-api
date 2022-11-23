@@ -22,24 +22,7 @@
       "it": "Quest'erba fa recuperare un po' di HP a un membro del gruppo.",
       "jp": "回复30~40点HP"
     },
-    "zone": [
-      "prologue",
-      "bastione",
-      "grotte de bastionne",
-      "grotte aire de jeu",
-      "zamoksva",
-      "bazar du désert",
-      "lakanaba",
-      "village des animaux",
-      "ballimore",
-      "chandor",
-      "teafortwo",
-      "deadend",
-      "palais de lord lionel",
-      "port lionel",
-      "mine d'alpion",
-      "etc."
-    ],
+    "found_at": [],
     "buyable_at": [],
     "type": "normal",
     "slug": "medicinal_herb"
@@ -67,17 +50,7 @@
       "it": "Quest'erba cura un membro del gruppo dall'avvelenamento.",
       "jp": "解毒"
     },
-    "zone": [
-      "prologue",
-      "taborov",
-      "vrenor",
-      "chandor",
-      "lakanaba",
-      "grotte de chandor",
-      "maison de hank hoffman junior",
-      "bourg-les-bains",
-      "etc."
-    ],
+    "found_at": [],
     "buyable_at": [],
     "type": "normal",
     "slug": "antidotal_herb"
@@ -105,13 +78,7 @@
       "it": "Tiene lontani i nemici più deboli per un po' di tempo.",
       "jp": "平常使用弱小敌人不出现一段时间 战斗使用可令敌人受伤"
     },
-    "zone": [
-      "zamoksva",
-      "chandor",
-      "mine d'alpion",
-      "port-carène",
-      "grotte de fémiscyra"
-    ],
+    "found_at": [],
     "buyable_at": [],
     "type": "normal",
     "slug": "holy_water"
@@ -139,17 +106,7 @@
       "it": "Permette di tornare all'istante nei luoghi già visitati.",
       "jp": "瞬间返回已知城镇"
     },
-    "zone": [
-      "tour de strattbourg",
-      "zamoksva",
-      "vrenor",
-      "chandor",
-      "lakanaba",
-      "grotte de chandor",
-      "maison de hank hoffman junior",
-      "bourg-les-bains",
-      "etc."
-    ],
+    "found_at": [],
     "buyable_at": [],
     "type": "normal",
     "slug": "chimaera_wing"
@@ -177,7 +134,7 @@
       "it": "Questa radice lunare cura dalla paralisi un membro del gruppo.",
       "jp": "解麻痹"
     },
-    "zone": ["phare de port-carène", "ringys", "estuaria"],
+    "found_at": [],
     "buyable_at": [],
     "type": "normal",
     "slug": "moonwort_bulb"
@@ -205,7 +162,7 @@
       "it": "Il suo profumo attira i mostri per un po' di tempo.",
       "jp": "敌人遭遇率升高"
     },
-    "zone": ["rosecolline"],
+    "found_at": [],
     "buyable_at": [],
     "type": "normal",
     "slug": "musk"
@@ -233,27 +190,7 @@
       "it": "Accresce la forza di chi lo mangia.",
       "jp": "力量增加1~3点"
     },
-    "zone": [
-      "prologue",
-      "tour de strattbourg",
-      "bazar du désert",
-      "tour du nectar de rossignol",
-      "teafortwo",
-      "palais de lord lionel",
-      "bourg-les-bains",
-      "port-carène",
-      "phare de port-carène",
-      "zamoksva",
-      "canalot",
-      "grotte de fémiscyra",
-      "chandor",
-      "port lionel",
-      "bastione",
-      "mine d'alpion",
-      "tour du zénith",
-      "tour des ténèbres",
-      "ville itinérante (étape 3)"
-    ],
+    "found_at": [],
     "buyable_at": [],
     "type": "normal",
     "slug": "seed_of_strength"
@@ -281,7 +218,7 @@
       "it": "Accresce l'agilità di chi lo mangia.",
       "jp": "速度增加1~2点"
     },
-    "zone": [
+    "found_at": [
       "grotte aire de jeu",
       "taborov",
       "vrenor",
@@ -323,7 +260,7 @@
       "it": "Accresce la forza di chi lo mangia.",
       "jp": "智慧增加1~3点"
     },
-    "zone": ["ringys", "fémiscyra", "ville itinérante (étape 4)"],
+    "found_at": [],
     "buyable_at": [],
     "type": "normal",
     "slug": "seed_of_wisdom"
@@ -351,7 +288,7 @@
       "it": "Accresce la resistenza di chi lo mangia.",
       "jp": "防御增加1~3点"
     },
-    "zone": [
+    "found_at": [
       "tour de strattbourg",
       "chandor",
       "phare de port-carène",
@@ -385,7 +322,7 @@
       "it": "Accresce la capacità massima di HP di chi lo mangia.",
       "jp": "HP最大值增加4~6点"
     },
-    "zone": [
+    "found_at": [
       "grotte aire de jeu",
       "taborov",
       "chandor",
@@ -429,7 +366,7 @@
       "it": "Accresce la capacità massima di PM di chi lo mangia.",
       "jp": "MP最大值增加3~5点"
     },
-    "zone": [
+    "found_at": [
       "zamoksva",
       "vrenor",
       "deadend",
@@ -457,7 +394,7 @@
       "fr": "Clef de voleur",
       "ge": "Diebesschlüssel",
       "it": "Chiavre del ladro",
-      "jp": "????"
+      "jp": "?"
     },
     "sprite": "items_sprites/thiefs_key.png",
     "artwork": "items_artworks/thiefs_key.png",
@@ -471,9 +408,9 @@
       "fr": "Cette clef peut ouvrir des serrures simples.",
       "ge": "Der Besitzer dieses Schlüssels kann einfache Schlösser öffnen.",
       "it": "Questa chiave permette di aprire le serrature meno ostiche.",
-      "jp": "????"
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "important_item",
     "slug": "thiefs_key"
@@ -485,7 +422,7 @@
       "fr": "Clef magique",
       "ge": "Zauber-schlüssel",
       "it": "Chiave magica",
-      "jp": "????"
+      "jp": "?"
     },
     "sprite": "items_sprites/magic_key.png",
     "artwork": "items_artworks/magic_key.png",
@@ -499,9 +436,9 @@
       "fr": "Cette clef permet d'ouvrir des serrures complexes.",
       "ge": "Der Besitzer des Schlüssels kann komplizierte Schlösser öffnen.",
       "it": "Questa chiave permette di aprire la serrature complicate.",
-      "jp": "????"
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "important_item",
     "slug": "magic_key"
@@ -512,8 +449,8 @@
       "es": "Llave suprema",
       "fr": "Clef suprême",
       "ge": "Universal-schlüssel",
-      "it": "???",
-      "jp": "????"
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/ultimate_key.png",
     "artwork": "items_artworks/ultimate_key.png",
@@ -526,10 +463,10 @@
       "es": "?",
       "fr": "Cette clef permet d'ouvrir tous types de serrures.",
       "ge": "Der Besitzer dieses Schlüssels kann alle Schlösser öffnen.",
-      "it": "???",
-      "jp": "????"
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "important_item",
     "slug": "ultimate_key"
@@ -557,7 +494,7 @@
       "it": "Fa recuperare un po' di PM a un membro del gruppo.",
       "jp": "回复30~35点MP"
     },
-    "zone": [
+    "found_at": [
       "grotte de vrenor",
       "phare de port-carène",
       "canalot",
@@ -591,7 +528,7 @@
       "it": "Questo vetro leggendario riflette sempre la verità.",
       "jp": "战斗中使用使モシャス咒文无效"
     },
-    "zone": ["casino"],
+    "found_at": [],
     "buyable_at": [],
     "type": "important_item",
     "slug": "ras_mirror"
@@ -619,7 +556,7 @@
       "it": "Fa recuperare un po' di HP. Delizioso!",
       "jp": "回复30~40点HP"
     },
-    "zone": [
+    "found_at": [
       "lakanaba",
       "chandor",
       "village du héros",
@@ -627,11 +564,14 @@
       "ville itinérante (phase 4)"
     ],
     "buyable_at": [
-      ["endor", {
-        "gold": true,
-        "token": false,
-        "minimedal": false
-      }]
+      [
+        "endor",
+        {
+          "gold": true,
+          "token": false,
+          "minimedal": false
+        }
+      ]
     ],
     "type": "normal",
     "slug": "packed_lunch"
@@ -659,7 +599,7 @@
       "it": "Argh! Che tanfo!",
       "jp": "用途不明 狐狸村的やくそう其实是うまのふん"
     },
-    "zone": [
+    "found_at": [
       "bazar du désert",
       "village des animaux",
       "ballimore",
@@ -693,7 +633,7 @@
       "it": "Questa foglia può riportare in vita un membro del gruppo.",
       "jp": "我方一人复活并HP完全回复"
     },
-    "zone": ["el forado", "château des ténèbres", "donjon d'azimut"],
+    "found_at": [],
     "buyable_at": [],
     "type": "important_item",
     "slug": "yggdrasil leaf"
@@ -719,9 +659,9 @@
       "fr": "Permet de restaurer intégralement les PV de toute l'équipe.",
       "ge": "Stellt die LP aller Gruppenmitglieder vollständig wieder her.",
       "it": "Fa recuperare pienamente gli HP a tutti membri del gruppo.",
-      "jp": "????"
+      "jp": "?"
     },
-    "zone": ["el forado", "tour du zénith", "zénithia"],
+    "found_at": [],
     "buyable_at": [],
     "type": "important_item",
     "slug": "yggdrasil_dew"
@@ -732,8 +672,8 @@
       "es": "Flauta reveladora",
       "fr": "Flûte de révélation",
       "ge": "Flöte der Enthüllung",
-      "it": "???",
-      "jp": "????"
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/flute_of_uncovering.png",
     "artwork": "items_artworks/flute_of_uncovering.png",
@@ -746,10 +686,10 @@
       "es": "?",
       "fr": "Cet instrument dispose de propriétés magiques rares.",
       "ge": "Ein Instrument, dem seltene magische Eigenschaften innewohnen.",
-      "it": "???",
-      "jp": "????"
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "flute_of_uncovering"
@@ -760,8 +700,8 @@
       "es": "?",
       "fr": "Statuette en argent",
       "ge": "Silberne Göttin",
-      "it": "???",
-      "jp": "????"
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/silver_goddess_statue.png",
     "artwork": "items_artworks/silver_goddess_statue.png",
@@ -774,10 +714,10 @@
       "es": "?",
       "fr": "Une statuette de la Déesse en argent poli",
       "ge": "Eine polierte Silberstatue der Göttin.",
-      "it": "???",
-      "jp": "????"
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "important_item",
     "slug": "silver_goddess_statue"
@@ -788,8 +728,8 @@
       "es": "?",
       "fr": "Lampe des ténèbres",
       "ge": "Nachtlicht",
-      "it": "???",
-      "jp": "????"
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/night_lamp.png",
     "artwork": "items_sprites/night_lamp.png",
@@ -802,10 +742,10 @@
       "es": "?",
       "fr": "Cette lampe fait venir l'obscurité lorsqu'on l'allume",
       "ge": "Eine Lampe, die die Nacht herbeiruft, wenn sie angezündet wird.",
-      "it": "???",
-      "jp": "????"
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "night_lamp"
@@ -816,8 +756,8 @@
       "es": "?",
       "fr": "Sphère du silence",
       "ge": "Stillesphäre",
-      "it": "???",
-      "jp": "????"
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/sphere_of_silence.png",
     "artwork": "items_artworks/sphere_of_silence.png",
@@ -830,10 +770,10 @@
       "es": "?",
       "fr": "Peut enfermer les sort d'un ennemi pendant le combat.",
       "ge": "Diese heimtückische Kugel kann die Zauber eines Feindes im Kampf blockieren.",
-      "it": "???",
-      "jp": "????"
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "sphere_of_silence"
@@ -844,8 +784,8 @@
       "es": "?",
       "fr": "Jarre de poudre",
       "ge": "Pulverfass",
-      "it": "???",
-      "jp": "????"
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/powder_keg.png",
     "artwork": "items_artworks/powder_keg.png",
@@ -858,10 +798,10 @@
       "es": "?",
       "fr": "Un récipient rempli de poudre à canon.",
       "ge": "Ein Behältnis, bis zum Rand voll mit Schießpulver.",
-      "it": "???",
-      "jp": "????"
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "important_item",
     "slug": "powder_keg"
@@ -872,8 +812,8 @@
       "es": "Mapa del Tesoro",
       "fr": "Carte au trésor",
       "ge": "Schatzkarte",
-      "it": "???",
-      "jp": "????"
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/treasure_map.png",
     "artwork": "items_artworks/treasure_map.png",
@@ -886,10 +826,10 @@
       "es": "?",
       "fr": "Indique l'emplacement d'un trésor légendaire.",
       "ge": "Darauf sieht man, wo ein legendärer Schatz wersteckt ist.",
-      "it": "???",
-      "jp": "????"
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "important_item",
     "slug": "treasure_map"
@@ -915,9 +855,9 @@
       "fr": "Au combat, ils peuvent inverser le cour du temps.",
       "ge": "Im Kampf kann er die Zeit selbst umkehren.",
       "it": "Se usate in battaglia, possono invertire lo scorrere del tempo.",
-      "jp": "????"
+      "jp": "?"
     },
-    "zone": ["grotte de rosecolline"],
+    "found_at": [],
     "buyable_at": [],
     "type": "normal",
     "slug": "sands_of_time"
@@ -929,7 +869,7 @@
       "fr": "Bâton de transformation",
       "ge": "Mutationsstab",
       "it": "Bacchetta mutatrice",
-      "jp": "????"
+      "jp": "?"
     },
     "sprite": "items_sprites/mod_rod.png",
     "artwork": "items_artworks/mod_rod.png",
@@ -943,9 +883,9 @@
       "fr": "Peut modifier l'apparence de l'équipe pendant un court moment.",
       "ge": "Kann das Erscheinungsbild der Gruppe für kurze Zeit varändern.",
       "it": "Può cambiare l'aspetto del gruppo per un po' di tempo.",
-      "jp": "????"
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "mod_rod"
@@ -971,9 +911,9 @@
       "fr": "Au combat, rend quelques PV à chaque membre de l'équipe",
       "ge": "Stellt im Kampf einige LP jedes Gruppenmitglieds wieder her.",
       "it": "Fa recuperare HP a tutti i membri del gruppo in battaglia.",
-      "jp": "????"
+      "jp": "?"
     },
-    "zone": ["château des ténèbres"],
+    "found_at": [],
     "buyable_at": [],
     "type": "normal",
     "slug": "sages_stone"
@@ -985,7 +925,7 @@
       "fr": "Clairon du baron",
       "ge": "Horn des Barons",
       "it": "Tromba del barone",
-      "jp": "????"
+      "jp": "?"
     },
     "sprite": "items_sprites/barons_bugle.png",
     "artwork": "items_artworks/barons_bugle.png",
@@ -999,9 +939,9 @@
       "fr": "Sonné au combat, il fait venir un énorme troupeau de cheveaux.",
       "ge": "Blase vor der letzten Schlacht hinein, um den Wagen herbeizuholen!",
       "it": "Suonala prima della battaglia finale per far accorrere il carro!",
-      "jp": "????"
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "important_item",
     "slug": "barons_bugle"
@@ -1013,7 +953,7 @@
       "fr": "Livre des créatures",
       "ge": "Buch der Bestien",
       "it": "Libro delle Bestie",
-      "jp": "????"
+      "jp": "?"
     },
     "sprite": "items_sprites/the_big_book_of_beasts.png",
     "artwork": "items_artworks/the_big_book_of_beasts.png",
@@ -1027,9 +967,9 @@
       "fr": "Un guide des monstres illustré.",
       "ge": "Ein bebildertes Buch über Ungehever.",
       "it": "Questo volume illustrato contiene informazioni su tutti i mostri.",
-      "jp": "????"
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "important_item",
     "slug": "the_big_book_of_beasts"
@@ -1039,9 +979,9 @@
       "en": "Talaria",
       "es": "Sandalias aladas",
       "fr": "Chaussures ailées",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/talaria.png",
     "artwork": "items_artworks/talaria.png",
@@ -1050,14 +990,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
       "fr": "Des ailes sont fixés sur ces drôles de chaussures!",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "talaria"
@@ -1067,9 +1007,9 @@
       "en": "Armlet of transmutation",
       "es": "Brazalete de transmutación",
       "fr": "Brassard étincelant",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/armlet_of_transmutation.png",
     "artwork": "items_artworks/armlet_of_transmutation.png",
@@ -1078,14 +1018,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
       "fr": "La lumière joue sur ce mystérieux brassard doré",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "armlet_of_transmutation"
@@ -1095,9 +1035,9 @@
       "en": "Birdsong nectar",
       "es": "Néctar de piar",
       "fr": "Nectar du rossignol",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/birdsong_nectar.png",
     "artwork": "items_artworks/birdsong_nectar.png",
@@ -1106,14 +1046,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
       "fr": "Sa texture veloutée donne une voix mélodieuse",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "birdsong_nectar"
@@ -1123,9 +1063,9 @@
       "en": "Steel strongbox",
       "es": "?",
       "fr": "Coffre-fort de fer",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/steel_strongbox.png",
     "artwork": "items_artworks/steel_strongbox.png",
@@ -1134,14 +1074,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
       "fr": "Protège l'or de l'équipe, même si celle-ci se fait décimer",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "steel_strongbox"
@@ -1151,9 +1091,9 @@
       "en": "Prince's letter",
       "es": "?",
       "fr": "Lettre du prince",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/princes_letter.png",
     "artwork": "items_artworks/princes_letter.png",
@@ -1162,14 +1102,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
       "fr": "Une lettre écrite de la main du prince Réginald",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "princes_letter"
@@ -1179,9 +1119,9 @@
       "en": "Royal scroll",
       "es": "Pergamino real",
       "fr": "Parchemin royal",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/royal_scroll.png",
     "artwork": "items_artworks/royal_scroll.png",
@@ -1190,14 +1130,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
       "fr": "Une correspondante du roi Norbert de Chandor",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "royal_scroll"
@@ -1207,9 +1147,9 @@
       "en": "Boarding pass",
       "es": "Pasaje",
       "fr": "Permis d'embarquer",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/boarding_pass.png",
     "artwork": "items_artworks/boarding_pass.png",
@@ -1218,14 +1158,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
       "fr": "Un billet valable pour un voyage vers Chandor",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "boarding_pass"
@@ -1236,9 +1176,9 @@
       "en": "Symbol of Faith",
       "es": "Símbolo de Fe",
       "fr": "Symbole de la Foi",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/symbol_of_faith.png",
     "artwork": "items_artworks/symbol_of_faith.png",
@@ -1247,14 +1187,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
       "fr": "Ce joyau peut ouvrir le cœur de n'importe qui",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "symbol_of_faith"
@@ -1264,9 +1204,9 @@
       "en": "Holy embers",
       "es": "Fuego sagrado",
       "fr": "Braises Sacrées",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/holy_embers.png",
     "artwork": "items_artworks/holy_embers.png",
@@ -1275,14 +1215,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
       "fr": "Elles luisent avec une puissance divine.",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "holy_embers"
@@ -1293,9 +1233,9 @@
       "en": "Feverfew seed",
       "es": "Semilla reducefiebre",
       "fr": "Graine de camomille",
-      "ge": "??",
+      "ge": "?",
       "it": "Seme di parthenio",
-      "jp": "????"
+      "jp": "?"
     },
     "sprite": "items_sprites/feverfew_seed.png",
     "artwork": "items_artworks/feverfew_seed.png",
@@ -1304,14 +1244,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
       "fr": "Une graine pleine de vigueur",
-      "ge": "??",
+      "ge": "?",
       "it": "Un seme pieno di vitalità!",
-      "jp": "????"
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "feverfew_seed"
@@ -1321,9 +1261,9 @@
       "en": "Feverfew root",
       "es": "Raíz reducefiebre",
       "fr": "Racine de Camomille",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/feverfew_root.png",
     "artwork": "items_artworks/feverfew_root.png",
@@ -1332,14 +1272,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
       "fr": "Cette puissante racine guérit beaucoup de maladies",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "feverfew_root"
@@ -1349,9 +1289,9 @@
       "en": "Karstaway stone",
       "es": "Piedra porosa",
       "fr": "Pierre éponge",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/karstaway_stone.png",
     "artwork": "items_artworks/karstaway_stone.png",
@@ -1360,14 +1300,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
       "fr": "Une roche étrange qui peut absorber un grand volume d'eau",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "karstaway_stone"
@@ -1378,9 +1318,9 @@
       "en": "Gas cannister",
       "es": "Recipiente de gas",
       "fr": "Bonbonne de gaz",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/gas_cannister.png",
     "artwork": "items_artworks/gas_cannister.png",
@@ -1389,14 +1329,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
       "fr": "Un gros récipient contenant du gaz.",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "gas_cannister"
@@ -1407,9 +1347,9 @@
       "en": "Yggdrasil flower",
       "es": "Flor de Yggdrasil",
       "fr": "Fleur d'Yggdrasil",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "sprite": "items_sprites/yggdrasil_flower.png",
     "artwork": "items_artworks/yggdrasil_flower.png",
@@ -1418,14 +1358,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
       "fr": "La plus rare des fleurs, qui fleurit tous les milles ans",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
-    "zone": [],
+    "found_at": [],
     "buyable_at": [],
     "type": "incredible_item",
     "slug": "yggdrasil_flower"
@@ -1436,7 +1376,7 @@
       "es": "Minimedalla",
       "fr": "Mini médaille",
       "ge": "Minimedaillen",
-      "it": "???",
+      "it": "?",
       "jp": "ちいさなメダル"
     },
     "sprite": "items_sprites/mini_medal.png",
@@ -1446,14 +1386,14 @@
       "sell": null
     },
     "description": {
-      "en": "!?",
+      "en": "?",
       "es": "?",
-      "fr": "Apparemment, quelqu'un en fait la collection …",
-      "ge": "??",
-      "it": "???",
-      "jp": "????"
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
-    "zone": ["partout"],
+    "found_at": [],
     "buyable_at": [],
     "type": "normal",
     "slug": "mini_medal"
