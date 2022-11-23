@@ -1,29 +1,38 @@
 [
   {
+    "id": 1,
     "name": {
       "en": "World",
       "es": "Mundo",
       "fr": "Monde",
+      "ge": "???",
+      "it": "????",
       "jp": "ロトゼタシア"
     },
     "map": "img/maps/world.png",
     "type": "overworld"
   },
   {
+    "id": 2,
     "name": {
       "en": "The Azimut",
       "es": "El Azimut",
       "fr": "L'Azimut",
+      "ge": "???",
+      "it": "????",
       "jp": "ゴットサイド"
     },
     "map": "img/maps/the_azimut.png",
     "type": "overworld"
   },
   {
+    "id": 3,
     "name": {
       "en": "Nadiria",
       "es": "Nadiria",
       "fr": "Nadiria",
+      "ge": "???",
+      "it": "????",
       "jp": "闇の世界"
     },
     "map": "img/maps/nadiria.png",
@@ -31,50 +40,65 @@
   },
 
   {
+    "id": 4,
     "name": {
       "en": "Burland",
       "es": "Burlandia",
       "fr": "Bastione",
+      "ge": "???",
+      "it": "????",
       "jp": "バトランド"
     },
     "map": "img/maps/burland.png",
     "type": "town"
   },
   {
+    "id": 5,
     "name": {
       "en": "Strathbaile Burrow",
       "es": "Madriguera de Candonga",
       "fr": "Grotte de Strattbourg",
+      "ge": "???",
+      "it": "????",
       "jp": "イムル"
     },
     "map": null,
     "type": "dungeon"
   },
   {
+    "id": 6,
     "name": {
       "en": "Strathbaile",
       "es": "Candonga",
       "fr": "Strattbourg",
+      "ge": "???",
+      "it": "????",
       "jp": "イムル"
     },
     "map": "img/maps/strathbaile.png",
     "type": "town"
   },
   {
+    "id": 7,
     "name": {
       "en": "Auld well",
       "es": "Pozo del bosque",
       "fr": "Aire de jeu",
-      "jp": "?"
+      "ge": "???",
+      "it": "????",
+      "jp": "古井戸の底"
     },
     "map": null,
     "type": "dungeon"
   },
   {
+    "id": 8,
     "name": {
       "en": "Loch Tur",
       "es": "Torre de Candonga",
       "fr": "Tour de Strattbourg",
+      "ge": "???",
+      "it": "????",
       "jp": "湖の塔"
     },
     "map": null,
@@ -82,93 +106,357 @@
   },
 
   {
+    "id": 9,
     "name": {
       "en": "Zamoksva",
       "es": "Zamoksva",
       "fr": "Zamoksva",
+      "ge": "???",
+      "it": "????",
       "jp": "サントハイム"
     },
     "map": "img/maps/zamoksva.png",
     "type": "town"
   },
   {
+    "id": 10,
     "name": {
       "en": "Zalenagrad",
       "es": "Zalenagrado",
       "fr": "Zalenagrad",
+      "ge": "???",
+      "it": "????",
       "jp": "サラン"
     },
     "map": "img/maps/zalenagrad.png",
     "type": "town"
   },
   {
+    "id": 11,
     "name": {
       "en": "Taborov",
       "es": "Taborov",
       "fr": "Taborov",
+      "ge": "???",
+      "it": "????",
       "jp": "サラン"
     },
     "map": "img/maps/taborov.png",
     "type": "town"
   },
   {
+    "id": 12,
     "name": {
       "en": "Vrenor",
       "es": "Vrenor",
       "fr": "Vrenor",
+      "ge": "???",
+      "it": "????",
       "jp": "フレノール"
     },
     "map": "img/maps/vrenor.png",
     "type": "town"
   },
   {
+    "id": 13,
     "name": {
       "en": "Vault of Vrenor",
       "es": "Bóveda de Vrenor",
       "fr": "Grotte de Vrenor",
+      "ge": "???",
+      "it": "????",
       "jp": "フレノール南の洞窟"
     },
     "map": null,
     "type": "dungeon"
   },
   {
+    "id": 14,
     "name": {
       "en": "Desert Bazaar",
       "es": "Bazar del desierto",
       "fr": "Bazar du désert",
+      "ge": "???",
+      "it": "????",
       "jp": "砂漠のバザー"
     },
     "map": "img/maps/desert_bazaar.png",
     "type": "town"
   },
   {
+    "id": 15,
     "name": {
       "en": "Birdsong Tower",
       "es": "Torre del Piar",
       "fr": "Tour du Rossignol",
+      "ge": "???",
+      "it": "????",
       "jp": "さえずりの塔"
     },
     "map": null,
     "type": "dungeon"
   },
   {
+    "id": 16,
     "name": {
       "en": "Zamoksva/Endor Teleportal",
       "es": "Portal a Zamoksva/Endor",
       "fr": "Téléportail Zamoksva/Chandor",
+      "ge": "???",
+      "it": "????",
       "jp": ""
     },
     "map": null,
     "type": "town"
   },
   {
+    "id": 17,
     "name": {
       "en": "Endor",
       "es": "Endor",
       "fr": "Chandor",
+      "ge": "???",
+      "it": "????",
       "jp": "エンドール"
     },
     "map": "img/maps/endor.png",
     "type": "town"
-  }
+  },
+
+  {
+    "id": 18,
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Lakanaba",
+      "ge": "???",
+      "it": "????",
+      "jp": "レイクナバ"
+    },
+    "map": "img/maps/?.png",
+    "type": "town"
+  },
+  {
+    "id": 19,
+    "name": {
+      "en": "Cave of Safekeeping",
+      "es": "?",
+      "fr": "?",
+      "ge": "???",
+      "it": "????",
+      "jp": "レイクナバ北の洞窟"
+    },
+    "map": null,
+    "type": "dungeon"
+  },
+  {
+    "id": 20,
+    "name": {
+      "en": "Shinnock",
+      "es": "Alameda",
+      "fr": "Reginhart",
+      "ge": "???",
+      "it": "????",
+      "jp": "キツネヶ原"
+    },
+    "map": null,
+    "type": "town"
+  },
+  {
+    "id": 21,
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Ballimore",
+      "ge": "???",
+      "it": "????",
+      "jp": "?????"
+    },
+    "map": "img/maps/?.png",
+    "type": "town"
+  },
+  {
+    "id": 22,
+    "name": {
+      "en": "The Cistern Chapel",
+      "es": "?",
+      "fr": "Caverne de la statuette d'argent",
+      "ge": "???",
+      "it": "????",
+      "jp": "?????"
+    },
+    "map": null,
+    "type": "dungeon"
+  },
+  {
+    "id": 23,
+    "name": {
+      "en": "Trans-Montane Tunnel",
+      "es": "?",
+      "fr": "?",
+      "ge": "???",
+      "it": "????",
+      "jp": "?????"
+    },
+    "map": null,
+    "type": "dungeon"
+  },
+
+  {
+    "id": 24,
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Teafortwo",
+      "ge": "???",
+      "it": "????",
+      "jp": "?????"
+    },
+    "map": "img/maps/?.png",
+    "type": "town"
+  },
+  {
+    "id": 25,
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Deadend",
+      "ge": "???",
+      "it": "????",
+      "jp": "?????"
+    },
+    "map": "img/maps/?.png",
+    "type": "town"
+  },
+  {
+    "id": 26,
+    "name": {
+      "en": "Cave West of Aubout du Monde",
+      "es": "?",
+      "fr": "Caverne à l'ouest de Deadend",
+      "ge": "???",
+      "it": "????",
+      "jp": "?????"
+    },
+    "map": null,
+    "type": "dungeon"
+  },
+  {
+    "id": 27,
+    "name": {
+      "en": "Palais de Léon",
+      "es": "?",
+      "fr": "Palais de Lord Lionel",
+      "ge": "???",
+      "it": "????",
+      "jp": "?????"
+    },
+    "map": "img/maps/palais_de_leon.png",
+    "type": "town"
+  },
+  {
+    "id": 28,
+    "name": {
+      "en": "Havre Léon",
+      "es": "?",
+      "fr": "Port Lionel",
+      "ge": "???",
+      "it": "????",
+      "jp": "?????"
+    },
+    "map": "img/maps/havre_leon.png",
+    "type": "town"
+  },
+  {
+    "id": 29,
+    "name": {
+      "en": "House of Prophecy",
+      "es": "?",
+      "fr": "La Prophétisserie",
+      "ge": "???",
+      "it": "????",
+      "jp": "?????"
+    },
+    "map": null,
+    "type": "shrine"
+  },
+  {
+    "id": 30,
+    "name": {
+      "en": "Mamon",
+      "es": "?",
+      "fr": "Alpion",
+      "ge": "???",
+      "it": "????",
+      "jp": "?????"
+    },
+    "map": null,
+    "type": "town"
+  },
+  {
+    "id": 31,
+    "name": {
+      "en": "Mamon mine",
+      "es": "?",
+      "fr": "Mine d'Alpion",
+      "ge": "???",
+      "it": "????",
+      "jp": "?????"
+    },
+    "map": null,
+    "type": "dungeon"
+  },
+
+  {
+    "id": 32,
+    "name": {
+      "en": "Hidden Valley",
+      "es": "?",
+      "fr": "??",
+      "ge": "???",
+      "it": "????",
+      "jp": "?????"
+    },
+    "map": null,
+    "type": "town"
+  },
+  {
+    "id": 33,
+    "name": {
+      "en": "Woodcutter's cabin",
+      "es": "?",
+      "fr": "??",
+      "ge": "???",
+      "it": "????",
+      "jp": "?????"
+    },
+    "map": null,
+    "type": "town"
+  },
+  {
+    "id": 34,
+    "name": {
+      "en": "Casabranca",
+      "es": "?",
+      "fr": "Casabranca",
+      "ge": "???",
+      "it": "????",
+      "jp": "?????"
+    },
+    "map": null,
+    "type": "town"
+  },
+  {
+    "id": 35,
+    "name": {
+      "en": "Last Chance Saloon",
+      "es": "?",
+      "fr": "??",
+      "ge": "???",
+      "it": "????",
+      "jp": "砂漠の宿屋"
+    },
+    "map": null,
+    "type": "town"
+  },
 ]
