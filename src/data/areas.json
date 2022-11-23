@@ -390,7 +390,7 @@
       "it": "????",
       "jp": "?????"
     },
-    "map": null,
+    "map": "img/maps/mamon.png",
     "type": "town"
   },
   {
@@ -443,7 +443,7 @@
       "it": "????",
       "jp": "?????"
     },
-    "map": null,
+    "map": "img/maps/casabranca.png",
     "type": "town"
   },
   {
@@ -455,6 +455,58 @@
       "ge": "???",
       "it": "????",
       "jp": "砂漠の宿屋"
+    },
+    "map": null,
+    "type": "town"
+  },
+  {
+    "id": 36,
+    "name": {
+      "en": "Con Cave",
+      "es": "?",
+      "fr": "??",
+      "ge": "???",
+      "it": "????",
+      "jp": "裏切りの洞窟"
+    },
+    "map": null,
+    "type": "dungeon"
+  },
+  {
+    "id": 37,
+    "name": {
+      "en": "Bath",
+      "es": "?",
+      "fr": "Bourg-les-Bains",
+      "ge": "???",
+      "it": "????",
+      "jp": "アネイル"
+    },
+    "map": "img/maps/bath.png",
+    "type": "town"
+  },
+  {
+    "id": 38,
+    "name": {
+      "en": "Porthtrunnel",
+      "es": "?",
+      "fr": "Port-Carène",
+      "ge": "???",
+      "it": "????",
+      "jp": "コナンベリー"
+    },
+    "map": "img/maps/porthtrunnel.png",
+    "type": "town"
+  },
+  {
+    "id": 38,
+    "name": {
+      "en": "Pharos Beacon",
+      "es": "?",
+      "fr": "Balise de Pharos",
+      "ge": "???",
+      "it": "????",
+      "jp": "コナンベリー"
     },
     "map": null,
     "type": "town"
