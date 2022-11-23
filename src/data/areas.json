@@ -476,10 +476,10 @@
     "id": 37,
     "name": {
       "en": "Bath",
-      "es": "?",
+      "es": "Baños del Secano",
       "fr": "Bourg-les-Bains",
-      "ge": "???",
-      "it": "????",
+      "ge": "Bad Jungbrunn",
+      "it": "Bonacqua",
       "jp": "アネイル"
     },
     "map": "img/maps/bath.png",
@@ -489,26 +489,208 @@
     "id": 38,
     "name": {
       "en": "Porthtrunnel",
-      "es": "?",
+      "es": "Puertoumbrío",
       "fr": "Port-Carène",
-      "ge": "???",
-      "it": "????",
+      "ge": "Guckshaven",
+      "it": "Cala Cantiera",
       "jp": "コナンベリー"
     },
     "map": "img/maps/porthtrunnel.png",
     "type": "town"
   },
   {
-    "id": 38,
+    "id": 39,
     "name": {
       "en": "Pharos Beacon",
-      "es": "?",
+      "es": "Faro Pharos",
       "fr": "Balise de Pharos",
+      "ge": "Turm von Pharos",
+      "it": "Faro di Pharos",
+      "jp": "?????"
+    },
+    "map": null,
+    "type": "dungeon"
+  },
+  {
+    "id": 38,
+    "name": {
+      "en": "Mintos",
+      "es": "Mintos",
+      "fr": "Ringys",
+      "ge": "Mintos",
+      "it": "Mintos",
+      "jp": "ミントス"
+    },
+    "map": "img/maps/mintos.png",
+    "type": "town"
+  },
+  {
+    "id": 39,
+    "name": {
+      "en": "Mintos Shrine",
+      "es": "?",
+      "fr": "Sanctuaire de Ringys",
       "ge": "???",
       "it": "????",
-      "jp": "コナンベリー"
+      "jp": "?????"
+    },
+    "map": null,
+    "type": "shrine"
+  },
+  {
+    "id": 40,
+    "name": {
+      "en": "Parthenia",
+      "es": "?",
+      "fr": "Pathénia",
+      "ge": "???",
+      "it": "????",
+      "jp": "ソレッタ"
     },
     "map": null,
     "type": "town"
   },
+  {
+    "id": 41,
+    "name": {
+      "en": "Imperial Pantry of Parthenia",
+      "es": "?",
+      "fr": "??",
+      "ge": "???",
+      "it": "????",
+      "jp": "パデキアの洞窟"
+    },
+    "map": null,
+    "type": "dungeon"
+  },
+  {
+    "id": 42,
+    "name": {
+      "en": "Dunplundrin",
+      "es": "Dunplundrin",
+      "fr": "Pillasac",
+      "ge": "Landrattingen",
+      "it": "Furpredon",
+      "jp": "海辺の村"
+    },
+    "map": null,
+    "type": "town"
+  },
+  {
+    "id": 43,
+    "name": {
+      "en": "Canalot",
+      "es": "Canalot",
+      "fr": "Canalot",
+      "ge": "Kanalot",
+      "it": "Canalot",
+      "jp": "スタンシアラ"
+    },
+    "map": null,
+    "type": "town"
+  },
+  {
+    "id": 44,
+    "name": {
+      "en": "Femiscyra",
+      "es": "Feministia",
+      "fr": "Fémiscyra",
+      "ge": "Femiscyra",
+      "it": "Femiscyra",
+      "jp": "ガーデンブルグ"
+    },
+    "map": null,
+    "type": "town"
+  },
+  {
+    "id": 45,
+    "name": {
+      "en": "Cove's Cove",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "ガーデンブルグ南東の洞窟"
+    },
+    "map": null,
+    "type": "dungeon"
+  },
+  {
+    "id": 46,
+    "name": {
+      "en": "Rosehill",
+      "es": "Rosavilla",
+      "fr": "Rosecolline",
+      "ge": "Rosenbühl",
+      "it": "Col Rosato",
+      "jp": "ロザリーヒル"
+    },
+    "map": null,
+    "type": "town"
+  },
+  {
+    "id": 47,
+    "name": {
+      "en": "Riverton",
+      "es": "Riverton",
+      "fr": "Estuaria",
+      "ge": "Oldenförde",
+      "it": "Fiumazza",
+      "jp": "リバーサイド"
+    },
+    "map": null,
+    "type": "town"
+  },
+  {
+    "id": 48,
+    "name": {
+      "en": "The Colossus",
+      "es": "?",
+      "fr": "Le Colosse",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+    "map": null,
+    "type": "dungeon"
+  },
+  {
+    "id": 49,
+    "name": {
+      "en": "Diabolic Hall",
+      "es": "Conciliábulo Demoníaco",
+      "fr": "Palais du Démon",
+      "ge": "Teufelsheim",
+      "it": "Antro del Male",
+      "jp": "デスパレス"
+    },
+    "map": null,
+    "type": "town"
+  },
+  {
+    "id": 50,
+    "name": {
+      "en": "El Forado",
+      "es": "El Forrado",
+      "fr": "El Forado",
+      "ge": "El Forado",
+      "it": "El Forado",
+      "jp": "エルフの里"
+    },
+    "map": null,
+    "type": "town"
+  },
+  {
+    "id": 50,
+    "name": {
+      "en": "El Forado",
+      "es": "El Forrado",
+      "fr": "El Forado",
+      "ge": "El Forado",
+      "it": "El Forado",
+      "jp": "エルフの里"
+    },
+    "map": null,
+    "type": "town"
+  }
 ]
