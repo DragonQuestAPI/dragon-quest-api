@@ -43,7 +43,7 @@ const getAllAccessories = (tableSelector = "#accessories", offset = 2) => {
 
     return {
       id: i + 1,
-      sprite: "helmets_sprites/?.png",
+      sprite: "accessories_sprites/?.png",
       name: {
         en: "?",
         es: "?",
