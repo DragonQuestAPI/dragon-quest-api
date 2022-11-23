@@ -44,6 +44,7 @@ const getAllArmors = (tableSelector = "#armors", offset = 2) => {
     return {
       id: i + 1,
       sprite: "armors_sprites/?.png",
+      artwork: "armors_artworks/?.png",
       name: {
         en: "?",
         es: "?",
@@ -65,12 +66,15 @@ const getAllArmors = (tableSelector = "#armors", offset = 2) => {
           ? formatPrice(priceSystem.minimedal)
           : "-",
       },
+      zone: [],
+      buyable_at: [],
       description: {
         en: "?",
         es: "?",
         fr: "?",
         jp: "?",
       },
+      slug: "_slug",
     };
   });
 };

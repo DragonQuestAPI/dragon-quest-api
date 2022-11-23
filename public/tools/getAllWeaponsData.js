@@ -45,6 +45,7 @@ const getAllWeapons = (tableSelector = "#weapons", offset = 2) => {
 
     return {
       sprite: "weapons_sprites/?.png",
+      artwork: "weapons_artworks/?.png",
       name: {
         en: "?",
         es: "?",
@@ -66,12 +67,15 @@ const getAllWeapons = (tableSelector = "#weapons", offset = 2) => {
           ? formatPrice(priceSystem.minimedal)
           : "-",
       },
+      zone: [],
+      buyable_at: [],
       description: {
         en: "?",
         es: "?",
         fr: "?",
         jp: "?",
       },
+      slug: "_slug"
     };
   });
 };

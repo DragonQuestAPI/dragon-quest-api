@@ -22,8 +22,10 @@ const getAllAccessories = (tableSelector = "#accessories", offset = 2) => {
       .split("\n")[0]
       .trim();
     // const defense = parseInt(tr.querySelector("td:nth-child(3)").textContent);
-    let price = tr.querySelector("td:nth-child(3)").textContent.split(" ");
-    price = price.map((p) => p.replace("*", ""));
+    let price = tr
+      .querySelector("td:nth-child(3)")
+      .textContent.split(" ")
+      .map((p) => p.replace("*", ""));
 
     let priceSystem = {
       buy: price.filter((p) => !p.startsWith("/") && p.endsWith("G"))[0],
@@ -44,6 +46,7 @@ const getAllAccessories = (tableSelector = "#accessories", offset = 2) => {
     return {
       id: i + 1,
       sprite: "accessories_sprites/?.png",
+      artwork: "accessories_artworks/?.png",
       name: {
         en: "?",
         es: "?",
@@ -69,12 +72,15 @@ const getAllAccessories = (tableSelector = "#accessories", offset = 2) => {
           ? formatPrice(priceSystem.minimedal)
           : "-",
       },
+      zone: [],
+      buyable_at: [],
       description: {
         en: "?",
         es: "?",
         fr: "?",
         jp: "?",
       },
+      slug: "_slug"
     };
   });
 };
