@@ -16,6 +16,10 @@ English, spanish, french, german, italian and japanese languages are supported a
 - Their copy sprite, animated and non animated.
 - Their official artwork.
 
+Examples of requests :
+[b]GET http://localhost:8000/characters/[/b]
+[b]GET http://localhost:8000/characters/?name=alena[/b]
+
 ### The monsters
 
 - Every monster from the The Big Book of Beasts + Psaro the Manslayer and Aaron (Chapter 6).
@@ -28,8 +32,13 @@ English, spanish, french, german, italian and japanese languages are supported a
 - The gold they give once defeated.
 - The experience they give once defeated.
 - The items they can drop once defeated.
-- The areas where we can find them, depending on the chapters.
+- The areas where we can find them.
 - Their slug, used to join other data.
+
+Examples of requests :
+[b]GET http://localhost:8000/monsters/[/b]
+[b]GET http://localhost:8000/monsters/?name=slime[/b]
+[b]GET http://localhost:8000/monsters/?item=medicinal_herb[/b]
 
 ### The items
 
@@ -39,9 +48,14 @@ English, spanish, french, german, italian and japanese languages are supported a
 - Their official artwork.
 - Their price.
 - Their description.
-- The areas where you can find them, depending on the chapters.
+- The areas where you can find them.
 - Their type (normal or key item).
 - Their slug, used to join other data.
+
+Examples of requests :
+[b]GET http://localhost:8000/items/[/b]
+[b]GET http://localhost:8000/items/?name=medicinal_herb[/b]
+[b]GET http://localhost:8000/items/?price_greater_than=100[/b]
 
 ### The weapons
 
@@ -52,8 +66,13 @@ English, spanish, french, german, italian and japanese languages are supported a
 - The stats they change once equipped.
 - Their price.
 - Their description.
-- The areas where you can find them, depending on the chapters.
+- The areas where you can find them.
 - Their slug, used to join other data.
+
+Examples of requests :
+[b]GET http://localhost:8000/weapons/[/b]
+[b]GET http://localhost:8000/weapons/?name=copper_sword[/b]
+[b]GET http://localhost:8000/weapons/?is_minimedal_reward=true[/b]
 
 ### The helmets
 
@@ -64,8 +83,64 @@ English, spanish, french, german, italian and japanese languages are supported a
 - The stats they change once equipped.
 - Their price.
 - Their description.
-- The areas where you can find them, depending on the chapters.
+- The areas where you can find them.
 - Their slug, used to join other data.
+
+Examples of requests :
+[b]GET http://localhost:8000/helmets/[/b]
+[b]GET http://localhost:8000/helmets/?name=leather_cap[/b]
+[b]GET http://localhost:8000/helmets/?is_minimedal_reward=true[/b]
+
+### The armors
+
+- Every armor you can find in the game.
+- Their name.
+- Their sprite.
+- Their official artwork.
+- The stats they change once equipped.
+- Their price.
+- Their description.
+- The areas where you can find them.
+- Their slug, used to join other data.
+
+Examples of requests :
+[b]GET http://localhost:8000/helmets/[/b]
+[b]GET http://localhost:8000/helmets/?name=iron_armor[/b]
+[b]GET http://localhost:8000/helmets/?is_minimedal_reward=true[/b]
+
+### The shields
+
+- Every shield you can find in the game.
+- Their name.
+- Their sprite.
+- Their official artwork.
+- The stats they change once equipped.
+- Their price.
+- Their description.
+- The areas where you can find them.
+- Their slug, used to join other data.
+
+Examples of requests :
+[b]GET http://localhost:8000/helmets/[/b]
+[b]GET http://localhost:8000/helmets/?name=scale_shield[/b]
+[b]GET http://localhost:8000/helmets/?is_minimedal_reward=true[/b]
+
+### The accessories
+
+- Every accessory you can find in the game.
+- Their name.
+- Their sprite.
+- Their official artwork.
+- The stats they change once equipped.
+- Their price.
+- Their description.
+- The areas where you can find them.
+- Their slug, used to join other data.
+
+Examples of requests :
+[b]GET http://localhost:8000/helmets/[/b]
+[b]GET http://localhost:8000/helmets/?name=scale_shield[/b]
+[b]GET http://localhost:8000/helmets/?is_minimedal_reward=true[/b]
 
 ### Credits
 
