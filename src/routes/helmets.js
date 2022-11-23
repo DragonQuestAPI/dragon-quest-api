@@ -2,7 +2,7 @@ const express = require("express");
 const fs = require("fs");
 const path = require("path");
 
-const pathToJSON = path.join(__dirname, "../data/monsters.json");
+const pathToJSON = path.join(__dirname, "../data/helmets.json");
 const file = JSON.parse(fs.readFileSync(pathToJSON).toString());
 
 const router = express.Router();
