@@ -2,6 +2,7 @@
   {
     "id": 1,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -9,12 +10,15 @@
       "jp": "ぬののふく"
     },
     "stats": { "defense": 4 },
-    "price": { "buy": 10, "sell": 7, "token": "-", "minimedal": "-" },
+    "price": { "buy": 10, "sell": 7, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 2,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -22,20 +26,26 @@
       "jp": "たびびとのふく"
     },
     "stats": { "defense": 7 },
-    "price": { "buy": 70, "sell": 52, "token": "-", "minimedal": "-" },
+    "price": { "buy": 70, "sell": 52, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 3,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": { "en": "?", "es": "?", "fr": "Caleçon", "jp": "ステテコパンツ" },
     "stats": { "defense": 8 },
-    "price": { "buy": 100, "sell": 75, "token": "-", "minimedal": "-" },
+    "price": { "buy": 100, "sell": 75, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 4,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -43,12 +53,15 @@
       "jp": "おどりこのふく"
     },
     "stats": { "defense": 8 },
-    "price": { "buy": 400, "sell": 300, "token": "-", "minimedal": "-" },
+    "price": { "buy": 400, "sell": 300, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 5,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -56,12 +69,15 @@
       "jp": "きぬのローブ"
     },
     "stats": { "defense": 10 },
-    "price": { "buy": 110, "sell": 82, "token": "-", "minimedal": "-" },
+    "price": { "buy": 110, "sell": 82, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 6,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -69,12 +85,15 @@
       "jp": "かわのよろい"
     },
     "stats": { "defense": 12 },
-    "price": { "buy": 180, "sell": 135, "token": "-", "minimedal": "-" },
+    "price": { "buy": 180, "sell": 135, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 7,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -82,12 +101,15 @@
       "jp": "かわのドレス"
     },
     "stats": { "defense": 14 },
-    "price": { "buy": 250, "sell": 187, "token": "-", "minimedal": "-" },
+    "price": { "buy": 250, "sell": 187, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 8,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -95,20 +117,26 @@
       "jp": "くさりかたびら"
     },
     "stats": { "defense": 18 },
-    "price": { "buy": 350, "sell": 262, "token": "-", "minimedal": "-" },
+    "price": { "buy": 350, "sell": 262, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 9,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": { "en": "?", "es": "?", "fr": "Pelisse", "jp": "けがわのコート" },
     "stats": { "defense": 22 },
-    "price": { "buy": 600, "sell": 450, "token": "-", "minimedal": "-" },
+    "price": { "buy": 600, "sell": 450, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 10,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -116,12 +144,15 @@
       "jp": "せいどうのよろい"
     },
     "stats": { "defense": 25 },
-    "price": { "buy": 700, "sell": 525, "token": "-", "minimedal": "-" },
+    "price": { "buy": 700, "sell": 525, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 11,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -129,12 +160,15 @@
       "jp": "みかわしのふく"
     },
     "stats": { "defense": 28 },
-    "price": { "buy": 3000, "sell": 2250, "token": "-", "minimedal": "-" },
+    "price": { "buy": 3000, "sell": 2250, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 12,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -142,12 +176,15 @@
       "jp": "てつのよろい"
     },
     "stats": { "defense": 30 },
-    "price": { "buy": 1200, "sell": 900, "token": "-", "minimedal": "-" },
+    "price": { "buy": 1200, "sell": 900, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 13,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -155,12 +192,15 @@
       "jp": "てつのまえかけ"
     },
     "stats": { "defense": 32 },
-    "price": { "buy": 1500, "sell": 1125, "token": "-", "minimedal": "-" },
+    "price": { "buy": 1500, "sell": 1125, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 14,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -168,12 +208,15 @@
       "jp": "やすらぎのローブ"
     },
     "stats": { "defense": 33 },
-    "price": { "buy": "-", "sell": 4500, "token": "-", "minimedal": "-" },
+    "price": { "buy": null, "sell": 4500, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 15,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -181,12 +224,15 @@
       "jp": "はがねのよろい"
     },
     "stats": { "defense": 35 },
-    "price": { "buy": 2300, "sell": 1725, "token": "-", "minimedal": "-" },
+    "price": { "buy": 2300, "sell": 1725, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 16,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -194,12 +240,15 @@
       "jp": "まほうのほうい"
     },
     "stats": { "defense": 38 },
-    "price": { "buy": 4400, "sell": 3300, "token": "-", "minimedal": "-" },
+    "price": { "buy": 4400, "sell": 3300, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 17,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -207,12 +256,15 @@
       "jp": "ピンクのレオタード"
     },
     "stats": { "defense": 38 },
-    "price": { "buy": 6300, "sell": 4725, "token": "-", "minimedal": "-" },
+    "price": { "buy": 6300, "sell": 4725, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 18,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -220,12 +272,15 @@
       "jp": "スパンコールドレス"
     },
     "stats": { "defense": 40 },
-    "price": { "buy": "-", "sell": "-", "token": 2500, "minimedal": "-" },
+    "price": { "buy": null, "sell": null, "token": 2500, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 19,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -233,12 +288,15 @@
       "jp": "みずのはごろも"
     },
     "stats": { "defense": 43 },
-    "price": { "buy": 15000, "sell": 11250, "token": "-", "minimedal": "-" },
+    "price": { "buy": 15000, "sell": 11250, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 20,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -246,12 +304,15 @@
       "jp": "ドラゴンメイル"
     },
     "stats": { "defense": 45 },
-    "price": { "buy": 5200, "sell": 3900, "token": "-", "minimedal": "-" },
+    "price": { "buy": 5200, "sell": 3900, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 21,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -259,12 +320,15 @@
       "jp": "マジカルスカート"
     },
     "stats": { "defense": 45 },
-    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 25 },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": 25 },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 22,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -272,12 +336,15 @@
       "jp": "ふしぎなボレロ"
     },
     "stats": { "defense": 47 },
-    "price": { "buy": "-", "sell": 5625, "token": "-", "minimedal": "-" },
+    "price": { "buy": null, "sell": 5625, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 23,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -285,12 +352,15 @@
       "jp": "ゾンビメイル"
     },
     "stats": { "defense": 49 },
-    "price": { "buy": "-", "sell": 652, "token": "-", "minimedal": "-" },
+    "price": { "buy": null, "sell": 652, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 24,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -298,12 +368,15 @@
       "jp": "やいばのよろい"
     },
     "stats": { "defense": 50 },
-    "price": { "buy": 7350, "sell": 5512, "token": "-", "minimedal": "-" },
+    "price": { "buy": 7350, "sell": 5512, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 25,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -311,12 +384,15 @@
       "jp": "ひかりのドレス"
     },
     "stats": { "defense": 50 },
-    "price": { "buy": "-", "sell": 6600, "token": "-", "minimedal": "-" },
+    "price": { "buy": null, "sell": 6600, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 26,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -324,12 +400,15 @@
       "jp": "まじんのよろい"
     },
     "stats": { "defense": 60 },
-    "price": { "buy": "-", "sell": 750, "token": "-", "minimedal": "-" },
+    "price": { "buy": null, "sell": 750, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 27,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -337,12 +416,15 @@
       "jp": "てんしのレオタード"
     },
     "stats": { "defense": 60 },
-    "price": { "buy": 13000, "sell": 9750, "token": "-", "minimedal": "-" },
+    "price": { "buy": 13000, "sell": 9750, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 28,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -350,12 +432,15 @@
       "jp": "てんくうのよろい"
     },
     "stats": { "defense": 70 },
-    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 29,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -363,15 +448,20 @@
       "jp": "はぐれメタルよろい"
     },
     "stats": { "defense": 95 },
-    "price": { "buy": 35000, "sell": 26250, "token": "-", "minimedal": "-" },
+    "price": { "buy": 35000, "sell": 26250, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   },
   {
     "id": 30,
     "sprite": "armors_sprites/?.png",
+    "artwork": "armors_artworks/?.png",
     "name": { "en": "?", "es": "?", "fr": "?", "jp": "まかいのよろい" },
     "stats": { "defense": 100 },
-    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "zone": [],
+    "buyable_at": [],
     "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" }
   }
 ]
