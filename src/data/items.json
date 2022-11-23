@@ -40,6 +40,7 @@
       "mine d'alpion",
       "etc."
     ],
+    "buyable_at": [],
     "type": "normal",
     "slug": "medicinal_herb"
   },
@@ -77,6 +78,7 @@
       "bourg-les-bains",
       "etc."
     ],
+    "buyable_at": [],
     "type": "normal",
     "slug": "antidotal_herb"
   },
@@ -110,6 +112,7 @@
       "port-carène",
       "grotte de fémiscyra"
     ],
+    "buyable_at": [],
     "type": "normal",
     "slug": "holy_water"
   },
@@ -147,6 +150,7 @@
       "bourg-les-bains",
       "etc."
     ],
+    "buyable_at": [],
     "type": "normal",
     "slug": "chimaera_wing"
   },
@@ -174,6 +178,7 @@
       "jp": "解麻痹"
     },
     "zone": ["phare de port-carène", "ringys", "estuaria"],
+    "buyable_at": [],
     "type": "normal",
     "slug": "moonwort_bulb"
   },
@@ -201,6 +206,7 @@
       "jp": "敌人遭遇率升高"
     },
     "zone": ["rosecolline"],
+    "buyable_at": [],
     "type": "normal",
     "slug": "musk"
   },
@@ -248,6 +254,7 @@
       "tour des ténèbres",
       "ville itinérante (étape 3)"
     ],
+    "buyable_at": [],
     "type": "normal",
     "slug": "seed_of_strength"
   },
@@ -289,6 +296,7 @@
       "donjon d'azimut",
       "ville itinérante (étape 5)"
     ],
+    "buyable_at": [],
     "type": "normal",
     "slug": "seed_of_agility"
   },
@@ -316,6 +324,7 @@
       "jp": "智慧增加1~3点"
     },
     "zone": ["ringys", "fémiscyra", "ville itinérante (étape 4)"],
+    "buyable_at": [],
     "type": "normal",
     "slug": "seed_of_wisdom"
   },
@@ -349,6 +358,7 @@
       "ringys",
       "grotte de fémiscyra"
     ],
+    "buyable_at": [],
     "type": "normal",
     "slug": "seed_of_resilience"
   },
@@ -392,6 +402,7 @@
       "donjon d'azimut",
       "ville itinérante (étape 3)"
     ],
+    "buyable_at": [],
     "type": "normal",
     "slug": "seed_of_life"
   },
@@ -435,6 +446,7 @@
       "ville itinérante (étape 3)",
       "ville itinérante (étape 4)"
     ],
+    "buyable_at": [],
     "type": "normal",
     "slug": "seed_of_magic"
   },
@@ -462,6 +474,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "important_item",
     "slug": "thiefs_key"
   },
@@ -489,6 +502,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "important_item",
     "slug": "magic_key"
   },
@@ -516,6 +530,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "important_item",
     "slug": "ultimate_key"
   },
@@ -549,6 +564,7 @@
       "mine d'alpion",
       "ville itinérante (étape 3)"
     ],
+    "buyable_at": [],
     "type": "normal",
     "slug": "magic_water"
   },
@@ -576,6 +592,7 @@
       "jp": "战斗中使用使モシャス咒文无效"
     },
     "zone": ["casino"],
+    "buyable_at": [],
     "type": "important_item",
     "slug": "ras_mirror"
   },
@@ -608,6 +625,13 @@
       "village du héros",
       "maison de hank hoffman junior",
       "ville itinérante (phase 4)"
+    ],
+    "buyable_at": [
+      ["endor", {
+        "gold": true,
+        "token": false,
+        "minimedal": false
+      }]
     ],
     "type": "normal",
     "slug": "packed_lunch"
@@ -642,6 +666,7 @@
       "donjon d'azimut",
       "ville itinérante (étape 4)"
     ],
+    "buyable_at": [],
     "type": "normal",
     "slug": "horse_manure"
   },
@@ -669,6 +694,7 @@
       "jp": "我方一人复活并HP完全回复"
     },
     "zone": ["el forado", "château des ténèbres", "donjon d'azimut"],
+    "buyable_at": [],
     "type": "important_item",
     "slug": "yggdrasil leaf"
   },
@@ -696,6 +722,7 @@
       "jp": "????"
     },
     "zone": ["el forado", "tour du zénith", "zénithia"],
+    "buyable_at": [],
     "type": "important_item",
     "slug": "yggdrasil_dew"
   },
@@ -723,6 +750,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "flute_of_uncovering"
   },
@@ -750,6 +778,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "important_item",
     "slug": "silver_goddess_statue"
   },
@@ -777,6 +806,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "night_lamp"
   },
@@ -804,6 +834,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "sphere_of_silence"
   },
@@ -831,6 +862,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "important_item",
     "slug": "powder_keg"
   },
@@ -858,6 +890,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "important_item",
     "slug": "treasure_map"
   },
@@ -885,6 +918,7 @@
       "jp": "????"
     },
     "zone": ["grotte de rosecolline"],
+    "buyable_at": [],
     "type": "normal",
     "slug": "sands_of_time"
   },
@@ -912,6 +946,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "mod_rod"
   },
@@ -939,6 +974,7 @@
       "jp": "????"
     },
     "zone": ["château des ténèbres"],
+    "buyable_at": [],
     "type": "normal",
     "slug": "sages_stone"
   },
@@ -966,6 +1002,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "important_item",
     "slug": "barons_bugle"
   },
@@ -993,6 +1030,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "important_item",
     "slug": "the_big_book_of_beasts"
   },
@@ -1020,6 +1058,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "talaria"
   },
@@ -1047,6 +1086,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "armlet_of_transmutation"
   },
@@ -1074,6 +1114,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "birdsong_nectar"
   },
@@ -1101,6 +1142,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "steel_strongbox"
   },
@@ -1128,6 +1170,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "princes_letter"
   },
@@ -1155,6 +1198,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "royal_scroll"
   },
@@ -1182,14 +1226,10 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "boarding_pass"
   },
-  
-
-
-
-
 
   {
     "name": {
@@ -1215,6 +1255,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "symbol_of_faith"
   },
@@ -1242,10 +1283,11 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "holy_embers"
   },
-  
+
   {
     "name": {
       "en": "Feverfew seed",
@@ -1270,6 +1312,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "feverfew_seed"
   },
@@ -1297,6 +1340,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "feverfew_root"
   },
@@ -1324,11 +1368,11 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "karstaway_stone"
   },
 
-  
   {
     "name": {
       "en": "Gas cannister",
@@ -1353,10 +1397,11 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "gas_cannister"
   },
-  
+
   {
     "name": {
       "en": "Yggdrasil flower",
@@ -1381,6 +1426,7 @@
       "jp": "????"
     },
     "zone": [],
+    "buyable_at": [],
     "type": "incredible_item",
     "slug": "yggdrasil_flower"
   },
@@ -1408,6 +1454,7 @@
       "jp": "????"
     },
     "zone": ["partout"],
+    "buyable_at": [],
     "type": "normal",
     "slug": "mini_medal"
   }
