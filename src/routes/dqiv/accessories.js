@@ -6,7 +6,7 @@ const model = require(`../../models/${game}/accessories.js`);
 
 router.get("/", async (req, res) => {
   try {
-    const response = await model.findAll();
+    const response = await model.findAll(req.query);
     res.status(200).json(response);
   } catch (err) {
     res.status(400).json({ error: err.message });

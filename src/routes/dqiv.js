@@ -3,6 +3,7 @@ const router = express.Router();
 
 const game = __filename.split("\\")[__filename.split("\\").length - 1].replace(".js", "");
 
+const gameRoutes = require(`../routes/${game}/game.js`);
 const accessoryRoutes = require(`../routes/${game}/accessories.js`);
 const areaRoutes = require(`../routes/${game}/areas.js`);
 const armorRoutes = require(`../routes/${game}/armors.js`);
@@ -15,6 +16,7 @@ const shieldRoutes = require(`../routes/${game}/shields.js`);
 const skillRoutes = require(`../routes/${game}/skills.js`);
 const weaponRoutes = require(`../routes/${game}/weapons.js`);
 
+router.use("/", gameRoutes);
 router.use("/accessories", accessoryRoutes);
 router.use("/areas", areaRoutes);
 router.use("/armors", armorRoutes);

@@ -6,16 +6,7 @@ const model = require(`../../models/${game}/monsters.js`);
 
 router.get("/", async (req, res) => {
   try {
-    const response = await model.findAll();
-    res.status(200).json(response);
-  } catch (err) {
-    res.status(400).json({ error: err.message });
-  }
-});
-
-router.get("/chapter/:id", async (req, res) => {
-  try {
-    const response = await model.findByChapterNumber(req.params.id);
+    const response = await model.findAll(req.query);
     res.status(200).json(response);
   } catch (err) {
     res.status(400).json({ error: err.message });
