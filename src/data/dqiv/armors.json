@@ -5,6 +5,8 @@
       "en": "?",
       "es": "?",
       "fr": "Vêtement simple",
+      "ge": "?",
+      "it": "?",
       "jp": "ぬののふく"
     },
     "sprite": "armors_sprites/?.png",
@@ -13,7 +15,14 @@
     "price": { "buy": 10, "sell": 7, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -22,6 +31,8 @@
       "en": "?",
       "es": "?",
       "fr": "Tenue de voyageur",
+      "ge": "?",
+      "it": "?",
       "jp": "たびびとのふく"
     },
     "sprite": "armors_sprites/?.png",
@@ -30,17 +41,31 @@
     "price": { "buy": 70, "sell": 52, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
     "id": 3,
-    "name": { "en": "?", "es": "?", "fr": "Caleçon", "jp": "ステテコパンツ" },
+    "name": { "en": "?", "es": "?", "fr": "Caleçon", "ge": "?", "it": "?", "jp": "ステテコパンツ" },
     "stats": { "defense": 8 },
     "price": { "buy": 100, "sell": 75, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "sprite": "armors_sprites/?.png",
     "artwork": "armors_artworks/?.png",
     "slug": "_slug"
@@ -51,6 +76,8 @@
       "en": "?",
       "es": "?",
       "fr": "Costume de danseuse",
+      "ge": "?",
+      "it": "?",
       "jp": "おどりこのふく"
     },
     "sprite": "armors_sprites/?.png",
@@ -59,7 +86,14 @@
     "price": { "buy": 400, "sell": 300, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -68,6 +102,8 @@
       "en": "?",
       "es": "?",
       "fr": "Robe de soie",
+      "ge": "?",
+      "it": "?",
       "jp": "きぬのローブ"
     },
     "sprite": "armors_sprites/?.png",
@@ -76,7 +112,14 @@
     "price": { "buy": 110, "sell": 82, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -85,6 +128,8 @@
       "en": "?",
       "es": "?",
       "fr": "Armure de cuir",
+      "ge": "?",
+      "it": "?",
       "jp": "かわのよろい"
     },
     "sprite": "armors_sprites/?.png",
@@ -93,7 +138,14 @@
     "price": { "buy": 180, "sell": 135, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -102,6 +154,8 @@
       "en": "?",
       "es": "?",
       "fr": "Robe de cuir",
+      "ge": "?",
+      "it": "?",
       "jp": "かわのドレス"
     },
     "sprite": "armors_sprites/?.png",
@@ -110,7 +164,14 @@
     "price": { "buy": 250, "sell": 187, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -119,6 +180,8 @@
       "en": "?",
       "es": "?",
       "fr": "Cotte de mailles",
+      "ge": "?",
+      "it": "?",
       "jp": "くさりかたびら"
     },
     "sprite": "armors_sprites/?.png",
@@ -127,17 +190,31 @@
     "price": { "buy": 350, "sell": 262, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
     "id": 9,
-    "name": { "en": "?", "es": "?", "fr": "Pelisse", "jp": "けがわのコート" },
+    "name": { "en": "?", "es": "?", "fr": "Pelisse", "ge": "?", "it": "?", "jp": "けがわのコート" },
     "stats": { "defense": 22 },
     "price": { "buy": 600, "sell": 450, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "sprite": "armors_sprites/?.png",
     "artwork": "armors_artworks/?.png",
     "slug": "_slug"
@@ -148,6 +225,8 @@
       "en": "?",
       "es": "?",
       "fr": "Armure de bronze",
+      "ge": "?",
+      "it": "?",
       "jp": "せいどうのよろい"
     },
     "sprite": "armors_sprites/?.png",
@@ -156,7 +235,14 @@
     "price": { "buy": 700, "sell": 525, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -165,6 +251,8 @@
       "en": "?",
       "es": "?",
       "fr": "Manteau d'esquive",
+      "ge": "?",
+      "it": "?",
       "jp": "みかわしのふく"
     },
     "sprite": "armors_sprites/?.png",
@@ -173,7 +261,14 @@
     "price": { "buy": 3000, "sell": 2250, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -182,6 +277,8 @@
       "en": "?",
       "es": "?",
       "fr": "?Armure de fer",
+      "ge": "?",
+      "it": "?",
       "jp": "てつのよろい"
     },
     "sprite": "armors_sprites/?.png",
@@ -190,7 +287,14 @@
     "price": { "buy": 1200, "sell": 900, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -199,6 +303,8 @@
       "en": "?",
       "es": "?",
       "fr": "Tablier de fer",
+      "ge": "?",
+      "it": "?",
       "jp": "てつのまえかけ"
     },
     "sprite": "armors_sprites/?.png",
@@ -207,7 +313,14 @@
     "price": { "buy": 1500, "sell": 1125, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -216,6 +329,8 @@
       "en": "?",
       "es": "?",
       "fr": "Manteau de sérénité",
+      "ge": "?",
+      "it": "?",
       "jp": "やすらぎのローブ"
     },
     "sprite": "armors_sprites/?.png",
@@ -224,7 +339,14 @@
     "price": { "buy": null, "sell": 4500, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -233,6 +355,8 @@
       "en": "?",
       "es": "?",
       "fr": "Armure de plates",
+      "ge": "?",
+      "it": "?",
       "jp": "はがねのよろい"
     },
     "sprite": "armors_sprites/?.png",
@@ -241,7 +365,14 @@
     "price": { "buy": 2300, "sell": 1725, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -250,6 +381,8 @@
       "en": "?",
       "es": "?",
       "fr": "Manteau magique",
+      "ge": "?",
+      "it": "?",
       "jp": "まほうのほうい"
     },
     "sprite": "armors_sprites/?.png",
@@ -258,7 +391,14 @@
     "price": { "buy": 4400, "sell": 3300, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -267,6 +407,8 @@
       "en": "?",
       "es": "?",
       "fr": "Body rose",
+      "ge": "?",
+      "it": "?",
       "jp": "ピンクのレオタード"
     },
     "sprite": "armors_sprites/?.png",
@@ -275,7 +417,14 @@
     "price": { "buy": 6300, "sell": 4725, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -284,6 +433,8 @@
       "en": "?",
       "es": "?",
       "fr": "Robe à paillettes",
+      "ge": "?",
+      "it": "?",
       "jp": "スパンコールドレス"
     },
     "sprite": "armors_sprites/?.png",
@@ -292,7 +443,14 @@
     "price": { "buy": null, "sell": null, "token": 2500, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -301,6 +459,8 @@
       "en": "?",
       "es": "?",
       "fr": "Robe flottante",
+      "ge": "?",
+      "it": "?",
       "jp": "みずのはごろも"
     },
     "sprite": "armors_sprites/?.png",
@@ -309,7 +469,14 @@
     "price": { "buy": 15000, "sell": 11250, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -318,6 +485,8 @@
       "en": "?",
       "es": "?",
       "fr": "Cuirasse de dragon",
+      "ge": "?",
+      "it": "?",
       "jp": "ドラゴンメイル"
     },
     "sprite": "armors_sprites/?.png",
@@ -326,7 +495,14 @@
     "price": { "buy": 5200, "sell": 3900, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -335,6 +511,8 @@
       "en": "?",
       "es": "?",
       "fr": "Jupe magique",
+      "ge": "?",
+      "it": "?",
       "jp": "マジカルスカート"
     },
     "sprite": "armors_sprites/?.png",
@@ -343,7 +521,14 @@
     "price": { "buy": null, "sell": null, "token": null, "minimedal": 25 },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -352,6 +537,8 @@
       "en": "?",
       "es": "?",
       "fr": "Absorboléro",
+      "ge": "?",
+      "it": "?",
       "jp": "ふしぎなボレロ"
     },
     "sprite": "armors_sprites/?.png",
@@ -360,7 +547,14 @@
     "price": { "buy": null, "sell": 5625, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -369,6 +563,8 @@
       "en": "?",
       "es": "?",
       "fr": "Cuirasse de zombie",
+      "ge": "?",
+      "it": "?",
       "jp": "ゾンビメイル"
     },
     "sprite": "armors_sprites/?.png",
@@ -377,7 +573,14 @@
     "price": { "buy": null, "sell": 652, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -386,6 +589,8 @@
       "en": "?",
       "es": "?",
       "fr": "Armure à piques",
+      "ge": "?",
+      "it": "?",
       "jp": "やいばのよろい"
     },
     "sprite": "armors_sprites/?.png",
@@ -394,7 +599,14 @@
     "price": { "buy": 7350, "sell": 5512, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -403,6 +615,8 @@
       "en": "?",
       "es": "?",
       "fr": "Robe chatoyante",
+      "ge": "?",
+      "it": "?",
       "jp": "ひかりのドレス"
     },
     "sprite": "armors_sprites/?.png",
@@ -411,7 +625,14 @@
     "price": { "buy": null, "sell": 6600, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -420,6 +641,8 @@
       "en": "?",
       "es": "?",
       "fr": "Armure de Hela",
+      "ge": "?",
+      "it": "?",
       "jp": "まじんのよろい"
     },
     "sprite": "armors_sprites/?.png",
@@ -428,7 +651,14 @@
     "price": { "buy": null, "sell": 750, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -437,6 +667,8 @@
       "en": "?",
       "es": "?",
       "fr": "Body d'ange",
+      "ge": "?",
+      "it": "?",
       "jp": "てんしのレオタード"
     },
     "sprite": "armors_sprites/?.png",
@@ -445,7 +677,14 @@
     "price": { "buy": 13000, "sell": 9750, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -454,6 +693,8 @@
       "en": "?",
       "es": "?",
       "fr": "Armure zénithienne",
+      "ge": "?",
+      "it": "?",
       "jp": "てんくうのよろい"
     },
     "sprite": "armors_sprites/?.png",
@@ -462,7 +703,14 @@
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
@@ -471,6 +719,8 @@
       "en": "?",
       "es": "?",
       "fr": "Armure de mercure",
+      "ge": "?",
+      "it": "?",
       "jp": "はぐれメタルよろい"
     },
     "sprite": "armors_sprites/?.png",
@@ -479,19 +729,33 @@
     "price": { "buy": 35000, "sell": 26250, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   },
   {
     "id": 30,
-    "name": { "en": "?", "es": "?", "fr": "?", "jp": "まかいのよろい" },
+    "name": { "en": "?", "es": "?", "fr": "?", "ge": "?", "it": "?", "jp": "まかいのよろい" },
     "sprite": "armors_sprites/?.png",
     "artwork": "armors_artworks/?.png",
     "stats": { "defense": 100 },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "slug": "_slug"
   }
 ]

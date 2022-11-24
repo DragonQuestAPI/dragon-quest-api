@@ -9,8 +9,11 @@
       "it": "????",
       "jp": "ロトゼタシア"
     },
+    "shops": [],
     "map": "img/maps/world.png",
-    "type": "overworld"
+    "continent" : "?",
+    "type": "overworld",
+    "slug": "_slug"
   },
   {
     "id": 2,
@@ -22,8 +25,11 @@
       "it": "????",
       "jp": "ゴットサイド"
     },
+    "shops": [],
     "map": "img/maps/the_azimut.png",
-    "type": "overworld"
+    "continent" : "?",
+    "type": "overworld",
+    "slug": "_slug"
   },
   {
     "id": 3,
@@ -35,8 +41,11 @@
       "it": "????",
       "jp": "闇の世界"
     },
+    "shops": [],
     "map": "img/maps/nadiria.png",
-    "type": "overworld"
+    "continent" : "?",
+    "type": "overworld",
+    "slug": "_slug"
   },
 
   {
@@ -49,8 +58,11 @@
       "it": "????",
       "jp": "バトランド"
     },
+    "shops": [],
     "map": "img/maps/burland.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 5,
@@ -62,8 +74,11 @@
       "it": "????",
       "jp": "イムル"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
   {
     "id": 6,
@@ -75,8 +90,11 @@
       "it": "????",
       "jp": "イムル"
     },
+    "shops": [],
     "map": "img/maps/strathbaile.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 7,
@@ -88,8 +106,11 @@
       "it": "????",
       "jp": "古井戸の底"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
   {
     "id": 8,
@@ -101,8 +122,11 @@
       "it": "????",
       "jp": "湖の塔"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
 
   {
@@ -115,8 +139,11 @@
       "it": "????",
       "jp": "サントハイム"
     },
+    "shops": [],
     "map": "img/maps/zamoksva.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 10,
@@ -128,8 +155,11 @@
       "it": "????",
       "jp": "サラン"
     },
+    "shops": [],
     "map": "img/maps/zalenagrad.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 11,
@@ -141,8 +171,11 @@
       "it": "????",
       "jp": "サラン"
     },
+    "shops": [],
     "map": "img/maps/taborov.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 12,
@@ -154,8 +187,11 @@
       "it": "????",
       "jp": "フレノール"
     },
+    "shops": [],
     "map": "img/maps/vrenor.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 13,
@@ -167,8 +203,11 @@
       "it": "????",
       "jp": "フレノール南の洞窟"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
   {
     "id": 14,
@@ -180,8 +219,11 @@
       "it": "????",
       "jp": "砂漠のバザー"
     },
+    "shops": [],
     "map": "img/maps/desert_bazaar.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 15,
@@ -193,8 +235,11 @@
       "it": "????",
       "jp": "さえずりの塔"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
   {
     "id": 16,
@@ -206,8 +251,11 @@
       "it": "????",
       "jp": ""
     },
+    "shops": [],
     "map": null,
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 17,
@@ -219,8 +267,11 @@
       "it": "????",
       "jp": "エンドール"
     },
+    "shops": [],
     "map": "img/maps/endor.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
 
   {
@@ -233,8 +284,11 @@
       "it": "????",
       "jp": "レイクナバ"
     },
+    "shops": [],
     "map": "img/maps/?.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 19,
@@ -246,8 +300,11 @@
       "it": "????",
       "jp": "レイクナバ北の洞窟"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
   {
     "id": 20,
@@ -259,8 +316,11 @@
       "it": "????",
       "jp": "キツネヶ原"
     },
+    "shops": [],
     "map": null,
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 21,
@@ -272,8 +332,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": "img/maps/?.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 22,
@@ -285,8 +348,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
   {
     "id": 23,
@@ -298,8 +364,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
 
   {
@@ -312,8 +381,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": "img/maps/?.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 25,
@@ -325,8 +397,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": "img/maps/?.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 26,
@@ -338,8 +413,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
   {
     "id": 27,
@@ -351,8 +429,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": "img/maps/palais_de_leon.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 28,
@@ -364,8 +445,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": "img/maps/havre_leon.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 29,
@@ -377,8 +461,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": null,
-    "type": "shrine"
+    "continent" : "?",
+    "type": "shrine",
+    "slug": "_slug"
   },
   {
     "id": 30,
@@ -390,8 +477,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": "img/maps/mamon.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 31,
@@ -403,8 +493,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
 
   {
@@ -417,8 +510,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": null,
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 33,
@@ -430,8 +526,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": null,
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 34,
@@ -443,8 +542,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": "img/maps/casabranca.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 35,
@@ -456,8 +558,11 @@
       "it": "????",
       "jp": "砂漠の宿屋"
     },
+    "shops": [],
     "map": null,
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 36,
@@ -469,8 +574,11 @@
       "it": "????",
       "jp": "裏切りの洞窟"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
   {
     "id": 37,
@@ -482,8 +590,11 @@
       "it": "Bonacqua",
       "jp": "アネイル"
     },
+    "shops": [],
     "map": "img/maps/bath.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 38,
@@ -495,8 +606,11 @@
       "it": "Cala Cantiera",
       "jp": "コナンベリー"
     },
+    "shops": [],
     "map": "img/maps/porthtrunnel.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 39,
@@ -508,8 +622,11 @@
       "it": "Faro di Pharos",
       "jp": "?????"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
   {
     "id": 38,
@@ -521,8 +638,11 @@
       "it": "Mintos",
       "jp": "ミントス"
     },
+    "shops": [],
     "map": "img/maps/mintos.png",
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 39,
@@ -534,8 +654,11 @@
       "it": "????",
       "jp": "?????"
     },
+    "shops": [],
     "map": null,
-    "type": "shrine"
+    "continent" : "?",
+    "type": "shrine",
+    "slug": "_slug"
   },
   {
     "id": 40,
@@ -547,8 +670,11 @@
       "it": "????",
       "jp": "ソレッタ"
     },
+    "shops": [],
     "map": null,
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 41,
@@ -560,8 +686,11 @@
       "it": "????",
       "jp": "パデキアの洞窟"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
   {
     "id": 42,
@@ -573,8 +702,11 @@
       "it": "Furpredon",
       "jp": "海辺の村"
     },
+    "shops": [],
     "map": null,
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 43,
@@ -586,8 +718,11 @@
       "it": "Canalot",
       "jp": "スタンシアラ"
     },
+    "shops": [],
     "map": null,
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 44,
@@ -599,8 +734,11 @@
       "it": "Femiscyra",
       "jp": "ガーデンブルグ"
     },
+    "shops": [],
     "map": null,
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 45,
@@ -612,8 +750,11 @@
       "it": "?",
       "jp": "ガーデンブルグ南東の洞窟"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
   {
     "id": 46,
@@ -625,8 +766,11 @@
       "it": "Col Rosato",
       "jp": "ロザリーヒル"
     },
+    "shops": [],
     "map": null,
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 47,
@@ -638,8 +782,11 @@
       "it": "Fiumazza",
       "jp": "リバーサイド"
     },
+    "shops": [],
     "map": null,
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 48,
@@ -651,8 +798,11 @@
       "it": "?",
       "jp": "?"
     },
+    "shops": [],
     "map": null,
-    "type": "dungeon"
+    "continent" : "?",
+    "type": "dungeon",
+    "slug": "_slug"
   },
   {
     "id": 49,
@@ -664,8 +814,11 @@
       "it": "Antro del Male",
       "jp": "デスパレス"
     },
+    "shops": [],
     "map": null,
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 50,
@@ -677,8 +830,11 @@
       "it": "El Forado",
       "jp": "エルフの里"
     },
+    "shops": [],
     "map": null,
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   },
   {
     "id": 50,
@@ -690,7 +846,10 @@
       "it": "El Forado",
       "jp": "エルフの里"
     },
+    "shops": [],
     "map": null,
-    "type": "town"
+    "continent" : "?",
+    "type": "town",
+    "slug": "_slug"
   }
 ]

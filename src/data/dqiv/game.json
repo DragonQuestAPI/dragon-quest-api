@@ -1,10 +1,34 @@
 {
-    "release_date": {
-        "en": 2008,
-        "sp": 2008,
-        "fr": 2008,
-        "ge": 2008,
-        "it": 2008,
-        "jp": 2007
-    }
+  "name": {
+    "en": "Dragon Quest IV",
+    "es": "Dragon Quest IV",
+    "fr": "Dragon Quest IV",
+    "ge": "Dragon Quest IV",
+    "it": "Dragon Quest IV",
+    "jp": "ドラゴンクエストIV?"
+  },
+  "title": {
+    "en": "Chapters of the Chosen",
+    "es": "?",
+    "fr": "L'Épopée des élus",
+    "ge": "?",
+    "it": "?",
+    "jp": "導かれし者たち"
+  },
+  "logo": "../../img/dqiv/dragon-quest-iv.png",
+  "developer": "ArtePiazza",
+  "publisher": "Square-Enix",
+  "director": "Koichi Nakamura",
+  "designer": "Yuji Horii",
+  "writer": "Yuji Horii",
+  "artist": "Akira Toriyama",
+  "composer": "Koichi Sugiyama",
+  "platform": "Nintendo DS",
+  "release_date": {
+    "eu": 2008,
+    "us": 2008,
+    "jp": 2007
+  },
+  "genre": "RPG",
+  "players": 1
 }
