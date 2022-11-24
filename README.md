@@ -145,5 +145,5 @@ Examples of requests :
 ### Credits
 
 - Maps ripped by Barubary from the spriters resource.
-- Enemy sprites taken from the dragon quest fan website.
+- Enemy sprites taken from the Dragon Quest Fan website.
 - Some sprites were ripped by NaorimSenchai.
