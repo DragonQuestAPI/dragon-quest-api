@@ -15,17 +15,17 @@
 
 Examples of requests :
 ```GET http://localhost:8000/dqiv/accessories/```
+```GET http://localhost:8000/dqiv/accessories/1```
 ```GET http://localhost:8000/dqiv/accessories/?name=scale_shield```
-```GET http://localhost:8000/dqiv/accessories/?is_minimedal_reward=true```
 
 ## The areas
 
 - Their ID.
 - Their name.
-- Their map.
 - Their shops.
-- Their type.
+- Their map.
 - The continent they are from.
+- Their type.
 - Their slug.
 
 Examples of requests :
@@ -41,15 +41,15 @@ Examples of requests :
 - Their official artwork.
 - The stats they change once equipped.
 - Their price.
-- Their description.
 - The areas where you can find them.
 - The areas where you can buy them.
-- Their slug, used to join other data.
+- Their description.
+- Their slug.
 
 Examples of requests :
 ```GET http://localhost:8000/dqiv/armors/```
+```GET http://localhost:8000/dqiv/armors/1```
 ```GET http://localhost:8000/dqiv/armors/?name=iron_armour```
-```GET http://localhost:8000/dqiv/armors/?is_minimedal_reward=true```
 
 ## The characters
 
@@ -71,23 +71,61 @@ Examples of requests :
 - Their HP for each level.
 - Their MP for each level.
 - The experience required for each level.
+- Their slug.
 
 
 Examples of requests :
-```GET http://localhost:8000/characters/```
-```GET http://localhost:8000/characters/1```
-```GET http://localhost:8000/characters/?name=alena[/b]```
+```GET http://localhost:8000/dqiv/characters/```
+```GET http://localhost:8000/dqiv/characters/1```
+```GET http://localhost:8000/dqiv/characters/?name=alena```
+
+## The continents
+
+- Their ID.
+- Their name.
+- Their location.
+- Their slug.
+
+Examples of requests :
+```GET http://localhost:8000/dqiv/continents/```
+```GET http://localhost:8000/dqiv/continents/1```
+```GET http://localhost:8000/dqiv/continents/?slug=maestral```
+
+## The game
+
+- Its name.
+- Its title.
+- Its logo.
+- Its developer.
+- Its publisher.
+- Its director.
+- Its designer.
+- Its writer.
+- Its composer.
+- Its platform.
+- Its release date.
+- Its genre.
+- Its maximum number of players.
+
+Examples of requests :
+```GET http://localhost:8000/dqiv```
 
 ## The monsters
 
 - Their ID.
 - Their name.
-- Their sprite, animated and non animated.
+- Their sprite.
+- Their animated sprite.
 - Their official artwork.
 - Their type (enemy or boss).
-- Their stats (HP, MP, attack, defense, speed).
-- The gold they give once defeated.
+- Their phases.
+- Their HP.
+- Their MP.
+- Their Attack.
+- Their Defense.
+- Their Speed.
 - The experience they give once defeated.
+- The gold they give once defeated.
 - The items they can drop once defeated.
 - The areas where we can find them.
 - Their slug, used to join other data.
