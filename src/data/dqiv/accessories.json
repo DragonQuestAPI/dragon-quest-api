@@ -5,8 +5,8 @@
       "en": "?",
       "es": "?",
       "fr": "Bague de choc",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "ちからのゆびわ"
     },
     "sprite": "accessories_sprites/?.png",
@@ -18,12 +18,18 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "???", "sell": "???", "token": "???", "minimedal": 15 },
+    "price": { "buy": "?", "sell": "?", "token": "?", "minimedal": 15 },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -32,8 +38,8 @@
       "en": "?",
       "es": "?",
       "fr": "Brassard de choc",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "ごうけつのうでわ"
     },
     "sprite": "accessories_sprites/?.png",
@@ -45,12 +51,18 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "???", "sell": "???", "token": "???", "minimedal": 47 },
+    "price": { "buy": "?", "sell": "?", "token": "?", "minimedal": 47 },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -59,8 +71,8 @@
       "en": "?",
       "es": "?",
       "fr": "Brassard d'or",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "きんのブレスレット"
     },
     "sprite": "accessories_sprites/?.png",
@@ -72,12 +84,18 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "???", "sell": "???", "token": 1000, "minimedal": "???" },
+    "price": { "buy": "?", "sell": "?", "token": 1000, "minimedal": "?" },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -86,8 +104,8 @@
       "en": "?",
       "es": "?",
       "fr": "Bague de prière",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "いのりのゆびわ"
     },
     "sprite": "accessories_sprites/?.png",
@@ -99,12 +117,18 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "???", "sell": "???", "token": 500, "minimedal": "???" },
+    "price": { "buy": "?", "sell": "?", "token": 500, "minimedal": "?" },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -113,8 +137,8 @@
       "en": "?",
       "es": "?",
       "fr": "Bas résille",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "あみタイツ"
     },
     "sprite": "accessories_sprites/?.png",
@@ -126,12 +150,18 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 1200, "sell": 900, "token": "???", "minimedal": "???" },
+    "price": { "buy": 1200, "sell": 900, "token": "?", "minimedal": "?" },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -140,8 +170,8 @@
       "en": "?",
       "es": "?",
       "fr": "Rubis de protection",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "まもりのルビー"
     },
     "sprite": "accessories_sprites/?.png",
@@ -153,12 +183,18 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 2700, "sell": "???", "token": "???", "minimedal": 20 },
+    "price": { "buy": 2700, "sell": "?", "token": "?", "minimedal": 20 },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -167,8 +203,8 @@
       "en": "?",
       "es": "?",
       "fr": "Bague de vie",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "いのちのゆびわ"
     },
     "sprite": "accessories_sprites/?.png",
@@ -181,16 +217,22 @@
       "luck": "?"
     },
     "price": {
-      "buy": "???",
-      "sell": "???",
-      "token": "???",
-      "minimedal": "???"
+      "buy": "?",
+      "sell": "?",
+      "token": "?",
+      "minimedal": "?"
     },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -199,8 +241,8 @@
       "en": "?",
       "es": "?",
       "fr": "Brassard de kamikaze",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "メガンテのうでわ"
     },
     "sprite": "accessories_sprites/?.png",
@@ -212,12 +254,18 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 5000, "sell": "???", "token": 500, "minimedal": "???" },
+    "price": { "buy": 5000, "sell": "?", "token": 500, "minimedal": "?" },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -226,8 +274,8 @@
       "en": "?",
       "es": "?",
       "fr": "Brassard de conjuration",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "メガザルのうでわ"
     },
     "sprite": "accessories_sprites/?.png",
@@ -239,12 +287,18 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 10000, "sell": "???", "token": "???", "minimedal": 34 },
+    "price": { "buy": 10000, "sell": "?", "token": "?", "minimedal": 34 },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -253,8 +307,8 @@
       "en": "?",
       "es": "?",
       "fr": "Bague de la déesse",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "めがみのゆびわ"
     },
     "sprite": "accessories_sprites/?.png",
@@ -267,16 +321,22 @@
       "luck": "?"
     },
     "price": {
-      "buy": "???",
-      "sell": "???",
-      "token": "???",
-      "minimedal": "???"
+      "buy": "?",
+      "sell": "?",
+      "token": "?",
+      "minimedal": "?"
     },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -285,8 +345,8 @@
       "en": "?",
       "es": "?",
       "fr": "Foulard d'Hermès",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "しっぷうのバンダナ"
     },
     "sprite": "accessories_sprites/?.png",
@@ -298,12 +358,18 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 650, "sell": 487, "token": "???", "minimedal": "???" },
+    "price": { "buy": 650, "sell": 487, "token": "?", "minimedal": "?" },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -312,8 +378,8 @@
       "en": "?",
       "es": "?",
       "fr": "Brassard de météore",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "ほしふるうでわ"
     },
     "sprite": "accessories_sprites/?.png",
@@ -326,16 +392,22 @@
       "luck": "?"
     },
     "price": {
-      "buy": "???",
-      "sell": "???",
+      "buy": "?",
+      "sell": "?",
       "token": 10000,
-      "minimedal": "???"
+      "minimedal": "?"
     },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -344,8 +416,8 @@
       "en": "?",
       "es": "?",
       "fr": "Éclat d'étoile",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "ほしのかけら"
     },
     "sprite": "accessories_sprites/?.png",
@@ -357,12 +429,18 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 500, "sell": 375, "token": "???", "minimedal": "???" },
+    "price": { "buy": 500, "sell": 375, "token": "?", "minimedal": "?" },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -371,8 +449,8 @@
       "en": "?",
       "es": "?",
       "fr": "Queue de lapin",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "うざぎのしっぽ"
     },
     "sprite": "accessories_sprites/?.png",
@@ -384,12 +462,18 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 230, "sell": 172, "token": "???", "minimedal": "???" },
+    "price": { "buy": 230, "sell": 172, "token": "?", "minimedal": "?" },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -398,8 +482,8 @@
       "en": "?",
       "es": "?",
       "fr": "Chaussures à talons",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "しあわせのくつ"
     },
     "sprite": "accessories_sprites/?.png",
@@ -412,16 +496,22 @@
       "luck": "?"
     },
     "price": {
-      "buy": "???",
-      "sell": "???",
-      "token": "???",
-      "minimedal": "???"
+      "buy": "?",
+      "sell": "?",
+      "token": "?",
+      "minimedal": "?"
     },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   },
   {
@@ -430,8 +520,8 @@
       "en": "?",
       "es": "?",
       "fr": "Anneau évangélique",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "ゴスペルリング"
     },
     "sprite": "accessories_sprites/?.png",
@@ -444,16 +534,22 @@
       "luck": "?"
     },
     "price": {
-      "buy": "???",
-      "sell": "???",
+      "buy": "?",
+      "sell": "?",
       "token": 250000,
-      "minimedal": "???"
+      "minimedal": "?"
     },
     "found_at": [],
     "buyable_at": [],
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
-    "ge": "????",
-    "it": "?????",
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+
     "slug": "_slug"
   }
 ]
