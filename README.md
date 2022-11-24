@@ -2,7 +2,7 @@
 
 ## /!\ WORK IN PROGRESS /!\
 
-An API project featuring all the datas about all the episode of the Dragon Quest franchise developed by Square Enix.
+An API project featuring all the datas about all the episodes of the Dragon Quest franchise developed by Square Enix.
 English, Spanish, French, German, Italian and Japanese languages are supported and includes in the API, which means each character, monster, items, etc. is fully translated in the languages mentioned above.
 
 ## What content does it include ?
