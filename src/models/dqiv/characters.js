@@ -8,7 +8,7 @@ const pathToJSON = path.join(
 );
 const file = JSON.parse(fs.readFileSync(pathToJSON).toString());
 
-const findAll = async () => {
+const findAll = async (queryset) => {
   try {
     const result = await file;
     return result;

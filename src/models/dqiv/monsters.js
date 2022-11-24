@@ -5,20 +5,9 @@ const game = __dirname.split("\\")[__dirname.split("\\").length - 1];
 const pathToJSON = path.join(__dirname, `../../data/${game}/monsters.json`);
 const file = JSON.parse(fs.readFileSync(pathToJSON).toString());
 
-const findAll = async () => {
+const findAll = async (queryset) => {
   try {
     const result = await file;
-    return result;
-  } catch (err) {
-    throw err;
-  }
-};
-
-const findByChapterNumber = async (id) => {
-  try {
-    const result = await file
-      .filter((data) => data.found_at[`chapter${id}`].length > 0)
-      .sort((a, b) => a - b);
     return result;
   } catch (err) {
     throw err;
@@ -36,6 +25,5 @@ const findById = async (id) => {
 
 module.exports = {
   findAll,
-  findByChapterNumber,
   findById,
 };

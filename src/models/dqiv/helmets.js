@@ -5,7 +5,7 @@ const game = __dirname.split("\\")[__dirname.split("\\").length - 1];
 const pathToJSON = path.join(__dirname, `../../data/${game}/helmets.json`);
 const file = JSON.parse(fs.readFileSync(pathToJSON).toString());
 
-const findAll = async () => {
+const findAll = async (queryset) => {
   try {
     const result = await file;
     return result;
