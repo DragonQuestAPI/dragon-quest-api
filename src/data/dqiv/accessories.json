@@ -1,0 +1,460 @@
+[
+  {
+    "id": 1,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Bague de choc",
+      "ge": "????",
+      "it": "?????",
+      "jp": "ちからのゆびわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": "???", "sell": "???", "token": "???", "minimedal": 15 },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 2,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Brassard de choc",
+      "ge": "????",
+      "it": "?????",
+      "jp": "ごうけつのうでわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": "???", "sell": "???", "token": "???", "minimedal": 47 },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 3,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Brassard d'or",
+      "ge": "????",
+      "it": "?????",
+      "jp": "きんのブレスレット"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": "???", "sell": "???", "token": 1000, "minimedal": "???" },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 4,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Bague de prière",
+      "ge": "????",
+      "it": "?????",
+      "jp": "いのりのゆびわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": "???", "sell": "???", "token": 500, "minimedal": "???" },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 5,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Bas résille",
+      "ge": "????",
+      "it": "?????",
+      "jp": "あみタイツ"
+    },
+
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 1200, "sell": 900, "token": "???", "minimedal": "???" },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 6,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Rubis de protection",
+      "ge": "????",
+      "it": "?????",
+      "jp": "まもりのルビー"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 2700, "sell": "???", "token": "???", "minimedal": 20 },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 7,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Bague de vie",
+      "ge": "????",
+      "it": "?????",
+      "jp": "いのちのゆびわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": {
+      "buy": "???",
+      "sell": "???",
+      "token": "???",
+      "minimedal": "???"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 8,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Brassard de kamikaze",
+      "ge": "????",
+      "it": "?????",
+      "jp": "メガンテのうでわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 5000, "sell": "???", "token": 500, "minimedal": "???" },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 9,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Brassard de conjuration",
+      "ge": "????",
+      "it": "?????",
+      "jp": "メガザルのうでわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 10000, "sell": "???", "token": "???", "minimedal": 34 },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 10,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Bague de la déesse",
+      "ge": "????",
+      "it": "?????",
+      "jp": "めがみのゆびわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": {
+      "buy": "???",
+      "sell": "???",
+      "token": "???",
+      "minimedal": "???"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 11,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Foulard d'Hermès",
+      "ge": "????",
+      "it": "?????",
+      "jp": "しっぷうのバンダナ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 650, "sell": 487, "token": "???", "minimedal": "???" },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 12,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Brassard de météore",
+      "ge": "????",
+      "it": "?????",
+      "jp": "ほしふるうでわ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": {
+      "buy": "???",
+      "sell": "???",
+      "token": 10000,
+      "minimedal": "???"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 13,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Éclat d'étoile",
+      "ge": "????",
+      "it": "?????",
+      "jp": "ほしのかけら"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 500, "sell": 375, "token": "???", "minimedal": "???" },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 14,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Queue de lapin",
+      "ge": "????",
+      "it": "?????",
+      "jp": "うざぎのしっぽ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 230, "sell": 172, "token": "???", "minimedal": "???" },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 15,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Chaussures à talons",
+      "ge": "????",
+      "it": "?????",
+      "jp": "しあわせのくつ"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": {
+      "buy": "???",
+      "sell": "???",
+      "token": "???",
+      "minimedal": "???"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  },
+  {
+    "id": 16,
+    "sprite": "accessories_sprites/?.png",
+    "artwork": "accessories_artworks/?.png",
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Anneau évangélique",
+      "ge": "????",
+      "it": "?????",
+      "jp": "ゴスペルリング"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": "?",
+      "wisdom": "?",
+      "speed": "?",
+      "luck": "?"
+    },
+    "price": {
+      "buy": "???",
+      "sell": "???",
+      "token": 250000,
+      "minimedal": "???"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "ge": "????",
+    "it": "?????",
+    "slug": "_slug"
+  }
+]

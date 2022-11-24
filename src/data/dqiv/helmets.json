@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "en": "Leather hat",
+      "es": "?",
+      "fr": "Casque de cuir",
+      "ge": "????",
+      "it": "?????",
+      "jp": "かわのぼうし"
+    },
+    "sprite": "helmets_sprites/leather_hat.png",
+    "artwork": "helmets_artworks/leather_hat.png",
+    "stats": { "defense": 2 },
+    "price": { "buy": 65, "sell": 48, "token": null, "minimedal": null },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "????",
+      "it": "?????",
+      "jp": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "leather_hat"
+  },
+  {
+    "id": 2,
+    "name": {
+      "en": "Hairband",
+      "es": "?",
+      "fr": "Diadème",
+      "ge": "????",
+      "it": "?????",
+      "jp": "ヘアバンド"
+    },
+    "sprite": "helmets_sprites/hairband.png",
+    "artwork": "helmets_artworks/hairband.png",
+    "stats": { "defense": 5 },
+    "price": { "buy": 110, "sell": 82, "token": null, "minimedal": null },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "????",
+      "it": "?????",
+      "jp": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "hairband"
+  },
+  {
+    "id": 3,
+    "name": {
+      "en": "Hardwood headwear",
+      "es": "?",
+      "fr": "Casque de bois",
+      "ge": "????",
+      "it": "?????",
+      "jp": "きのぼうし"
+    },
+    "sprite": "helmets_sprites/hardwood_headwear.png",
+    "artwork": "helmets_artworks/hardwood_headwear.png",
+    "stats": { "defense": 6 },
+    "price": { "buy": 120, "sell": 90, "token": null, "minimedal": null },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "????",
+      "it": "?????",
+      "jp": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "hardwood_headwear"
+  },
+  {
+    "id": 4,
+    "name": {
+      "en": "Feathered cap",
+      "es": "?",
+      "fr": "Chapeau à plumes",
+      "ge": "????",
+      "it": "?????",
+      "jp": "はねぼうし"
+    },
+    "sprite": "helmets_sprites/feathered_cap.png",
+    "artwork": "helmets_artworks/feathered_cap.png",
+    "stats": { "defense": 8 },
+    "price": { "buy": 280, "sell": 210, "token": null, "minimedal": null },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "????",
+      "it": "?????",
+      "jp": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "feathered_cap"
+  },
+  {
+    "id": 5,
+    "name": {
+      "en": "Golden tiara",
+      "es": "?",
+      "fr": "Tiare d'or",
+      "ge": "????",
+      "it": "?????",
+      "jp": "きんのかみかざり"
+    },
+    "sprite": "helmets_sprites/?golden_tiara.png",
+    "artwork": "helmets_artworks/?golden_tiara.png",
+    "stats": { "defense": 12 },
+    "price": { "buy": 540, "sell": 405, "token": null, "minimedal": null },
+    "description": {
+      "en": "This precious tiara protects against Fuddle",
+      "es": "?",
+      "fr": "?",
+      "ge": "????",
+      "it": "?????",
+      "jp": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "golden_tiara"
+  },
+  {
+    "id": 6,
+    "name": {
+      "en": "Happy hat",
+      "es": "?",
+      "fr": "Chapeau de félicité",
+      "ge": "????",
+      "it": "?????",
+      "jp": "しあわせのぼうし"
+    },
+    "sprite": "helmets_sprites/happy_hat.png",
+    "artwork": "helmets_artworks/happy_hat.png",
+    "stats": { "defense": 15 },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": 43 },
+    "description": {
+      "en": "Recovers some of the wearer's MP with each and every step.",
+      "es": "?",
+      "fr": "?",
+      "ge": "????",
+      "it": "?????",
+      "jp": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "happy_hat"
+  },
+  {
+    "id": 7,
+    "name": {
+      "en": "Iron helmet",
+      "es": "?",
+      "fr": "Heaume de fer",
+      "ge": "????",
+      "it": "?????",
+      "jp": "てつかぶと"
+    },
+    "sprite": "helmets_sprites/iron_helmet.png",
+    "artwork": "helmets_artworks/iron_helmet.png",
+    "stats": { "defense": 16 },
+    "price": { "buy": 1100, "sell": 825, "token": null, "minimedal": null },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "????",
+      "it": "?????",
+      "jp": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "iron_helmet"
+  },
+  {
+    "id": 8,
+    "name": {
+      "en": "Iron mask",
+      "es": "?",
+      "fr": "Masque de fer",
+      "ge": "????",
+      "it": "?????",
+      "jp": "てっかめん"
+    },
+    "sprite": "helmets_sprites/?iron_mask.png",
+    "artwork": "helmets_artworks/?iron_mask.png",
+    "stats": { "defense": 25 },
+    "price": { "buy": 3500, "sell": 2625, "token": null, "minimedal": null },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "????",
+      "it": "?????",
+      "jp": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "iron_mask"
+  },
+  {
+    "id": 9,
+    "name": {
+      "en": "Zenithian Helm",
+      "es": "?",
+      "fr": "Casque zénithien",
+      "ge": "????",
+      "it": "?????",
+      "jp": "てんくうのかぶと"
+    },
+    "sprite": "helmets_sprites/zenithian_helm.png",
+    "artwork": "helmets_artworks/zenithian_helm.png",
+    "stats": { "defense": 30 },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "description": {
+      "en": "Doesn't appear to have any special effects.",
+      "es": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "ge": "????",
+      "it": "?????",
+      "jp": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "zenithian_helm"
+  },
+  {
+    "id": 10,
+    "name": {
+      "en": "Pandemonic helm",
+      "es": "?",
+      "fr": "Casque des enfers",
+      "ge": "????",
+      "it": "?????",
+      "jp": "まかいのかぶと"
+    },
+    "sprite": "helmets_sprites/pandemonic_helm.png",
+    "artwork": "helmets_artworks/pandemonic_helm.png",
+    "stats": { "defense": 40 },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "description": {
+      "en": "This hellish helm protects against Snooze, Whack and paralysis.",
+      "es": "?",
+      "fr": "?",
+      "ge": "????",
+      "it": "?????",
+      "jp": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "pandemonic_helm"
+  },
+  {
+    "id": 11,
+    "name": {
+      "en": "Liquid metal helm",
+      "es": "?",
+      "fr": "Casque de mercure",
+      "ge": "????",
+      "it": "?????",
+      "jp": "はぐれメタルヘルム"
+    },
+    "sprite": "helmets_sprites/liquid_metal_helm.png",
+    "artwork": "helmets_artworks/liquid_metal_helm.png",
+    "stats": { "defense": 50 },
+    "price": { "buy": null, "sell": null, "token": 100000, "minimedal": null },
+    "description": {
+      "en": "This helm protects against Snooze, Fuddle and paralysis.",
+      "es": "?",
+      "fr": "?",
+      "ge": "????",
+      "it": "?????",
+      "jp": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "liquid_metal_helm"
+  },
+  {
+    "id": 12,
+    "name": {
+      "en": "Death mask",
+      "es": "?",
+      "fr": "Heaume d'Hadès",
+      "ge": "????",
+      "it": "?????",
+      "jp": "じゃしんのめん"
+    },
+    "sprite": "helmets_sprites/death_mask.png",
+    "artwork": "helmets_artworks/death_mask.png",
+    "stats": { "defense": 200 },
+    "price": { "buy": null, "sell": 6, "token": null, "minimedal": null },
+    "description": {
+      "en": "Watch out! There's more on this mask than meets the eye.",
+      "es": "?",
+      "fr": "?",
+      "ge": "????",
+      "it": "?????",
+      "jp": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "death_mask"
+  }
+]
