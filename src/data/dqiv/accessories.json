@@ -24,7 +24,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Fait augmenter la Force de quiconque l'enfile.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -56,7 +56,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Fait augmenter la Force de quiconque l'enfile.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -88,7 +88,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Augmente la défense lorsqu'il est porté.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -120,7 +120,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "L'utilisation de cette bague permet de récupérer quelques PM.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -152,7 +152,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Les plus sexy des bas !",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -184,7 +184,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Augmente la défense lorsqu'il est porté.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -196,7 +196,7 @@
     "name": {
       "en": "?",
       "es": "?",
-      "fr": "Bague de vie",
+      "fr": "Bague de Santé",
       "ge": "?",
       "it": "?",
       "jp": "いのちのゆびわ"
@@ -221,7 +221,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Restaure une partie des PV de celui qui la porte à chaque pas.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -233,7 +233,7 @@
     "name": {
       "en": "?",
       "es": "?",
-      "fr": "Brassard de kamikaze",
+      "fr": "Brassard kamikaze",
       "ge": "?",
       "it": "?",
       "jp": "メガンテのうでわ"
@@ -253,7 +253,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Pourrait bien sauver la situation en cas de besoin !",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -285,7 +285,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Pourrait bien sauver la situation en cas de besoin !",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -322,7 +322,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Restaure une partie des PM de celui qui la porte à chaque pas.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -354,7 +354,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Confère une plus grande Agilité à celui qui le porte.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -374,11 +374,11 @@
     "sprite": "accessories_sprites/?.png",
     "artwork": "accessories_artworks/?.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": null,
+      "defense": null,
+      "wisdom": null,
+      "speed": "x2",
+      "luck": null
     },
     "price": {
       "buy": "?",
@@ -391,7 +391,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ce brassard multiplie par deux l'Agilité de celui qui le porte !",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -423,7 +423,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Peut aussi être utilisé comme objet au combat.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -455,7 +455,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Porte chance à celui qui la porte... du moins, c'est ce qu'on dit !",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -492,7 +492,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Chaussures qui font augmenter l'expérience à chaque pas.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -529,7 +529,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Repousse tous les monstres errants lorsqu'il est porté.",
       "ge": "?",
       "it": "?",
       "jp": "?"
