@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": {
-      "en": "?",
+      "en": "Plain clothes",
       "es": "?",
       "fr": "Vêtement simple",
       "ge": "?",
@@ -16,7 +16,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Don't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -28,7 +28,7 @@
   {
     "id": 2,
     "name": {
-      "en": "?",
+      "en": "Wayfarer's clothes",
       "es": "?",
       "fr": "Tenue de voyageur",
       "ge": "?",
@@ -42,7 +42,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Don't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -54,7 +54,7 @@
   {
     "id": 3,
     "name": {
-      "en": "?",
+      "en": "Boxer shorts",
       "es": "?",
       "fr": "Caleçon",
       "ge": "?",
@@ -66,7 +66,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Don't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -80,7 +80,7 @@
   {
     "id": 4,
     "name": {
-      "en": "?",
+      "en": "Dancer's costume",
       "es": "?",
       "fr": "Costume de danseuse",
       "ge": "?",
@@ -94,7 +94,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Doesn't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -106,7 +106,7 @@
   {
     "id": 5,
     "name": {
-      "en": "?",
+      "en": "Silk robe",
       "es": "?",
       "fr": "Robe de soie",
       "ge": "?",
@@ -120,7 +120,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Doesn't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -132,7 +132,7 @@
   {
     "id": 6,
     "name": {
-      "en": "?",
+      "en": "Leather armour",
       "es": "?",
       "fr": "Armure de cuir",
       "ge": "?",
@@ -146,7 +146,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Doesn't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -158,7 +158,7 @@
   {
     "id": 7,
     "name": {
-      "en": "?",
+      "en": "Leather dress",
       "es": "?",
       "fr": "Robe de cuir",
       "ge": "?",
@@ -172,7 +172,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Doesn't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -184,7 +184,7 @@
   {
     "id": 8,
     "name": {
-      "en": "?",
+      "en": "Chain mail",
       "es": "?",
       "fr": "Cotte de mailles",
       "ge": "?",
@@ -198,7 +198,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Doesn't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -210,7 +210,7 @@
   {
     "id": 9,
     "name": {
-      "en": "?",
+      "en": "Fur coat",
       "es": "?",
       "fr": "Pelisse",
       "ge": "?",
@@ -222,7 +222,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Doesn't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -236,7 +236,7 @@
   {
     "id": 10,
     "name": {
-      "en": "?",
+      "en": "Bronze armour",
       "es": "?",
       "fr": "Armure de bronze",
       "ge": "?",
@@ -250,7 +250,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Doesn't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -262,7 +262,7 @@
   {
     "id": 11,
     "name": {
-      "en": "?",
+      "en": "Cloack of evasion",
       "es": "?",
       "fr": "Manteau d'esquive",
       "ge": "?",
@@ -276,7 +276,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "The wearer may at times escape an enemy's attack altogether.",
       "es": "?",
       "fr": "Permet parfois d'esquiver une attaque ennemie.",
       "ge": "?",
@@ -288,7 +288,7 @@
   {
     "id": 12,
     "name": {
-      "en": "?",
+      "en": "Iron armour",
       "es": "?",
       "fr": "Armure de fer",
       "ge": "?",
@@ -302,7 +302,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Doesn't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -314,7 +314,7 @@
   {
     "id": 13,
     "name": {
-      "en": "?",
+      "en": "Iron apron",
       "es": "?",
       "fr": "Tablier de fer",
       "ge": "?",
@@ -328,7 +328,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Doesn't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -340,7 +340,7 @@
   {
     "id": 14,
     "name": {
-      "en": "?",
+      "en": "Robe of serenity",
       "es": "?",
       "fr": "Manteau de sérénité",
       "ge": "?",
@@ -354,7 +354,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Protects the wearer when asleep or paralysed.",
       "es": "?",
       "fr": "Protège son utilisateur s'il est endormi ou paralysé.",
       "ge": "?",
@@ -366,7 +366,7 @@
   {
     "id": 15,
     "name": {
-      "en": "?",
+      "en": "Full plate armour",
       "es": "?",
       "fr": "Armure de plates",
       "ge": "?",
@@ -380,7 +380,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Doesn't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -392,7 +392,7 @@
   {
     "id": 16,
     "name": {
-      "en": "?",
+      "en": "Magic vestment",
       "es": "?",
       "fr": "Manteau magique",
       "ge": "?",
@@ -406,7 +406,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "This clothing will help to reduce damage caused by magic.",
       "es": "?",
       "fr": "Permet de réduire les dégâts causés par la magie.",
       "ge": "?",
@@ -418,7 +418,7 @@
   {
     "id": 17,
     "name": {
-      "en": "?",
+      "en": "Pink leotard",
       "es": "?",
       "fr": "Body rose",
       "ge": "?",
@@ -432,7 +432,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Doesn't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -444,7 +444,7 @@
   {
     "id": 18,
     "name": {
-      "en": "?",
+      "en": "Spangled dress",
       "es": "?",
       "fr": "Robe à paillettes",
       "ge": "?",
@@ -458,7 +458,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Doesn't appear to have any special effects.",
       "es": "?",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
@@ -470,7 +470,7 @@
   {
     "id": 19,
     "name": {
-      "en": "?",
+      "en": "Flowing dress",
       "es": "?",
       "fr": "Robe flottante",
       "ge": "?",
@@ -484,7 +484,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Reduces damage from fire- and ice-based magic attacks.",
       "es": "?",
       "fr": "Réduit les dégâts causés par les attaques de feu ou de glace.",
       "ge": "?",
@@ -496,7 +496,7 @@
   {
     "id": 20,
     "name": {
-      "en": "?",
+      "en": "Dragon mail",
       "es": "?",
       "fr": "Cuirasse de dragon",
       "ge": "?",
@@ -510,7 +510,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "This armour will reduce damage from fire- and ice-based attacks.",
       "es": "?",
       "fr": "Cette cuirasse réduit les dégâts causés par les attaques de feu.",
       "ge": "?",
@@ -522,7 +522,7 @@
   {
     "id": 21,
     "name": {
-      "en": "?",
+      "en": "Magical skirt",
       "es": "?",
       "fr": "Jupe magique",
       "ge": "?",
@@ -536,7 +536,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "This clothing will help to reduce damage caused by magic.",
       "es": "?",
       "fr": "Permet de réduire les dégâts causés par la magie.",
       "ge": "?",
@@ -548,7 +548,7 @@
   {
     "id": 22,
     "name": {
-      "en": "?",
+      "en": "Glombolero",
       "es": "?",
       "fr": "Absorboléro",
       "ge": "?",
@@ -562,7 +562,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "This curious garment sometimes absorbs MP from enemy spells.",
       "es": "?",
       "fr": "Cet habit absorbe parfois les PM des sorts ennemis.",
       "ge": "?",
@@ -574,7 +574,7 @@
   {
     "id": 23,
     "name": {
-      "en": "?",
+      "en": "Zombie mail",
       "es": "?",
       "fr": "Cuirasse de zombie",
       "ge": "?",
@@ -588,7 +588,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Watch out! There's more to this armour than meets the eye.",
       "es": "?",
       "fr": "Attention ! Cette armure cache bien son pouvoir.",
       "ge": "?",
@@ -600,7 +600,7 @@
   {
     "id": 24,
     "name": {
-      "en": "?",
+      "en": "Spiked armour",
       "es": "?",
       "fr": "Armure à piques",
       "ge": "?",
@@ -614,7 +614,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "This armour may hold a spiky surprise for the unwary attacker.",
       "es": "?",
       "fr": "Offre parfois une piquante surprise à l'attaquant.",
       "ge": "?",
@@ -626,7 +626,7 @@
   {
     "id": 25,
     "name": {
-      "en": "?",
+      "en": "Shimmering dress",
       "es": "?",
       "fr": "Robe chatoyante",
       "ge": "?",
@@ -640,7 +640,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "This diaphanous dress may reflect magic back at the caster.",
       "es": "?",
       "fr": "Cette robe diaphane peut renvoyer la magie d'un assaillant.",
       "ge": "?",
@@ -652,7 +652,7 @@
   {
     "id": 26,
     "name": {
-      "en": "?",
+      "en": "Hela's armour",
       "es": "?",
       "fr": "Armure de Hela",
       "ge": "?",
@@ -666,7 +666,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Watch out! There's more to this armour than meets the eye.",
       "es": "?",
       "fr": "Attention ! Cette armure cache bien son pouvoir.",
       "ge": "?",
@@ -678,7 +678,7 @@
   {
     "id": 27,
     "name": {
-      "en": "?",
+      "en": "Angel leotard",
       "es": "?",
       "fr": "Body d'ange",
       "ge": "?",
@@ -692,7 +692,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Reduces damage from ice- and ice-based magic attacks.",
       "es": "?",
       "fr": "Réduit les dégâts causés par les attaques de feu ou de glace.",
       "ge": "?",
@@ -704,7 +704,7 @@
   {
     "id": 28,
     "name": {
-      "en": "?",
+      "en": "Zenithian Armour",
       "es": "?",
       "fr": "Armure zénithienne",
       "ge": "?",
@@ -718,7 +718,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "This armour will help to reduce damage caused by magic.",
       "es": "?",
       "fr": "Permet de réduire les dégâts causés par la magie.",
       "ge": "?",
@@ -730,7 +730,7 @@
   {
     "id": 29,
     "name": {
-      "en": "?",
+      "en": "Liquid metal armour",
       "es": "?",
       "fr": "Armure de mercure",
       "ge": "?",
@@ -744,7 +744,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "This armour will help to reduce damage caused by magic.",
       "es": "?",
       "fr": "Permet de réduire les dégâts causés par la magie.",
       "ge": "?",
@@ -756,7 +756,7 @@
   {
     "id": 30,
     "name": {
-      "en": "?",
+      "en": "Pandemonic armour",
       "es": "?",
       "fr": "Armure des Enfers",
       "ge": "?",
@@ -770,7 +770,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "This armour will help to reduce damage caused by magic.",
       "es": "?",
       "fr": "Permet de réduire les dégâts causés par la magie.",
       "ge": "?",
