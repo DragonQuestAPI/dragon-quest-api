@@ -6,11 +6,20 @@
       "en": "?",
       "es": "?",
       "fr": "Bouclier de cuir",
+      "ge": "?",
+      "it": "?",
       "jp": "かわのたて"
     },
     "stats": { "defense": 4 },
     "price": { "buy": 90, "sell": 67, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "slug": "_slug"
@@ -22,11 +31,20 @@
       "en": "?",
       "es": "?",
       "fr": "Bouclier d'écailles",
+      "ge": "?",
+      "it": "?",
       "jp": "うろこのたて"
     },
     "stats": { "defense": 7 },
     "price": { "buy": 180, "sell": 135, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "slug": "_slug"
@@ -38,11 +56,20 @@
       "en": "?",
       "es": "?",
       "fr": "Bouclier de fer",
+      "ge": "?",
+      "it": "?",
       "jp": "てつのたて"
     },
     "stats": { "defense": 12 },
     "price": { "buy": 650, "sell": 487, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "slug": "_slug"
@@ -54,11 +81,20 @@
       "en": "?",
       "es": "?",
       "fr": "Bouclier du dragon",
+      "ge": "?",
+      "it": "?",
       "jp": "ドラゴンシールド"
     },
     "stats": { "defense": 30 },
     "price": { "buy": 7100, "sell": 5325, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "slug": "_slug"
@@ -70,11 +106,20 @@
       "en": "?",
       "es": "?",
       "fr": "Bouclier de puissance",
+      "ge": "?",
+      "it": "?",
       "jp": "ちからのたて"
     },
     "stats": { "defense": 40 },
     "price": { "buy": 13000, "sell": 9750, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "slug": "_slug"
@@ -86,11 +131,20 @@
       "en": "?",
       "es": "?",
       "fr": "Bouclier miroir",
+      "ge": "?",
+      "it": "?",
       "jp": "ミラーシールド"
     },
     "stats": { "defense": 45 },
     "price": { "buy": "-", "sell": 6750, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "slug": "_slug"
@@ -102,11 +156,20 @@
       "en": "?",
       "es": "?",
       "fr": "Bouclier du vent",
+      "ge": "?",
+      "it": "?",
       "jp": "ふうじんのたて"
     },
     "stats": { "defense": 50 },
     "price": { "buy": 20000, "sell": 15000, "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "slug": "_slug"
@@ -118,11 +181,20 @@
       "en": "?",
       "es": "?",
       "fr": "Bouclier zénithien",
+      "ge": "?",
+      "it": "?",
       "jp": "てんくうのたて"
     },
     "stats": { "defense": 55 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "slug": "_slug"
@@ -134,11 +206,20 @@
       "en": "?",
       "es": "?",
       "fr": "Bouclier des enfers",
+      "ge": "?",
+      "it": "?",
       "jp": "まかいのたて"
     },
     "stats": { "defense": 55 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "slug": "_slug"
@@ -150,11 +231,20 @@
       "en": "?",
       "es": "?",
       "fr": "Bouclier de mercure",
+      "ge": "?",
+      "it": "?",
       "jp": "はぐれメタルのたて"
     },
     "stats": { "defense": 60 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 52 },
-    "description": { "en": "?", "es": "?", "fr": "?", "jp": "?" },
+    "description": {
+      "en": "?",
+      "es": "?",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "slug": "_slug"
