@@ -21,8 +21,8 @@
     "speed": 5,
     "exp": 1,
     "gold": 2,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [
         "Région de Bastione",
         "Grotte Bastione-Strattbourg",
@@ -56,8 +56,8 @@
     "speed": 2,
     "exp": 3,
     "gold": 6,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [
         "Région de Bastione",
         "Grotte Bastione-Strattbourg",
@@ -97,8 +97,8 @@
     "speed": 7,
     "exp": 3,
     "gold": 7,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [
         "Région de Bastione",
         "Grotte Bastione-Strattbourg",
@@ -132,8 +132,8 @@
     "speed": 3,
     "exp": 1,
     "gold": 4,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [
         "Région de Bastione",
         "Grotte Bastione-Strattbourg",
@@ -167,8 +167,8 @@
     "speed": 8,
     "exp": 6,
     "gold": 8,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": ["Région de Bastione", "Région de Strattbourg"],
       "chapter2": [],
       "chapter3": ["Grotte de Lakanaba", "Région de Chandor"],
@@ -198,8 +198,8 @@
     "speed": 5,
     "exp": 2,
     "gold": 4,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région de Zalenagrad"],
       "chapter3": [
@@ -233,8 +233,8 @@
     "speed": 1,
     "exp": 7,
     "gold": 13,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [
         "Région de Strattbourg",
         "Grotte aire de jeu de Strattbourg"
@@ -271,8 +271,8 @@
     "speed": 12,
     "exp": 7,
     "gold": 11,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [
         "Grotte aire de jeu de Strattbourg",
         "Grande tour de Strattbourg"
@@ -310,8 +310,8 @@
     "speed": 10,
     "exp": 9,
     "gold": 10,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [
         "Grotte aire de jeu de Strattbourg",
         "Grande tour de Strattbourg"
@@ -344,8 +344,8 @@
     "speed": 7,
     "exp": 11,
     "gold": 13,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": ["Grotte aire de jeu de Strattbourg"],
       "chapter2": [],
       "chapter3": ["Région grotte de Chandor"],
@@ -375,8 +375,8 @@
     "speed": 20,
     "exp": 13,
     "gold": 15,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": ["Grande tour de Strattbourg"],
       "chapter2": [],
       "chapter3": ["Région de Chandor"],
@@ -406,8 +406,8 @@
     "speed": 12,
     "exp": 14,
     "gold": 10,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": ["Grande tour de Strattbourg"],
       "chapter2": [],
       "chapter3": ["Région de Ballimore", "Grotte de Chandor"],
@@ -437,8 +437,8 @@
     "speed": 14,
     "exp": 18,
     "gold": 20,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": ["Grande tour de Strattbourg"],
       "chapter2": ["Grotte de Vrenor"],
       "chapter3": [],
@@ -468,8 +468,8 @@
     "speed": 15,
     "exp": 16,
     "gold": 20,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": ["Grande tour de Strattbourg"],
       "chapter2": [],
       "chapter3": [],
@@ -499,8 +499,8 @@
     "speed": 18,
     "exp": 20,
     "gold": 9,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": ["Grande tour de Strattbourg"],
       "chapter2": [],
       "chapter3": ["Grotte de Chandor"],
@@ -533,8 +533,8 @@
     "speed": 20,
     "exp": 27,
     "gold": 40,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": ["Grande tour de Strattbourg"],
       "chapter2": [],
       "chapter3": [],
@@ -564,8 +564,8 @@
     "speed": 8,
     "exp": 1,
     "gold": 2,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région de Zalenagrad", "Région de Vrenor"],
       "chapter3": [],
@@ -595,8 +595,8 @@
     "speed": 3,
     "exp": 2,
     "gold": 5,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région de Zalenagrad"],
       "chapter3": [],
@@ -626,8 +626,8 @@
     "speed": 5,
     "exp": 4,
     "gold": 10,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région de Zalenagrad", "Région de Vrenor"],
       "chapter3": ["Région de Chandor"],
@@ -657,8 +657,8 @@
     "speed": 9,
     "exp": 3,
     "gold": 5,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région de Zalenagrad", "Région de Taborov"],
       "chapter3": [],
@@ -688,8 +688,8 @@
     "speed": 7,
     "exp": 7,
     "gold": 20,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [
         "Région de Zalenagrad",
@@ -723,8 +723,8 @@
     "speed": 8,
     "exp": 5,
     "gold": 18,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région de Zalenagrad"],
       "chapter3": [],
@@ -754,8 +754,8 @@
     "speed": 10,
     "exp": 6,
     "gold": 15,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région de Vrenor", "Grotte de Vrenor"],
       "chapter3": [],
@@ -785,8 +785,8 @@
     "speed": 10,
     "exp": 7,
     "gold": 17,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [
         "Région de Vrenor",
@@ -820,8 +820,8 @@
     "speed": 4,
     "exp": 7,
     "gold": 18,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région de Vrenor", "Région de Chandor"],
       "chapter3": ["Région de Chandor"],
@@ -851,8 +851,8 @@
     "speed": 8,
     "exp": 6,
     "gold": 18,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région de Vrenor", "Grotte de Vrenor", "Région de Chandor"],
       "chapter3": ["Région de Chandor"],
@@ -882,8 +882,8 @@
     "speed": 15,
     "exp": 15,
     "gold": 25,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Grotte de Vrenor"],
       "chapter3": [],
@@ -913,8 +913,8 @@
     "speed": 24,
     "exp": 22,
     "gold": 27,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région du bazar du désert"],
       "chapter3": ["Grotte de Chandor"],
@@ -944,8 +944,8 @@
     "speed": 10,
     "exp": 12,
     "gold": 15,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région de la grotte de Vrenor", "Grotte de Vrenor"],
       "chapter3": [],
@@ -975,8 +975,8 @@
     "speed": 25,
     "exp": 25,
     "gold": 39,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [
         "Région de la grotte de Vrenor",
@@ -1009,8 +1009,8 @@
     "speed": 21,
     "exp": 18,
     "gold": 36,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [
         "Grotte de Vrenor",
@@ -1044,8 +1044,8 @@
     "speed": 18,
     "exp": 18,
     "gold": 25,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Grotte de Vrenor"],
       "chapter3": [],
@@ -1079,8 +1079,8 @@
     "speed": 9,
     "exp": 38,
     "gold": 44,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région du bazar du désert", "Région de Chandor"],
       "chapter3": [],
@@ -1110,8 +1110,8 @@
     "speed": 14,
     "exp": 11,
     "gold": 23,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Grotte de Vrenor"],
       "chapter3": ["Région de Chandor"],
@@ -1141,8 +1141,8 @@
     "speed": 40,
     "exp": 32,
     "gold": 34,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Tour elfique", "Région de Chandor"],
       "chapter3": [],
@@ -1175,8 +1175,8 @@
     "speed": 15,
     "exp": 18,
     "gold": 21,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Tour elfique"],
       "chapter3": ["Grotte de Chandor"],
@@ -1206,8 +1206,8 @@
     "speed": 17,
     "exp": 35,
     "gold": 47,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Tour elfique"],
       "chapter3": ["Grotte de Chandor"],
@@ -1237,8 +1237,8 @@
     "speed": 17,
     "exp": 30,
     "gold": 46,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Tour elfique"],
       "chapter3": [],
@@ -1268,8 +1268,8 @@
     "speed": 19,
     "exp": 36,
     "gold": 50,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Tour elfique", "Région de Chandor"],
       "chapter3": [],
@@ -1304,8 +1304,8 @@
     "speed": 25,
     "exp": 38,
     "gold": 60,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Tour elfique"],
       "chapter3": [],
@@ -1335,8 +1335,8 @@
     "speed": 21,
     "exp": 31,
     "gold": 62,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Tour elfique"],
       "chapter3": [],
@@ -1366,8 +1366,8 @@
     "speed": 27,
     "exp": 53,
     "gold": 54,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région de Chandor"],
       "chapter3": [],
@@ -1401,8 +1401,8 @@
     "speed": 25,
     "exp": 55,
     "gold": 49,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région de Chandor"],
       "chapter3": [],
@@ -1436,8 +1436,8 @@
     "speed": 50,
     "exp": 1350,
     "gold": 5,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Région de Chandor"],
       "chapter3": ["Grotte de Chandor"],
@@ -1471,8 +1471,8 @@
     "speed": 10,
     "exp": 14,
     "gold": 18,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": ["Grotte de Chandor"],
@@ -1502,8 +1502,8 @@
     "speed": 5,
     "exp": 3,
     "gold": 8,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": ["Région de Chandor"],
@@ -1533,8 +1533,8 @@
     "speed": 7,
     "exp": 7,
     "gold": 11,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -1564,8 +1564,8 @@
     "speed": 5,
     "exp": 12,
     "gold": 17,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -1595,8 +1595,8 @@
     "speed": 12,
     "exp": 15,
     "gold": 28,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -1631,8 +1631,8 @@
     "speed": 17,
     "exp": 18,
     "gold": 30,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -1667,8 +1667,8 @@
     "speed": 10,
     "exp": 16,
     "gold": 21,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -1698,8 +1698,8 @@
     "speed": 15,
     "exp": 3,
     "gold": 1,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -1729,8 +1729,8 @@
     "speed": 17,
     "exp": 100,
     "gold": 150,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -1760,8 +1760,8 @@
     "speed": 30,
     "exp": 43,
     "gold": 18,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -1791,8 +1791,8 @@
     "speed": 15,
     "exp": 28,
     "gold": 61,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -1830,8 +1830,8 @@
     "speed": 18,
     "exp": 25,
     "gold": 30,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -1861,8 +1861,8 @@
     "speed": 20,
     "exp": 30,
     "gold": 50,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -1897,8 +1897,8 @@
     "speed": 16,
     "exp": 27,
     "gold": 52,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -1932,8 +1932,8 @@
     "speed": 16,
     "exp": 25,
     "gold": 18,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -1967,8 +1967,8 @@
     "speed": 1,
     "exp": 20,
     "gold": 28,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -1998,8 +1998,8 @@
     "speed": 28,
     "exp": 36,
     "gold": 24,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2034,8 +2034,8 @@
     "speed": 25,
     "exp": 59,
     "gold": 38,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2069,8 +2069,8 @@
     "speed": 26,
     "exp": 50,
     "gold": 51,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2108,8 +2108,8 @@
     "speed": 27,
     "exp": 59,
     "gold": 58,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2143,8 +2143,8 @@
     "speed": 15,
     "exp": 40,
     "gold": 34,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2174,8 +2174,8 @@
     "speed": 10,
     "exp": 18,
     "gold": 16,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": ["Région de Ballimore"],
@@ -2205,8 +2205,8 @@
     "speed": 15,
     "exp": 26,
     "gold": 17,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2236,8 +2236,8 @@
     "speed": 21,
     "exp": 47,
     "gold": 16,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2271,8 +2271,8 @@
     "speed": 25,
     "exp": 70,
     "gold": 68,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2302,8 +2302,8 @@
     "speed": 36,
     "exp": 110,
     "gold": 52,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2338,8 +2338,8 @@
     "speed": 20,
     "exp": 45,
     "gold": 30,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2374,8 +2374,8 @@
     "speed": 26,
     "exp": 49,
     "gold": 39,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2405,8 +2405,8 @@
     "speed": 23,
     "exp": 80,
     "gold": 75,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2436,8 +2436,8 @@
     "speed": 30,
     "exp": 70,
     "gold": 31,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2467,8 +2467,8 @@
     "speed": 24,
     "exp": 77,
     "gold": 76,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2502,8 +2502,8 @@
     "speed": 25,
     "exp": 85,
     "gold": 38,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2533,8 +2533,8 @@
     "speed": 40,
     "exp": 106,
     "gold": 47,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2570,8 +2570,8 @@
     "speed": 30,
     "exp": 37,
     "gold": 300,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2601,8 +2601,8 @@
     "speed": 33,
     "exp": 89,
     "gold": 49,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2632,8 +2632,8 @@
     "speed": 34,
     "exp": 96,
     "gold": 50,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2663,8 +2663,8 @@
     "speed": 55,
     "exp": 200,
     "gold": 54,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2694,8 +2694,8 @@
     "speed": 5,
     "exp": 80,
     "gold": 10,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2729,8 +2729,8 @@
     "speed": 28,
     "exp": 68,
     "gold": 43,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2760,8 +2760,8 @@
     "speed": 38,
     "exp": 125,
     "gold": 81,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2791,8 +2791,8 @@
     "speed": 36,
     "exp": 115,
     "gold": 62,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2826,8 +2826,8 @@
     "speed": 22,
     "exp": 126,
     "gold": 39,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2857,8 +2857,8 @@
     "speed": 54,
     "exp": 193,
     "gold": 43,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2895,8 +2895,8 @@
     "speed": 37,
     "exp": 104,
     "gold": 33,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2931,8 +2931,8 @@
     "speed": 30,
     "exp": 120,
     "gold": 58,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2962,8 +2962,8 @@
     "speed": 0,
     "exp": 150,
     "gold": 40,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -2993,8 +2993,8 @@
     "speed": 40,
     "exp": 116,
     "gold": 45,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3028,8 +3028,8 @@
     "speed": 57,
     "exp": 132,
     "gold": 70,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3059,8 +3059,8 @@
     "speed": 40,
     "exp": 216,
     "gold": 82,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3094,8 +3094,8 @@
     "speed": 39,
     "exp": 121,
     "gold": 72,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3129,8 +3129,8 @@
     "speed": 61,
     "exp": 108,
     "gold": 40,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3160,8 +3160,8 @@
     "speed": 40,
     "exp": 120,
     "gold": 54,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3191,8 +3191,8 @@
     "speed": 150,
     "exp": 10050,
     "gold": 10,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3222,8 +3222,8 @@
     "speed": 30,
     "exp": 144,
     "gold": 76,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3257,8 +3257,8 @@
     "speed": 41,
     "exp": 180,
     "gold": 100,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3292,8 +3292,8 @@
     "speed": 30,
     "exp": 135,
     "gold": 57,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3327,8 +3327,8 @@
     "speed": 53,
     "exp": 315,
     "gold": 50,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3364,8 +3364,8 @@
     "speed": 50,
     "exp": 290,
     "gold": 102,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3399,8 +3399,8 @@
     "speed": 74,
     "exp": 270,
     "gold": 81,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3430,8 +3430,8 @@
     "speed": 70,
     "exp": 351,
     "gold": 108,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3466,8 +3466,8 @@
     "speed": 35,
     "exp": 261,
     "gold": 151,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3501,8 +3501,8 @@
     "speed": 50,
     "exp": 234,
     "gold": 91,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3536,8 +3536,8 @@
     "speed": 67,
     "exp": 225,
     "gold": 186,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3567,8 +3567,8 @@
     "speed": 49,
     "exp": 180,
     "gold": 80,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3602,8 +3602,8 @@
     "speed": 43,
     "exp": 187,
     "gold": 74,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3633,8 +3633,8 @@
     "speed": 57,
     "exp": 211,
     "gold": 88,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3664,8 +3664,8 @@
     "speed": 47,
     "exp": 162,
     "gold": 55,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3695,8 +3695,8 @@
     "speed": 35,
     "exp": 245,
     "gold": 68,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3731,8 +3731,8 @@
     "speed": 38,
     "exp": 172,
     "gold": 84,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3762,8 +3762,8 @@
     "speed": 45,
     "exp": 224,
     "gold": 119,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3793,8 +3793,8 @@
     "speed": 47,
     "exp": 286,
     "gold": 100,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3824,8 +3824,8 @@
     "speed": 82,
     "exp": 393,
     "gold": 116,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3855,8 +3855,8 @@
     "speed": 59,
     "exp": 261,
     "gold": 99,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3886,8 +3886,8 @@
     "speed": 78,
     "exp": 387,
     "gold": 122,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3917,8 +3917,8 @@
     "speed": 30,
     "exp": 384,
     "gold": 300,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3948,8 +3948,8 @@
     "speed": 70,
     "exp": 655,
     "gold": 150,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -3979,8 +3979,8 @@
     "speed": 58,
     "exp": 477,
     "gold": 146,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4010,8 +4010,8 @@
     "speed": 61,
     "exp": 585,
     "gold": 73,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4041,8 +4041,8 @@
     "speed": 47,
     "exp": 391,
     "gold": 65,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4072,8 +4072,8 @@
     "speed": 57,
     "exp": 447,
     "gold": 92,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4103,8 +4103,8 @@
     "speed": 60,
     "exp": 495,
     "gold": 144,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4134,8 +4134,8 @@
     "speed": 165,
     "exp": 30010,
     "gold": 20,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4165,8 +4165,8 @@
     "speed": 55,
     "exp": 405,
     "gold": 132,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4196,8 +4196,8 @@
     "speed": 79,
     "exp": 403,
     "gold": 128,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4227,8 +4227,8 @@
     "speed": 65,
     "exp": 543,
     "gold": 139,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4258,8 +4258,8 @@
     "speed": 66,
     "exp": 448,
     "gold": 63,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4295,8 +4295,8 @@
     "speed": 75,
     "exp": 485,
     "gold": 52,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4326,8 +4326,8 @@
     "speed": 70,
     "exp": 573,
     "gold": 172,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4362,8 +4362,8 @@
     "speed": 60,
     "exp": 563,
     "gold": 95,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4393,8 +4393,8 @@
     "speed": 110,
     "exp": 615,
     "gold": 390,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4424,8 +4424,8 @@
     "speed": 88,
     "exp": 670,
     "gold": 205,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4455,8 +4455,8 @@
     "speed": 61,
     "exp": 515,
     "gold": 205,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4486,8 +4486,8 @@
     "speed": 68,
     "exp": 570,
     "gold": 123,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4517,8 +4517,8 @@
     "speed": 120,
     "exp": 582,
     "gold": 316,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4553,8 +4553,8 @@
     "speed": 120,
     "exp": 693,
     "gold": 15,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4584,8 +4584,8 @@
     "speed": 55,
     "exp": 1094,
     "gold": 53,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4615,8 +4615,8 @@
     "speed": 78,
     "exp": 603,
     "gold": 215,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4646,8 +4646,8 @@
     "speed": 37,
     "exp": 589,
     "gold": 99,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4677,8 +4677,8 @@
     "speed": 54,
     "exp": 480,
     "gold": 81,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4708,8 +4708,8 @@
     "speed": 220,
     "exp": 1232,
     "gold": 112,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4744,8 +4744,8 @@
     "speed": 70,
     "exp": 684,
     "gold": 226,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4775,8 +4775,8 @@
     "speed": 75,
     "exp": 740,
     "gold": 169,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4806,8 +4806,8 @@
     "speed": 67,
     "exp": 786,
     "gold": 254,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4837,8 +4837,8 @@
     "speed": 80,
     "exp": 586,
     "gold": 247,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4868,8 +4868,8 @@
     "speed": 71,
     "exp": 1678,
     "gold": 20,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4899,8 +4899,8 @@
     "speed": 22,
     "exp": 1023,
     "gold": 137,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4930,8 +4930,8 @@
     "speed": 78,
     "exp": 450,
     "gold": 92,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4961,8 +4961,8 @@
     "speed": 70,
     "exp": 563,
     "gold": 72,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -4992,8 +4992,8 @@
     "speed": 112,
     "exp": 347,
     "gold": 50,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5023,8 +5023,8 @@
     "speed": 91,
     "exp": 480,
     "gold": 95,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5054,8 +5054,8 @@
     "speed": 102,
     "exp": 543,
     "gold": 102,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5085,8 +5085,8 @@
     "speed": 105,
     "exp": 680,
     "gold": 142,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5116,8 +5116,8 @@
     "speed": 123,
     "exp": 435,
     "gold": 95,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5147,8 +5147,8 @@
     "speed": 83,
     "exp": 685,
     "gold": 121,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5178,8 +5178,8 @@
     "speed": 125,
     "exp": 712,
     "gold": 160,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5209,8 +5209,8 @@
     "speed": 95,
     "exp": 885,
     "gold": 155,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5240,8 +5240,8 @@
     "speed": 115,
     "exp": 750,
     "gold": 200,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5271,8 +5271,8 @@
     "speed": 82,
     "exp": 935,
     "gold": 130,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5302,8 +5302,8 @@
     "speed": 102,
     "exp": 525,
     "gold": 142,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5333,8 +5333,8 @@
     "speed": 88,
     "exp": 710,
     "gold": 117,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5364,8 +5364,8 @@
     "speed": 62,
     "exp": 356,
     "gold": 83,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5395,8 +5395,8 @@
     "speed": 106,
     "exp": 415,
     "gold": 77,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5426,8 +5426,8 @@
     "speed": 88,
     "exp": 740,
     "gold": 110,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5457,8 +5457,8 @@
     "speed": 90,
     "exp": 640,
     "gold": 150,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5488,8 +5488,8 @@
     "speed": 255,
     "exp": 65000,
     "gold": 700,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5519,8 +5519,8 @@
     "speed": 62,
     "exp": 150,
     "gold": 25,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5550,8 +5550,8 @@
     "speed": 70,
     "exp": 350,
     "gold": 48,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5587,8 +5587,8 @@
     "speed": 131,
     "exp": 1250,
     "gold": 280,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5618,8 +5618,8 @@
     "speed": 65,
     "exp": 350,
     "gold": 100,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5649,8 +5649,8 @@
     "speed": 61,
     "exp": 574,
     "gold": 67,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5680,8 +5680,8 @@
     "speed": 20,
     "exp": 35,
     "gold": 12,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5711,8 +5711,8 @@
     "speed": 41,
     "exp": 94,
     "gold": 29,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5742,8 +5742,8 @@
     "speed": 50,
     "exp": 80,
     "gold": 43,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5773,8 +5773,8 @@
     "speed": 25,
     "exp": 113,
     "gold": 60,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5804,8 +5804,8 @@
     "speed": 23,
     "exp": 70,
     "gold": 24,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5835,8 +5835,8 @@
     "speed": 10,
     "exp": 75,
     "gold": 33,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5866,8 +5866,8 @@
     "speed": 40,
     "exp": 95,
     "gold": 25,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5897,8 +5897,8 @@
     "speed": 29,
     "exp": 120,
     "gold": 72,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5928,8 +5928,8 @@
     "speed": 51,
     "exp": 155,
     "gold": 72,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5959,8 +5959,8 @@
     "speed": 30,
     "exp": 140,
     "gold": 80,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -5990,8 +5990,8 @@
     "speed": 26,
     "exp": 65,
     "gold": 38,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6021,8 +6021,8 @@
     "speed": 38,
     "exp": 170,
     "gold": 124,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6052,8 +6052,8 @@
     "speed": 39,
     "exp": 103,
     "gold": 48,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6083,8 +6083,8 @@
     "speed": 60,
     "exp": 187,
     "gold": 70,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6114,8 +6114,8 @@
     "speed": 42,
     "exp": 180,
     "gold": 84,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6145,8 +6145,8 @@
     "speed": 47,
     "exp": 165,
     "gold": 69,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6176,8 +6176,8 @@
     "speed": 25,
     "exp": 48,
     "gold": 30,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6207,8 +6207,8 @@
     "speed": 30,
     "exp": 208,
     "gold": 98,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6238,8 +6238,8 @@
     "speed": 62,
     "exp": 221,
     "gold": 100,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6269,8 +6269,8 @@
     "speed": 25,
     "exp": 98,
     "gold": 55,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6300,8 +6300,8 @@
     "speed": 16,
     "exp": 73,
     "gold": 60,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": ["Tour de Strattbourg"],
       "chapter2": [],
       "chapter3": [],
@@ -6331,8 +6331,8 @@
     "speed": 50,
     "exp": 136,
     "gold": 60,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Taborov"],
       "chapter3": [],
@@ -6362,8 +6362,8 @@
     "speed": 75,
     "exp": 0,
     "gold": 0,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": ["Colisée de Chandor"],
       "chapter3": [],
@@ -6393,8 +6393,8 @@
     "speed": 22,
     "exp": 500,
     "gold": 0,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6424,8 +6424,8 @@
     "speed": 3,
     "exp": 450,
     "gold": 20,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6455,8 +6455,8 @@
     "speed": 20,
     "exp": 2000,
     "gold": 350,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6486,8 +6486,8 @@
     "speed": 18,
     "exp": 5100,
     "gold": 0,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6517,8 +6517,8 @@
     "speed": 28,
     "exp": 6500,
     "gold": 0,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6548,8 +6548,8 @@
     "speed": 77,
     "exp": 6800,
     "gold": 0,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6579,8 +6579,8 @@
     "speed": 60,
     "exp": 1020,
     "gold": 300,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6610,8 +6610,8 @@
     "speed": 5,
     "exp": 4100,
     "gold": 250,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6641,8 +6641,8 @@
     "speed": 72,
     "exp": 5500,
     "gold": 0,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6672,8 +6672,8 @@
     "speed": 99,
     "exp": 6300,
     "gold": 0,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6703,8 +6703,8 @@
     "speed": 63,
     "exp": 15000,
     "gold": 0,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6734,8 +6734,8 @@
     "speed": 95,
     "exp": 12000,
     "gold": 850,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6765,8 +6765,8 @@
     "speed": 95,
     "exp": 12000,
     "gold": 850,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6852,8 +6852,8 @@
     },
     "exp": 0,
     "gold": 0,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
@@ -6918,8 +6918,8 @@
     },
     "exp": 0,
     "gold": 0,
-    "items": [],
-    "found_at": {
+    "item": "?",
+    "location": {
       "chapter1": [],
       "chapter2": [],
       "chapter3": [],
