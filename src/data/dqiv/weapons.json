@@ -1,11 +1,12 @@
 [
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Bâton de cyprès",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "ひのきのぼう"
     },
     "sprite": "weapons_sprites/?.png",
@@ -19,15 +20,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
       "es": "Garrote de roble",
       "fr": "Massue de chêne",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "こんぼう"
     },
     "sprite": "weapons_sprites/?.png",
@@ -41,15 +44,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
       "es": "Espada de cobre",
       "fr": "Épée de cuivre",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "どうのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -63,15 +68,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
       "es": "Espada de acero",
       "fr": "Épée large d'acier",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "はがねのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -85,15 +92,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
       "es": "Cauterizadora",
       "fr": "Épée ardente",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "はじゃのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -107,15 +116,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Épée du rêve",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "まどろみのけん"
     },
     "sprite": "weapons_sprites/?.png",
@@ -129,15 +140,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Lame du Faucon",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "はやぶさのけん"
     },
     "sprite": "weapons_sprites/?.png",
@@ -151,15 +164,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Dague de glace",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "こおりのやいば"
     },
     "sprite": "weapons_sprites/?.png",
@@ -173,15 +188,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Fléau des dragons",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "ドラゴンキラー"
     },
     "sprite": "weapons_sprites/?.png",
@@ -195,15 +212,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Épée double",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "もろはのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -217,15 +236,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Épée miraculeuse",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "きせきのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -239,15 +260,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Épée zénithienne",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "てんくうのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -261,15 +284,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Épée zénithienne",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "てんくうのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -283,15 +308,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Épée du massacre",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "みなごろしのけん"
     },
     "sprite": "weapons_sprites/?.png",
@@ -305,15 +332,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Épée de mercure",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "はぐれメタルのけん"
     },
     "sprite": "weapons_sprites/?.png",
@@ -327,15 +356,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Épée des enfers",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "まかいのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -349,15 +380,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Bâton du salut",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "しゅくふくのつえ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -371,15 +404,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Bâton de foudre",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "いかづちのつえ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -393,15 +428,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Bâton de Thalie",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "ほほえみのつえ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -415,15 +452,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Bâton du courroux",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "てんばつのつえ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -437,15 +476,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Bâton d'antimagie",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "まふうじのつえ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -459,15 +500,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Bâton sommatique",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "りりょくのつえ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -481,15 +524,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Bâton de lave",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "マグマのつえ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -503,15 +548,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Aiguille empoisonnée",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "どくばり"
     },
     "sprite": "weapons_sprites/?.png",
@@ -525,15 +572,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Dagues d'oreille",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "キラーピアス"
     },
     "sprite": "weapons_sprites/?.png",
@@ -547,15 +596,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
       "es": "Daga divina",
       "fr": "Dague divine",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "せいなるナイフ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -569,15 +620,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
       "es": "Puñal envenenado",
       "fr": "Poignard empoisonné",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "どくがのナイフ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -591,15 +644,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
       "es": "Lanza de hierro",
       "fr": "Lance de fer",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "てつのやり"
     },
     "sprite": "weapons_sprites/?.png",
@@ -613,15 +668,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
       "es": "Lanza sagrada",
       "fr": "Lance sacrée",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "ホーリーランス"
     },
     "sprite": "weapons_sprites/?.png",
@@ -635,15 +692,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Lance du démon",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "デーモンスピア"
     },
     "sprite": "weapons_sprites/?.png",
@@ -657,20 +716,22 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Griffe de fer",
       "jp": "てつのツメ"
     },
     "stats": { "attack": 38 },
     "price": { "buy": 1500, "sell": 1125, "token": "-", "minimedal": "-" },
     "description": {
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
       "sprite": "weapons_sprites/?.png",
@@ -679,15 +740,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Griffe de feu",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "ほのおのツメ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -701,15 +764,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Griffe de cobra",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "あくまのツメ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -723,15 +788,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
       "es": "Ballesta de caza",
       "fr": "Arc de chasseur",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "クロスボウ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -745,15 +812,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
       "es": "Martillo con cadena",
       "fr": "Faucille à chaîne",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "くさりがま"
     },
     "sprite": "weapons_sprites/?.png",
@@ -767,15 +836,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Cartes argentées",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "ぎんのタロット"
     },
     "sprite": "weapons_sprites/?.png",
@@ -789,15 +860,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
       "es": "Abanico de hierro",
       "fr": "Éventail de fer",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "てつのおうぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -811,15 +884,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
       "es": "Ábaco de Astrae",
       "fr": "Boulier d'astrae",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "せいぎのそろばん"
     },
     "sprite": "weapons_sprites/?.png",
@@ -833,15 +908,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Hache de guerre",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "バトルアックス"
     },
     "sprite": "weapons_sprites/?.png",
@@ -855,15 +932,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Marteau de Hela",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "まじんのかなづち"
     },
     "sprite": "weapons_sprites/?.png",
@@ -877,15 +956,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Fouet de Gringham",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "グリンガムのムチ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -899,15 +980,17 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   },
   {
+    "id": "?",
     "name": {
       "en": "?",
-      "es": "??",
+      "es": "?",
       "fr": "Fléau du carnage",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "はかいのてっきゅう"
     },
     "sprite": "weapons_sprites/?.png",
@@ -921,6 +1004,7 @@
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
-    }
+    },
+    "slug": "_slug"
   }
 ]

@@ -5,9 +5,9 @@
       "en": "Northern continent",
       "es": "Continente norte",
       "fr": "Continent nord",
-      "ge": "????",
-      "it": "?????",
-      "jp": "??????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "location": "north",
     "slug": "northern_continent"
@@ -18,9 +18,9 @@
       "en": "Eastern continent",
       "es": "Continente oriental",
       "fr": "Continent est",
-      "ge": "????",
-      "it": "?????",
-      "jp": "??????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "location": "east",
     "slug": "eastern_continent"
@@ -31,9 +31,9 @@
       "en": "Siroc",
       "es": "Siroco",
       "fr": "Sirocco",
-      "ge": "????",
-      "it": "?????",
-      "jp": "??????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "location": "south-east",
     "slug": "siroc"
@@ -44,9 +44,9 @@
       "en": "Ostro",
       "es": "Ostro",
       "fr": "Ostro",
-      "ge": "????",
-      "it": "?????",
-      "jp": "??????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "location": "south",
     "slug": "ostro"
@@ -57,9 +57,9 @@
       "en": "Libeccio",
       "es": "Leveche",
       "fr": "Libeccio",
-      "ge": "????",
-      "it": "?????",
-      "jp": "??????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "location": "south-west",
     "slug": "libeccio"
@@ -70,9 +70,9 @@
       "en": "Western continent",
       "es": "Continente occidental",
       "fr": "Continent ouest",
-      "ge": "????",
-      "it": "?????",
-      "jp": "??????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "location": "west",
     "slug": "western_continent"
@@ -83,9 +83,9 @@
       "en": "Maestral",
       "es": "Mistral",
       "fr": "Mistral",
-      "ge": "????",
-      "it": "?????",
-      "jp": "??????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "location": "north-west",
     "slug": "maestral"
@@ -96,8 +96,8 @@
       "en": "Central Island",
       "es": "Isla Central",
       "fr": "Île Centrale",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "ゴットサイド"
     },
     "location": "center",
@@ -109,8 +109,8 @@
       "en": "Nadiria",
       "es": "Nadiria",
       "fr": "Nadiria",
-      "ge": "????",
-      "it": "?????",
+      "ge": "?",
+      "it": "?",
       "jp": "闇の世界"
     },
     "location": "otherworld",

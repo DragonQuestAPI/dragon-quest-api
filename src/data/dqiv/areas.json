@@ -5,8 +5,8 @@
       "en": "World",
       "es": "Mundo",
       "fr": "Monde",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "ロトゼタシア"
     },
     "shops": [],
@@ -21,8 +21,8 @@
       "en": "The Azimut",
       "es": "El Azimut",
       "fr": "L'Azimut",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "ゴットサイド"
     },
     "shops": [],
@@ -37,8 +37,8 @@
       "en": "Nadiria",
       "es": "Nadiria",
       "fr": "Nadiria",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "闇の世界"
     },
     "shops": [],
@@ -54,8 +54,8 @@
       "en": "Burland",
       "es": "Burlandia",
       "fr": "Bastione",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "バトランド"
     },
     "shops": [],
@@ -70,8 +70,8 @@
       "en": "Strathbaile Burrow",
       "es": "Madriguera de Candonga",
       "fr": "Grotte de Strattbourg",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "イムル"
     },
     "shops": [],
@@ -86,8 +86,8 @@
       "en": "Strathbaile",
       "es": "Candonga",
       "fr": "Strattbourg",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "イムル"
     },
     "shops": [],
@@ -102,8 +102,8 @@
       "en": "Auld well",
       "es": "Pozo del bosque",
       "fr": "Aire de jeu",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "古井戸の底"
     },
     "shops": [],
@@ -118,8 +118,8 @@
       "en": "Loch Tur",
       "es": "Torre de Candonga",
       "fr": "Tour de Strattbourg",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "湖の塔"
     },
     "shops": [],
@@ -135,8 +135,8 @@
       "en": "Zamoksva",
       "es": "Zamoksva",
       "fr": "Zamoksva",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "サントハイム"
     },
     "shops": [],
@@ -151,8 +151,8 @@
       "en": "Zalenagrad",
       "es": "Zalenagrado",
       "fr": "Zalenagrad",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "サラン"
     },
     "shops": [],
@@ -167,8 +167,8 @@
       "en": "Taborov",
       "es": "Taborov",
       "fr": "Taborov",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "サラン"
     },
     "shops": [],
@@ -183,8 +183,8 @@
       "en": "Vrenor",
       "es": "Vrenor",
       "fr": "Vrenor",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "フレノール"
     },
     "shops": [],
@@ -199,8 +199,8 @@
       "en": "Vault of Vrenor",
       "es": "Bóveda de Vrenor",
       "fr": "Grotte de Vrenor",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "フレノール南の洞窟"
     },
     "shops": [],
@@ -215,8 +215,8 @@
       "en": "Desert Bazaar",
       "es": "Bazar del desierto",
       "fr": "Bazar du désert",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "砂漠のバザー"
     },
     "shops": [],
@@ -231,8 +231,8 @@
       "en": "Birdsong Tower",
       "es": "Torre del Piar",
       "fr": "Tour du Rossignol",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "さえずりの塔"
     },
     "shops": [],
@@ -247,8 +247,8 @@
       "en": "Zamoksva/Endor Teleportal",
       "es": "Portal a Zamoksva/Endor",
       "fr": "Téléportail Zamoksva/Chandor",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": ""
     },
     "shops": [],
@@ -263,8 +263,8 @@
       "en": "Endor",
       "es": "Endor",
       "fr": "Chandor",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "エンドール"
     },
     "shops": [],
@@ -280,8 +280,8 @@
       "en": "?",
       "es": "?",
       "fr": "Lakanaba",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "レイクナバ"
     },
     "shops": [],
@@ -296,8 +296,8 @@
       "en": "Cave of Safekeeping",
       "es": "?",
       "fr": "?",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "レイクナバ北の洞窟"
     },
     "shops": [],
@@ -312,8 +312,8 @@
       "en": "Shinnock",
       "es": "Alameda",
       "fr": "Reginhart",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "キツネヶ原"
     },
     "shops": [],
@@ -328,9 +328,9 @@
       "en": "?",
       "es": "?",
       "fr": "Ballimore",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": "img/maps/?.png",
@@ -344,9 +344,9 @@
       "en": "The Cistern Chapel",
       "es": "?",
       "fr": "Caverne de la statuette d'argent",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": null,
@@ -360,9 +360,9 @@
       "en": "Trans-Montane Tunnel",
       "es": "?",
       "fr": "?",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": null,
@@ -377,9 +377,9 @@
       "en": "?",
       "es": "?",
       "fr": "Teafortwo",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": "img/maps/?.png",
@@ -393,9 +393,9 @@
       "en": "?",
       "es": "?",
       "fr": "Deadend",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": "img/maps/?.png",
@@ -409,9 +409,9 @@
       "en": "Cave West of Aubout du Monde",
       "es": "?",
       "fr": "Caverne à l'ouest de Deadend",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": null,
@@ -425,9 +425,9 @@
       "en": "Palais de Léon",
       "es": "?",
       "fr": "Palais de Lord Lionel",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": "img/maps/palais_de_leon.png",
@@ -441,9 +441,9 @@
       "en": "Havre Léon",
       "es": "?",
       "fr": "Port Lionel",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": "img/maps/havre_leon.png",
@@ -457,9 +457,9 @@
       "en": "House of Prophecy",
       "es": "?",
       "fr": "La Prophétisserie",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": null,
@@ -473,9 +473,9 @@
       "en": "Mamon",
       "es": "?",
       "fr": "Alpion",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": "img/maps/mamon.png",
@@ -489,9 +489,9 @@
       "en": "Mamon mine",
       "es": "?",
       "fr": "Mine d'Alpion",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": null,
@@ -505,10 +505,10 @@
     "name": {
       "en": "Hidden Valley",
       "es": "?",
-      "fr": "??",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": null,
@@ -521,10 +521,10 @@
     "name": {
       "en": "Woodcutter's cabin",
       "es": "?",
-      "fr": "??",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": null,
@@ -538,9 +538,9 @@
       "en": "Casabranca",
       "es": "?",
       "fr": "Casabranca",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": "img/maps/casabranca.png",
@@ -553,9 +553,9 @@
     "name": {
       "en": "Last Chance Saloon",
       "es": "?",
-      "fr": "??",
-      "ge": "???",
-      "it": "????",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
       "jp": "砂漠の宿屋"
     },
     "shops": [],
@@ -569,9 +569,9 @@
     "name": {
       "en": "Con Cave",
       "es": "?",
-      "fr": "??",
-      "ge": "???",
-      "it": "????",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
       "jp": "裏切りの洞窟"
     },
     "shops": [],
@@ -620,7 +620,7 @@
       "fr": "Balise de Pharos",
       "ge": "Turm von Pharos",
       "it": "Faro di Pharos",
-      "jp": "?????"
+      "jp": "?"
     },
     "shops": [],
     "map": null,
@@ -650,9 +650,9 @@
       "en": "Mintos Shrine",
       "es": "?",
       "fr": "Sanctuaire de Ringys",
-      "ge": "???",
-      "it": "????",
-      "jp": "?????"
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": null,
@@ -666,8 +666,8 @@
       "en": "Parthenia",
       "es": "?",
       "fr": "Pathénia",
-      "ge": "???",
-      "it": "????",
+      "ge": "?",
+      "it": "?",
       "jp": "ソレッタ"
     },
     "shops": [],
@@ -681,9 +681,9 @@
     "name": {
       "en": "Imperial Pantry of Parthenia",
       "es": "?",
-      "fr": "??",
-      "ge": "???",
-      "it": "????",
+      "fr": "?",
+      "ge": "?",
+      "it": "?",
       "jp": "パデキアの洞窟"
     },
     "shops": [],

@@ -1,7 +1,6 @@
 [
   {
     "id": 1,
-    "sprite": "shields_sprites/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -10,6 +9,8 @@
       "it": "?",
       "jp": "かわのたて"
     },
+    "sprite": "shields_sprites/?.png",
+    "artwork": "shields_artworks/?.png",
     "stats": { "defense": 4 },
     "price": { "buy": 90, "sell": 67, "token": "-", "minimedal": "-" },
     "description": {
@@ -26,7 +27,6 @@
   },
   {
     "id": 2,
-    "sprite": "shields_sprites/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -35,6 +35,8 @@
       "it": "?",
       "jp": "うろこのたて"
     },
+    "sprite": "shields_sprites/?.png",
+    "artwork": "shields_artworks/?.png",
     "stats": { "defense": 7 },
     "price": { "buy": 180, "sell": 135, "token": "-", "minimedal": "-" },
     "description": {
@@ -51,7 +53,6 @@
   },
   {
     "id": 3,
-    "sprite": "shields_sprites/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -60,6 +61,8 @@
       "it": "?",
       "jp": "てつのたて"
     },
+    "sprite": "shields_sprites/?.png",
+    "artwork": "shields_artworks/?.png",
     "stats": { "defense": 12 },
     "price": { "buy": 650, "sell": 487, "token": "-", "minimedal": "-" },
     "description": {
@@ -76,7 +79,6 @@
   },
   {
     "id": 4,
-    "sprite": "shields_sprites/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -85,6 +87,8 @@
       "it": "?",
       "jp": "ドラゴンシールド"
     },
+    "sprite": "shields_sprites/?.png",
+    "artwork": "shields_artworks/?.png",
     "stats": { "defense": 30 },
     "price": { "buy": 7100, "sell": 5325, "token": "-", "minimedal": "-" },
     "description": {
@@ -101,7 +105,6 @@
   },
   {
     "id": 5,
-    "sprite": "shields_sprites/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -110,6 +113,8 @@
       "it": "?",
       "jp": "ちからのたて"
     },
+    "sprite": "shields_sprites/?.png",
+    "artwork": "shields_artworks/?.png",
     "stats": { "defense": 40 },
     "price": { "buy": 13000, "sell": 9750, "token": "-", "minimedal": "-" },
     "description": {
@@ -126,7 +131,6 @@
   },
   {
     "id": 6,
-    "sprite": "shields_sprites/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -135,6 +139,8 @@
       "it": "?",
       "jp": "ミラーシールド"
     },
+    "sprite": "shields_sprites/?.png",
+    "artwork": "shields_artworks/?.png",
     "stats": { "defense": 45 },
     "price": { "buy": "-", "sell": 6750, "token": "-", "minimedal": "-" },
     "description": {
@@ -151,7 +157,6 @@
   },
   {
     "id": 7,
-    "sprite": "shields_sprites/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -160,6 +165,8 @@
       "it": "?",
       "jp": "ふうじんのたて"
     },
+    "sprite": "shields_sprites/?.png",
+    "artwork": "shields_artworks/?.png",
     "stats": { "defense": 50 },
     "price": { "buy": 20000, "sell": 15000, "token": "-", "minimedal": "-" },
     "description": {
@@ -176,7 +183,6 @@
   },
   {
     "id": 8,
-    "sprite": "shields_sprites/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -185,6 +191,8 @@
       "it": "?",
       "jp": "てんくうのたて"
     },
+    "sprite": "shields_sprites/?.png",
+    "artwork": "shields_artworks/?.png",
     "stats": { "defense": 55 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
     "description": {
@@ -201,7 +209,6 @@
   },
   {
     "id": 9,
-    "sprite": "shields_sprites/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -210,6 +217,8 @@
       "it": "?",
       "jp": "まかいのたて"
     },
+    "sprite": "shields_sprites/?.png",
+    "artwork": "shields_artworks/?.png",
     "stats": { "defense": 55 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
     "description": {
@@ -226,7 +235,6 @@
   },
   {
     "id": 10,
-    "sprite": "shields_sprites/?.png",
     "name": {
       "en": "?",
       "es": "?",
@@ -235,6 +243,8 @@
       "it": "?",
       "jp": "はぐれメタルのたて"
     },
+    "sprite": "shields_sprites/?.png",
+    "artwork": "shields_artworks/?.png",
     "stats": { "defense": 60 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 52 },
     "description": {
