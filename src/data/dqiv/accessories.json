@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": {
-      "en": "?",
+      "en": "Strength ring",
       "es": "?",
       "fr": "Bague de choc",
       "ge": "?",
@@ -22,7 +22,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Supplements the strength of whoever should slip it on.",
       "es": "?",
       "fr": "Fait augmenter la Force de quiconque l'enfile.",
       "ge": "?",
@@ -34,7 +34,7 @@
   {
     "id": 2,
     "name": {
-      "en": "?",
+      "en": "Mighty armlet",
       "es": "?",
       "fr": "Brassard de choc",
       "ge": "?",
@@ -54,7 +54,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Supplements the strength of whoever should slip it on.",
       "es": "?",
       "fr": "Fait augmenter la Force de quiconque l'enfile.",
       "ge": "?",
@@ -66,7 +66,7 @@
   {
     "id": 3,
     "name": {
-      "en": "?",
+      "en": "Gold bracer",
       "es": "?",
       "fr": "Brassard d'or",
       "ge": "?",
@@ -86,7 +86,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "This brilliant band boosts defence when worn.",
       "es": "?",
       "fr": "Augmente la défense lorsqu'il est porté.",
       "ge": "?",
@@ -98,7 +98,7 @@
   {
     "id": 4,
     "name": {
-      "en": "?",
+      "en": "Prayer ring",
       "es": "?",
       "fr": "Bague de prière",
       "ge": "?",
@@ -118,7 +118,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "This religious ring recovers some MP whenever it's used.",
       "es": "?",
       "fr": "L'utilisation de cette bague permet de récupérer quelques PM.",
       "ge": "?",
@@ -130,7 +130,7 @@
   {
     "id": 5,
     "name": {
-      "en": "?",
+      "en": "Fishnet stockings",
       "es": "?",
       "fr": "Bas résille",
       "ge": "?",
@@ -150,7 +150,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "The ultimate in sexy legwear!",
       "es": "?",
       "fr": "Les plus sexy des bas !",
       "ge": "?",
@@ -162,7 +162,7 @@
   {
     "id": 6,
     "name": {
-      "en": "?",
+      "en": "Ruby of protection",
       "es": "?",
       "fr": "Rubis de protection",
       "ge": "?",
@@ -182,7 +182,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "This brilliant band boosts defence when worn.",
       "es": "?",
       "fr": "Augmente la défense lorsqu'il est porté.",
       "ge": "?",
@@ -194,7 +194,7 @@
   {
     "id": 7,
     "name": {
-      "en": "?",
+      "en": "Recovery ring",
       "es": "?",
       "fr": "Bague de Santé",
       "ge": "?",
@@ -219,7 +219,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Restores some of the wearer's HP with each and every step.",
       "es": "?",
       "fr": "Restaure une partie des PV de celui qui la porte à chaque pas.",
       "ge": "?",
@@ -231,7 +231,7 @@
   {
     "id": 8,
     "name": {
-      "en": "?",
+      "en": "Kamikazee bracer",
       "es": "?",
       "fr": "Brassard kamikaze",
       "ge": "?",
@@ -251,7 +251,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Rousing wristwear that may just save the day in times of need!",
       "es": "?",
       "fr": "Pourrait bien sauver la situation en cas de besoin !",
       "ge": "?",
@@ -263,7 +263,7 @@
   {
     "id": 9,
     "name": {
-      "en": "?",
+      "en": "Kerplunk bracer",
       "es": "?",
       "fr": "Brassard de conjuration",
       "ge": "?",
@@ -283,7 +283,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Rousing wristwear that may just save the day in times of need!",
       "es": "?",
       "fr": "Pourrait bien sauver la situation en cas de besoin !",
       "ge": "?",
@@ -295,7 +295,7 @@
   {
     "id": 10,
     "name": {
-      "en": "?",
+      "en": "Goddess ring",
       "es": "?",
       "fr": "Bague de la déesse",
       "ge": "?",
@@ -320,7 +320,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Recovers some of the wearer's MP with each and every step.",
       "es": "?",
       "fr": "Restaure une partie des PM de celui qui la porte à chaque pas.",
       "ge": "?",
@@ -332,7 +332,7 @@
   {
     "id": 11,
     "name": {
-      "en": "?",
+      "en": "Mercury's bandana",
       "es": "?",
       "fr": "Foulard d'Hermès",
       "ge": "?",
@@ -352,7 +352,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Gives its wearer increased agility.",
       "es": "?",
       "fr": "Confère une plus grande Agilité à celui qui le porte.",
       "ge": "?",
@@ -364,7 +364,7 @@
   {
     "id": 12,
     "name": {
-      "en": "?",
+      "en": "Meteorite bracer",
       "es": "?",
       "fr": "Brassard de météore",
       "ge": "?",
@@ -389,7 +389,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "This breathtaking bracer increases the wearer's agility twofold!",
       "es": "?",
       "fr": "Ce brassard multiplie par deux l'Agilité de celui qui le porte !",
       "ge": "?",
@@ -401,7 +401,7 @@
   {
     "id": 13,
     "name": {
-      "en": "?",
+      "en": "Lucida shard",
       "es": "?",
       "fr": "Éclat d'étoile",
       "ge": "?",
@@ -421,7 +421,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Can also be used as a tool during battle.",
       "es": "?",
       "fr": "Peut aussi être utilisé comme objet au combat.",
       "ge": "?",
@@ -433,7 +433,7 @@
   {
     "id": 14,
     "name": {
-      "en": "?",
+      "en": "Bunny tail",
       "es": "?",
       "fr": "Queue de lapin",
       "ge": "?",
@@ -453,7 +453,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "It makes whoever's wearing it luckier... Or is that just a tale?",
       "es": "?",
       "fr": "Porte chance à celui qui la porte... du moins, c'est ce qu'on dit !",
       "ge": "?",
@@ -465,7 +465,7 @@
   {
     "id": 15,
     "name": {
-      "en": "?",
+      "en": "Elevating shoes",
       "es": "?",
       "fr": "Chaussures à talons",
       "ge": "?",
@@ -490,7 +490,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Footwear that enhances experience with every single step.",
       "es": "?",
       "fr": "Chaussures qui font augmenter l'expérience à chaque pas.",
       "ge": "?",
@@ -502,7 +502,7 @@
   {
     "id": 16,
     "name": {
-      "en": "?",
+      "en": "Gospel ring",
       "es": "?",
       "fr": "Anneau évangélique",
       "ge": "?",
@@ -527,7 +527,7 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "?",
+      "en": "Wards off all wandering monsters when worn.",
       "es": "?",
       "fr": "Repousse tous les monstres errants lorsqu'il est porté.",
       "ge": "?",
