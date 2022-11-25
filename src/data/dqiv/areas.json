@@ -11,7 +11,7 @@
     },
     "shops": [],
     "map": "img/maps/world.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "overworld",
     "slug": "_slug"
   },
@@ -27,7 +27,7 @@
     },
     "shops": [],
     "map": "img/maps/the_azimut.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "overworld",
     "slug": "_slug"
   },
@@ -43,7 +43,7 @@
     },
     "shops": [],
     "map": "img/maps/nadiria.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "overworld",
     "slug": "_slug"
   },
@@ -60,7 +60,7 @@
     },
     "shops": [],
     "map": "img/maps/burland.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -76,7 +76,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -92,7 +92,7 @@
     },
     "shops": [],
     "map": "img/maps/strathbaile.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -108,7 +108,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -124,7 +124,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -141,7 +141,7 @@
     },
     "shops": [],
     "map": "img/maps/zamoksva.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -157,7 +157,7 @@
     },
     "shops": [],
     "map": "img/maps/zalenagrad.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -173,7 +173,7 @@
     },
     "shops": [],
     "map": "img/maps/taborov.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -189,7 +189,7 @@
     },
     "shops": [],
     "map": "img/maps/vrenor.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -205,7 +205,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -221,7 +221,7 @@
     },
     "shops": [],
     "map": "img/maps/desert_bazaar.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -237,7 +237,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -253,7 +253,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -269,7 +269,7 @@
     },
     "shops": [],
     "map": "img/maps/endor.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -286,7 +286,7 @@
     },
     "shops": [],
     "map": "img/maps/?.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -302,7 +302,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -318,7 +318,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -334,7 +334,7 @@
     },
     "shops": [],
     "map": "img/maps/?.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -350,7 +350,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -366,7 +366,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -383,7 +383,7 @@
     },
     "shops": [],
     "map": "img/maps/?.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -399,7 +399,7 @@
     },
     "shops": [],
     "map": "img/maps/?.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -415,7 +415,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -431,7 +431,7 @@
     },
     "shops": [],
     "map": "img/maps/palais_de_leon.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -447,7 +447,7 @@
     },
     "shops": [],
     "map": "img/maps/havre_leon.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -463,7 +463,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "shrine",
     "slug": "_slug"
   },
@@ -479,7 +479,7 @@
     },
     "shops": [],
     "map": "img/maps/mamon.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -495,7 +495,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -512,7 +512,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -528,7 +528,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -544,7 +544,7 @@
     },
     "shops": [],
     "map": "img/maps/casabranca.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -560,7 +560,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -576,7 +576,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -592,7 +592,7 @@
     },
     "shops": [],
     "map": "img/maps/bath.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -608,7 +608,7 @@
     },
     "shops": [],
     "map": "img/maps/porthtrunnel.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -624,7 +624,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -640,7 +640,7 @@
     },
     "shops": [],
     "map": "img/maps/mintos.png",
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -656,7 +656,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "shrine",
     "slug": "_slug"
   },
@@ -672,7 +672,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -688,7 +688,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -704,7 +704,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -720,7 +720,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -736,7 +736,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -752,7 +752,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -768,7 +768,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -784,7 +784,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
@@ -800,7 +800,7 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "dungeon",
     "slug": "_slug"
   },
@@ -816,12 +816,28 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
   {
     "id": 50,
+    "name": {
+      "en": "Estark's Crypt",
+      "es": "?",
+      "fr": "Crypte d'Estark",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+    "shops": [],
+    "map": null,
+    "continent": "?",
+    "type": "dungeon",
+    "slug": "_slug"
+  },
+  {
+    "id": 51,
     "name": {
       "en": "El Forado",
       "es": "El Forrado",
@@ -832,24 +848,40 @@
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
     "slug": "_slug"
   },
   {
-    "id": 50,
+    "id": 52,
     "name": {
-      "en": "El Forado",
-      "es": "El Forrado",
-      "fr": "El Forado",
-      "ge": "El Forado",
-      "it": "El Forado",
-      "jp": "エルフの里"
+      "en": "The Azimut",
+      "es": "?",
+      "fr": "L'Azimut",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
     },
     "shops": [],
     "map": null,
-    "continent" : "?",
+    "continent": "?",
     "type": "town",
+    "slug": "the_azimut"
+  },
+  {
+    "id": 53,
+    "name": {
+      "en": "",
+      "es": "?",
+      "fr": "Tour du Zenith",
+      "ge": "?",
+      "it": "?",
+      "jp": "?"
+    },
+    "shops": [],
+    "map": null,
+    "continent": "?",
+    "type": "dungeon",
     "slug": "_slug"
   }
 ]
