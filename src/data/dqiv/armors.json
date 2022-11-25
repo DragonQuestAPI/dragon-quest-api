@@ -18,7 +18,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -44,7 +44,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -53,7 +53,14 @@
   },
   {
     "id": 3,
-    "name": { "en": "?", "es": "?", "fr": "Caleçon", "ge": "?", "it": "?", "jp": "ステテコパンツ" },
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Caleçon",
+      "ge": "?",
+      "it": "?",
+      "jp": "ステテコパンツ"
+    },
     "stats": { "defense": 8 },
     "price": { "buy": 100, "sell": 75, "token": null, "minimedal": null },
     "found_at": [],
@@ -61,7 +68,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -89,7 +96,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -115,7 +122,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -141,7 +148,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -167,7 +174,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -193,7 +200,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -202,7 +209,14 @@
   },
   {
     "id": 9,
-    "name": { "en": "?", "es": "?", "fr": "Pelisse", "ge": "?", "it": "?", "jp": "けがわのコート" },
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Pelisse",
+      "ge": "?",
+      "it": "?",
+      "jp": "けがわのコート"
+    },
     "stats": { "defense": 22 },
     "price": { "buy": 600, "sell": 450, "token": null, "minimedal": null },
     "found_at": [],
@@ -210,7 +224,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -238,7 +252,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -264,7 +278,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Permet parfois d'esquiver une attaque ennemie.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -276,7 +290,7 @@
     "name": {
       "en": "?",
       "es": "?",
-      "fr": "?Armure de fer",
+      "fr": "Armure de fer",
       "ge": "?",
       "it": "?",
       "jp": "てつのよろい"
@@ -290,7 +304,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -316,7 +330,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -342,7 +356,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Protège son utilisateur s'il est endormi ou paralysé.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -368,7 +382,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -394,7 +408,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Permet de réduire les dégâts causés par la magie.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -420,7 +434,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -446,7 +460,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -472,7 +486,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Réduit les dégâts causés par les attaques de feu ou de glace.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -498,7 +512,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Cette cuirasse réduit les dégâts causés par les attaques de feu.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -524,7 +538,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Permet de réduire les dégâts causés par la magie.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -550,7 +564,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Cet habit absorbe parfois les PM des sorts ennemis.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -576,7 +590,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Attention ! Cette armure cache bien son pouvoir.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -602,7 +616,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Offre parfois une piquante surprise à l'attaquant.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -628,7 +642,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Cette robe diaphane peut renvoyer la magie d'un assaillant.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -654,7 +668,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Attention ! Cette armure cache bien son pouvoir.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -680,7 +694,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Réduit les dégâts causés par les attaques de feu ou de glace.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -706,7 +720,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Permet de réduire les dégâts causés par la magie.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -732,7 +746,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Permet de réduire les dégâts causés par la magie.",
       "ge": "?",
       "it": "?",
       "jp": "?"
@@ -741,7 +755,14 @@
   },
   {
     "id": 30,
-    "name": { "en": "?", "es": "?", "fr": "?", "ge": "?", "it": "?", "jp": "まかいのよろい" },
+    "name": {
+      "en": "?",
+      "es": "?",
+      "fr": "Armure des Enfers",
+      "ge": "?",
+      "it": "?",
+      "jp": "まかいのよろい"
+    },
     "sprite": "armors_sprites/?.png",
     "artwork": "armors_artworks/?.png",
     "stats": { "defense": 100 },
@@ -751,7 +772,7 @@
     "description": {
       "en": "?",
       "es": "?",
-      "fr": "?",
+      "fr": "Permet de réduire les dégâts causés par la magie.",
       "ge": "?",
       "it": "?",
       "jp": "?"
