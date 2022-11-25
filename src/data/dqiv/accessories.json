@@ -9,8 +9,8 @@
       "it": "?",
       "jp": "ちからのゆびわ"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/strength_ring.png",
+    "artwork": "accessories_artworks/strength_ring.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -18,7 +18,12 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "?", "sell": "?", "token": "?", "minimedal": 15 },
+    "price": {
+      "buy": "?",
+      "sell": "?",
+      "token": "?",
+      "minimedal": 15
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -29,7 +34,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "strength_ring"
   },
   {
     "id": 2,
@@ -41,8 +46,8 @@
       "it": "?",
       "jp": "ごうけつのうでわ"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/mighty_armlet.png",
+    "artwork": "accessories_artworks/mighty_armlet.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -50,7 +55,12 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "?", "sell": "?", "token": "?", "minimedal": 47 },
+    "price": {
+      "buy": "?",
+      "sell": "?",
+      "token": "?",
+      "minimedal": 47
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -61,7 +71,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "mighty_armlet"
   },
   {
     "id": 3,
@@ -73,8 +83,8 @@
       "it": "?",
       "jp": "きんのブレスレット"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/gold_bracer.png",
+    "artwork": "accessories_artworks/gold_bracer.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -82,7 +92,12 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "?", "sell": "?", "token": 1000, "minimedal": "?" },
+    "price": {
+      "buy": "?",
+      "sell": "?",
+      "token": 1000,
+      "minimedal": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -93,7 +108,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "gold_bracer"
   },
   {
     "id": 4,
@@ -105,8 +120,8 @@
       "it": "?",
       "jp": "いのりのゆびわ"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/prayer_ring.png",
+    "artwork": "accessories_artworks/prayer_ring.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -114,7 +129,12 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": "?", "sell": "?", "token": 500, "minimedal": "?" },
+    "price": {
+      "buy": "?",
+      "sell": "?",
+      "token": 500,
+      "minimedal": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -125,7 +145,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "prayer_ring"
   },
   {
     "id": 5,
@@ -137,8 +157,8 @@
       "it": "?",
       "jp": "あみタイツ"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/fishnet_stockings.png",
+    "artwork": "accessories_artworks/fishnet_stockings.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -146,7 +166,12 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 1200, "sell": 900, "token": "?", "minimedal": "?" },
+    "price": {
+      "buy": 1200,
+      "sell": 900,
+      "token": "?",
+      "minimedal": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -157,7 +182,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "fishnet_stockings"
   },
   {
     "id": 6,
@@ -169,8 +194,8 @@
       "it": "?",
       "jp": "まもりのルビー"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/ruby_of_protection.png",
+    "artwork": "accessories_artworks/ruby_of_protection.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -178,7 +203,12 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 2700, "sell": "?", "token": "?", "minimedal": 20 },
+    "price": {
+      "buy": 2700,
+      "sell": "?",
+      "token": "?",
+      "minimedal": 20
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -189,7 +219,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "ruby_of_protection"
   },
   {
     "id": 7,
@@ -201,8 +231,8 @@
       "it": "?",
       "jp": "いのちのゆびわ"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/recovery_ring.png",
+    "artwork": "accessories_artworks/recovery_ring.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -226,7 +256,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "recovery_ring"
   },
   {
     "id": 8,
@@ -238,8 +268,8 @@
       "it": "?",
       "jp": "メガンテのうでわ"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/kamikazee_bracer.png",
+    "artwork": "accessories_artworks/kamikazee_bracer.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -247,7 +277,12 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 5000, "sell": "?", "token": 500, "minimedal": "?" },
+    "price": {
+      "buy": 5000,
+      "sell": "?",
+      "token": 500,
+      "minimedal": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -258,7 +293,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "kamikazee_bracer"
   },
   {
     "id": 9,
@@ -270,8 +305,8 @@
       "it": "?",
       "jp": "メガザルのうでわ"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/kerplunk_bracer.png",
+    "artwork": "accessories_artworks/kerplunk_bracer.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -279,7 +314,12 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 10000, "sell": "?", "token": "?", "minimedal": 34 },
+    "price": {
+      "buy": 10000,
+      "sell": "?",
+      "token": "?",
+      "minimedal": 34
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -290,7 +330,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "kerplunk_bracer"
   },
   {
     "id": 10,
@@ -302,8 +342,8 @@
       "it": "?",
       "jp": "めがみのゆびわ"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/goddess_ring.png",
+    "artwork": "accessories_artworks/goddess_ring.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -327,7 +367,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "goddess_ring"
   },
   {
     "id": 11,
@@ -339,8 +379,8 @@
       "it": "?",
       "jp": "しっぷうのバンダナ"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/mercurys_bandana.png",
+    "artwork": "accessories_artworks/mercurys_bandana.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -348,7 +388,12 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 650, "sell": 487, "token": "?", "minimedal": "?" },
+    "price": {
+      "buy": 650,
+      "sell": 487,
+      "token": "?",
+      "minimedal": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -359,7 +404,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "mercurys_bandana"
   },
   {
     "id": 12,
@@ -371,8 +416,8 @@
       "it": "?",
       "jp": "ほしふるうでわ"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/meteorite_bracer.png",
+    "artwork": "accessories_artworks/meteorite_bracer.png",
     "stats": {
       "attack": null,
       "defense": null,
@@ -396,7 +441,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "meteorite_bracer"
   },
   {
     "id": 13,
@@ -408,8 +453,8 @@
       "it": "?",
       "jp": "ほしのかけら"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/lucida_shard.png",
+    "artwork": "accessories_artworks/lucida_shard.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -417,7 +462,12 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 500, "sell": 375, "token": "?", "minimedal": "?" },
+    "price": {
+      "buy": 500,
+      "sell": 375,
+      "token": "?",
+      "minimedal": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -428,7 +478,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "lucida_shard"
   },
   {
     "id": 14,
@@ -440,8 +490,8 @@
       "it": "?",
       "jp": "うざぎのしっぽ"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/bunny_tail.png",
+    "artwork": "accessories_artworks/bunny_tail.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -449,7 +499,12 @@
       "speed": "?",
       "luck": "?"
     },
-    "price": { "buy": 230, "sell": 172, "token": "?", "minimedal": "?" },
+    "price": {
+      "buy": 230,
+      "sell": 172,
+      "token": "?",
+      "minimedal": "?"
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -460,7 +515,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "bunny_tail"
   },
   {
     "id": 15,
@@ -472,8 +527,8 @@
       "it": "?",
       "jp": "しあわせのくつ"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/elevating_shoes.png",
+    "artwork": "accessories_artworks/elevating_shoes.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -497,7 +552,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "elevating_shoes"
   },
   {
     "id": 16,
@@ -509,8 +564,8 @@
       "it": "?",
       "jp": "ゴスペルリング"
     },
-    "sprite": "accessories_sprites/?.png",
-    "artwork": "accessories_artworks/?.png",
+    "sprite": "accessories_sprites/gospel_ring.png",
+    "artwork": "accessories_artworks/gospel_ring.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -534,6 +589,6 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "gospel_ring"
   }
 ]
