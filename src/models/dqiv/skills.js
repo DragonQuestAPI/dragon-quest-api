@@ -7,7 +7,24 @@ const file = JSON.parse(fs.readFileSync(pathToJSON).toString());
 
 const findAll = async (queryset) => {
   try {
-    const result = file;
+    console.log(Object.keys(queryset));
+    console.log(Object.keys(file[0]));
+
+    const filterByQueryset = (data, queryset) => {
+      let tmp = {}
+      Object.keys(queryset).forEach(q => {
+        data.forEach(d => {
+          if (d[q] == queryset[q]) tmp[d.slug] = 1;
+        });
+      });
+      console.log(tmp);
+
+      return data.filter((dat) => {
+        Object.keys(queryset).forEach
+        if (Object.keys(queryset).length < 1) return true;
+      });
+    };
+    const result = filterByQueryset(file, queryset);
     return result;
   } catch (err) {
     throw err;
