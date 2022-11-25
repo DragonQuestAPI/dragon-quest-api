@@ -1,14 +1,14 @@
 # Dragon Quest API (⚠ Work in progress)
 
 An API project implying several episodes of the Dragon Quest franchise.
-English, Spanish, French, German, Italian and Japanese languages are included in the API.
+English, Spanish, French, German, Italian and Japanese languages are supported.
 
 ## Prerequisites
 
 - <b>Visual Studio Code</b> or any other IDE.
 - <b>Node.JS v.16.18</b> or greater.
-- <p>Git</p> (optional).
-- <p>Postman</p> (optional).
+- <b>Git</b> (optional).
+- <b>Postman</b> (optional).
 - <b>Material Icon Theme</b> extension for VSCode if you like fancy icons (optional). 😊
 
 ## Installing
@@ -34,5 +34,4 @@ English, Spanish, French, German, Italian and Japanese languages are included in
 
 - Dragon Quest Monsters Joker
 - Dragon Quest Monsters Joker 2
-- Dragon Quest Monsters Joker 3
 - Probably more to come in the future...
