@@ -5,14 +5,14 @@
     "fr": "Dragon Quest IV",
     "ge": "Dragon Quest IV",
     "it": "Dragon Quest IV",
-    "jp": "ドラゴンクエストIV?"
+    "jp": "ドラゴンクエストIV"
   },
   "title": {
     "en": "Chapters of the Chosen",
-    "es": "?",
+    "es": "Capítulos de los Elegidos",
     "fr": "L'Épopée des élus",
-    "ge": "?",
-    "it": "?",
+    "ge": "Die Chronik der Erkorenen",
+    "it": "Le cronache dei Prescelti",
     "jp": "導かれし者たち"
   },
   "logo": "../../img/dqiv/dragon-quest-iv.png",
