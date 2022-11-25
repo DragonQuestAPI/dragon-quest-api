@@ -9,10 +9,17 @@
       "it": "?",
       "jp": "ぬののふく"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 4 },
-    "price": { "buy": 10, "sell": 7, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/plain_clothes.png",
+    "artwork": "armors_artworks/plain_clothes.png",
+    "stats": {
+      "defense": 4
+    },
+    "price": {
+      "buy": 10,
+      "sell": 7,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -23,7 +30,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "plain_clothes"
   },
   {
     "id": 2,
@@ -35,10 +42,17 @@
       "it": "?",
       "jp": "たびびとのふく"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 7 },
-    "price": { "buy": 70, "sell": 52, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/wayfarers_clothes.png",
+    "artwork": "armors_artworks/wayfarers_clothes.png",
+    "stats": {
+      "defense": 7
+    },
+    "price": {
+      "buy": 70,
+      "sell": 52,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -49,7 +63,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "wayfarers_clothes"
   },
   {
     "id": 3,
@@ -61,8 +75,15 @@
       "it": "?",
       "jp": "ステテコパンツ"
     },
-    "stats": { "defense": 8 },
-    "price": { "buy": 100, "sell": 75, "token": null, "minimedal": null },
+    "stats": {
+      "defense": 8
+    },
+    "price": {
+      "buy": 100,
+      "sell": 75,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -73,9 +94,9 @@
       "it": "?",
       "jp": "?"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "slug": "_slug"
+    "sprite": "armors_sprites/boxer_shorts.png",
+    "artwork": "armors_artworks/boxer_shorts.png",
+    "slug": "boxer_shorts"
   },
   {
     "id": 4,
@@ -87,10 +108,17 @@
       "it": "?",
       "jp": "おどりこのふく"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 8 },
-    "price": { "buy": 400, "sell": 300, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/dancers_costume.png",
+    "artwork": "armors_artworks/dancers_costume.png",
+    "stats": {
+      "defense": 8
+    },
+    "price": {
+      "buy": 400,
+      "sell": 300,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -101,7 +129,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "dancers_costume"
   },
   {
     "id": 5,
@@ -113,10 +141,17 @@
       "it": "?",
       "jp": "きぬのローブ"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 10 },
-    "price": { "buy": 110, "sell": 82, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/silk_robe.png",
+    "artwork": "armors_artworks/silk_robe.png",
+    "stats": {
+      "defense": 10
+    },
+    "price": {
+      "buy": 110,
+      "sell": 82,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -127,7 +162,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "silk_robe"
   },
   {
     "id": 6,
@@ -139,10 +174,17 @@
       "it": "?",
       "jp": "かわのよろい"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 12 },
-    "price": { "buy": 180, "sell": 135, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/leather_armour.png",
+    "artwork": "armors_artworks/leather_armour.png",
+    "stats": {
+      "defense": 12
+    },
+    "price": {
+      "buy": 180,
+      "sell": 135,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -153,7 +195,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "leather_armour"
   },
   {
     "id": 7,
@@ -165,10 +207,17 @@
       "it": "?",
       "jp": "かわのドレス"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 14 },
-    "price": { "buy": 250, "sell": 187, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/leather_dress.png",
+    "artwork": "armors_artworks/leather_dress.png",
+    "stats": {
+      "defense": 14
+    },
+    "price": {
+      "buy": 250,
+      "sell": 187,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -179,7 +228,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "leather_dress"
   },
   {
     "id": 8,
@@ -191,10 +240,17 @@
       "it": "?",
       "jp": "くさりかたびら"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 18 },
-    "price": { "buy": 350, "sell": 262, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/chain_mail.png",
+    "artwork": "armors_artworks/chain_mail.png",
+    "stats": {
+      "defense": 18
+    },
+    "price": {
+      "buy": 350,
+      "sell": 262,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -205,7 +261,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "chain_mail"
   },
   {
     "id": 9,
@@ -217,8 +273,15 @@
       "it": "?",
       "jp": "けがわのコート"
     },
-    "stats": { "defense": 22 },
-    "price": { "buy": 600, "sell": 450, "token": null, "minimedal": null },
+    "stats": {
+      "defense": 22
+    },
+    "price": {
+      "buy": 600,
+      "sell": 450,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -229,9 +292,9 @@
       "it": "?",
       "jp": "?"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "slug": "_slug"
+    "sprite": "armors_sprites/fur_coat.png",
+    "artwork": "armors_artworks/fur_coat.png",
+    "slug": "fur_coat"
   },
   {
     "id": 10,
@@ -243,10 +306,17 @@
       "it": "?",
       "jp": "せいどうのよろい"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 25 },
-    "price": { "buy": 700, "sell": 525, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/bronze_armour.png",
+    "artwork": "armors_artworks/bronze_armour.png",
+    "stats": {
+      "defense": 25
+    },
+    "price": {
+      "buy": 700,
+      "sell": 525,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -257,7 +327,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "bronze_armour"
   },
   {
     "id": 11,
@@ -269,10 +339,17 @@
       "it": "?",
       "jp": "みかわしのふく"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 28 },
-    "price": { "buy": 3000, "sell": 2250, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/cloack_of_evasion.png",
+    "artwork": "armors_artworks/cloack_of_evasion.png",
+    "stats": {
+      "defense": 28
+    },
+    "price": {
+      "buy": 3000,
+      "sell": 2250,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -283,7 +360,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "cloack_of_evasion"
   },
   {
     "id": 12,
@@ -295,10 +372,17 @@
       "it": "?",
       "jp": "てつのよろい"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 30 },
-    "price": { "buy": 1200, "sell": 900, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/iron_armour.png",
+    "artwork": "armors_artworks/iron_armour.png",
+    "stats": {
+      "defense": 30
+    },
+    "price": {
+      "buy": 1200,
+      "sell": 900,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -309,7 +393,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "iron_armour"
   },
   {
     "id": 13,
@@ -321,10 +405,17 @@
       "it": "?",
       "jp": "てつのまえかけ"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 32 },
-    "price": { "buy": 1500, "sell": 1125, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/iron_apron.png",
+    "artwork": "armors_artworks/iron_apron.png",
+    "stats": {
+      "defense": 32
+    },
+    "price": {
+      "buy": 1500,
+      "sell": 1125,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -335,7 +426,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "iron_apron"
   },
   {
     "id": 14,
@@ -347,10 +438,17 @@
       "it": "?",
       "jp": "やすらぎのローブ"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 33 },
-    "price": { "buy": null, "sell": 4500, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/robe_of_serenity.png",
+    "artwork": "armors_artworks/robe_of_serenity.png",
+    "stats": {
+      "defense": 33
+    },
+    "price": {
+      "buy": null,
+      "sell": 4500,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -361,7 +459,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "robe_of_serenity"
   },
   {
     "id": 15,
@@ -373,10 +471,17 @@
       "it": "?",
       "jp": "はがねのよろい"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 35 },
-    "price": { "buy": 2300, "sell": 1725, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/full_plate_armour.png",
+    "artwork": "armors_artworks/full_plate_armour.png",
+    "stats": {
+      "defense": 35
+    },
+    "price": {
+      "buy": 2300,
+      "sell": 1725,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -387,7 +492,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "full_plate_armour"
   },
   {
     "id": 16,
@@ -399,10 +504,17 @@
       "it": "?",
       "jp": "まほうのほうい"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 38 },
-    "price": { "buy": 4400, "sell": 3300, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/magic_vestment.png",
+    "artwork": "armors_artworks/magic_vestment.png",
+    "stats": {
+      "defense": 38
+    },
+    "price": {
+      "buy": 4400,
+      "sell": 3300,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -413,7 +525,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "magic_vestment"
   },
   {
     "id": 17,
@@ -425,10 +537,17 @@
       "it": "?",
       "jp": "ピンクのレオタード"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 38 },
-    "price": { "buy": 6300, "sell": 4725, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/pink_leotard.png",
+    "artwork": "armors_artworks/pink_leotard.png",
+    "stats": {
+      "defense": 38
+    },
+    "price": {
+      "buy": 6300,
+      "sell": 4725,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -439,7 +558,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "pink_leotard"
   },
   {
     "id": 18,
@@ -451,10 +570,17 @@
       "it": "?",
       "jp": "スパンコールドレス"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 40 },
-    "price": { "buy": null, "sell": null, "token": 2500, "minimedal": null },
+    "sprite": "armors_sprites/spangled_dress.png",
+    "artwork": "armors_artworks/spangled_dress.png",
+    "stats": {
+      "defense": 40
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": 2500,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -465,7 +591,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "spangled_dress"
   },
   {
     "id": 19,
@@ -477,10 +603,17 @@
       "it": "?",
       "jp": "みずのはごろも"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 43 },
-    "price": { "buy": 15000, "sell": 11250, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/flowing_dress.png",
+    "artwork": "armors_artworks/flowing_dress.png",
+    "stats": {
+      "defense": 43
+    },
+    "price": {
+      "buy": 15000,
+      "sell": 11250,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -491,7 +624,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "flowing_dress"
   },
   {
     "id": 20,
@@ -503,10 +636,17 @@
       "it": "?",
       "jp": "ドラゴンメイル"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 45 },
-    "price": { "buy": 5200, "sell": 3900, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/dragon_mail.png",
+    "artwork": "armors_artworks/dragon_mail.png",
+    "stats": {
+      "defense": 45
+    },
+    "price": {
+      "buy": 5200,
+      "sell": 3900,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -517,7 +657,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "dragon_mail"
   },
   {
     "id": 21,
@@ -529,10 +669,17 @@
       "it": "?",
       "jp": "マジカルスカート"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 45 },
-    "price": { "buy": null, "sell": null, "token": null, "minimedal": 25 },
+    "sprite": "armors_sprites/magical_skirt.png",
+    "artwork": "armors_artworks/magical_skirt.png",
+    "stats": {
+      "defense": 45
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": null,
+      "minimedal": 25
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -543,7 +690,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "magical_skirt"
   },
   {
     "id": 22,
@@ -555,10 +702,17 @@
       "it": "?",
       "jp": "ふしぎなボレロ"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 47 },
-    "price": { "buy": null, "sell": 5625, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/glombolero.png",
+    "artwork": "armors_artworks/glombolero.png",
+    "stats": {
+      "defense": 47
+    },
+    "price": {
+      "buy": null,
+      "sell": 5625,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -569,7 +723,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "glombolero"
   },
   {
     "id": 23,
@@ -581,10 +735,17 @@
       "it": "?",
       "jp": "ゾンビメイル"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 49 },
-    "price": { "buy": null, "sell": 652, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/zombie_mail.png",
+    "artwork": "armors_artworks/zombie_mail.png",
+    "stats": {
+      "defense": 49
+    },
+    "price": {
+      "buy": null,
+      "sell": 652,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -595,7 +756,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "zombie_mail"
   },
   {
     "id": 24,
@@ -607,10 +768,17 @@
       "it": "?",
       "jp": "やいばのよろい"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 50 },
-    "price": { "buy": 7350, "sell": 5512, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/spiked_armour.png",
+    "artwork": "armors_artworks/spiked_armour.png",
+    "stats": {
+      "defense": 50
+    },
+    "price": {
+      "buy": 7350,
+      "sell": 5512,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -621,7 +789,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "spiked_armour"
   },
   {
     "id": 25,
@@ -633,10 +801,17 @@
       "it": "?",
       "jp": "ひかりのドレス"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 50 },
-    "price": { "buy": null, "sell": 6600, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/shimmering_dress.png",
+    "artwork": "armors_artworks/shimmering_dress.png",
+    "stats": {
+      "defense": 50
+    },
+    "price": {
+      "buy": null,
+      "sell": 6600,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -647,7 +822,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "shimmering_dress"
   },
   {
     "id": 26,
@@ -659,10 +834,17 @@
       "it": "?",
       "jp": "まじんのよろい"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 60 },
-    "price": { "buy": null, "sell": 750, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/helas_armour.png",
+    "artwork": "armors_artworks/helas_armour.png",
+    "stats": {
+      "defense": 60
+    },
+    "price": {
+      "buy": null,
+      "sell": 750,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -673,7 +855,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "helas_armour"
   },
   {
     "id": 27,
@@ -685,10 +867,17 @@
       "it": "?",
       "jp": "てんしのレオタード"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 60 },
-    "price": { "buy": 13000, "sell": 9750, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/angel_leotard.png",
+    "artwork": "armors_artworks/angel_leotard.png",
+    "stats": {
+      "defense": 60
+    },
+    "price": {
+      "buy": 13000,
+      "sell": 9750,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -699,7 +888,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "angel_leotard"
   },
   {
     "id": 28,
@@ -711,10 +900,17 @@
       "it": "?",
       "jp": "てんくうのよろい"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 70 },
-    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/zenithian_armour.png",
+    "artwork": "armors_artworks/zenithian_armour.png",
+    "stats": {
+      "defense": 70
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -725,7 +921,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "zenithian_armour"
   },
   {
     "id": 29,
@@ -737,10 +933,17 @@
       "it": "?",
       "jp": "はぐれメタルよろい"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 95 },
-    "price": { "buy": 35000, "sell": 26250, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/liquid_metal_armour.png",
+    "artwork": "armors_artworks/liquid_metal_armour.png",
+    "stats": {
+      "defense": 95
+    },
+    "price": {
+      "buy": 35000,
+      "sell": 26250,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -751,7 +954,7 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "liquid_metal_armour"
   },
   {
     "id": 30,
@@ -763,10 +966,17 @@
       "it": "?",
       "jp": "まかいのよろい"
     },
-    "sprite": "armors_sprites/?.png",
-    "artwork": "armors_artworks/?.png",
-    "stats": { "defense": 100 },
-    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "sprite": "armors_sprites/pandemonic_armour.png",
+    "artwork": "armors_artworks/pandemonic_armour.png",
+    "stats": {
+      "defense": 100
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": null,
+      "minimedal": null
+    },
     "found_at": [],
     "buyable_at": [],
     "description": {
@@ -777,6 +987,6 @@
       "it": "?",
       "jp": "?"
     },
-    "slug": "_slug"
+    "slug": "pandemonic_armour"
   }
 ]
