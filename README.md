@@ -18,7 +18,7 @@ English, Spanish, French, German, Italian and Japanese languages are supported.
 <ul>
   <li>Download the project with `git clone https://github.com/NaorimSenchai/dragon-quest-api.git`.</li>
   <li>Open the projet's folder with Visual Studio Code.</li>
-  <li>In the terminal, type `npm i` to install the required dependencies.</li>
+  <li>In the terminal, type <code>npm i</code> to install the required dependencies.</li>
   <li>The API is now operational.</li>
 </ul>
 
