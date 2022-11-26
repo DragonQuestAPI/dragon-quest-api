@@ -7,8 +7,8 @@ English, Spanish, French, German, Italian and Japanese languages are supported.
 
 - <b>Visual Studio Code</b> or any other IDE.
 - <b>Node.JS v.16.18</b> or greater.
-- <p>Git</p> (optional).
-- <p>Postman</p> (optional).
+- <b>Git</b> (optional).
+- <b>Postman</b> (optional).
 - <b>Material Icon Theme</b> extension for VSCode if you like fancy icons (optional). 😊
 
 ## Installing
