@@ -1,7 +1,7 @@
 # Dragon Quest API (⚠ Work in progress)
 
-An API project implying several episodes of the Dragon Quest franchise.
-English, Spanish, French, German, Italian and Japanese languages are supported.
+<p>An API project implying several episodes of the Dragon Quest franchise.</p>
+<p>English, Spanish, French, German, Italian and Japanese languages are supported.</p>
 
 ## Prerequisites
 
