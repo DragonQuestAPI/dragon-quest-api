@@ -39,5 +39,6 @@ English, Spanish, French, German, Italian and Japanese languages are supported.
   <br>
   <li>Dragon Quest Monsters Joker</li>
   <li>Dragon Quest Monsters Joker 2</li>
+  <br>
   <li>Probably more to come in the future...</li>
 </ul>
