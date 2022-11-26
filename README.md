@@ -22,7 +22,7 @@ English, Spanish, French, German, Italian and Japanese languages are supported.
   <li>The API is now operational.</li>
 </ul>
 
-### Games covered by the API
+## Games covered by the API
 
 <ul>
   <li>Dragon Quest I SNES</li>
