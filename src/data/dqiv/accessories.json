@@ -5,7 +5,7 @@
       "en": "Strength ring",
       "es": "?",
       "fr": "Bague de choc",
-      "ge": "?",
+      "ge": "Stärkering",
       "it": "?",
       "jp": "ちからのゆびわ"
     },
@@ -30,7 +30,7 @@
       "en": "Supplements the strength of whoever should slip it on.",
       "es": "?",
       "fr": "Fait augmenter la Force de quiconque l'enfile.",
-      "ge": "?",
+      "ge": "Erhöht die Stärke all derer, die ihn überstreifen.",
       "it": "?",
       "jp": "?"
     },
@@ -42,7 +42,7 @@
       "en": "Mighty armlet",
       "es": "?",
       "fr": "Brassard de choc",
-      "ge": "?",
+      "ge": "Mächtige Armschiene",
       "it": "?",
       "jp": "ごうけつのうでわ"
     },
@@ -67,7 +67,7 @@
       "en": "Supplements the strength of whoever should slip it on.",
       "es": "?",
       "fr": "Fait augmenter la Force de quiconque l'enfile.",
-      "ge": "?",
+      "ge": "Erhöht die Stärke all derer die ihn überstreifen.",
       "it": "?",
       "jp": "?"
     },
@@ -79,7 +79,7 @@
       "en": "Gold bracer",
       "es": "?",
       "fr": "Brassard d'or",
-      "ge": "?",
+      "ge": "Gold-armschiene",
       "it": "?",
       "jp": "きんのブレスレット"
     },
@@ -104,7 +104,7 @@
       "en": "This brilliant band boosts defence when worn.",
       "es": "?",
       "fr": "Augmente la défense lorsqu'il est porté.",
-      "ge": "?",
+      "ge": "Dieses brillante Armband erhöht die Abwehrkraft.",
       "it": "?",
       "jp": "?"
     },
@@ -116,7 +116,7 @@
       "en": "Prayer ring",
       "es": "?",
       "fr": "Bague de prière",
-      "ge": "?",
+      "ge": "Gebetsring",
       "it": "?",
       "jp": "いのりのゆびわ"
     },
@@ -141,7 +141,7 @@
       "en": "This religious ring recovers some MP whenever it's used.",
       "es": "?",
       "fr": "L'utilisation de cette bague permet de récupérer quelques PM.",
-      "ge": "?",
+      "ge": "Dieser Ring regeneriert einige MP, wenn man ihn benutzt.",
       "it": "?",
       "jp": "?"
     },
@@ -153,7 +153,7 @@
       "en": "Fishnet stockings",
       "es": "?",
       "fr": "Bas résille",
-      "ge": "?",
+      "ge": "Netzstrümpfe",
       "it": "?",
       "jp": "あみタイツ"
     },
@@ -178,7 +178,7 @@
       "en": "The ultimate in sexy legwear!",
       "es": "?",
       "fr": "Les plus sexy des bas !",
-      "ge": "?",
+      "ge": "Der letzte Schrei an sexy Beinkleidern!",
       "it": "?",
       "jp": "?"
     },
@@ -190,7 +190,7 @@
       "en": "Ruby of protection",
       "es": "?",
       "fr": "Rubis de protection",
-      "ge": "?",
+      "ge": "Schutzrubin",
       "it": "?",
       "jp": "まもりのルビー"
     },
@@ -215,7 +215,7 @@
       "en": "This brilliant band boosts defence when worn.",
       "es": "?",
       "fr": "Augmente la défense lorsqu'il est porté.",
-      "ge": "?",
+      "ge": "Dieses brillante Armband erhöht die Abwehrkraft.",
       "it": "?",
       "jp": "?"
     },
@@ -227,7 +227,7 @@
       "en": "Recovery ring",
       "es": "?",
       "fr": "Bague de Santé",
-      "ge": "?",
+      "ge": "Genesungsring",
       "it": "?",
       "jp": "いのちのゆびわ"
     },
@@ -252,7 +252,7 @@
       "en": "Restores some of the wearer's HP with each and every step.",
       "es": "?",
       "fr": "Restaure une partie des PV de celui qui la porte à chaque pas.",
-      "ge": "?",
+      "ge": "Stellt bei jedem Schritt einige LP des Trägers wieder her.",
       "it": "?",
       "jp": "?"
     },
@@ -264,7 +264,7 @@
       "en": "Kamikazee bracer",
       "es": "?",
       "fr": "Brassard kamikaze",
-      "ge": "?",
+      "ge": "Kamikaze-armschiene",
       "it": "?",
       "jp": "メガンテのうでわ"
     },
@@ -289,7 +289,7 @@
       "en": "Rousing wristwear that may just save the day in times of need!",
       "es": "?",
       "fr": "Pourrait bien sauver la situation en cas de besoin !",
-      "ge": "?",
+      "ge": "Diese aufrüttelnde Armschiene ist oft die letzte Rettung!",
       "it": "?",
       "jp": "?"
     },
@@ -301,7 +301,7 @@
       "en": "Kerplunk bracer",
       "es": "?",
       "fr": "Brassard de conjuration",
-      "ge": "?",
+      "ge": "Opfer-armschiene",
       "it": "?",
       "jp": "メガザルのうでわ"
     },
@@ -326,7 +326,7 @@
       "en": "Rousing wristwear that may just save the day in times of need!",
       "es": "?",
       "fr": "Pourrait bien sauver la situation en cas de besoin !",
-      "ge": "?",
+      "ge": "Diese aufrüttelnde Armschiene ist oft die letzte Rettung!",
       "it": "?",
       "jp": "?"
     },
@@ -338,7 +338,7 @@
       "en": "Goddess ring",
       "es": "?",
       "fr": "Bague de la déesse",
-      "ge": "?",
+      "ge": "Göttinnenring",
       "it": "?",
       "jp": "めがみのゆびわ"
     },
@@ -363,7 +363,7 @@
       "en": "Recovers some of the wearer's MP with each and every step.",
       "es": "?",
       "fr": "Restaure une partie des PM de celui qui la porte à chaque pas.",
-      "ge": "?",
+      "ge": "Regeneriert bei jedem Schritt ein paar MP des Trägers.",
       "it": "?",
       "jp": "?"
     },
@@ -375,7 +375,7 @@
       "en": "Mercury's bandana",
       "es": "?",
       "fr": "Foulard d'Hermès",
-      "ge": "?",
+      "ge": "Merkur-kopftuch",
       "it": "?",
       "jp": "しっぷうのバンダナ"
     },
@@ -400,7 +400,7 @@
       "en": "Gives its wearer increased agility.",
       "es": "?",
       "fr": "Confère une plus grande Agilité à celui qui le porte.",
-      "ge": "?",
+      "ge": "Erhöht die Flinkheit des Trägers.",
       "it": "?",
       "jp": "?"
     },
@@ -412,7 +412,7 @@
       "en": "Meteorite bracer",
       "es": "?",
       "fr": "Brassard de météore",
-      "ge": "?",
+      "ge": "Meteor-armschiene",
       "it": "?",
       "jp": "ほしふるうでわ"
     },
@@ -426,7 +426,7 @@
       "luck": null
     },
     "price": {
-      "buy": "?",
+      "buy": null,
       "sell": "?",
       "token": 10000,
       "minimedal": "?"
@@ -437,7 +437,7 @@
       "en": "This breathtaking bracer increases the wearer's agility twofold!",
       "es": "?",
       "fr": "Ce brassard multiplie par deux l'Agilité de celui qui le porte !",
-      "ge": "?",
+      "ge": "Diese flotte Armischiene verdoppelt die Flinkheit des Trägers!",
       "it": "?",
       "jp": "?"
     },
@@ -449,7 +449,7 @@
       "en": "Lucida shard",
       "es": "?",
       "fr": "Éclat d'étoile",
-      "ge": "?",
+      "ge": "Kristallscherbe",
       "it": "?",
       "jp": "ほしのかけら"
     },
@@ -466,7 +466,7 @@
       "buy": 500,
       "sell": 375,
       "token": "?",
-      "minimedal": "?"
+      "minimedal": null
     },
     "found_at": [],
     "buyable_at": [],
@@ -474,7 +474,7 @@
       "en": "Can also be used as a tool during battle.",
       "es": "?",
       "fr": "Peut aussi être utilisé comme objet au combat.",
-      "ge": "?",
+      "ge": "Kann im Kampf auch als Werkzeug verwendet werden.",
       "it": "?",
       "jp": "?"
     },
@@ -486,7 +486,7 @@
       "en": "Bunny tail",
       "es": "?",
       "fr": "Queue de lapin",
-      "ge": "?",
+      "ge": "Häschen-schwanz",
       "it": "?",
       "jp": "うざぎのしっぽ"
     },
@@ -511,7 +511,7 @@
       "en": "It makes whoever's wearing it luckier... Or is that just a tale?",
       "es": "?",
       "fr": "Porte chance à celui qui la porte... du moins, c'est ce qu'on dit !",
-      "ge": "?",
+      "ge": "Wer ihn trägt, hat Glück... oder ist das nur ein Märchen?",
       "it": "?",
       "jp": "?"
     },
@@ -523,7 +523,7 @@
       "en": "Elevating shoes",
       "es": "?",
       "fr": "Chaussures à talons",
-      "ge": "?",
+      "ge": "Erhebende Schuhe",
       "it": "?",
       "jp": "しあわせのくつ"
     },
@@ -548,7 +548,7 @@
       "en": "Footwear that enhances experience with every single step.",
       "es": "?",
       "fr": "Chaussures qui font augmenter l'expérience à chaque pas.",
-      "ge": "?",
+      "ge": "Lassen den Träger mit jedem Schritt ein wenig Erfahrung sammeln.",
       "it": "?",
       "jp": "?"
     },
@@ -560,7 +560,7 @@
       "en": "Gospel ring",
       "es": "?",
       "fr": "Anneau évangélique",
-      "ge": "?",
+      "ge": "Spiritueller Ring",
       "it": "?",
       "jp": "ゴスペルリング"
     },
@@ -585,7 +585,7 @@
       "en": "Wards off all wandering monsters when worn.",
       "es": "?",
       "fr": "Repousse tous les monstres errants lorsqu'il est porté.",
-      "ge": "?",
+      "ge": "Hält alle umherwandernden Ungeheuer fern, wenn er getragen wird.",
       "it": "?",
       "jp": "?"
     },
