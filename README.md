@@ -3,7 +3,7 @@
 <p>An API project implying several episodes of the Dragon Quest franchise.</p>
 <p>English, Spanish, French, German, Italian and Japanese languages are supported.</p>
 
-## Prerequisites
+<h2>Prerequisites</h2>
 
 <ul>
   <li><b>Visual Studio Code</b> or any other IDE.</li>
@@ -13,7 +13,7 @@
   <li>Material Icon Theme extension for VSCode if you like fancy icons (optional). 😊</li>
 </ul>
 
-## Installing
+<h2>Installing</h2>
 
 <ul>
   <li>Download the project with <code>git clone https://github.com/NaorimSenchai/dragon-quest-api.git</code>.</li>
@@ -22,7 +22,7 @@
   <li>The API is now operational.</li>
 </ul>
 
-## Games covered by the API
+<h2>Games covered by the API</h2>
 
 <ul>
   <li>Dragon Quest I SNES</li>
