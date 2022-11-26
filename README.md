@@ -20,10 +20,6 @@ English, Spanish, French, German, Italian and Japanese languages are supported.
 
 ### Games covered by the API
 
-<ul>
-<li>Dragon Quest I SNES</li>
-</ul>
-
 - Dragon Quest I SNES
 - Dragon Quest II SNES
 - Dragon Quest III SNES
