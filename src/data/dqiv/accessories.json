@@ -6,7 +6,7 @@
       "es": "?",
       "fr": "Bague de choc",
       "ge": "Stärkering",
-      "it": "?",
+      "it": "Anello della forza",
       "jp": "ちからのゆびわ"
     },
     "sprite": "accessories_sprites/strength_ring.png",
@@ -31,7 +31,7 @@
       "es": "?",
       "fr": "Fait augmenter la Force de quiconque l'enfile.",
       "ge": "Erhöht die Stärke all derer, die ihn überstreifen.",
-      "it": "?",
+      "it": "Quest'anello accresce la forza di chi lo indossa.",
       "jp": "?"
     },
     "slug": "strength_ring"
@@ -43,7 +43,7 @@
       "es": "?",
       "fr": "Brassard de choc",
       "ge": "Mächtige Armschiene",
-      "it": "?",
+      "it": "Fascia del potere",
       "jp": "ごうけつのうでわ"
     },
     "sprite": "accessories_sprites/mighty_armlet.png",
@@ -68,7 +68,7 @@
       "es": "?",
       "fr": "Fait augmenter la Force de quiconque l'enfile.",
       "ge": "Erhöht die Stärke all derer die ihn überstreifen.",
-      "it": "?",
+      "it": "Quest'anello accresce la forza di chi lo indossa.",
       "jp": "?"
     },
     "slug": "mighty_armlet"
@@ -80,7 +80,7 @@
       "es": "?",
       "fr": "Brassard d'or",
       "ge": "Gold-armschiene",
-      "it": "?",
+      "it": "Bracciale d'oro",
       "jp": "きんのブレスレット"
     },
     "sprite": "accessories_sprites/gold_bracer.png",
@@ -105,7 +105,7 @@
       "es": "?",
       "fr": "Augmente la défense lorsqu'il est porté.",
       "ge": "Dieses brillante Armband erhöht die Abwehrkraft.",
-      "it": "?",
+      "it": "Un bracciale che aumenta le capacità difensive di chi l'indossa.",
       "jp": "?"
     },
     "slug": "gold_bracer"
@@ -117,7 +117,7 @@
       "es": "?",
       "fr": "Bague de prière",
       "ge": "Gebetsring",
-      "it": "?",
+      "it": "Anello della fede",
       "jp": "いのりのゆびわ"
     },
     "sprite": "accessories_sprites/prayer_ring.png",
@@ -142,7 +142,7 @@
       "es": "?",
       "fr": "L'utilisation de cette bague permet de récupérer quelques PM.",
       "ge": "Dieser Ring regeneriert einige MP, wenn man ihn benutzt.",
-      "it": "?",
+      "it": "Quest'anello sacro fa recuperare PM quando viene usato.",
       "jp": "?"
     },
     "slug": "prayer_ring"
@@ -154,7 +154,7 @@
       "es": "?",
       "fr": "Bas résille",
       "ge": "Netzstrümpfe",
-      "it": "?",
+      "it": "Calze a rete",
       "jp": "あみタイツ"
     },
     "sprite": "accessories_sprites/fishnet_stockings.png",
@@ -179,7 +179,7 @@
       "es": "?",
       "fr": "Les plus sexy des bas !",
       "ge": "Der letzte Schrei an sexy Beinkleidern!",
-      "it": "?",
+      "it": "Per gambe irrestibili! Fiu-fiuuuuu!",
       "jp": "?"
     },
     "slug": "fishnet_stockings"
@@ -191,7 +191,7 @@
       "es": "?",
       "fr": "Rubis de protection",
       "ge": "Schutzrubin",
-      "it": "?",
+      "it": "Rubino della difesa",
       "jp": "まもりのルビー"
     },
     "sprite": "accessories_sprites/ruby_of_protection.png",
@@ -216,7 +216,7 @@
       "es": "?",
       "fr": "Augmente la défense lorsqu'il est porté.",
       "ge": "Dieses brillante Armband erhöht die Abwehrkraft.",
-      "it": "?",
+      "it": "Un bracciale che aumenta le capacità difensive di chi l'indossa.",
       "jp": "?"
     },
     "slug": "ruby_of_protection"
@@ -228,7 +228,7 @@
       "es": "?",
       "fr": "Bague de Santé",
       "ge": "Genesungsring",
-      "it": "?",
+      "it": "Anello guaritore",
       "jp": "いのちのゆびわ"
     },
     "sprite": "accessories_sprites/recovery_ring.png",
@@ -253,7 +253,7 @@
       "es": "?",
       "fr": "Restaure une partie des PV de celui qui la porte à chaque pas.",
       "ge": "Stellt bei jedem Schritt einige LP des Trägers wieder her.",
-      "it": "?",
+      "it": "Chi lo indossa recupera HP a ogni passo percorso.",
       "jp": "?"
     },
     "slug": "recovery_ring"
@@ -265,7 +265,7 @@
       "es": "?",
       "fr": "Brassard kamikaze",
       "ge": "Kamikaze-armschiene",
-      "it": "?",
+      "it": "Bracciale Kamikaze",
       "jp": "メガンテのうでわ"
     },
     "sprite": "accessories_sprites/kamikazee_bracer.png",
@@ -290,7 +290,7 @@
       "es": "?",
       "fr": "Pourrait bien sauver la situation en cas de besoin !",
       "ge": "Diese aufrüttelnde Armschiene ist oft die letzte Rettung!",
-      "it": "?",
+      "it": "Questo monile può essere molto utile nelle situazioni disperate!",
       "jp": "?"
     },
     "slug": "kamikazee_bracer"
@@ -302,7 +302,7 @@
       "es": "?",
       "fr": "Brassard de conjuration",
       "ge": "Opfer-armschiene",
-      "it": "?",
+      "it": "Bracciale sacrificale",
       "jp": "メガザルのうでわ"
     },
     "sprite": "accessories_sprites/kerplunk_bracer.png",
@@ -327,7 +327,7 @@
       "es": "?",
       "fr": "Pourrait bien sauver la situation en cas de besoin !",
       "ge": "Diese aufrüttelnde Armschiene ist oft die letzte Rettung!",
-      "it": "?",
+      "it": "Questo monile può essere molto utile nelle situazioni disperate!",
       "jp": "?"
     },
     "slug": "kerplunk_bracer"
@@ -339,7 +339,7 @@
       "es": "?",
       "fr": "Bague de la déesse",
       "ge": "Göttinnenring",
-      "it": "?",
+      "it": "Anello della dea",
       "jp": "めがみのゆびわ"
     },
     "sprite": "accessories_sprites/goddess_ring.png",
@@ -364,7 +364,7 @@
       "es": "?",
       "fr": "Restaure une partie des PM de celui qui la porte à chaque pas.",
       "ge": "Regeneriert bei jedem Schritt ein paar MP des Trägers.",
-      "it": "?",
+      "it": "Chi lo indossa recupera PM mentre va in giro.",
       "jp": "?"
     },
     "slug": "goddess_ring"
@@ -376,7 +376,7 @@
       "es": "?",
       "fr": "Foulard d'Hermès",
       "ge": "Merkur-kopftuch",
-      "it": "?",
+      "it": "Bandana di Mercurio",
       "jp": "しっぷうのバンダナ"
     },
     "sprite": "accessories_sprites/mercurys_bandana.png",
@@ -401,7 +401,7 @@
       "es": "?",
       "fr": "Confère une plus grande Agilité à celui qui le porte.",
       "ge": "Erhöht die Flinkheit des Trägers.",
-      "it": "?",
+      "it": "Accresce l'agilità di chi la indossa.",
       "jp": "?"
     },
     "slug": "mercurys_bandana"
@@ -413,7 +413,7 @@
       "es": "?",
       "fr": "Brassard de météore",
       "ge": "Meteor-armschiene",
-      "it": "?",
+      "it": "Bracciale del lampo",
       "jp": "ほしふるうでわ"
     },
     "sprite": "accessories_sprites/meteorite_bracer.png",
@@ -438,7 +438,7 @@
       "es": "?",
       "fr": "Ce brassard multiplie par deux l'Agilité de celui qui le porte !",
       "ge": "Diese flotte Armischiene verdoppelt die Flinkheit des Trägers!",
-      "it": "?",
+      "it": "Questo bellissimo bracciade raddoppia l'agilità di chi l'indossa.",
       "jp": "?"
     },
     "slug": "meteorite_bracer"
@@ -450,7 +450,7 @@
       "es": "?",
       "fr": "Éclat d'étoile",
       "ge": "Kristallscherbe",
-      "it": "?",
+      "it": "Frammento lucido",
       "jp": "ほしのかけら"
     },
     "sprite": "accessories_sprites/lucida_shard.png",
@@ -475,7 +475,7 @@
       "es": "?",
       "fr": "Peut aussi être utilisé comme objet au combat.",
       "ge": "Kann im Kampf auch als Werkzeug verwendet werden.",
-      "it": "?",
+      "it": "Può anche essere usato come oggetto in battaglia.",
       "jp": "?"
     },
     "slug": "lucida_shard"
@@ -487,7 +487,7 @@
       "es": "?",
       "fr": "Queue de lapin",
       "ge": "Häschen-schwanz",
-      "it": "?",
+      "it": "Coda da coniglietta",
       "jp": "うざぎのしっぽ"
     },
     "sprite": "accessories_sprites/bunny_tail.png",
@@ -512,7 +512,7 @@
       "es": "?",
       "fr": "Porte chance à celui qui la porte... du moins, c'est ce qu'on dit !",
       "ge": "Wer ihn trägt, hat Glück... oder ist das nur ein Märchen?",
-      "it": "?",
+      "it": "Si dice che chi la indossa diventi più fortunato. Sarà vero...?",
       "jp": "?"
     },
     "slug": "bunny_tail"
@@ -524,7 +524,7 @@
       "es": "?",
       "fr": "Chaussures à talons",
       "ge": "Erhebende Schuhe",
-      "it": "?",
+      "it": "Scarpe Sante",
       "jp": "しあわせのくつ"
     },
     "sprite": "accessories_sprites/elevating_shoes.png",
@@ -549,7 +549,7 @@
       "es": "?",
       "fr": "Chaussures qui font augmenter l'expérience à chaque pas.",
       "ge": "Lassen den Träger mit jedem Schritt ein wenig Erfahrung sammeln.",
-      "it": "?",
+      "it": "Ogni passo percorso fa aumentare l'esperienza.",
       "jp": "?"
     },
     "slug": "elevating_shoes"
@@ -561,7 +561,7 @@
       "es": "?",
       "fr": "Anneau évangélique",
       "ge": "Spiritueller Ring",
-      "it": "?",
+      "it": "Se indossato, allontana tutti i mostri vicini.",
       "jp": "ゴスペルリング"
     },
     "sprite": "accessories_sprites/gospel_ring.png",
@@ -586,7 +586,7 @@
       "es": "?",
       "fr": "Repousse tous les monstres errants lorsqu'il est porté.",
       "ge": "Hält alle umherwandernden Ungeheuer fern, wenn er getragen wird.",
-      "it": "?",
+      "it": "Se indossato, allontana tutti i mostri vicini.",
       "jp": "?"
     },
     "slug": "gospel_ring"
