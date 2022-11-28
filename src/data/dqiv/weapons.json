@@ -2,11 +2,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Cypress Stick",
+      "es": "Porra de Ciprés",
       "fr": "Bâton de cyprès",
-      "ge": "?",
-      "it": "?",
+      "ge": "Zypressenstock",
+      "it": "Bastone di cipresso",
       "jp": "ひのきのぼう"
     },
     "sprite": "weapons_sprites/?.png",
@@ -26,11 +26,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
+      "en": "Oaken Club",
       "es": "Garrote de roble",
       "fr": "Massue de chêne",
-      "ge": "?",
-      "it": "?",
+      "ge": "Eichenknüppel",
+      "it": "Clava",
       "jp": "こんぼう"
     },
     "sprite": "weapons_sprites/?.png",
@@ -50,11 +50,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
+      "en": "Copper Sword",
       "es": "Espada de cobre",
       "fr": "Épée de cuivre",
-      "ge": "?",
-      "it": "?",
+      "ge": "Kupferschwert",
+      "it": "Spada di rame",
       "jp": "どうのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -74,11 +74,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
+      "en": "Steel Broadsword",
       "es": "Espada de acero",
       "fr": "Épée large d'acier",
-      "ge": "?",
-      "it": "?",
+      "ge": "Stahlbreitschwert",
+      "it": "Spada d'acciaio",
       "jp": "はがねのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -98,11 +98,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
+      "en": "Cautery Sword",
       "es": "Cauterizadora",
       "fr": "Épée ardente",
-      "ge": "?",
-      "it": "?",
+      "ge": "Ätzklinge",
+      "it": "Spada tagliafuoco",
       "jp": "はじゃのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -110,11 +110,11 @@
     "stats": { "attack": 45 },
     "price": { "buy": 3500, "sell": 2625, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
+      "en": "Can also be used as a tool in battle.",
       "es": "Se puede utilizar también como herramienta en combate.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "fr": "Peut aussi être utilisé comme objet au combat",
+      "ge": "Wirkt [Knister], wenn es als Gegenstand verwendet wird.",
+      "it": "?",
       "jp": "?"
     },
     "slug": "_slug"
@@ -122,11 +122,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Épée du rêve",
-      "ge": "?",
-      "it": "?",
+      "en": "Sword of Lethargy ",
+      "es": "Espada onírica",
+      "fr": "Epée du rêve",
+      "ge": "Traumklinge",
+      "it": "Spada del sogni",
       "jp": "まどろみのけん"
     },
     "sprite": "weapons_sprites/?.png",
@@ -134,11 +134,11 @@
     "stats": { "attack": 60 },
     "price": { "buy": 8000, "sell": 6000, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "en": "May cause Sleep.",
+      "es": "Posibilidad de dormir al enemigo",
+      "fr": "Cette épée peut parfois endormir sa cible",
+      "ge": "Kann ab und zu einen Feind einschlafen lassen.",
+      "it": "?",
       "jp": "?"
     },
     "slug": "_slug"
@@ -146,11 +146,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Falcon blade",
+      "es": "Falcoespada",
       "fr": "Lame du Faucon",
-      "ge": "?",
-      "it": "?",
+      "ge": "Falkenklinge",
+      "it": "Falcon",
       "jp": "はやぶさのけん"
     },
     "sprite": "weapons_sprites/?.png",
@@ -158,11 +158,11 @@
     "stats": { "attack": 67 },
     "price": { "buy": "-", "sell": "-", "token": 65000, "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "en": "Attacks twice per round.",
+      "es": "Golpea 2 veces",
+      "fr": "Cette épée très rapide peut frapper deux fois en un seul tour",
+      "ge": "Greift zweimal pro Runde an.",
+      "it": "?",
       "jp": "?"
     },
     "slug": "_slug"
@@ -170,11 +170,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Icicle dirk",
+      "es": "Puñal gelido",
       "fr": "Dague de glace",
-      "ge": "?",
-      "it": "?",
+      "ge": "Eiszapfendolch",
+      "it": "Stiletto di ghiaccio",
       "jp": "こおりのやいば"
     },
     "sprite": "weapons_sprites/?.png",
@@ -182,10 +182,10 @@
     "stats": { "attack": 75 },
     "price": { "buy": "-", "sell": 600, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "en": "Can also be used as a tool in battle.",
+      "es": "Se puede utilizar también como herramienta en combate.",
+      "fr": "Peut aussi être utilisé comme objet au combat",
+      "ge": "Wirkt [Knister], wenn es als Gegenstand verwendet wird.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
     },
@@ -194,11 +194,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Dragonsbane",
+      "es": "Dañadragones",
       "fr": "Fléau des dragons",
-      "ge": "?",
-      "it": "?",
+      "ge": "Drachenspalter",
+      "it": "Ammazzadraghi",
       "jp": "ドラゴンキラー"
     },
     "sprite": "weapons_sprites/?.png",
@@ -207,8 +207,8 @@
     "price": { "buy": 15000, "sell": 11250, "token": "-", "minimedal": "-" },
     "description": {
       "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "es": "Especialmente efectiva contra dragones",
+      "fr": "Cette arme inflige plus de dégâts aux dragons",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -218,10 +218,10 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Double-edged sword",
+      "es": "Espada Doble",
       "fr": "Épée double",
-      "ge": "?",
+      "ge": "Zwiespaltklinge",
       "it": "?",
       "jp": "もろはのつるぎ"
     },
@@ -231,10 +231,10 @@
     "price": { "buy": "-", "sell": 2475, "token": "-", "minimedal": "-" },
     "description": {
       "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "es": "Está maldita, causa daño al portador cuando ataca.",
+      "fr": "Attention! Cette épée cache bien son pouvoir. Objet maudit!",
+      "ge": "Verflucht! Der Träger nimmt beim Angriff auch Schaden.",
+      "it": "?",
       "jp": "?"
     },
     "slug": "_slug"
@@ -242,23 +242,23 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Miracle sword",
+      "es": "Espada Milagrosa",
       "fr": "Épée miraculeuse",
-      "ge": "?",
-      "it": "?",
+      "ge": "Wunderklinge",
+      "it": "Spada dei miracoli",
       "jp": "きせきのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
     "artwork": "weapons_artworks/?.png",
     "stats": { "attack": 100 },
-    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 38 },
+    "price": { "buy": 31000, "sell": 3100, "token": "-", "minimedal": 38 },
     "description": {
       "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "es": "Cura PV cuando se ataca",
+      "fr": "Restaure les PV de l'utilisateur à chaque attaque",
+      "ge": "Der Träger bekommt nach jedem Angriff Lebenspunkte geschenkt.",
+      "it": "?",
       "jp": "?"
     },
     "slug": "_slug"
@@ -266,11 +266,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Zenithian sword",
+      "es": "Espada de Zenithia",
       "fr": "Épée zénithienne",
-      "ge": "?",
-      "it": "?",
+      "ge": "Zenithia-Schwert",
+      "it": "Spada Zenithiana",
       "jp": "てんくうのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -280,44 +280,21 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Une arme légendaire et un objet très utile au combat",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
-      "jp": "?"
-    },
-    "slug": "_slug"
-  },
-  {
-    "id": "?",
-    "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Épée zénithienne",
-      "ge": "?",
       "it": "?",
-      "jp": "てんくうのつるぎ"
-    },
-    "sprite": "weapons_sprites/?.png",
-    "artwork": "weapons_artworks/?.png",
-    "stats": { "attack": 110 },
-    "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
-    "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
     },
     "slug": "_slug"
   },
+ 
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Massacre sword",
+      "es": "Masacradora",
       "fr": "Épée du massacre",
-      "ge": "?",
+      "ge": "Massakerschwert",
       "it": "?",
       "jp": "みなごろしのけん"
     },
@@ -327,9 +304,9 @@
     "price": { "buy": 15000, "sell": 11250, "token": "-", "minimedal": "-" },
     "description": {
       "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
+      "es": "Está maldita, causa daño al portador cuando ataca",
+      "fr": "Attention! Cette épée cache bien son pouvoir. Objet maudit!",
+      "ge": "Verflucht! Wirkt [Schwächung], wenn es als Gegenstand verwendet wird.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
     },
@@ -338,11 +315,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Liquid metal sword",
+      "es": "Espada Metalíquida",
       "fr": "Épée de mercure",
-      "ge": "?",
-      "it": "?",
+      "ge": "Flüssigmetallschwert",
+      "it": "Spada del liquislime",
       "jp": "はぐれメタルのけん"
     },
     "sprite": "weapons_sprites/?.png",
@@ -351,8 +328,8 @@
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
     "description": {
       "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "es": "Efectiva contra monstruos de metal",
+      "fr": "Inflige de plus gros dégâts aux monstres métalliques",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -362,10 +339,10 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Pandemonic sword",
+      "es": "Espada Pandemónica",
       "fr": "Épée des enfers",
-      "ge": "?",
+      "ge": "Teufelsklinge",
       "it": "?",
       "jp": "まかいのつるぎ"
     },
@@ -376,7 +353,7 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Cette épée restaure les PV de son utilisateur à chaque attaque",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -386,11 +363,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Staff of salvation",
+      "es": "Báculo Salvador",
       "fr": "Bâton du salut",
-      "ge": "?",
-      "it": "?",
+      "ge": "Stab der Erlösung",
+      "it": "Bastone salvifico",
       "jp": "しゅくふくのつえ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -400,7 +377,7 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Utilisé comme objet au combat, ce bâton restaure les PV.",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -410,11 +387,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Lightning staff",
+      "es": "Báculo de Luz",
       "fr": "Bâton de foudre",
-      "ge": "?",
-      "it": "?",
+      "ge": "Blitzstab",
+      "it": "Bastone del fulmine",
       "jp": "いかづちのつえ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -424,7 +401,7 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Peut aussi être utilisé comme objet au combat",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -434,11 +411,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Thalian staff",
+      "es": "Báculo de Talía",
       "fr": "Bâton de Thalie",
-      "ge": "?",
-      "it": "?",
+      "ge": "Thaliastab",
+      "it": "Mazza del riso",
       "jp": "ほほえみのつえ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -448,7 +425,7 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Peut aussi être utilisé comme objet au combat",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -458,11 +435,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Staff of divine wrath",
+      "es": "Báculo de Ira Divina",
       "fr": "Bâton du courroux",
-      "ge": "?",
-      "it": "?",
+      "ge": "Gotteszornstab",
+      "it": "Dies irae",
       "jp": "てんばつのつえ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -482,11 +459,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Staff of antimagic",
+      "es": "Báculo de Antimagia",
       "fr": "Bâton d'antimagie",
-      "ge": "?",
-      "it": "?",
+      "ge": "Stab der Antimagie",
+      "it": "Bastone antimagia",
       "jp": "まふうじのつえ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -496,7 +473,7 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Peut aussi être utilisé comme objet au combat",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -506,21 +483,21 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Somatic staff",
+      "es": "Báculo Somático",
       "fr": "Bâton sommatique",
-      "ge": "?",
-      "it": "?",
+      "ge": "Somatischer Stab",
+      "it": "Bastone magifisico",
       "jp": "りりょくのつえ"
     },
     "sprite": "weapons_sprites/?.png",
     "artwork": "weapons_artworks/?.png",
-    "stats": { "attack": 55 },
+    "stats": { "attack": 60 },
     "price": { "buy": 2500, "sell": 1875, "token": "-", "minimedal": "-" },
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Ce bâton utilise les PM pour infliger des dégâts",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -530,11 +507,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Magma staff",
+      "es": "Báculo de Magma",
       "fr": "Bâton de lave",
-      "ge": "?",
-      "it": "?",
+      "ge": "Magmastab",
+      "it": "Bastone di magma",
       "jp": "マグマのつえ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -544,7 +521,7 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Peut aussi être utilisé comme objet au combat",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -554,11 +531,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Poison needle",
+      "es": "Aguja Envenenada",
       "fr": "Aiguille empoisonnée",
-      "ge": "?",
-      "it": "?",
+      "ge": "Giftnadel",
+      "it": "Pungiglione",
       "jp": "どくばり"
     },
     "sprite": "weapons_sprites/?.png",
@@ -568,7 +545,7 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Bien lancée, cette pique inflige un coup critique",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -578,11 +555,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Falcon knife earrings",
+      "es": "Pendientes Letales",
       "fr": "Dagues d'oreille",
-      "ge": "?",
-      "it": "?",
+      "ge": "Falkenohrringe",
+      "it": "Orecchino del falco",
       "jp": "キラーピアス"
     },
     "sprite": "weapons_sprites/?.png",
@@ -592,7 +569,7 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Ces bijoux permettent de frapper deux fois en un seul tour",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -602,11 +579,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
+      "en": "Divine dagger",
       "es": "Daga divina",
       "fr": "Dague divine",
-      "ge": "?",
-      "it": "?",
+      "ge": "Himmelsdolch",
+      "it": "Daga divina",
       "jp": "せいなるナイフ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -626,11 +603,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
+      "en": "Poison moth knife",
       "es": "Puñal envenenado",
       "fr": "Poignard empoisonné",
-      "ge": "?",
-      "it": "?",
+      "ge": "Giftmottenmesser",
+      "it": "Falena velenosa",
       "jp": "どくがのナイフ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -640,7 +617,7 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "Algunas veces, este puñal puede paralizar a su objetivo.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Ce poignard peut parfois paralyser sa cible",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -650,11 +627,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
+      "en": "Iron lance",
       "es": "Lanza de hierro",
       "fr": "Lance de fer",
-      "ge": "?",
-      "it": "?",
+      "ge": "Eisenlanze",
+      "it": "Lancia di ferro",
       "jp": "てつのやり"
     },
     "sprite": "weapons_sprites/?.png",
@@ -674,11 +651,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
+      "en": "Holy lance",
       "es": "Lanza sagrada",
       "fr": "Lance sacrée",
-      "ge": "?",
-      "it": "?",
+      "ge": "Heilige Lanze",
+      "it": "Lancia sacra",
       "jp": "ホーリーランス"
     },
     "sprite": "weapons_sprites/?.png",
@@ -698,21 +675,21 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Demon spear",
+      "es": "Lanza Demoníaca",
       "fr": "Lance du démon",
-      "ge": "?",
-      "it": "?",
+      "ge": "Dämonenspeer",
+      "it": "Lancia demoniaca",
       "jp": "デーモンスピア"
     },
     "sprite": "weapons_sprites/?.png",
     "artwork": "weapons_artworks/?.png",
-    "stats": { "attack": 90 },
+    "stats": { "attack": 100 },
     "price": { "buy": "-", "sell": 18750, "token": "-", "minimedal": "-" },
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Lancée avec précision, cette lance peut infliger un coup critique",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -722,20 +699,21 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Iron claw",
+      "es": "Garra de Hierro",
+      "ge": "Eisenkralle",
       "fr": "Griffe de fer",
+      "it": "Artiglio di ferro",
       "jp": "てつのツメ"
     },
+    "sprite": "weapons_sprites/?.png",
+    "artwork": "weapons_artworks/?.png",
     "stats": { "attack": 38 },
     "price": { "buy": 1500, "sell": 1125, "token": "-", "minimedal": "-" },
     "description": {
-      "ge": "?",
-      "it": "?",
+      
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "sprite": "weapons_sprites/?.png",
-      "artwork": "weapons_artworks/?.png",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
@@ -746,11 +724,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Fire Claw",
+      "es": "Garra de Fuego",
       "fr": "Griffe de feu",
-      "ge": "?",
-      "it": "?",
+      "ge": "Feuerkralle",
+      "it": "Artiglio di fuoco",
       "jp": "ほのおのツメ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -760,7 +738,7 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Peut aussi être utilisé comme objet au combat",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -770,11 +748,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Cobra claws",
+      "es": "Garra de Cobra",
       "fr": "Griffe de cobra",
-      "ge": "?",
-      "it": "?",
+      "ge": "Kobrakralle",
+      "it": "Artigli del cobra",
       "jp": "あくまのツメ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -783,8 +761,8 @@
     "price": { "buy": 13500, "sell": 10125, "token": "-", "minimedal": "-" },
     "description": {
       "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "es": "Puede envenenar a su objetivo",
+      "fr": "Cette griffe toxique peut parfois empoisonner sa cible",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -794,11 +772,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
+      "en": "Hunter's bow",
       "es": "Ballesta de caza",
       "fr": "Arc de chasseur",
-      "ge": "?",
-      "it": "?",
+      "ge": "Jägerbogen",
+      "it": "Arco da caccia",
       "jp": "クロスボウ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -818,11 +796,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
+      "en": "Chain sickle",
       "es": "Martillo con cadena",
       "fr": "Faucille à chaîne",
-      "ge": "?",
-      "it": "?",
+      "ge": "Kettensichel",
+      "it": "Falce a catena",
       "jp": "くさりがま"
     },
     "sprite": "weapons_sprites/?.png",
@@ -842,11 +820,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Silver tarot cards",
+      "es": "Tarot de plata",
       "fr": "Cartes argentées",
-      "ge": "?",
-      "it": "?",
+      "ge": "Silber-Tarotkarten",
+      "it": "Tarocchi argentei",
       "jp": "ぎんのタロット"
     },
     "sprite": "weapons_sprites/?.png",
@@ -856,7 +834,7 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Ce jeu de carte peut aussi être utilisé pour la voyance",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -866,11 +844,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
+      "en": "Iron fan",
       "es": "Abanico de hierro",
       "fr": "Éventail de fer",
-      "ge": "?",
-      "it": "?",
+      "ge": "Eisenfächer",
+      "it": "Ventaglio di ferro",
       "jp": "てつのおうぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -890,10 +868,10 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "Ábaco de Astrae",
-      "fr": "Boulier d'astrae",
-      "ge": "?",
+      "en": "Abacus of Virtue",
+      "es": "Ábaco de Astraea",
+      "fr": "Bouclier d'Astrae",
+      "ge": "Abakus der Astraea",
       "it": "?",
       "jp": "せいぎのそろばん"
     },
@@ -902,22 +880,22 @@
     "stats": { "attack": 35 },
     "price": { "buy": 1600, "sell": 1200, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "Se puede utilizar también como herramienta en combate.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
-      "jp": "?"
+      "en": "The abacus increases Torneko's attack by +35, and casts Poof when used as an item in battle.",
+      "es": "Sube el ataque +35, y únicamente puede ser equipado por Torneko. Si se usa en combate como un objeto lanza el conjuro Puf.",
+      "fr": "Torneko peut s'en équiper ; il augmente l'attaque de 35. Il peut aussi être utilisé comme objet au combat.",
+      "ge": "Wirkt [Puff], wenn es als Gegenstand verwendet wird.",
+      "it": "?",
+      "jp": "【トルネコ】の専用武器。公式イラストでも所持していることからわかるように、彼のお気に入りの武器……のはず。"
     },
     "slug": "_slug"
   },
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Battle Axe",
+      "es": "Hacha de batalla",
       "fr": "Hache de guerre",
-      "ge": "?",
+      "ge": "Kampfaxt",
       "it": "?",
       "jp": "バトルアックス"
     },
@@ -938,11 +916,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Hela's hammer",
+      "es": "Martillo de Hela",
       "fr": "Marteau de Hela",
-      "ge": "?",
-      "it": "?",
+      "ge": "Hammer der Hela",
+      "it": "Martello di Hela",
       "jp": "まじんのかなづち"
     },
     "sprite": "weapons_sprites/?.png",
@@ -952,7 +930,7 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Ce marteau est difficile à manipuler, mais il peut faire très mal",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -962,11 +940,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Gringham whip",
+      "es": "Látigo de Gringham",
       "fr": "Fouet de Gringham",
-      "ge": "?",
-      "it": "?",
+      "ge": "Gringhampeitsche",
+      "it": "Frusta di Gringham",
       "jp": "グリンガムのムチ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -976,7 +954,7 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Ce fouet mortel peut toucher tout un groupe d'ennemis",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
@@ -986,11 +964,11 @@
   {
     "id": "?",
     "name": {
-      "en": "?",
-      "es": "?",
+      "en": "Flail of destruction",
+      "es": "Mangual Destructor",
       "fr": "Fléau du carnage",
-      "ge": "?",
-      "it": "?",
+      "ge": "Flegel der Verheerung",
+      "it": "Flagello del caos",
       "jp": "はかいのてっきゅう"
     },
     "sprite": "weapons_sprites/?.png",
@@ -1000,7 +978,7 @@
     "description": {
       "en": "Doesn't appear to have any special effects.",
       "es": "No parece tener efecto especial alguno.",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
+      "fr": "Ce fléau permet d'attaquer tous les ennemis à la fois",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
       "jp": "?"
