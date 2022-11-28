@@ -12,16 +12,16 @@
     "sprite": "accessories_sprites/strength_ring.png",
     "artwork": "accessories_artworks/strength_ring.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": 8,
+      "defense": null,
+      "wisdom": null,
+      "speed": null,
+      "luck": null
     },
     "price": {
-      "buy": "?",
-      "sell": "?",
-      "token": "?",
+      "buy": 880,
+      "sell": 660,
+      "token": null,
       "minimedal": 15
     },
     "found_at": [],
@@ -49,16 +49,16 @@
     "sprite": "accessories_sprites/mighty_armlet.png",
     "artwork": "accessories_artworks/mighty_armlet.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": 25,
+      "defense": null,
+      "wisdom": null,
+      "speed": null,
+      "luck": null
     },
     "price": {
-      "buy": "?",
-      "sell": "?",
-      "token": "?",
+      "buy": 37000,
+      "sell": 3700,
+      "token": null,
       "minimedal": 47
     },
     "found_at": [],
@@ -86,17 +86,17 @@
     "sprite": "accessories_sprites/gold_bracer.png",
     "artwork": "accessories_artworks/gold_bracer.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": null,
+      "defense": 5,
+      "wisdom": null,
+      "speed": null,
+      "luck": null
     },
     "price": {
-      "buy": "?",
-      "sell": "?",
+      "buy": 350,
+      "sell": 262,
       "token": 1000,
-      "minimedal": "?"
+      "minimedal": null
     },
     "found_at": [],
     "buyable_at": [],
@@ -123,17 +123,17 @@
     "sprite": "accessories_sprites/prayer_ring.png",
     "artwork": "accessories_artworks/prayer_ring.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": null,
+      "defense": 5,
+      "wisdom": null,
+      "speed": null,
+      "luck": null
     },
     "price": {
-      "buy": "?",
-      "sell": "?",
+      "buy": 3000,
+      "sell": 2250,
       "token": 500,
-      "minimedal": "?"
+      "minimedal": null
     },
     "found_at": [],
     "buyable_at": [],
