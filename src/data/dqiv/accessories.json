@@ -3,7 +3,7 @@
     "id": 1,
     "name": {
       "en": "Strength ring",
-      "es": "?",
+      "es": "Anillo de fuerza",
       "fr": "Bague de choc",
       "ge": "Stärkering",
       "it": "Anello della forza",
@@ -28,7 +28,7 @@
     "buyable_at": [],
     "description": {
       "en": "Supplements the strength of whoever should slip it on.",
-      "es": "?",
+      "es": "Complementa la fuerza de aquel que se lo ponga.",
       "fr": "Fait augmenter la Force de quiconque l'enfile.",
       "ge": "Erhöht die Stärke all derer, die ihn überstreifen.",
       "it": "Quest'anello accresce la forza di chi lo indossa.",
@@ -40,7 +40,7 @@
     "id": 2,
     "name": {
       "en": "Mighty armlet",
-      "es": "?",
+      "es": "Brazalete poderoso",
       "fr": "Brassard de choc",
       "ge": "Mächtige Armschiene",
       "it": "Fascia del potere",
@@ -65,7 +65,7 @@
     "buyable_at": [],
     "description": {
       "en": "Supplements the strength of whoever should slip it on.",
-      "es": "?",
+      "es": "Complementa la fuerza de aquel que se lo ponga.",
       "fr": "Fait augmenter la Force de quiconque l'enfile.",
       "ge": "Erhöht die Stärke all derer die ihn überstreifen.",
       "it": "Quest'anello accresce la forza di chi lo indossa.",
@@ -77,7 +77,7 @@
     "id": 3,
     "name": {
       "en": "Gold bracer",
-      "es": "?",
+      "es": "Brazalete de oro",
       "fr": "Brassard d'or",
       "ge": "Gold-armschiene",
       "it": "Bracciale d'oro",
@@ -102,7 +102,7 @@
     "buyable_at": [],
     "description": {
       "en": "This brilliant band boosts defence when worn.",
-      "es": "?",
+      "es": "Esta brillante joya incrementa la defensa del portador.",
       "fr": "Augmente la défense lorsqu'il est porté.",
       "ge": "Dieses brillante Armband erhöht die Abwehrkraft.",
       "it": "Un bracciale che aumenta le capacità difensive di chi l'indossa.",
@@ -114,7 +114,7 @@
     "id": 4,
     "name": {
       "en": "Prayer ring",
-      "es": "?",
+      "es": "Anillo de oración",
       "fr": "Bague de prière",
       "ge": "Gebetsring",
       "it": "Anello della fede",
@@ -139,7 +139,7 @@
     "buyable_at": [],
     "description": {
       "en": "This religious ring recovers some MP whenever it's used.",
-      "es": "?",
+      "es": "Este anillo religioso recupera algo de PM al utilizarlo.",
       "fr": "L'utilisation de cette bague permet de récupérer quelques PM.",
       "ge": "Dieser Ring regeneriert einige MP, wenn man ihn benutzt.",
       "it": "Quest'anello sacro fa recuperare PM quando viene usato.",
@@ -151,7 +151,7 @@
     "id": 5,
     "name": {
       "en": "Fishnet stockings",
-      "es": "?",
+      "es": "Medias",
       "fr": "Bas résille",
       "ge": "Netzstrümpfe",
       "it": "Calze a rete",
@@ -176,7 +176,7 @@
     "buyable_at": [],
     "description": {
       "en": "The ultimate in sexy legwear!",
-      "es": "?",
+      "es": "¡Lo más sexy para lucir piernas!",
       "fr": "Les plus sexy des bas !",
       "ge": "Der letzte Schrei an sexy Beinkleidern!",
       "it": "Per gambe irrestibili! Fiu-fiuuuuu!",
@@ -188,7 +188,7 @@
     "id": 6,
     "name": {
       "en": "Ruby of protection",
-      "es": "?",
+      "es": "Gema de protección",
       "fr": "Rubis de protection",
       "ge": "Schutzrubin",
       "it": "Rubino della difesa",
@@ -213,7 +213,7 @@
     "buyable_at": [],
     "description": {
       "en": "This brilliant band boosts defence when worn.",
-      "es": "?",
+      "es": "Esta brillante joya incrementa la defensa del portador.",
       "fr": "Augmente la défense lorsqu'il est porté.",
       "ge": "Dieses brillante Armband erhöht die Abwehrkraft.",
       "it": "Un bracciale che aumenta le capacità difensive di chi l'indossa.",
@@ -225,7 +225,7 @@
     "id": 7,
     "name": {
       "en": "Recovery ring",
-      "es": "?",
+      "es": "Anillo de recuperación",
       "fr": "Bague de Santé",
       "ge": "Genesungsring",
       "it": "Anello guaritore",
@@ -250,7 +250,7 @@
     "buyable_at": [],
     "description": {
       "en": "Restores some of the wearer's HP with each and every step.",
-      "es": "?",
+      "es": "Hace que el que lo lleva recupere PV a cada paso.",
       "fr": "Restaure une partie des PV de celui qui la porte à chaque pas.",
       "ge": "Stellt bei jedem Schritt einige LP des Trägers wieder her.",
       "it": "Chi lo indossa recupera HP a ogni passo percorso.",
@@ -262,7 +262,7 @@
     "id": 8,
     "name": {
       "en": "Kamikazee bracer",
-      "es": "?",
+      "es": "Brazalete de kamikaze",
       "fr": "Brassard kamikaze",
       "ge": "Kamikaze-armschiene",
       "it": "Bracciale Kamikaze",
@@ -287,7 +287,7 @@
     "buyable_at": [],
     "description": {
       "en": "Rousing wristwear that may just save the day in times of need!",
-      "es": "?",
+      "es": "¡Espléndido ornamento: puede salvarte en momentos críticos!",
       "fr": "Pourrait bien sauver la situation en cas de besoin !",
       "ge": "Diese aufrüttelnde Armschiene ist oft die letzte Rettung!",
       "it": "Questo monile può essere molto utile nelle situazioni disperate!",
@@ -299,7 +299,7 @@
     "id": 9,
     "name": {
       "en": "Kerplunk bracer",
-      "es": "?",
+      "es": "Brazalete de autosacrificio",
       "fr": "Brassard de conjuration",
       "ge": "Opfer-armschiene",
       "it": "Bracciale sacrificale",
@@ -324,7 +324,7 @@
     "buyable_at": [],
     "description": {
       "en": "Rousing wristwear that may just save the day in times of need!",
-      "es": "?",
+      "es": "¡Espléndido ornamento: puede salvarte en momentos críticos!",
       "fr": "Pourrait bien sauver la situation en cas de besoin !",
       "ge": "Diese aufrüttelnde Armschiene ist oft die letzte Rettung!",
       "it": "Questo monile può essere molto utile nelle situazioni disperate!",
@@ -336,7 +336,7 @@
     "id": 10,
     "name": {
       "en": "Goddess ring",
-      "es": "?",
+      "es": "Anillo de la Diosa",
       "fr": "Bague de la déesse",
       "ge": "Göttinnenring",
       "it": "Anello della dea",
@@ -361,7 +361,7 @@
     "buyable_at": [],
     "description": {
       "en": "Recovers some of the wearer's MP with each and every step.",
-      "es": "?",
+      "es": "Hace que el que lo lleva recupere algo de PM a cada paso.",
       "fr": "Restaure une partie des PM de celui qui la porte à chaque pas.",
       "ge": "Regeneriert bei jedem Schritt ein paar MP des Trägers.",
       "it": "Chi lo indossa recupera PM mentre va in giro.",
@@ -373,7 +373,7 @@
     "id": 11,
     "name": {
       "en": "Mercury's bandana",
-      "es": "?",
+      "es": "Pañuelo de Mercurio",
       "fr": "Foulard d'Hermès",
       "ge": "Merkur-kopftuch",
       "it": "Bandana di Mercurio",
@@ -398,7 +398,7 @@
     "buyable_at": [],
     "description": {
       "en": "Gives its wearer increased agility.",
-      "es": "?",
+      "es": "Proporciona más agilidad al que lo lleva.",
       "fr": "Confère une plus grande Agilité à celui qui le porte.",
       "ge": "Erhöht die Flinkheit des Trägers.",
       "it": "Accresce l'agilità di chi la indossa.",
@@ -410,7 +410,7 @@
     "id": 12,
     "name": {
       "en": "Meteorite bracer",
-      "es": "?",
+      "es": "Brazalete de meteorito",
       "fr": "Brassard de météore",
       "ge": "Meteor-armschiene",
       "it": "Bracciale del lampo",
@@ -435,7 +435,7 @@
     "buyable_at": [],
     "description": {
       "en": "This breathtaking bracer increases the wearer's agility twofold!",
-      "es": "?",
+      "es": "¡Este impresionante brazalete duplica la agilidad del portador!",
       "fr": "Ce brassard multiplie par deux l'Agilité de celui qui le porte !",
       "ge": "Diese flotte Armischiene verdoppelt die Flinkheit des Trägers!",
       "it": "Questo bellissimo bracciade raddoppia l'agilità di chi l'indossa.",
@@ -447,7 +447,7 @@
     "id": 13,
     "name": {
       "en": "Lucida shard",
-      "es": "?",
+      "es": "Fragmento de Lucida",
       "fr": "Éclat d'étoile",
       "ge": "Kristallscherbe",
       "it": "Frammento lucido",
@@ -472,7 +472,7 @@
     "buyable_at": [],
     "description": {
       "en": "Can also be used as a tool during battle.",
-      "es": "?",
+      "es": "Se puede utilizar también como herramienta en combate.",
       "fr": "Peut aussi être utilisé comme objet au combat.",
       "ge": "Kann im Kampf auch als Werkzeug verwendet werden.",
       "it": "Può anche essere usato come oggetto in battaglia.",
@@ -484,7 +484,7 @@
     "id": 14,
     "name": {
       "en": "Bunny tail",
-      "es": "?",
+      "es": "Cola de conejo",
       "fr": "Queue de lapin",
       "ge": "Häschen-schwanz",
       "it": "Coda da coniglietta",
@@ -509,7 +509,7 @@
     "buyable_at": [],
     "description": {
       "en": "It makes whoever's wearing it luckier... Or is that just a tale?",
-      "es": "?",
+      "es": "Quien la lleve tendrá más suerte... aunque puede ser una legenda.",
       "fr": "Porte chance à celui qui la porte... du moins, c'est ce qu'on dit !",
       "ge": "Wer ihn trägt, hat Glück... oder ist das nur ein Märchen?",
       "it": "Si dice che chi la indossa diventi più fortunato. Sarà vero...?",
@@ -521,7 +521,7 @@
     "id": 15,
     "name": {
       "en": "Elevating shoes",
-      "es": "?",
+      "es": "Zuecos de ánimo",
       "fr": "Chaussures à talons",
       "ge": "Erhebende Schuhe",
       "it": "Scarpe Sante",
@@ -546,7 +546,7 @@
     "buyable_at": [],
     "description": {
       "en": "Footwear that enhances experience with every single step.",
-      "es": "?",
+      "es": "Este calzado incrementa la experiencia a cada paso.",
       "fr": "Chaussures qui font augmenter l'expérience à chaque pas.",
       "ge": "Lassen den Träger mit jedem Schritt ein wenig Erfahrung sammeln.",
       "it": "Ogni passo percorso fa aumentare l'esperienza.",
@@ -558,7 +558,7 @@
     "id": 16,
     "name": {
       "en": "Gospel ring",
-      "es": "?",
+      "es": "Anillo doctrinal",
       "fr": "Anneau évangélique",
       "ge": "Spiritueller Ring",
       "it": "Se indossato, allontana tutti i mostri vicini.",
@@ -583,7 +583,7 @@
     "buyable_at": [],
     "description": {
       "en": "Wards off all wandering monsters when worn.",
-      "es": "?",
+      "es": "Al llevarlo protege contra los monstruos que vagin sin rumbo.",
       "fr": "Repousse tous les monstres errants lorsqu'il est porté.",
       "ge": "Hält alle umherwandernden Ungeheuer fern, wenn er getragen wird.",
       "it": "Se indossato, allontana tutti i mostri vicini.",
