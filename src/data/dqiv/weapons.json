@@ -67,7 +67,7 @@
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
-      "jp": "?"
+      "jp": "どうのつるぎ"
     },
     "slug": "_slug"
   },
@@ -110,11 +110,11 @@
     "stats": { "attack": 45 },
     "price": { "buy": 3500, "sell": 2625, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Can also be used as a tool in battle.",
+      "en": "Can also be used as a tool during battle.",
       "es": "Se puede utilizar también como herramienta en combate.",
       "fr": "Peut aussi être utilisé comme objet au combat",
       "ge": "Wirkt [Knister], wenn es als Gegenstand verwendet wird.",
-      "it": "?",
+      "it": "Puó anche essere usato come aggetto in battaglia.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -122,7 +122,7 @@
   {
     "id": "?",
     "name": {
-      "en": "Sword of Lethargy ",
+      "en": "Dream Blade ",
       "es": "Espada onírica",
       "fr": "Epée du rêve",
       "ge": "Traumklinge",
@@ -134,11 +134,11 @@
     "stats": { "attack": 60 },
     "price": { "buy": 8000, "sell": 6000, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "May cause Sleep.",
-      "es": "Posibilidad de dormir al enemigo",
+      "en": "This sword may send its target to sleep from time to time.",
+      "es": "Algunas veces, esta espada puede hacer dormir su objetivo.",
       "fr": "Cette épée peut parfois endormir sa cible",
       "ge": "Kann ab und zu einen Feind einschlafen lassen.",
-      "it": "?",
+      "it": "Ogni tanto, questa spada fa addormentare il bersaglio.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -158,11 +158,11 @@
     "stats": { "attack": 67 },
     "price": { "buy": "-", "sell": "-", "token": 65000, "minimedal": "-" },
     "description": {
-      "en": "Attacks twice per round.",
-      "es": "Golpea 2 veces",
+      "en": "This lighting-fast sword can strike twice in a single turn.",
+      "es": "Espada rápida como el rayo, puede golpear dos veces por turno.",
       "fr": "Cette épée très rapide peut frapper deux fois en un seul tour",
       "ge": "Greift zweimal pro Runde an.",
-      "it": "?",
+      "it": "Questa splendida spada permette di colpire due volte per turno.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -182,11 +182,11 @@
     "stats": { "attack": 75 },
     "price": { "buy": "-", "sell": 600, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Can also be used as a tool in battle.",
+      "en": "Can also be used as a tool during battle.",
       "es": "Se puede utilizar también como herramienta en combate.",
       "fr": "Peut aussi être utilisé comme objet au combat",
       "ge": "Wirkt [Knister], wenn es als Gegenstand verwendet wird.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Puó anche essere usato come aggetto in battaglia.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -206,11 +206,11 @@
     "stats": { "attack": 90 },
     "price": { "buy": 15000, "sell": 11250, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "Especialmente efectiva contra dragones",
+      "en": "this blade inflicts increased damage on dragons.",
+      "es": "Inflige un daño superior al normal a los dragones",
       "fr": "Cette arme inflige plus de dégâts aux dragons",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Questa lama infligge gravi danni ai draghini.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -222,7 +222,7 @@
       "es": "Espada Doble",
       "fr": "Épée double",
       "ge": "Zwiespaltklinge",
-      "it": "?",
+      "it": "Spada a due lame",
       "jp": "もろはのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -230,11 +230,11 @@
     "stats": { "attack": 99 },
     "price": { "buy": "-", "sell": 2475, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "Está maldita, causa daño al portador cuando ataca.",
+      "en": "Watch out! There's more to this sword than meets the eye.",
+      "es": "¡Cuidado! En esta espada hay más de lo que parece.",
       "fr": "Attention! Cette épée cache bien son pouvoir. Objet maudit!",
       "ge": "Verflucht! Der Träger nimmt beim Angriff auch Schaden.",
-      "it": "?",
+      "it": "Attenzione! Questa spada nasconde dei segreti!",
       "jp": "?"
     },
     "slug": "_slug"
@@ -254,11 +254,11 @@
     "stats": { "attack": 100 },
     "price": { "buy": 31000, "sell": 3100, "token": "-", "minimedal": 38 },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "Cura PV cuando se ataca",
+      "en": "Replenishes its bearer's HP with each attack...miraculously!",
+      "es": "¡Quien la lleva recupera PV milagrosamente en cada ataque!",
       "fr": "Restaure les PV de l'utilisateur à chaque attaque",
       "ge": "Der Träger bekommt nach jedem Angriff Lebenspunkte geschenkt.",
-      "it": "?",
+      "it": "Chi impugna quest'arma recupera HP ogni volta che attacca.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -278,11 +278,11 @@
     "stats": { "attack": 65 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "A legendary weapon, and a useful tool during battle, too",
+      "es": "Un arma legendaria, y una util herramienta en combate.",
       "fr": "Une arme légendaire et un objet très utile au combat",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "?",
+      "it": "É un'arma mitica e un prezioso oggeto da usare in battaglia.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -295,7 +295,7 @@
       "es": "Masacradora",
       "fr": "Épée du massacre",
       "ge": "Massakerschwert",
-      "it": "?",
+      "it": "Spada letale",
       "jp": "みなごろしのけん"
     },
     "sprite": "weapons_sprites/?.png",
@@ -303,11 +303,11 @@
     "stats": { "attack": 120 },
     "price": { "buy": 15000, "sell": 11250, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "Está maldita, causa daño al portador cuando ataca",
+      "en": "Watch out! There's more to this sword than meets the eye.",
+      "es": "¡Cuidado! En esta espada hay más de lo que parece.",
       "fr": "Attention! Cette épée cache bien son pouvoir. Objet maudit!",
       "ge": "Verflucht! Wirkt [Schwächung], wenn es als Gegenstand verwendet wird.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Attenzione! Questa spada nasconde dei segreti!",
       "jp": "?"
     },
     "slug": "_slug"
@@ -319,7 +319,7 @@
       "es": "Espada Metalíquida",
       "fr": "Épée de mercure",
       "ge": "Flüssigmetallschwert",
-      "it": "Spada del liquislime",
+      "it": "Spada murmur",
       "jp": "はぐれメタルのけん"
     },
     "sprite": "weapons_sprites/?.png",
@@ -327,11 +327,11 @@
     "stats": { "attack": 130 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "Efectiva contra monstruos de metal",
+      "en": "Inflicts greater-than-average damage on metal monsters.",
+      "es": "Inflige un daño superior a la media a los monstruos metálicos.",
       "fr": "Inflige de plus gros dégâts aux monstres métalliques",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Infligge piú danni del normale ai mostri dal corpo metallico.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -343,7 +343,7 @@
       "es": "Espada Pandemónica",
       "fr": "Épée des enfers",
       "ge": "Teufelsklinge",
-      "it": "?",
+      "it": "Spada Pandemon",
       "jp": "まかいのつるぎ"
     },
     "sprite": "weapons_sprites/?.png",
@@ -351,11 +351,11 @@
     "stats": { "attack": 150 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "This sword replenishes its mearer's HP with each attack.",
+      "es": "Esta espada hace que su portador recupere PV con cada ataque.",
       "fr": "Cette épée restaure les PV de son utilisateur à chaque attaque",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Chi impugna quest'arma recupera HP ogni volta che attacca.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -375,11 +375,11 @@
     "stats": { "attack": 5 },
     "price": { "buy": "-", "sell": 4500, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "This staff replenishes HP when used as a tool during battle.",
+      "es": "Báculo que recupera PV si se usa como herramienta en combate.",
       "fr": "Utilisé comme objet au combat, ce bâton restaure les PV.",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Se usato come aggeto in battaglia, fa recuperare HP",
       "jp": "?"
     },
     "slug": "_slug"
@@ -399,11 +399,11 @@
     "stats": { "attack": 29 },
     "price": { "buy": "-", "sell": 15000, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "Can also be used as a tool during battle.",
+      "es": "Se puede utilizar también como herramienta en combate.",
       "fr": "Peut aussi être utilisé comme objet au combat",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Puó anche essere usato come aggetto in battaglia.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -423,11 +423,11 @@
     "stats": { "attack": 33 },
     "price": { "buy": "-", "sell": "-", "token": 3000, "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "Can also be used as a tool during battle.",
+      "es": "Se puede utilizar también como herramienta en combate.",
       "fr": "Peut aussi être utilisé comme objet au combat",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Puó anche essere usato come aggetto in battaglia.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -447,11 +447,11 @@
     "stats": { "attack": 35 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 30 },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "Can also be used as a tool during battle.",
+      "es": "Se puede utilizar también como herramienta en combate.",
       "fr": "Ne semble pas avoir d'effets particuliers.",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Puó anche essere usato come aggetto in battaglia.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -471,11 +471,11 @@
     "stats": { "attack": 50 },
     "price": { "buy": "-", "sell": 3000, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "Can also be used as a tool during battle.",
+      "es": "Se puede utilizar también como herramienta en combate.",
       "fr": "Peut aussi être utilisé comme objet au combat",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Puó anche essere usato come aggetto in battaglia.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -495,8 +495,8 @@
     "stats": { "attack": 60 },
     "price": { "buy": 2500, "sell": 1875, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "This staff draws on its bearer's MP when used to attack.",
+      "es": "Este báculo utiliza el PM del portador cuando se usa para atacar.",
       "fr": "Ce bâton utilise les PM pour infliger des dégâts",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
@@ -519,11 +519,11 @@
     "stats": { "attack": 63 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "Can also be used as a tool during battle.",
+      "es": "Se puede utilizar también como herramienta en combate.",
       "fr": "Peut aussi être utilisé comme objet au combat",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Puó anche essere usato come aggetto in battaglia.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -543,8 +543,8 @@
     "stats": { "attack": 0 },
     "price": { "buy": 1300, "sell": 975, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "If aimed well, this venomus barb can inflict a critical hit.",
+      "es": "Si se apunta bien, esta púa venenosa infligirá un golpe crítico.",
       "fr": "Bien lancée, cette pique inflige un coup critique",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
@@ -567,11 +567,11 @@
     "stats": { "attack": 5 },
     "price": { "buy": 7500, "sell": 5625, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "Equip these knife-like earrings to strike twice in a single turn.",
+      "es": "Afilados pendientes que pueden golpear dos veces por turno.",
       "fr": "Ces bijoux permettent de frapper deux fois en un seul tour",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Agguingilli all'equipaggiamento per colpire due volte per turno.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -615,11 +615,11 @@
     "stats": { "attack": 24 },
     "price": { "buy": 750, "sell": 562, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
+      "en": "This knife may paralize its target from time to time.",
       "es": "Algunas veces, este puñal puede paralizar a su objetivo.",
       "fr": "Ce poignard peut parfois paralyser sa cible",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Questo pugnale puó paralizzare il bersagglio.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -687,11 +687,11 @@
     "stats": { "attack": 100 },
     "price": { "buy": "-", "sell": 18750, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "If aimed well, this spear can inflict a critical hit.",
+      "es": "Si se apunta bien, esta lanza infligirá un golpe crítico.",
       "fr": "Lancée avec précision, cette lance peut infliger un coup critique",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Se ben indirizzata, questa lancia puó infliggere un colpo critico.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -736,11 +736,11 @@
     "stats": { "attack": 60 },
     "price": { "buy": 7300, "sell": 5475, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "Can also be used as a tool during battle.",
+      "es": "Se puede utilizar también como herramienta en combate.",
       "fr": "Peut aussi être utilisé comme objet au combat",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Puó anche essere usato come aggetto in battaglia.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -748,7 +748,7 @@
   {
     "id": "?",
     "name": {
-      "en": "Cobra claws",
+      "en": "Cobra claw",
       "es": "Garra de Cobra",
       "fr": "Griffe de cobra",
       "ge": "Kobrakralle",
@@ -760,11 +760,11 @@
     "stats": { "attack": 80 },
     "price": { "buy": 13500, "sell": 10125, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "Puede envenenar a su objetivo",
+      "en": "This claw's toxic talons may end up leaving its target poisoned",
+      "es": "Las tóxicas uñas de esta garra pueden envenenar a su objetivo.",
       "fr": "Cette griffe toxique peut parfois empoisonner sa cible",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Gil aculei velenosi di quest'arma possono avvelengre il bersagglio.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -832,8 +832,8 @@
     "stats": { "attack": 21 },
     "price": { "buy": "-", "sell": 375, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "This pack of cards can also be used for fortune-telling.",
+      "es": "Este mazo de cartas se puede usar también para la adivinacion.",
       "fr": "Ce jeu de carte peut aussi être utilisé pour la voyance",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
       "it": "Non sembra avere alcun effeto speciale.",
@@ -872,7 +872,7 @@
       "es": "Ábaco de Astraea",
       "fr": "Bouclier d'Astrae",
       "ge": "Abakus der Astraea",
-      "it": "?",
+      "it": "Abaco di Astrea",
       "jp": "せいぎのそろばん"
     },
     "sprite": "weapons_sprites/?.png",
@@ -880,11 +880,11 @@
     "stats": { "attack": 35 },
     "price": { "buy": 1600, "sell": 1200, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "The abacus increases Torneko's attack by +35, and casts Poof when used as an item in battle.",
-      "es": "Sube el ataque +35, y únicamente puede ser equipado por Torneko. Si se usa en combate como un objeto lanza el conjuro Puf.",
-      "fr": "Torneko peut s'en équiper ; il augmente l'attaque de 35. Il peut aussi être utilisé comme objet au combat.",
+      "en": "Can also be used as a tool during battle.",
+      "es": "Se puede utilizar también como herramienta en combate.",
+      "fr": "Peut aussi être utilisé comme objet au combat",
       "ge": "Wirkt [Puff], wenn es als Gegenstand verwendet wird.",
-      "it": "?",
+      "it": "Puó anche essere usato come aggetto in battaglia.",
       "jp": "【トルネコ】の専用武器。公式イラストでも所持していることからわかるように、彼のお気に入りの武器……のはず。"
     },
     "slug": "_slug"
@@ -896,7 +896,7 @@
       "es": "Hacha de batalla",
       "fr": "Hache de guerre",
       "ge": "Kampfaxt",
-      "it": "?",
+      "it": "Ascia de battaglia",
       "jp": "バトルアックス"
     },
     "sprite": "weapons_sprites/?.png",
@@ -928,11 +928,11 @@
     "stats": { "attack": 70 },
     "price": { "buy": 8500, "sell": 6375, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "Hard to aim, but this hammer really hurts when it connects.",
+      "es": "Este martillo es difícil de controlar, pero causa mucho daño.",
       "fr": "Ce marteau est difficile à manipuler, mais il peut faire très mal",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Difficile de usare, ma inflige gravi danni se il calpo va a segno.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -952,11 +952,11 @@
     "stats": { "attack": 135 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 60 },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "This deadly whip can attack a whole group of enemies at once.",
+      "es": "Látigo que puede atacar a un grupo de enemigos a la vez.",
       "fr": "Ce fouet mortel peut toucher tout un groupe d'ennemis",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Questa frusta puó colpire un grupo di nemici con un sol colpo.",
       "jp": "?"
     },
     "slug": "_slug"
@@ -976,11 +976,11 @@
     "stats": { "attack": 115 },
     "price": { "buy": 65000, "sell": 48750, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "No parece tener efecto especial alguno.",
+      "en": "This fearsome flail can be used to attack all enemies at once.",
+      "es": ",amgual que puede atacar a todos los enemigos a la vez.",
       "fr": "Ce fléau permet d'attaquer tous les ennemis à la fois",
       "ge": "Hat anscheinend keine besonderen Eigenschaften.",
-      "it": "Non sembra avere alcun effeto speciale.",
+      "it": "Quest'arma letale puó colpire tutti i nemici in una volta sola.",
       "jp": "?"
     },
     "slug": "_slug"
