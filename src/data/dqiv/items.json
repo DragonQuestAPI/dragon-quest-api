@@ -42,7 +42,7 @@
       "fr": "Peut guérir un membre de l'équipe empoisonné.",
       "ge": "Dieses Heilkraut kann ein Mitglied der Gruppe von Gift heilen.",
       "it": "Quest'erba cura un membro del gruppo dall'avvelenamento.",
-      "jp": "解毒"
+      "jp": "なかまひとりの どくをなおす"
     },
     "found_at": [],
     "buyable_at": [],
@@ -67,7 +67,7 @@
       "fr": "Éloigne les ennemis les plus faibles pendant un moment.",
       "ge": "Dieses Wunderwasser wehrt kurzzeitig schwächere Feinde ab.",
       "it": "Tiene lontani i nemici più deboli per un po' di tempo.",
-      "jp": "平常使用弱小敌人不出现一段时间 战斗使用可令敌人受伤"
+      "jp": "すこしのあいだ よわいてきを とおざける"
     },
     "found_at": [],
     "buyable_at": [],
@@ -192,7 +192,7 @@
       "fr": "Le membre de l'équipe qui la mange voit son agilité augmenter.",
       "ge": "Ein Gruppenmitglied kann ihn essen um flinker zu werden.",
       "it": "Accresce l'agilità di chi lo mangia.",
-      "jp": "速度增加1~2点"
+      "jp": "なかまひとりの すばやさが あがる"
     },
     "found_at": [
       "grotte aire de jeu",
@@ -878,7 +878,7 @@
       "fr": "Chaussures ailées",
       "ge": "?",
       "it": "?",
-      "jp": "?"
+      "jp": "そらとぶくつ"
     },
     "sprite": "items_sprites/talaria.png",
     "artwork": "items_artworks/talaria.png",
@@ -889,7 +889,7 @@
       "fr": "Des ailes sont fixés sur ces drôles de chaussures!",
       "ge": "?",
       "it": "?",
-      "jp": "?"
+      "jp": "はねのはえた ふしぎなくつ"
     },
     "found_at": [],
     "buyable_at": [],
@@ -903,7 +903,7 @@
       "fr": "Brassard étincelant",
       "ge": "?",
       "it": "?",
-      "jp": "?"
+      "jp": "おうごんの うでわ"
     },
     "sprite": "items_sprites/armlet_of_transmutation.png",
     "artwork": "items_artworks/armlet_of_transmutation.png",
@@ -914,7 +914,7 @@
       "fr": "La lumière joue sur ce mystérieux brassard doré",
       "ge": "?",
       "it": "?",
-      "jp": "?"
+      "jp": "きんいろに かがやく しんびのうでわ"
     },
     "found_at": [],
     "buyable_at": [],
@@ -928,7 +928,7 @@
       "fr": "Nectar du rossignol",
       "ge": "?",
       "it": "?",
-      "jp": "?"
+      "jp": "さえずりの みつ"
     },
     "sprite": "items_sprites/birdsong_nectar.png",
     "artwork": "items_artworks/birdsong_nectar.png",
@@ -939,7 +939,7 @@
       "fr": "Sa texture veloutée donne une voix mélodieuse.",
       "ge": "?",
       "it": "?",
-      "jp": "?"
+      "jp": "すてきな うたごえになる みつ"
     },
     "found_at": [],
     "buyable_at": [],
