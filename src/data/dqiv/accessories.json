@@ -2,12 +2,12 @@
   {
     "id": 1,
     "name": {
-      "en": "Strength ring",
-      "es": "Anillo de fuerza",
-      "fr": "Bague de choc",
-      "ge": "Stärkering",
-      "it": "Anello della forza",
-      "jp": "ちからのゆびわ"
+      "EN": "Strength ring",
+      "ES": "Anillo de fuerza",
+      "FR": "Bague de choc",
+      "DE": "Stärkering",
+      "IT": "Anello della forza",
+      "JA": "ちからのゆびわ"
     },
     "sprite": "accessories_sprites/strength_ring.png",
     "artwork": "accessories_artworks/strength_ring.png",
@@ -27,24 +27,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Supplements the strength of whoever should slip it on.",
-      "es": "Complementa la fuerza de aquel que se lo ponga.",
-      "fr": "Fait augmenter la Force de quiconque l'enfile.",
-      "ge": "Erhöht die Stärke all derer, die ihn überstreifen.",
-      "it": "Quest'anello accresce la forza di chi lo indossa.",
-      "jp": "?"
+      "EN": "Supplements the strength of whoever should slip it on.",
+      "ES": "Complementa la fuerza de aquel que se lo ponga.",
+      "FR": "Fait augmenter la Force de quiconque l'enfile.",
+      "DE": "Erhöht die Stärke all derer, die ihn überstreifen.",
+      "IT": "Quest'anello accresce la forza di chi lo indossa.",
+      "JA": "?"
     },
     "slug": "strength_ring"
   },
   {
     "id": 2,
     "name": {
-      "en": "Mighty armlet",
-      "es": "Brazalete poderoso",
-      "fr": "Brassard de choc",
-      "ge": "Mächtige Armschiene",
-      "it": "Fascia del potere",
-      "jp": "ごうけつのうでわ"
+      "EN": "Mighty armlet",
+      "ES": "Brazalete poderoso",
+      "FR": "Brassard de choc",
+      "DE": "Mächtige Armschiene",
+      "IT": "Fascia del potere",
+      "JA": "ごうけつのうでわ"
     },
     "sprite": "accessories_sprites/mighty_armlet.png",
     "artwork": "accessories_artworks/mighty_armlet.png",
@@ -64,24 +64,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Supplements the strength of whoever should slip it on.",
-      "es": "Complementa la fuerza de aquel que se lo ponga.",
-      "fr": "Fait augmenter la Force de quiconque l'enfile.",
-      "ge": "Erhöht die Stärke all derer die ihn überstreifen.",
-      "it": "Quest'anello accresce la forza di chi lo indossa.",
-      "jp": "?"
+      "EN": "Supplements the strength of whoever should slip it on.",
+      "ES": "Complementa la fuerza de aquel que se lo ponga.",
+      "FR": "Fait augmenter la Force de quiconque l'enfile.",
+      "DE": "Erhöht die Stärke all derer die ihn überstreifen.",
+      "IT": "Quest'anello accresce la forza di chi lo indossa.",
+      "JA": "?"
     },
     "slug": "mighty_armlet"
   },
   {
     "id": 3,
     "name": {
-      "en": "Gold bracer",
-      "es": "Brazalete de oro",
-      "fr": "Brassard d'or",
-      "ge": "Gold-armschiene",
-      "it": "Bracciale d'oro",
-      "jp": "きんのブレスレット"
+      "EN": "Gold bracer",
+      "ES": "Brazalete de oro",
+      "FR": "Brassard d'or",
+      "DE": "Gold-armschiene",
+      "IT": "Bracciale d'oro",
+      "JA": "きんのブレスレット"
     },
     "sprite": "accessories_sprites/gold_bracer.png",
     "artwork": "accessories_artworks/gold_bracer.png",
@@ -101,24 +101,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "This brilliant band boosts defence when worn.",
-      "es": "Esta brillante joya incrementa la defensa del portador.",
-      "fr": "Augmente la défense lorsqu'il est porté.",
-      "ge": "Dieses brillante Armband erhöht die Abwehrkraft.",
-      "it": "Un bracciale che aumenta le capacità difensive di chi l'indossa.",
-      "jp": "?"
+      "EN": "This brilliant band boosts defence when worn.",
+      "ES": "Esta brillante joya incrementa la defensa del portador.",
+      "FR": "Augmente la défense lorsqu'il est porté.",
+      "DE": "Dieses brillante Armband erhöht die Abwehrkraft.",
+      "IT": "Un bracciale che aumenta le capacità difensive di chi l'indossa.",
+      "JA": "?"
     },
     "slug": "gold_bracer"
   },
   {
     "id": 4,
     "name": {
-      "en": "Prayer ring",
-      "es": "Anillo de oración",
-      "fr": "Bague de prière",
-      "ge": "Gebetsring",
-      "it": "Anello della fede",
-      "jp": "いのりのゆびわ"
+      "EN": "Prayer ring",
+      "ES": "Anillo de oración",
+      "FR": "Bague de prière",
+      "DE": "Gebetsring",
+      "IT": "Anello della fede",
+      "JA": "いのりのゆびわ"
     },
     "sprite": "accessories_sprites/prayer_ring.png",
     "artwork": "accessories_artworks/prayer_ring.png",
@@ -138,24 +138,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "This religious ring recovers some MP whenever it's used.",
-      "es": "Este anillo religioso recupera algo de PM al utilizarlo.",
-      "fr": "L'utilisation de cette bague permet de récupérer quelques PM.",
-      "ge": "Dieser Ring regeneriert einige MP, wenn man ihn benutzt.",
-      "it": "Quest'anello sacro fa recuperare PM quando viene usato.",
-      "jp": "?"
+      "EN": "This religious ring recovers some MP whenever it's used.",
+      "ES": "Este anillo religioso recupera algo de PM al utilizarlo.",
+      "FR": "L'utilisation de cette bague permet de récupérer quelques PM.",
+      "DE": "Dieser Ring regeneriert einige MP, wenn man ihn benutzt.",
+      "IT": "Quest'anello sacro fa recuperare PM quando viene usato.",
+      "JA": "?"
     },
     "slug": "prayer_ring"
   },
   {
     "id": 5,
     "name": {
-      "en": "Fishnet stockings",
-      "es": "Medias",
-      "fr": "Bas résille",
-      "ge": "Netzstrümpfe",
-      "it": "Calze a rete",
-      "jp": "あみタイツ"
+      "EN": "Fishnet stockings",
+      "ES": "Medias",
+      "FR": "Bas résille",
+      "DE": "Netzstrümpfe",
+      "IT": "Calze a rete",
+      "JA": "あみタイツ"
     },
     "sprite": "accessories_sprites/fishnet_stockings.png",
     "artwork": "accessories_artworks/fishnet_stockings.png",
@@ -175,24 +175,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "The ultimate in sexy legwear!",
-      "es": "¡Lo más sexy para lucir piernas!",
-      "fr": "Les plus sexy des bas !",
-      "ge": "Der letzte Schrei an sexy Beinkleidern!",
-      "it": "Per gambe irrestibili! Fiu-fiuuuuu!",
-      "jp": "?"
+      "EN": "The ultimate in sexy legwear!",
+      "ES": "¡Lo más sexy para lucir piernas!",
+      "FR": "Les plus sexy des bas !",
+      "DE": "Der letzte Schrei an sexy Beinkleidern!",
+      "IT": "Per gambe irrestibili! Fiu-fiuuuuu!",
+      "JA": "?"
     },
     "slug": "fishnet_stockings"
   },
   {
     "id": 6,
     "name": {
-      "en": "Ruby of protection",
-      "es": "Gema de protección",
-      "fr": "Rubis de protection",
-      "ge": "Schutzrubin",
-      "it": "Rubino della difesa",
-      "jp": "まもりのルビー"
+      "EN": "Ruby of protection",
+      "ES": "Gema de protección",
+      "FR": "Rubis de protection",
+      "DE": "Schutzrubin",
+      "IT": "Rubino della difesa",
+      "JA": "まもりのルビー"
     },
     "sprite": "accessories_sprites/ruby_of_protection.png",
     "artwork": "accessories_artworks/ruby_of_protection.png",
@@ -212,24 +212,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "This brilliant band boosts defence when worn.",
-      "es": "Esta brillante joya incrementa la defensa del portador.",
-      "fr": "Augmente la défense lorsqu'il est porté.",
-      "ge": "Dieses brillante Armband erhöht die Abwehrkraft.",
-      "it": "Un bracciale che aumenta le capacità difensive di chi l'indossa.",
-      "jp": "?"
+      "EN": "This brilliant band boosts defence when worn.",
+      "ES": "Esta brillante joya incrementa la defensa del portador.",
+      "FR": "Augmente la défense lorsqu'il est porté.",
+      "DE": "Dieses brillante Armband erhöht die Abwehrkraft.",
+      "IT": "Un bracciale che aumenta le capacità difensive di chi l'indossa.",
+      "JA": "?"
     },
     "slug": "ruby_of_protection"
   },
   {
     "id": 7,
     "name": {
-      "en": "Recovery ring",
-      "es": "Anillo de recuperación",
-      "fr": "Bague de Santé",
-      "ge": "Genesungsring",
-      "it": "Anello guaritore",
-      "jp": "いのちのゆびわ"
+      "EN": "Recovery ring",
+      "ES": "Anillo de recuperación",
+      "FR": "Bague de Santé",
+      "DE": "Genesungsring",
+      "IT": "Anello guaritore",
+      "JA": "いのちのゆびわ"
     },
     "sprite": "accessories_sprites/recovery_ring.png",
     "artwork": "accessories_artworks/recovery_ring.png",
@@ -249,24 +249,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Restores some of the wearer's HP with each and every step.",
-      "es": "Hace que el que lo lleva recupere PV a cada paso.",
-      "fr": "Restaure une partie des PV de celui qui la porte à chaque pas.",
-      "ge": "Stellt bei jedem Schritt einige LP des Trägers wieder her.",
-      "it": "Chi lo indossa recupera HP a ogni passo percorso.",
-      "jp": "?"
+      "EN": "Restores some of the wearer's HP with each and every step.",
+      "ES": "Hace que el que lo lleva recupere PV a cada paso.",
+      "FR": "Restaure une partie des PV de celui qui la porte à chaque pas.",
+      "DE": "Stellt bei jedem Schritt einige LP des Trägers wieder her.",
+      "IT": "Chi lo indossa recupera HP a ogni passo percorso.",
+      "JA": "?"
     },
     "slug": "recovery_ring"
   },
   {
     "id": 8,
     "name": {
-      "en": "Kamikazee bracer",
-      "es": "Brazalete de kamikaze",
-      "fr": "Brassard kamikaze",
-      "ge": "Kamikaze-armschiene",
-      "it": "Bracciale Kamikaze",
-      "jp": "メガンテのうでわ"
+      "EN": "Kamikazee bracer",
+      "ES": "Brazalete de kamikaze",
+      "FR": "Brassard kamikaze",
+      "DE": "Kamikaze-armschiene",
+      "IT": "Bracciale Kamikaze",
+      "JA": "メガンテのうでわ"
     },
     "sprite": "accessories_sprites/kamikazee_bracer.png",
     "artwork": "accessories_artworks/kamikazee_bracer.png",
@@ -286,24 +286,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Rousing wristwear that may just save the day in times of need!",
-      "es": "¡Espléndido ornamento: puede salvarte en momentos críticos!",
-      "fr": "Pourrait bien sauver la situation en cas de besoin !",
-      "ge": "Diese aufrüttelnde Armschiene ist oft die letzte Rettung!",
-      "it": "Questo monile può essere molto utile nelle situazioni disperate!",
-      "jp": "?"
+      "EN": "Rousing wristwear that may just save the day in times of need!",
+      "ES": "¡Espléndido ornamento: puede salvarte en momentos críticos!",
+      "FR": "Pourrait bien sauver la situation en cas de besoin !",
+      "DE": "Diese aufrüttelnde Armschiene ist oft die letzte Rettung!",
+      "IT": "Questo monile può essere molto utile nelle situazioni disperate!",
+      "JA": "?"
     },
     "slug": "kamikazee_bracer"
   },
   {
     "id": 9,
     "name": {
-      "en": "Kerplunk bracer",
-      "es": "Brazalete de autosacrificio",
-      "fr": "Brassard de conjuration",
-      "ge": "Opfer-armschiene",
-      "it": "Bracciale sacrificale",
-      "jp": "メガザルのうでわ"
+      "EN": "Kerplunk bracer",
+      "ES": "Brazalete de autosacrificio",
+      "FR": "Brassard de conjuration",
+      "DE": "Opfer-armschiene",
+      "IT": "Bracciale sacrificale",
+      "JA": "メガザルのうでわ"
     },
     "sprite": "accessories_sprites/kerplunk_bracer.png",
     "artwork": "accessories_artworks/kerplunk_bracer.png",
@@ -323,24 +323,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Rousing wristwear that may just save the day in times of need!",
-      "es": "¡Espléndido ornamento: puede salvarte en momentos críticos!",
-      "fr": "Pourrait bien sauver la situation en cas de besoin !",
-      "ge": "Diese aufrüttelnde Armschiene ist oft die letzte Rettung!",
-      "it": "Questo monile può essere molto utile nelle situazioni disperate!",
-      "jp": "?"
+      "EN": "Rousing wristwear that may just save the day in times of need!",
+      "ES": "¡Espléndido ornamento: puede salvarte en momentos críticos!",
+      "FR": "Pourrait bien sauver la situation en cas de besoin !",
+      "DE": "Diese aufrüttelnde Armschiene ist oft die letzte Rettung!",
+      "IT": "Questo monile può essere molto utile nelle situazioni disperate!",
+      "JA": "?"
     },
     "slug": "kerplunk_bracer"
   },
   {
     "id": 10,
     "name": {
-      "en": "Goddess ring",
-      "es": "Anillo de la Diosa",
-      "fr": "Bague de la déesse",
-      "ge": "Göttinnenring",
-      "it": "Anello della dea",
-      "jp": "めがみのゆびわ"
+      "EN": "Goddess ring",
+      "ES": "Anillo de la Diosa",
+      "FR": "Bague de la déesse",
+      "DE": "Göttinnenring",
+      "IT": "Anello della dea",
+      "JA": "めがみのゆびわ"
     },
     "sprite": "accessories_sprites/goddess_ring.png",
     "artwork": "accessories_artworks/goddess_ring.png",
@@ -360,24 +360,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Recovers some of the wearer's MP with each and every step.",
-      "es": "Hace que el que lo lleva recupere algo de PM a cada paso.",
-      "fr": "Restaure une partie des PM de celui qui la porte à chaque pas.",
-      "ge": "Regeneriert bei jedem Schritt ein paar MP des Trägers.",
-      "it": "Chi lo indossa recupera PM mentre va in giro.",
-      "jp": "?"
+      "EN": "Recovers some of the wearer's MP with each and every step.",
+      "ES": "Hace que el que lo lleva recupere algo de PM a cada paso.",
+      "FR": "Restaure une partie des PM de celui qui la porte à chaque pas.",
+      "DE": "Regeneriert bei jedem Schritt ein paar MP des Trägers.",
+      "IT": "Chi lo indossa recupera PM mentre va in giro.",
+      "JA": "?"
     },
     "slug": "goddess_ring"
   },
   {
     "id": 11,
     "name": {
-      "en": "Mercury's bandana",
-      "es": "Pañuelo de Mercurio",
-      "fr": "Foulard d'Hermès",
-      "ge": "Merkur-kopftuch",
-      "it": "Bandana di Mercurio",
-      "jp": "しっぷうのバンダナ"
+      "EN": "Mercury's bandana",
+      "ES": "Pañuelo de Mercurio",
+      "FR": "Foulard d'Hermès",
+      "DE": "Merkur-kopftuch",
+      "IT": "Bandana di Mercurio",
+      "JA": "しっぷうのバンダナ"
     },
     "sprite": "accessories_sprites/mercurys_bandana.png",
     "artwork": "accessories_artworks/mercurys_bandana.png",
@@ -397,24 +397,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Gives its wearer increased agility.",
-      "es": "Proporciona más agilidad al que lo lleva.",
-      "fr": "Confère une plus grande Agilité à celui qui le porte.",
-      "ge": "Erhöht die Flinkheit des Trägers.",
-      "it": "Accresce l'agilità di chi la indossa.",
-      "jp": "?"
+      "EN": "Gives its wearer increased agility.",
+      "ES": "Proporciona más agilidad al que lo lleva.",
+      "FR": "Confère une plus grande Agilité à celui qui le porte.",
+      "DE": "Erhöht die Flinkheit des Trägers.",
+      "IT": "Accresce l'agilità di chi la indossa.",
+      "JA": "?"
     },
     "slug": "mercurys_bandana"
   },
   {
     "id": 12,
     "name": {
-      "en": "Meteorite bracer",
-      "es": "Brazalete de meteorito",
-      "fr": "Brassard de météore",
-      "ge": "Meteor-armschiene",
-      "it": "Bracciale del lampo",
-      "jp": "ほしふるうでわ"
+      "EN": "Meteorite bracer",
+      "ES": "Brazalete de meteorito",
+      "FR": "Brassard de météore",
+      "DE": "Meteor-armschiene",
+      "IT": "Bracciale del lampo",
+      "JA": "ほしふるうでわ"
     },
     "sprite": "accessories_sprites/meteorite_bracer.png",
     "artwork": "accessories_artworks/meteorite_bracer.png",
@@ -434,24 +434,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "This breathtaking bracer increases the wearer's agility twofold!",
-      "es": "¡Este impresionante brazalete duplica la agilidad del portador!",
-      "fr": "Ce brassard multiplie par deux l'Agilité de celui qui le porte !",
-      "ge": "Diese flotte Armischiene verdoppelt die Flinkheit des Trägers!",
-      "it": "Questo bellissimo bracciade raddoppia l'agilità di chi l'indossa.",
-      "jp": "?"
+      "EN": "This breathtaking bracer increases the wearer's agility twofold!",
+      "ES": "¡Este impresionante brazalete duplica la agilidad del portador!",
+      "FR": "Ce brassard multiplie par deux l'Agilité de celui qui le porte !",
+      "DE": "Diese flotte Armischiene verdoppelt die Flinkheit des Trägers!",
+      "IT": "Questo bellissimo bracciade raddoppia l'agilità di chi l'indossa.",
+      "JA": "?"
     },
     "slug": "meteorite_bracer"
   },
   {
     "id": 13,
     "name": {
-      "en": "Lucida shard",
-      "es": "Fragmento de Lucida",
-      "fr": "Éclat d'étoile",
-      "ge": "Kristallscherbe",
-      "it": "Frammento lucido",
-      "jp": "ほしのかけら"
+      "EN": "Lucida shard",
+      "ES": "Fragmento de Lucida",
+      "FR": "Éclat d'étoile",
+      "DE": "Kristallscherbe",
+      "IT": "Frammento lucido",
+      "JA": "ほしのかけら"
     },
     "sprite": "accessories_sprites/lucida_shard.png",
     "artwork": "accessories_artworks/lucida_shard.png",
@@ -471,24 +471,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Can also be used as a tool during battle.",
-      "es": "Se puede utilizar también como herramienta en combate.",
-      "fr": "Peut aussi être utilisé comme objet au combat.",
-      "ge": "Kann im Kampf auch als Werkzeug verwendet werden.",
-      "it": "Può anche essere usato come oggetto in battaglia.",
-      "jp": "?"
+      "EN": "Can also be used as a tool during battle.",
+      "ES": "Se puede utilizar también como herramienta en combate.",
+      "FR": "Peut aussi être utilisé comme objet au combat.",
+      "DE": "Kann im Kampf auch als Werkzeug verwendet werden.",
+      "IT": "Può anche essere usato come oggetto in battaglia.",
+      "JA": "?"
     },
     "slug": "lucida_shard"
   },
   {
     "id": 14,
     "name": {
-      "en": "Bunny tail",
-      "es": "Cola de conejo",
-      "fr": "Queue de lapin",
-      "ge": "Häschen-schwanz",
-      "it": "Coda da coniglietta",
-      "jp": "うざぎのしっぽ"
+      "EN": "Bunny tail",
+      "ES": "Cola de conejo",
+      "FR": "Queue de lapin",
+      "DE": "Häschen-schwanz",
+      "IT": "Coda da coniglietta",
+      "JA": "うざぎのしっぽ"
     },
     "sprite": "accessories_sprites/bunny_tail.png",
     "artwork": "accessories_artworks/bunny_tail.png",
@@ -508,24 +508,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "It makes whoever's wearing it luckier... Or is that just a tale?",
-      "es": "Quien la lleve tendrá más suerte... aunque puede ser una legenda.",
-      "fr": "Porte chance à celui qui la porte... du moins, c'est ce qu'on dit !",
-      "ge": "Wer ihn trägt, hat Glück... oder ist das nur ein Märchen?",
-      "it": "Si dice che chi la indossa diventi più fortunato. Sarà vero...?",
-      "jp": "?"
+      "EN": "It makes whoever's wearing it luckier... Or is that just a tale?",
+      "ES": "Quien la lleve tendrá más suerte... aunque puede ser una legenda.",
+      "FR": "Porte chance à celui qui la porte... du moins, c'est ce qu'on dit !",
+      "DE": "Wer ihn trägt, hat Glück... oder ist das nur ein Märchen?",
+      "IT": "Si dice che chi la indossa diventi più fortunato. Sarà vero...?",
+      "JA": "?"
     },
     "slug": "bunny_tail"
   },
   {
     "id": 15,
     "name": {
-      "en": "Elevating shoes",
-      "es": "Zuecos de ánimo",
-      "fr": "Chaussures à talons",
-      "ge": "Erhebende Schuhe",
-      "it": "Scarpe Sante",
-      "jp": "しあわせのくつ"
+      "EN": "Elevating shoes",
+      "ES": "Zuecos de ánimo",
+      "FR": "Chaussures à talons",
+      "DE": "Erhebende Schuhe",
+      "IT": "Scarpe Sante",
+      "JA": "しあわせのくつ"
     },
     "sprite": "accessories_sprites/elevating_shoes.png",
     "artwork": "accessories_artworks/elevating_shoes.png",
@@ -545,24 +545,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Footwear that enhances experience with every single step.",
-      "es": "Este calzado incrementa la experiencia a cada paso.",
-      "fr": "Chaussures qui font augmenter l'expérience à chaque pas.",
-      "ge": "Lassen den Träger mit jedem Schritt ein wenig Erfahrung sammeln.",
-      "it": "Ogni passo percorso fa aumentare l'esperienza.",
-      "jp": "?"
+      "EN": "Footwear that enhances experience with every single step.",
+      "ES": "Este calzado incrementa la experiencia a cada paso.",
+      "FR": "Chaussures qui font augmenter l'expérience à chaque pas.",
+      "DE": "Lassen den Träger mit jedem Schritt ein wenig Erfahrung sammeln.",
+      "IT": "Ogni passo percorso fa aumentare l'esperienza.",
+      "JA": "?"
     },
     "slug": "elevating_shoes"
   },
   {
     "id": 16,
     "name": {
-      "en": "Gospel ring",
-      "es": "Anillo doctrinal",
-      "fr": "Anneau évangélique",
-      "ge": "Spiritueller Ring",
-      "it": "Se indossato, allontana tutti i mostri vicini.",
-      "jp": "ゴスペルリング"
+      "EN": "Gospel ring",
+      "ES": "Anillo doctrinal",
+      "FR": "Anneau évangélique",
+      "DE": "Spiritueller Ring",
+      "IT": "Se indossato, allontana tutti i mostri vicini.",
+      "JA": "ゴスペルリング"
     },
     "sprite": "accessories_sprites/gospel_ring.png",
     "artwork": "accessories_artworks/gospel_ring.png",
@@ -582,12 +582,12 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Wards off all wandering monsters when worn.",
-      "es": "Al llevarlo protege contra los monstruos que vagin sin rumbo.",
-      "fr": "Repousse tous les monstres errants lorsqu'il est porté.",
-      "ge": "Hält alle umherwandernden Ungeheuer fern, wenn er getragen wird.",
-      "it": "Se indossato, allontana tutti i mostri vicini.",
-      "jp": "?"
+      "EN": "Wards off all wandering monsters when worn.",
+      "ES": "Al llevarlo protege contra los monstruos que vagin sin rumbo.",
+      "FR": "Repousse tous les monstres errants lorsqu'il est porté.",
+      "DE": "Hält alle umherwandernden Ungeheuer fern, wenn er getragen wird.",
+      "IT": "Se indossato, allontana tutti i mostri vicini.",
+      "JA": "?"
     },
     "slug": "gospel_ring"
   }

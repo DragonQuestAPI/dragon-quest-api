@@ -1,19 +1,19 @@
 {
   "name": {
-    "en": "Dragon Quest IV",
-    "es": "Dragon Quest IV",
-    "fr": "Dragon Quest IV",
-    "ge": "Dragon Quest IV",
-    "it": "Dragon Quest IV",
-    "jp": "ドラゴンクエストIV"
+    "EN": "Dragon Quest IV",
+    "ES": "Dragon Quest IV",
+    "FR": "Dragon Quest IV",
+    "DE": "Dragon Quest IV",
+    "IT": "Dragon Quest IV",
+    "JA": "ドラゴンクエストIV"
   },
   "title": {
-    "en": "Chapters of the Chosen",
-    "es": "Capítulos de los Elegidos",
-    "fr": "L'Épopée des élus",
-    "ge": "Die Chronik der Erkorenen",
-    "it": "Le cronache dei Prescelti",
-    "jp": "導かれし者たち"
+    "EN": "Chapters of the Chosen",
+    "ES": "Capítulos de los Elegidos",
+    "FR": "L'Épopée des élus",
+    "DE": "Die Chronik der Erkorenen",
+    "IT": "Le cronache dei Prescelti",
+    "JA": "導かれし者たち"
   },
   "logo": "../../img/dqiv/dragon-quest-iv.png",
   "developer": "ArtePiazza",
@@ -27,7 +27,7 @@
   "release_date": {
     "eu": 2008,
     "us": 2008,
-    "jp": 2007
+    "JA": 2007
   },
   "genre": "RPG",
   "players": 1

@@ -2,12 +2,12 @@
   {
     "id": 1,
     "name": {
-      "en": "Slime",
-      "es": "?",
-      "fr": "Gluant",
-      "ge": "Schleim",
-      "it": "?",
-      "jp": "スライム"
+      "EN": "Slime",
+      "ES": "?",
+      "FR": "Gluant",
+      "DE": "Schleim",
+      "IT": "?",
+      "JA": "スライム"
     },
     "sprite": "monsters_sprites/1.png",
     "sprite_animated": "monsters_sprites_animated/1.png",
@@ -38,12 +38,12 @@
   {
     "id": 2,
     "name": {
-      "en": "Wiggly",
-      "es": "?",
-      "fr": "Londuleux",
-      "ge": "Schlängler",
-      "it": "?",
-      "jp": "おおみみず"
+      "EN": "Wiggly",
+      "ES": "?",
+      "FR": "Londuleux",
+      "DE": "Schlängler",
+      "IT": "?",
+      "JA": "おおみみず"
     },
     "sprite": "monsters_sprites/2.png",
     "sprite_animated": "monsters_sprites_animated/2.png",
@@ -80,12 +80,12 @@
   {
     "id": 3,
     "name": {
-      "en": "Air rat",
-      "es": "?",
-      "fr": "Rat volant",
-      "ge": "Ohrensauser",
-      "it": "?",
-      "jp": "エアラット"
+      "EN": "Air rat",
+      "ES": "?",
+      "FR": "Rat volant",
+      "DE": "Ohrensauser",
+      "IT": "?",
+      "JA": "エアラット"
     },
     "sprite": "monsters_sprites/3.png",
     "sprite_animated": "monsters_sprites_animated/3.png",
@@ -116,12 +116,12 @@
   {
     "id": 4,
     "name": {
-      "en": "Scissor beatle",
-      "es": "?",
-      "fr": "Scarapince",
-      "ge": "Scherenkäfer",
-      "it": "?",
-      "jp": "はさみくわがた"
+      "EN": "Scissor beatle",
+      "ES": "?",
+      "FR": "Scarapince",
+      "DE": "Scherenkäfer",
+      "IT": "?",
+      "JA": "はさみくわがた"
     },
     "sprite": "monsters_sprites/4.png",
     "sprite_animated": "monsters_sprites_animated/4.png",
@@ -152,12 +152,12 @@
   {
     "id": 5,
     "name": {
-      "en": "Bubble Slime",
-      "es": "?",
-      "fr": "Gluanbulle",
-      "ge": "Blasenchleim",
-      "it": "?",
-      "jp": "バブルスライム"
+      "EN": "Bubble Slime",
+      "ES": "?",
+      "FR": "Gluanbulle",
+      "DE": "Blasenchleim",
+      "IT": "?",
+      "JA": "バブルスライム"
     },
     "sprite": "monsters_sprites/5.png",
     "sprite_animated": "monsters_sprites_animated/5.png",
@@ -184,12 +184,12 @@
   {
     "id": 6,
     "name": {
-      "en": "Mischievous mole",
-      "es": "?",
-      "fr": "Pataupe",
-      "ge": "Maulwurfschelm",
-      "it": "?",
-      "jp": "いたずらもぐら"
+      "EN": "Mischievous mole",
+      "ES": "?",
+      "FR": "Pataupe",
+      "DE": "Maulwurfschelm",
+      "IT": "?",
+      "JA": "いたずらもぐら"
     },
     "sprite": "monsters_sprites/6.png",
     "sprite_animated": "monsters_sprites_animated/6.png",
@@ -220,12 +220,12 @@
   {
     "id": 7,
     "name": {
-      "en": "Stump chump",
-      "es": "?",
-      "fr": "Souche louche",
-      "ge": "Stumpfpimpf",
-      "it": "?",
-      "jp": "きりかぶおばけ"
+      "EN": "Stump chump",
+      "ES": "?",
+      "FR": "Souche louche",
+      "DE": "Stumpfpimpf",
+      "IT": "?",
+      "JA": "きりかぶおばけ"
     },
     "sprite": "monsters_sprites/7.png",
     "sprite_animated": "monsters_sprites_animated/7.png",
@@ -259,12 +259,12 @@
   {
     "id": 8,
     "name": {
-      "en": "Healslime",
-      "es": "?",
-      "fr": "Médigluant",
-      "ge": "Doktorschleim",
-      "it": "?",
-      "jp": "ホイミスライム"
+      "EN": "Healslime",
+      "ES": "?",
+      "FR": "Médigluant",
+      "DE": "Doktorschleim",
+      "IT": "?",
+      "JA": "ホイミスライム"
     },
     "sprite": "monsters_sprites/8.png",
     "sprite_animated": "monsters_sprites_animated/8.png",
@@ -299,12 +299,12 @@
   {
     "id": 9,
     "name": {
-      "en": "Mad mole",
-      "es": "?",
-      "fr": "Taupelle",
-      "ge": "Manischer Maulwurf",
-      "it": "?",
-      "jp": "キラースコップ"
+      "EN": "Mad mole",
+      "ES": "?",
+      "FR": "Taupelle",
+      "DE": "Manischer Maulwurf",
+      "IT": "?",
+      "JA": "キラースコップ"
     },
     "sprite": "monsters_sprites/9.png",
     "sprite_animated": "monsters_sprites_animated/9.png",
@@ -334,12 +334,12 @@
   {
     "id": 10,
     "name": {
-      "en": "Winkster",
-      "es": "?",
-      "fr": "Fée tide",
-      "ge": "Blinzler",
-      "it": "?",
-      "jp": "みならいあくま"
+      "EN": "Winkster",
+      "ES": "?",
+      "FR": "Fée tide",
+      "DE": "Blinzler",
+      "IT": "?",
+      "JA": "みならいあくま"
     },
     "sprite": "monsters_sprites/10.png",
     "sprite_animated": "monsters_sprites_animated/10.png",
@@ -366,12 +366,12 @@
   {
     "id": 11,
     "name": {
-      "en": "Bodkin archer",
-      "es": "?",
-      "fr": "Archer vert",
-      "ge": "Schützenwicht",
-      "it": "?",
-      "jp": "リリパット"
+      "EN": "Bodkin archer",
+      "ES": "?",
+      "FR": "Archer vert",
+      "DE": "Schützenwicht",
+      "IT": "?",
+      "JA": "リリパット"
     },
     "sprite": "monsters_sprites/11.png",
     "sprite_animated": "monsters_sprites_animated/11.png",
@@ -398,12 +398,12 @@
   {
     "id": 12,
     "name": {
-      "en": "Splatypunk",
-      "es": "?",
-      "fr": "Ornitro",
-      "ge": "Muddel",
-      "it": "?",
-      "jp": "ダックスピル"
+      "EN": "Splatypunk",
+      "ES": "?",
+      "FR": "Ornitro",
+      "DE": "Muddel",
+      "IT": "?",
+      "JA": "ダックスピル"
     },
     "sprite": "monsters_sprites/12.png",
     "sprite_animated": "monsters_sprites_animated/12.png",
@@ -430,12 +430,12 @@
   {
     "id": 13,
     "name": {
-      "en": "Blinkster",
-      "es": "?",
-      "fr": "Fée brile",
-      "ge": "Zwinkerer",
-      "it": "?",
-      "jp": "ベビーマジシャン"
+      "EN": "Blinkster",
+      "ES": "?",
+      "FR": "Fée brile",
+      "DE": "Zwinkerer",
+      "IT": "?",
+      "JA": "ベビーマジシャン"
     },
     "sprite": "monsters_sprites/13.png",
     "sprite_animated": "monsters_sprites_animated/13.png",
@@ -462,12 +462,12 @@
   {
     "id": 14,
     "name": {
-      "en": "Picksy",
-      "es": "?",
-      "fr": "Chérubus",
-      "ge": "Piekser",
-      "it": "?",
-      "jp": "ピクシー"
+      "EN": "Picksy",
+      "ES": "?",
+      "FR": "Chérubus",
+      "DE": "Piekser",
+      "IT": "?",
+      "JA": "ピクシー"
     },
     "sprite": "monsters_sprites/14.png",
     "sprite_animated": "monsters_sprites_animated/14.png",
@@ -494,12 +494,12 @@
   {
     "id": 15,
     "name": {
-      "en": "Bantamweight",
-      "es": "?",
-      "fr": "Poids-coq",
-      "ge": "Kampfhuhn",
-      "it": "?",
-      "jp": "おおにわとり"
+      "EN": "Bantamweight",
+      "ES": "?",
+      "FR": "Poids-coq",
+      "DE": "Kampfhuhn",
+      "IT": "?",
+      "JA": "おおにわとり"
     },
     "sprite": "monsters_sprites/15.png",
     "sprite_animated": "monsters_sprites_animated/15.png",
@@ -529,12 +529,12 @@
   {
     "id": 16,
     "name": {
-      "en": "Winky",
-      "es": "?",
-      "fr": "Clindœil",
-      "ge": "Monekel",
-      "it": "?",
-      "jp": "おおめだま"
+      "EN": "Winky",
+      "ES": "?",
+      "FR": "Clindœil",
+      "DE": "Monekel",
+      "IT": "?",
+      "JA": "おおめだま"
     },
     "sprite": "monsters_sprites/16.png",
     "sprite_animated": "monsters_sprites_animated/16.png",
@@ -561,12 +561,12 @@
   {
     "id": 17,
     "name": {
-      "en": "Walking stick",
-      "es": "?",
-      "fr": "Fourmiasme",
-      "ge": "Gelbschrecke",
-      "it": "?",
-      "jp": "キリキリバッタ"
+      "EN": "Walking stick",
+      "ES": "?",
+      "FR": "Fourmiasme",
+      "DE": "Gelbschrecke",
+      "IT": "?",
+      "JA": "キリキリバッタ"
     },
     "sprite": "monsters_sprites/17.png",
     "sprite_animated": "monsters_sprites_animated/17.png",
@@ -593,12 +593,12 @@
   {
     "id": 18,
     "name": {
-      "en": "She-slime",
-      "es": "?",
-      "fr": "Gluante",
-      "ge": "Schleimette",
-      "it": "?",
-      "jp": "スライムベス"
+      "EN": "She-slime",
+      "ES": "?",
+      "FR": "Gluante",
+      "DE": "Schleimette",
+      "IT": "?",
+      "JA": "スライムベス"
     },
     "sprite": "monsters_sprites/18.png",
     "sprite_animated": "monsters_sprites_animated/18.png",
@@ -625,12 +625,12 @@
   {
     "id": 19,
     "name": {
-      "en": "Lickspittle",
-      "es": "?",
-      "fr": "Glair de lune",
-      "ge": "Speichellecker",
-      "it": "?",
-      "jp": "つちわらし"
+      "EN": "Lickspittle",
+      "ES": "?",
+      "FR": "Glair de lune",
+      "DE": "Speichellecker",
+      "IT": "?",
+      "JA": "つちわらし"
     },
     "sprite": "monsters_sprites/19.png",
     "sprite_animated": "monsters_sprites_animated/19.png",
@@ -657,12 +657,12 @@
   {
     "id": 20,
     "name": {
-      "en": "Mouseflap",
-      "es": "?",
-      "fr": "Chauve-sourat",
-      "ge": "Flattermaus",
-      "it": "?",
-      "jp": "みみとびねずみ"
+      "EN": "Mouseflap",
+      "ES": "?",
+      "FR": "Chauve-sourat",
+      "DE": "Flattermaus",
+      "IT": "?",
+      "JA": "みみとびねずみ"
     },
     "sprite": "monsters_sprites/20.png",
     "sprite_animated": "monsters_sprites_animated/20.png",
@@ -689,12 +689,12 @@
   {
     "id": 21,
     "name": {
-      "en": "Foo dog",
-      "es": "?",
-      "fr": "Chienfernal",
-      "ge": "Fu-Hund",
-      "it": "?",
-      "jp": "あばれこまいぬ"
+      "EN": "Foo dog",
+      "ES": "?",
+      "FR": "Chienfernal",
+      "DE": "Fu-Hund",
+      "IT": "?",
+      "JA": "あばれこまいぬ"
     },
     "sprite": "monsters_sprites/21.png",
     "sprite_animated": "monsters_sprites_animated/21.png",
@@ -725,12 +725,12 @@
   {
     "id": 22,
     "name": {
-      "en": "Bagworm",
-      "es": "?",
-      "fr": "Sacaver",
-      "ge": "Raupenrüpel",
-      "it": "?",
-      "jp": "ミノーン"
+      "EN": "Bagworm",
+      "ES": "?",
+      "FR": "Sacaver",
+      "DE": "Raupenrüpel",
+      "IT": "?",
+      "JA": "ミノーン"
     },
     "sprite": "monsters_sprites/22.png",
     "sprite_animated": "monsters_sprites_animated/22.png",
@@ -757,12 +757,12 @@
   {
     "id": 23,
     "name": {
-      "en": "Funghoul",
-      "es": "?",
-      "fr": "Champigoule",
-      "ge": "Pestpilz",
-      "it": "?",
-      "jp": "おばけキノコ"
+      "EN": "Funghoul",
+      "ES": "?",
+      "FR": "Champigoule",
+      "DE": "Pestpilz",
+      "IT": "?",
+      "JA": "おばけキノコ"
     },
     "sprite": "monsters_sprites/23.png",
     "sprite_animated": "monsters_sprites_animated/23.png",
@@ -789,12 +789,12 @@
   {
     "id": 24,
     "name": {
-      "en": "Bullfinch",
-      "es": "?",
-      "fr": "Taurapace",
-      "ge": "Stierstar",
-      "it": "?",
-      "jp": "あばれうしどり"
+      "EN": "Bullfinch",
+      "ES": "?",
+      "FR": "Taurapace",
+      "DE": "Stierstar",
+      "IT": "?",
+      "JA": "あばれうしどり"
     },
     "sprite": "monsters_sprites/24.png",
     "sprite_animated": "monsters_sprites_animated/24.png",
@@ -825,12 +825,12 @@
   {
     "id": 25,
     "name": {
-      "en": "Carnivine",
-      "es": "?",
-      "fr": "Morchidée",
-      "ge": "Fleischfresser",
-      "it": "?",
-      "jp": "ひとくいそう"
+      "EN": "Carnivine",
+      "ES": "?",
+      "FR": "Morchidée",
+      "DE": "Fleischfresser",
+      "IT": "?",
+      "JA": "ひとくいそう"
     },
     "sprite": "monsters_sprites/25.png",
     "sprite_animated": "monsters_sprites_animated/25.png",
@@ -857,12 +857,12 @@
   {
     "id": 26,
     "name": {
-      "en": "Firespirit",
-      "es": "?",
-      "fr": "Feu follet",
-      "ge": "Feuergeist",
-      "it": "?",
-      "jp": "メラゴースト"
+      "EN": "Firespirit",
+      "ES": "?",
+      "FR": "Feu follet",
+      "DE": "Feuergeist",
+      "IT": "?",
+      "JA": "メラゴースト"
     },
     "sprite": "monsters_sprites/26.png",
     "sprite_animated": "monsters_sprites_animated/26.png",
@@ -889,12 +889,12 @@
   {
     "id": 27,
     "name": {
-      "en": "Thorny devil",
-      "es": "?",
-      "fr": "Démon piquant",
-      "ge": "Dornteufel",
-      "it": "?",
-      "jp": "テペロ"
+      "EN": "Thorny devil",
+      "ES": "?",
+      "FR": "Démon piquant",
+      "DE": "Dornteufel",
+      "IT": "?",
+      "JA": "テペロ"
     },
     "sprite": "monsters_sprites/27.png",
     "sprite_animated": "monsters_sprites_animated/27.png",
@@ -921,12 +921,12 @@
   {
     "id": 28,
     "name": {
-      "en": "Lugworm",
-      "es": "?",
-      "fr": "Tortilleux",
-      "ge": "Kreuchler",
-      "it": "?",
-      "jp": "サンドマスター"
+      "EN": "Lugworm",
+      "ES": "?",
+      "FR": "Tortilleux",
+      "DE": "Kreuchler",
+      "IT": "?",
+      "JA": "サンドマスター"
     },
     "sprite": "monsters_sprites/28.png",
     "sprite_animated": "monsters_sprites_animated/28.png",
@@ -953,12 +953,12 @@
   {
     "id": 29,
     "name": {
-      "en": "Bedbug",
-      "es": "?",
-      "fr": "Scarasomniaque",
-      "ge": "Bettwanze",
-      "it": "?",
-      "jp": "ラリホービートル"
+      "EN": "Bedbug",
+      "ES": "?",
+      "FR": "Scarasomniaque",
+      "DE": "Bettwanze",
+      "IT": "?",
+      "JA": "ラリホービートル"
     },
     "sprite": "monsters_sprites/29.png",
     "sprite_animated": "monsters_sprites_animated/29.png",
@@ -985,12 +985,12 @@
   {
     "id": 30,
     "name": {
-      "en": "Komodo",
-      "es": "?",
-      "fr": "Komodor",
-      "ge": "Komodo",
-      "it": "?",
-      "jp": "コドラ"
+      "EN": "Komodo",
+      "ES": "?",
+      "FR": "Komodor",
+      "DE": "Komodo",
+      "IT": "?",
+      "JA": "コドラ"
     },
     "sprite": "monsters_sprites/30.png",
     "sprite_animated": "monsters_sprites_animated/30.png",
@@ -1020,12 +1020,12 @@
   {
     "id": 31,
     "name": {
-      "en": "Pickayune",
-      "es": "?",
-      "fr": "Démonius",
-      "ge": "Necker",
-      "it": "?",
-      "jp": "おにこぞう"
+      "EN": "Pickayune",
+      "ES": "?",
+      "FR": "Démonius",
+      "DE": "Necker",
+      "IT": "?",
+      "JA": "おにこぞう"
     },
     "sprite": "monsters_sprites/31.png",
     "sprite_animated": "monsters_sprites_animated/31.png",
@@ -1056,12 +1056,12 @@
   {
     "id": 32,
     "name": {
-      "en": "Crested viper",
-      "es": "",
-      "fr": "Vipère à crête",
-      "ge": "Kranzviper",
-      "it": "?",
-      "jp": "とさかへび"
+      "EN": "Crested viper",
+      "ES": "",
+      "FR": "Vipère à crête",
+      "DE": "Kranzviper",
+      "IT": "?",
+      "JA": "とさかへび"
     },
     "sprite": "monsters_sprites/32.png",
     "sprite_animated": "monsters_sprites_animated/32.png",
@@ -1092,12 +1092,12 @@
   {
     "id": 33,
     "name": {
-      "en": "Armoured scorpion",
-      "es": "?",
-      "fr": "Scorpion blindé",
-      "ge": "Panzerskorpion",
-      "it": "?",
-      "jp": "さそりアーマー"
+      "EN": "Armoured scorpion",
+      "ES": "?",
+      "FR": "Scorpion blindé",
+      "DE": "Panzerskorpion",
+      "IT": "?",
+      "JA": "さそりアーマー"
     },
     "sprite": "monsters_sprites/33.png",
     "sprite_animated": "monsters_sprites_animated/33.png",
@@ -1124,12 +1124,12 @@
   {
     "id": 34,
     "name": {
-      "en": "Vampire bat",
-      "es": "?",
-      "fr": "Vampierre",
-      "ge": "Vampirfledermaus",
-      "it": "?",
-      "jp": "きゅうけつこうもり"
+      "EN": "Vampire bat",
+      "ES": "?",
+      "FR": "Vampierre",
+      "DE": "Vampirfledermaus",
+      "IT": "?",
+      "JA": "きゅうけつこうもり"
     },
     "sprite": "monsters_sprites/34.png",
     "sprite_animated": "monsters_sprites_animated/34.png",
@@ -1156,12 +1156,12 @@
   {
     "id": 35,
     "name": {
-      "en": "Cyclown",
-      "es": "?",
-      "fr": "Cyclown",
-      "ge": "Tornadoteufel",
-      "it": "?",
-      "jp": "かまいたち"
+      "EN": "Cyclown",
+      "ES": "?",
+      "FR": "Cyclown",
+      "DE": "Tornadoteufel",
+      "IT": "?",
+      "JA": "かまいたち"
     },
     "sprite": "monsters_sprites/35.png",
     "sprite_animated": "monsters_sprites_animated/35.png",
@@ -1191,12 +1191,12 @@
   {
     "id": 36,
     "name": {
-      "en": "Killer gila",
-      "es": "?",
-      "fr": "Batratueur",
-      "ge": "Giftechse",
-      "it": "?",
-      "jp": "ポイズンリザード"
+      "EN": "Killer gila",
+      "ES": "?",
+      "FR": "Batratueur",
+      "DE": "Giftechse",
+      "IT": "?",
+      "JA": "ポイズンリザード"
     },
     "sprite": "monsters_sprites/36.png",
     "sprite_animated": "monsters_sprites_animated/36.png",
@@ -1223,12 +1223,12 @@
   {
     "id": 37,
     "name": {
-      "en": "Flyguy",
-      "es": "?",
-      "fr": "Mouchomme",
-      "ge": "Fliegerich",
-      "it": "?",
-      "jp": "はえおとこ"
+      "EN": "Flyguy",
+      "ES": "?",
+      "FR": "Mouchomme",
+      "DE": "Fliegerich",
+      "IT": "?",
+      "JA": "はえおとこ"
     },
     "sprite": "monsters_sprites/37.png",
     "sprite_animated": "monsters_sprites_animated/37.png",
@@ -1255,12 +1255,12 @@
   {
     "id": 38,
     "name": {
-      "en": "Erazor blade",
-      "es": "?",
-      "fr": "Cimetueur",
-      "ge": "Sichelschlitzer",
-      "it": "?",
-      "jp": "ひとくいサーベル"
+      "EN": "Erazor blade",
+      "ES": "?",
+      "FR": "Cimetueur",
+      "DE": "Sichelschlitzer",
+      "IT": "?",
+      "JA": "ひとくいサーベル"
     },
     "sprite": "monsters_sprites/38.png",
     "sprite_animated": "monsters_sprites_animated/38.png",
@@ -1287,12 +1287,12 @@
   {
     "id": 39,
     "name": {
-      "en": "Pteranodon",
-      "es": "?",
-      "fr": "Ptéranodon",
-      "ge": "Pteranodon",
-      "it": "?",
-      "jp": "プテラノドン"
+      "EN": "Pteranodon",
+      "ES": "?",
+      "FR": "Ptéranodon",
+      "DE": "Pteranodon",
+      "IT": "?",
+      "JA": "プテラノドン"
     },
     "sprite": "monsters_sprites/39.png",
     "sprite_animated": "monsters_sprites_animated/39.png",
@@ -1324,12 +1324,12 @@
   {
     "id": 40,
     "name": {
-      "en": "Flying doctor",
-      "es": "?",
-      "fr": "Dragonlule",
-      "ge": "Medikopter",
-      "it": "?",
-      "jp": "ドラゴンバタフライ"
+      "EN": "Flying doctor",
+      "ES": "?",
+      "FR": "Dragonlule",
+      "DE": "Medikopter",
+      "IT": "?",
+      "JA": "ドラゴンバタフライ"
     },
     "sprite": "monsters_sprites/40.png",
     "sprite_animated": "monsters_sprites_animated/40.png",
@@ -1356,12 +1356,12 @@
   {
     "id": 41,
     "name": {
-      "en": "Peeper",
-      "es": "?",
-      "fr": "Matœil",
-      "ge": "Glubscher",
-      "it": "?",
-      "jp": "スペクテット"
+      "EN": "Peeper",
+      "ES": "?",
+      "FR": "Matœil",
+      "DE": "Glubscher",
+      "IT": "?",
+      "JA": "スペクテット"
     },
     "sprite": "monsters_sprites/41.png",
     "sprite_animated": "monsters_sprites_animated/41.png",
@@ -1388,12 +1388,12 @@
   {
     "id": 42,
     "name": {
-      "en": "Skeleton swordsman",
-      "es": "?",
-      "fr": "Squelépéiste",
-      "ge": "Skelettkämpfer",
-      "it": "?",
-      "jp": "がいこつけんし"
+      "EN": "Skeleton swordsman",
+      "ES": "?",
+      "FR": "Squelépéiste",
+      "DE": "Skelettkämpfer",
+      "IT": "?",
+      "JA": "がいこつけんし"
     },
     "sprite": "monsters_sprites/42.png",
     "sprite_animated": "monsters_sprites_animated/42.png",
@@ -1424,12 +1424,12 @@
   {
     "id": 43,
     "name": {
-      "en": "Restless armour",
-      "es": "?",
-      "fr": "Armure errante",
-      "ge": "Ruhelose Rüstung",
-      "it": "?",
-      "jp": "さまようよろい"
+      "EN": "Restless armour",
+      "ES": "?",
+      "FR": "Armure errante",
+      "DE": "Ruhelose Rüstung",
+      "IT": "?",
+      "JA": "さまようよろい"
     },
     "sprite": "monsters_sprites/43.png",
     "sprite_animated": "monsters_sprites_animated/43.png",
@@ -1460,12 +1460,12 @@
   {
     "id": 44,
     "name": {
-      "en": "Metal slime",
-      "es": "?",
-      "fr": "Gluant de métal",
-      "ge": "Metallschleim",
-      "it": "?",
-      "jp": "メタルスライム"
+      "EN": "Metal slime",
+      "ES": "?",
+      "FR": "Gluant de métal",
+      "DE": "Metallschleim",
+      "IT": "?",
+      "JA": "メタルスライム"
     },
     "sprite": "monsters_sprites/44.png",
     "sprite_animated": "monsters_sprites_animated/44.png",
@@ -1496,12 +1496,12 @@
   {
     "id": 45,
     "name": {
-      "en": "Elepus",
-      "es": "?",
-      "fr": "Elépieuvre",
-      "ge": "Elepus",
-      "it": "?",
-      "jp": "エレフローパー"
+      "EN": "Elepus",
+      "ES": "?",
+      "FR": "Elépieuvre",
+      "DE": "Elepus",
+      "IT": "?",
+      "JA": "エレフローパー"
     },
     "sprite": "monsters_sprites/45.png",
     "sprite_animated": "monsters_sprites_animated/45.png",
@@ -1528,12 +1528,12 @@
   {
     "id": 46,
     "name": {
-      "en": "Platypunk",
-      "es": "?",
-      "fr": "Ornithox",
-      "ge": "Kuddel",
-      "it": "?",
-      "jp": "ももんじゃ"
+      "EN": "Platypunk",
+      "ES": "?",
+      "FR": "Ornithox",
+      "DE": "Kuddel",
+      "IT": "?",
+      "JA": "ももんじゃ"
     },
     "sprite": "monsters_sprites/46.png",
     "sprite_animated": "monsters_sprites_animated/46.png",
@@ -1560,12 +1560,12 @@
   {
     "id": 47,
     "name": {
-      "en": "Horny devil",
-      "es": "?",
-      "fr": "Démon cornu",
-      "ge": "Hornteufel",
-      "it": "?",
-      "jp": "とんがりあたま"
+      "EN": "Horny devil",
+      "ES": "?",
+      "FR": "Démon cornu",
+      "DE": "Hornteufel",
+      "IT": "?",
+      "JA": "とんがりあたま"
     },
     "sprite": "monsters_sprites/47.png",
     "sprite_animated": "monsters_sprites_animated/47.png",
@@ -1592,12 +1592,12 @@
   {
     "id": 48,
     "name": {
-      "en": "Dirty dogu",
-      "es": "?",
-      "fr": "Gris-gris",
-      "ge": "Adrette Statuette",
-      "it": "?",
-      "jp": "いしにんぎょう"
+      "EN": "Dirty dogu",
+      "ES": "?",
+      "FR": "Gris-gris",
+      "DE": "Adrette Statuette",
+      "IT": "?",
+      "JA": "いしにんぎょう"
     },
     "sprite": "monsters_sprites/48.png",
     "sprite_animated": "monsters_sprites_animated/48.png",
@@ -1624,12 +1624,12 @@
   {
     "id": 49,
     "name": {
-      "en": "Wimp",
-      "es": "?",
-      "fr": "Diablutin",
-      "ge": "Kümmerling",
-      "it": "?",
-      "jp": "つかいま"
+      "EN": "Wimp",
+      "ES": "?",
+      "FR": "Diablutin",
+      "DE": "Kümmerling",
+      "IT": "?",
+      "JA": "つかいま"
     },
     "sprite": "monsters_sprites/49.png",
     "sprite_animated": "monsters_sprites_animated/49.png",
@@ -1661,12 +1661,12 @@
   {
     "id": 50,
     "name": {
-      "en": "Crack-billed platypunk",
-      "es": "?",
-      "fr": "Ornicryo",
-      "ge": "Knirschkuddel",
-      "it": "?",
-      "jp": "メイジももんじゃ"
+      "EN": "Crack-billed platypunk",
+      "ES": "?",
+      "FR": "Ornicryo",
+      "DE": "Knirschkuddel",
+      "IT": "?",
+      "JA": "メイジももんじゃ"
     },
     "sprite": "monsters_sprites/50.png",
     "sprite_animated": "monsters_sprites_animated/50.png",
@@ -1698,12 +1698,12 @@
   {
     "id": 51,
     "name": {
-      "en": "Fire beatle",
-      "es": "?",
-      "fr": "Pyroblatte",
-      "ge": "Feuerkäfer",
-      "it": "?",
-      "jp": "ヘルビートル"
+      "EN": "Fire beatle",
+      "ES": "?",
+      "FR": "Pyroblatte",
+      "DE": "Feuerkäfer",
+      "IT": "?",
+      "JA": "ヘルビートル"
     },
     "sprite": "monsters_sprites/51.png",
     "sprite_animated": "monsters_sprites_animated/51.png",
@@ -1730,12 +1730,12 @@
   {
     "id": 52,
     "name": {
-      "en": "Slimification",
-      "es": "?",
-      "fr": "Gluantification",
-      "ge": "Schleimifizierung",
-      "it": "?",
-      "jp": "がったいスライム"
+      "EN": "Slimification",
+      "ES": "?",
+      "FR": "Gluantification",
+      "DE": "Schleimifizierung",
+      "IT": "?",
+      "JA": "がったいスライム"
     },
     "sprite": "monsters_sprites/52.png",
     "sprite_animated": "monsters_sprites_animated/52.png",
@@ -1762,12 +1762,12 @@
   {
     "id": 53,
     "name": {
-      "en": "King slime",
-      "es": "?",
-      "fr": "Roi gluant",
-      "ge": "Königsschleim",
-      "it": "?",
-      "jp": "キングスライム"
+      "EN": "King slime",
+      "ES": "?",
+      "FR": "Roi gluant",
+      "DE": "Königsschleim",
+      "IT": "?",
+      "JA": "キングスライム"
     },
     "sprite": "monsters_sprites/53.png",
     "sprite_animated": "monsters_sprites_animated/53.png",
@@ -1794,12 +1794,12 @@
   {
     "id": 54,
     "name": {
-      "en": "Ratatattack",
-      "es": "?",
-      "fr": "Ratatattaque",
-      "ge": "Rattentäter",
-      "it": "?",
-      "jp": "エビルハムスター"
+      "EN": "Ratatattack",
+      "ES": "?",
+      "FR": "Ratatattaque",
+      "DE": "Rattentäter",
+      "IT": "?",
+      "JA": "エビルハムスター"
     },
     "sprite": "monsters_sprites/54.png",
     "sprite_animated": "monsters_sprites_animated/54.png",
@@ -1826,12 +1826,12 @@
   {
     "id": 55,
     "name": {
-      "en": "Frolicker",
-      "es": "?",
-      "fr": "Salivard",
-      "ge": "Sabberschlabber",
-      "it": "?",
-      "jp": "ペロペロ"
+      "EN": "Frolicker",
+      "ES": "?",
+      "FR": "Salivard",
+      "DE": "Sabberschlabber",
+      "IT": "?",
+      "JA": "ペロペロ"
     },
     "sprite": "monsters_sprites/55.png",
     "sprite_animated": "monsters_sprites_animated/55.png",
@@ -1866,12 +1866,12 @@
   {
     "id": 56,
     "name": {
-      "en": "Stump grump",
-      "es": "?",
-      "fr": "Cyclotronc",
-      "ge": "Dumpfstumpf",
-      "it": "?",
-      "jp": "ダークドリアード"
+      "EN": "Stump grump",
+      "ES": "?",
+      "FR": "Cyclotronc",
+      "DE": "Dumpfstumpf",
+      "IT": "?",
+      "JA": "ダークドリアード"
     },
     "sprite": "monsters_sprites/56.png",
     "sprite_animated": "monsters_sprites_animated/56.png",
@@ -1898,12 +1898,12 @@
   {
     "id": 57,
     "name": {
-      "en": "Weartiger",
-      "es": "?",
-      "fr": "Tigriff",
-      "ge": "Abartiger",
-      "it": "?",
-      "jp": "とらおとこ"
+      "EN": "Weartiger",
+      "ES": "?",
+      "FR": "Tigriff",
+      "DE": "Abartiger",
+      "IT": "?",
+      "JA": "とらおとこ"
     },
     "sprite": "monsters_sprites/57.png",
     "sprite_animated": "monsters_sprites_animated/57.png",
@@ -1935,12 +1935,12 @@
   {
     "id": 58,
     "name": {
-      "en": "Jinkster",
-      "es": "?",
-      "fr": "Fée lée",
-      "ge": "Blödler",
-      "it": "?",
-      "jp": "ひとつめピエロ"
+      "EN": "Jinkster",
+      "ES": "?",
+      "FR": "Fée lée",
+      "DE": "Blödler",
+      "IT": "?",
+      "JA": "ひとつめピエロ"
     },
     "sprite": "monsters_sprites/58.png",
     "sprite_animated": "monsters_sprites_animated/58.png",
@@ -1971,12 +1971,12 @@
   {
     "id": 59,
     "name": {
-      "en": "Paralyslicer",
-      "es": "?",
-      "fr": "Paralysabre",
-      "ge": "Sichel der Starre",
-      "it": "?",
-      "jp": "しびれだんびら"
+      "EN": "Paralyslicer",
+      "ES": "?",
+      "FR": "Paralysabre",
+      "DE": "Sichel der Starre",
+      "IT": "?",
+      "JA": "しびれだんびら"
     },
     "sprite": "monsters_sprites/59.png",
     "sprite_animated": "monsters_sprites_animated/59.png",
@@ -2007,12 +2007,12 @@
   {
     "id": 60,
     "name": {
-      "en": "Lost soul",
-      "es": "?",
-      "fr": "Flammerolle",
-      "ge": "Verlorene Seele",
-      "it": "?",
-      "jp": "さまようたましい"
+      "EN": "Lost soul",
+      "ES": "?",
+      "FR": "Flammerolle",
+      "DE": "Verlorene Seele",
+      "IT": "?",
+      "JA": "さまようたましい"
     },
     "sprite": "monsters_sprites/60.png",
     "sprite_animated": "monsters_sprites_animated/60.png",
@@ -2039,12 +2039,12 @@
   {
     "id": 61,
     "name": {
-      "en": "Vampire battler",
-      "es": "?",
-      "fr": "Vampaul",
-      "ge": "Vampirkämpfer",
-      "it": "?",
-      "jp": "バンプドック"
+      "EN": "Vampire battler",
+      "ES": "?",
+      "FR": "Vampaul",
+      "DE": "Vampirkämpfer",
+      "IT": "?",
+      "JA": "バンプドック"
     },
     "sprite": "monsters_sprites/61.png",
     "sprite_animated": "monsters_sprites_animated/61.png",
@@ -2076,12 +2076,12 @@
   {
     "id": 62,
     "name": {
-      "en": "Metal scorpion",
-      "es": "?",
-      "fr": "Scorpion d'assaut",
-      "ge": "Metallskorpion",
-      "it": "?",
-      "jp": "メタルスコーピオン"
+      "EN": "Metal scorpion",
+      "ES": "?",
+      "FR": "Scorpion d'assaut",
+      "DE": "Metallskorpion",
+      "IT": "?",
+      "JA": "メタルスコーピオン"
     },
     "sprite": "monsters_sprites/62.png",
     "sprite_animated": "monsters_sprites_animated/62.png",
@@ -2112,12 +2112,12 @@
   {
     "id": 63,
     "name": {
-      "en": "Featherweight",
-      "es": "?",
-      "fr": "Poids-plume",
-      "ge": "Federfaust",
-      "it": "?",
-      "jp": "ドードーどり"
+      "EN": "Featherweight",
+      "ES": "?",
+      "FR": "Poids-plume",
+      "DE": "Federfaust",
+      "IT": "?",
+      "JA": "ドードーどり"
     },
     "sprite": "monsters_sprites/63.png",
     "sprite_animated": "monsters_sprites_animated/63.png",
@@ -2152,12 +2152,12 @@
   {
     "id": 64,
     "name": {
-      "en": "Salamander fry",
-      "es": "?",
-      "fr": "Geckorrosif",
-      "ge": "Geckorrosif",
-      "it": "?",
-      "jp": "ベビーサラマンダ"
+      "EN": "Salamander fry",
+      "ES": "?",
+      "FR": "Geckorrosif",
+      "DE": "Geckorrosif",
+      "IT": "?",
+      "JA": "ベビーサラマンダ"
     },
     "sprite": "monsters_sprites/64.png",
     "sprite_animated": "monsters_sprites_animated/64.png",
@@ -2188,12 +2188,12 @@
   {
     "id": 65,
     "name": {
-      "en": "Venus guytrap",
-      "es": "?",
-      "fr": "Dionéneuse",
-      "ge": "Venus-Menschenfalle",
-      "it": "?",
-      "jp": "デビルプラント"
+      "EN": "Venus guytrap",
+      "ES": "?",
+      "FR": "Dionéneuse",
+      "DE": "Venus-Menschenfalle",
+      "IT": "?",
+      "JA": "デビルプラント"
     },
     "sprite": "monsters_sprites/65.png",
     "sprite_animated": "monsters_sprites_animated/65.png",
@@ -2220,12 +2220,12 @@
   {
     "id": 66,
     "name": {
-      "en": "Bodkin fletcher",
-      "es": "",
-      "fr": "Dardeur",
-      "ge": "Pfeilwicht",
-      "it": "?",
-      "jp": "どくやずきん"
+      "EN": "Bodkin fletcher",
+      "ES": "",
+      "FR": "Dardeur",
+      "DE": "Pfeilwicht",
+      "IT": "?",
+      "JA": "どくやずきん"
     },
     "sprite": "monsters_sprites/66.png",
     "sprite_animated": "monsters_sprites_animated/66.png",
@@ -2252,12 +2252,12 @@
   {
     "id": 67,
     "name": {
-      "en": "Mandragore",
-      "es": "?",
-      "fr": "Mandragore",
-      "ge": "Mandragora",
-      "it": "?",
-      "jp": "マンドレイク"
+      "EN": "Mandragore",
+      "ES": "?",
+      "FR": "Mandragore",
+      "DE": "Mandragora",
+      "IT": "?",
+      "JA": "マンドレイク"
     },
     "sprite": "monsters_sprites/67.png",
     "sprite_animated": "monsters_sprites_animated/67.png",
@@ -2284,12 +2284,12 @@
   {
     "id": 68,
     "name": {
-      "en": "Bodkin bawyer",
-      "es": "?",
-      "fr": "Tire-flèches",
-      "ge": "Bogenwicht",
-      "it": "?",
-      "jp": "アローインプ"
+      "EN": "Bodkin bawyer",
+      "ES": "?",
+      "FR": "Tire-flèches",
+      "DE": "Bogenwicht",
+      "IT": "?",
+      "JA": "アローインプ"
     },
     "sprite": "monsters_sprites/68.png",
     "sprite_animated": "monsters_sprites_animated/68.png",
@@ -2320,12 +2320,12 @@
   {
     "id": 69,
     "name": {
-      "en": "Sweaty yeti",
-      "es": "?",
-      "fr": "Yeti des sables",
-      "ge": "Yetigitt",
-      "it": "?",
-      "jp": "デザートゴースト"
+      "EN": "Sweaty yeti",
+      "ES": "?",
+      "FR": "Yeti des sables",
+      "DE": "Yetigitt",
+      "IT": "?",
+      "JA": "デザートゴースト"
     },
     "sprite": "monsters_sprites/69.png",
     "sprite_animated": "monsters_sprites_animated/69.png",
@@ -2352,12 +2352,12 @@
   {
     "id": 70,
     "name": {
-      "en": "Flamethrower",
-      "es": "?",
-      "fr": "Tizon",
-      "ge": "Flammenwerfer",
-      "it": "?",
-      "jp": "ほのおのせんし"
+      "EN": "Flamethrower",
+      "ES": "?",
+      "FR": "Tizon",
+      "DE": "Flammenwerfer",
+      "IT": "?",
+      "JA": "ほのおのせんし"
     },
     "sprite": "monsters_sprites/70.png",
     "sprite_animated": "monsters_sprites_animated/70.png",
@@ -2389,12 +2389,12 @@
   {
     "id": 71,
     "name": {
-      "en": "Murshroom mage",
-      "es": "?",
-      "fr": "Champimage",
-      "ge": "Plizmagier",
-      "it": "?",
-      "jp": "マージマタンゴ"
+      "EN": "Murshroom mage",
+      "ES": "?",
+      "FR": "Champimage",
+      "DE": "Plizmagier",
+      "IT": "?",
+      "JA": "マージマタンゴ"
     },
     "sprite": "monsters_sprites/71.png",
     "sprite_animated": "monsters_sprites_animated/71.png",
@@ -2426,12 +2426,12 @@
   {
     "id": 72,
     "name": {
-      "en": "Buffalo wing",
-      "es": "?",
-      "fr": "Bovipare",
-      "ge": "Flügelbüffel",
-      "it": "?",
-      "jp": "ブルホーク"
+      "EN": "Buffalo wing",
+      "ES": "?",
+      "FR": "Bovipare",
+      "DE": "Flügelbüffel",
+      "IT": "?",
+      "JA": "ブルホーク"
     },
     "sprite": "monsters_sprites/72.png",
     "sprite_animated": "monsters_sprites_animated/72.png",
@@ -2458,12 +2458,12 @@
   {
     "id": 73,
     "name": {
-      "en": "Imp",
-      "es": "?",
-      "fr": "Diablotin",
-      "ge": "Kobold",
-      "it": "?",
-      "jp": "ベビーサタン"
+      "EN": "Imp",
+      "ES": "?",
+      "FR": "Diablotin",
+      "DE": "Kobold",
+      "IT": "?",
+      "JA": "ベビーサタン"
     },
     "sprite": "monsters_sprites/73.png",
     "sprite_animated": "monsters_sprites_animated/73.png",
@@ -2490,12 +2490,12 @@
   {
     "id": 74,
     "name": {
-      "en": "Whizzard",
-      "es": "?",
-      "fr": "Marcagicien",
-      "ge": "Scharlatan",
-      "it": "?",
-      "jp": "コンジャラー"
+      "EN": "Whizzard",
+      "ES": "?",
+      "FR": "Marcagicien",
+      "DE": "Scharlatan",
+      "IT": "?",
+      "JA": "コンジャラー"
     },
     "sprite": "monsters_sprites/74.png",
     "sprite_animated": "monsters_sprites_animated/74.png",
@@ -2522,12 +2522,12 @@
   {
     "id": 75,
     "name": {
-      "en": "Infernal armour",
-      "es": "?",
-      "fr": "Armure infernale",
-      "ge": "Höllenrüstung",
-      "it": "?",
-      "jp": "じごくのよろい"
+      "EN": "Infernal armour",
+      "ES": "?",
+      "FR": "Armure infernale",
+      "DE": "Höllenrüstung",
+      "IT": "?",
+      "JA": "じごくのよろい"
     },
     "sprite": "monsters_sprites/75.png",
     "sprite_animated": "monsters_sprites_animated/75.png",
@@ -2558,12 +2558,12 @@
   {
     "id": 76,
     "name": {
-      "en": "Powie yowie",
-      "es": "?",
-      "fr": "Yéti yétu",
-      "ge": "Schneestrolch",
-      "it": "?",
-      "jp": "イエティ"
+      "EN": "Powie yowie",
+      "ES": "?",
+      "FR": "Yéti yétu",
+      "DE": "Schneestrolch",
+      "IT": "?",
+      "JA": "イエティ"
     },
     "sprite": "monsters_sprites/76.png",
     "sprite_animated": "monsters_sprites_animated/76.png",
@@ -2590,12 +2590,12 @@
   {
     "id": 77,
     "name": {
-      "en": "Skeleton soldier",
-      "es": "?",
-      "fr": "Soldat squelette",
-      "ge": "Skelettsoldat",
-      "it": "?",
-      "jp": "しりょうのきし"
+      "EN": "Skeleton soldier",
+      "ES": "?",
+      "FR": "Soldat squelette",
+      "DE": "Skelettsoldat",
+      "IT": "?",
+      "JA": "しりょうのきし"
     },
     "sprite": "monsters_sprites/77.png",
     "sprite_animated": "monsters_sprites_animated/77.png",
@@ -2628,12 +2628,12 @@
   {
     "id": 78,
     "name": {
-      "en": "Pocus poppet",
-      "es": "?",
-      "fr": "Talismaboule",
-      "ge": "Fiese Figurine",
-      "it": "?",
-      "jp": "ミステリードール"
+      "EN": "Pocus poppet",
+      "ES": "?",
+      "FR": "Talismaboule",
+      "DE": "Fiese Figurine",
+      "IT": "?",
+      "JA": "ミステリードール"
     },
     "sprite": "monsters_sprites/78.png",
     "sprite_animated": "monsters_sprites_animated/78.png",
@@ -2660,12 +2660,12 @@
   {
     "id": 79,
     "name": {
-      "en": "Wild beast",
-      "es": "?",
-      "fr": "Bête sauvage",
-      "ge": "Grobian",
-      "it": "?",
-      "jp": "オックスベア"
+      "EN": "Wild beast",
+      "ES": "?",
+      "FR": "Bête sauvage",
+      "DE": "Grobian",
+      "IT": "?",
+      "JA": "オックスベア"
     },
     "sprite": "monsters_sprites/79.png",
     "sprite_animated": "monsters_sprites_animated/79.png",
@@ -2692,12 +2692,12 @@
   {
     "id": 80,
     "name": {
-      "en": "Dragon pup",
-      "es": "?",
-      "fr": "Dragonnet",
-      "ge": "Drachenbaby",
-      "it": "?",
-      "jp": "ドラゴンパピー"
+      "EN": "Dragon pup",
+      "ES": "?",
+      "FR": "Dragonnet",
+      "DE": "Drachenbaby",
+      "IT": "?",
+      "JA": "ドラゴンパピー"
     },
     "sprite": "monsters_sprites/80.png",
     "sprite_animated": "monsters_sprites_animated/80.png",
@@ -2724,12 +2724,12 @@
   {
     "id": 81,
     "name": {
-      "en": "Hoodoo gooroo",
-      "es": "?",
-      "fr": "Gourou coucou",
-      "ge": "Unglücksbringer",
-      "it": "?",
-      "jp": "しりょうつかい"
+      "EN": "Hoodoo gooroo",
+      "ES": "?",
+      "FR": "Gourou coucou",
+      "DE": "Unglücksbringer",
+      "IT": "?",
+      "JA": "しりょうつかい"
     },
     "sprite": "monsters_sprites/81.png",
     "sprite_animated": "monsters_sprites_animated/81.png",
@@ -2756,12 +2756,12 @@
   {
     "id": 82,
     "name": {
-      "en": "Cocoon goon",
-      "es": "?",
-      "fr": "Asticocon",
-      "ge": "Kokonkiller",
-      "it": "?",
-      "jp": "あくまのす"
+      "EN": "Cocoon goon",
+      "ES": "?",
+      "FR": "Asticocon",
+      "DE": "Kokonkiller",
+      "IT": "?",
+      "JA": "あくまのす"
     },
     "sprite": "monsters_sprites/82.png",
     "sprite_animated": "monsters_sprites_animated/82.png",
@@ -2792,12 +2792,12 @@
   {
     "id": 83,
     "name": {
-      "en": "Cureslime",
-      "es": "?",
-      "fr": "Guérigluant",
-      "ge": "Heilschleim",
-      "it": "?",
-      "jp": "ベホマスライム"
+      "EN": "Cureslime",
+      "ES": "?",
+      "FR": "Guérigluant",
+      "DE": "Heilschleim",
+      "IT": "?",
+      "JA": "ベホマスライム"
     },
     "sprite": "monsters_sprites/83.png",
     "sprite_animated": "monsters_sprites_animated/83.png",
@@ -2824,12 +2824,12 @@
   {
     "id": 84,
     "name": {
-      "en": "Abracadabrador",
-      "es": "?",
-      "fr": "Abracadabraque",
-      "ge": "Abrakadabrador",
-      "it": "?",
-      "jp": "サブナック"
+      "EN": "Abracadabrador",
+      "ES": "?",
+      "FR": "Abracadabraque",
+      "DE": "Abrakadabrador",
+      "IT": "?",
+      "JA": "サブナック"
     },
     "sprite": "monsters_sprites/84.png",
     "sprite_animated": "monsters_sprites_animated/84.png",
@@ -2856,12 +2856,12 @@
   {
     "id": 85,
     "name": {
-      "en": "Cheater cheetah",
-      "es": "?",
-      "fr": "Tigrrr",
-      "ge": "Unartiger",
-      "it": "?",
-      "jp": "ベンガル"
+      "EN": "Cheater cheetah",
+      "ES": "?",
+      "FR": "Tigrrr",
+      "DE": "Unartiger",
+      "IT": "?",
+      "JA": "ベンガル"
     },
     "sprite": "monsters_sprites/85.png",
     "sprite_animated": "monsters_sprites_animated/85.png",
@@ -2892,12 +2892,12 @@
   {
     "id": 86,
     "name": {
-      "en": "Rhinothrope",
-      "es": "?",
-      "fr": "Rhinocérosse",
-      "ge": "Beilhorn",
-      "it": "?",
-      "jp": "サイおとこ"
+      "EN": "Rhinothrope",
+      "ES": "?",
+      "FR": "Rhinocérosse",
+      "DE": "Beilhorn",
+      "IT": "?",
+      "JA": "サイおとこ"
     },
     "sprite": "monsters_sprites/86.png",
     "sprite_animated": "monsters_sprites_animated/86.png",
@@ -2924,12 +2924,12 @@
   {
     "id": 87,
     "name": {
-      "en": "Minidemon",
-      "es": "?",
-      "fr": "Mini démon",
-      "ge": "Minidämon",
-      "it": "?",
-      "jp": "ミニデーモン"
+      "EN": "Minidemon",
+      "ES": "?",
+      "FR": "Mini démon",
+      "DE": "Minidämon",
+      "IT": "?",
+      "JA": "ミニデーモン"
     },
     "sprite": "monsters_sprites/87.png",
     "sprite_animated": "monsters_sprites_animated/87.png",
@@ -2963,12 +2963,12 @@
   {
     "id": 88,
     "name": {
-      "en": "Chillanodon",
-      "es": "?",
-      "fr": "Glacianodon",
-      "ge": "Schocknodon",
-      "it": "?",
-      "jp": "アイスコンドル"
+      "EN": "Chillanodon",
+      "ES": "?",
+      "FR": "Glacianodon",
+      "DE": "Schocknodon",
+      "IT": "?",
+      "JA": "アイスコンドル"
     },
     "sprite": "monsters_sprites/88.png",
     "sprite_animated": "monsters_sprites_animated/88.png",
@@ -3000,12 +3000,12 @@
   {
     "id": 89,
     "name": {
-      "en": "Lethal armour",
-      "es": "?",
-      "fr": "Armure fatale",
-      "ge": "Todesrüstung",
-      "it": "?",
-      "jp": "キラーアーマー"
+      "EN": "Lethal armour",
+      "ES": "?",
+      "FR": "Armure fatale",
+      "DE": "Todesrüstung",
+      "IT": "?",
+      "JA": "キラーアーマー"
     },
     "sprite": "monsters_sprites/89.png",
     "sprite_animated": "monsters_sprites_animated/89.png",
@@ -3032,12 +3032,12 @@
   {
     "id": 90,
     "name": {
-      "en": "Rockbomb",
-      "es": "?",
-      "fr": "Rochexplosif",
-      "ge": "Falsenbombe",
-      "it": "?",
-      "jp": "ばくだんいわ"
+      "EN": "Rockbomb",
+      "ES": "?",
+      "FR": "Rochexplosif",
+      "DE": "Falsenbombe",
+      "IT": "?",
+      "JA": "ばくだんいわ"
     },
     "sprite": "monsters_sprites/90.png",
     "sprite_animated": "monsters_sprites_animated/90.png",
@@ -3064,12 +3064,12 @@
   {
     "id": 91,
     "name": {
-      "en": "Eoraptor",
-      "es": "?",
-      "fr": "Radiaptor",
-      "ge": "Eoraptor",
-      "it": "?",
-      "jp": "テラノザース"
+      "EN": "Eoraptor",
+      "ES": "?",
+      "FR": "Radiaptor",
+      "DE": "Eoraptor",
+      "IT": "?",
+      "JA": "テラノザース"
     },
     "sprite": "monsters_sprites/91.png",
     "sprite_animated": "monsters_sprites_animated/91.png",
@@ -3100,12 +3100,12 @@
   {
     "id": 92,
     "name": {
-      "en": "Beleth",
-      "es": "?",
-      "fr": "Byleth",
-      "ge": "Beleth",
-      "it": "?",
-      "jp": "ベレス"
+      "EN": "Beleth",
+      "ES": "?",
+      "FR": "Byleth",
+      "DE": "Beleth",
+      "IT": "?",
+      "JA": "ベレス"
     },
     "sprite": "monsters_sprites/92.png",
     "sprite_animated": "monsters_sprites_animated/92.png",
@@ -3132,12 +3132,12 @@
   {
     "id": 93,
     "name": {
-      "en": "Grim rider",
-      "es": "?",
-      "fr": "Cavalier fantôme",
-      "ge": "Galgenreiter",
-      "it": "?",
-      "jp": "ボーンナイト"
+      "EN": "Grim rider",
+      "ES": "?",
+      "FR": "Cavalier fantôme",
+      "DE": "Galgenreiter",
+      "IT": "?",
+      "JA": "ボーンナイト"
     },
     "sprite": "monsters_sprites/93.png",
     "sprite_animated": "monsters_sprites_animated/93.png",
@@ -3168,12 +3168,12 @@
   {
     "id": 94,
     "name": {
-      "en": "Bulldozer",
-      "es": "?",
-      "fr": "Ronflicorne",
-      "ge": "Bulldozer",
-      "it": "?",
-      "jp": "アークバッファロー"
+      "EN": "Bulldozer",
+      "ES": "?",
+      "FR": "Ronflicorne",
+      "DE": "Bulldozer",
+      "IT": "?",
+      "JA": "アークバッファロー"
     },
     "sprite": "monsters_sprites/94.png",
     "sprite_animated": "monsters_sprites_animated/94.png",
@@ -3204,12 +3204,12 @@
   {
     "id": 95,
     "name": {
-      "en": "Chicken poxer",
-      "es": "?",
-      "fr": "Coq-toc",
-      "ge": "Haudraufhenne",
-      "it": "?",
-      "jp": "マンルースター"
+      "EN": "Chicken poxer",
+      "ES": "?",
+      "FR": "Coq-toc",
+      "DE": "Haudraufhenne",
+      "IT": "?",
+      "JA": "マンルースター"
     },
     "sprite": "monsters_sprites/95.png",
     "sprite_animated": "monsters_sprites_animated/95.png",
@@ -3236,12 +3236,12 @@
   {
     "id": 96,
     "name": {
-      "en": "War-rus",
-      "es": "?",
-      "fr": "Toréamorse",
-      "ge": "Qualross",
-      "it": "?",
-      "jp": "グレートオーラス"
+      "EN": "War-rus",
+      "ES": "?",
+      "FR": "Toréamorse",
+      "DE": "Qualross",
+      "IT": "?",
+      "JA": "グレートオーラス"
     },
     "sprite": "monsters_sprites/96.png",
     "sprite_animated": "monsters_sprites_animated/96.png",
@@ -3268,12 +3268,12 @@
   {
     "id": 97,
     "name": {
-      "en": "Liquid metal slime",
-      "es": "?",
-      "fr": "Gluant de mercure",
-      "ge": "Flüssigmetallschleim",
-      "it": "?",
-      "jp": "はぐれメタル"
+      "EN": "Liquid metal slime",
+      "ES": "?",
+      "FR": "Gluant de mercure",
+      "DE": "Flüssigmetallschleim",
+      "IT": "?",
+      "JA": "はぐれメタル"
     },
     "sprite": "monsters_sprites/97.png",
     "sprite_animated": "monsters_sprites_animated/97.png",
@@ -3300,12 +3300,12 @@
   {
     "id": 98,
     "name": {
-      "en": "Humbaba",
-      "es": "?",
-      "fr": "Humbaba",
-      "ge": "Humbaba",
-      "it": "?",
-      "jp": "ハンババ"
+      "EN": "Humbaba",
+      "ES": "?",
+      "FR": "Humbaba",
+      "DE": "Humbaba",
+      "IT": "?",
+      "JA": "ハンババ"
     },
     "sprite": "monsters_sprites/98.png",
     "sprite_animated": "monsters_sprites_animated/98.png",
@@ -3336,12 +3336,12 @@
   {
     "id": 99,
     "name": {
-      "en": "Spitfire",
-      "es": "?",
-      "fr": "Libellugon",
-      "ge": "Feuerspeier",
-      "it": "?",
-      "jp": "ドラゴニット"
+      "EN": "Spitfire",
+      "ES": "?",
+      "FR": "Libellugon",
+      "DE": "Feuerspeier",
+      "IT": "?",
+      "JA": "ドラゴニット"
     },
     "sprite": "monsters_sprites/99.png",
     "sprite_animated": "monsters_sprites_animated/99.png",
@@ -3372,12 +3372,12 @@
   {
     "id": 100,
     "name": {
-      "en": "Terminonatator",
-      "es": "?",
-      "fr": "Terminataure",
-      "ge": "Terminonatator",
-      "it": "?",
-      "jp": "プレシオドン"
+      "EN": "Terminonatator",
+      "ES": "?",
+      "FR": "Terminataure",
+      "DE": "Terminonatator",
+      "IT": "?",
+      "JA": "プレシオドン"
     },
     "sprite": "monsters_sprites/100.png",
     "sprite_animated": "monsters_sprites_animated/100.png",
@@ -3408,12 +3408,12 @@
   {
     "id": 101,
     "name": {
-      "en": "Skerleton",
-      "es": "?",
-      "fr": "Berserkerlette",
-      "ge": "Sokarlett",
-      "it": "?",
-      "jp": "しにがみ"
+      "EN": "Skerleton",
+      "ES": "?",
+      "FR": "Berserkerlette",
+      "DE": "Sokarlett",
+      "IT": "?",
+      "JA": "しにがみ"
     },
     "sprite": "monsters_sprites/101.png",
     "sprite_animated": "monsters_sprites_animated/101.png",
@@ -3446,12 +3446,12 @@
   {
     "id": 102,
     "name": {
-      "en": "Cheeky tiki",
-      "es": "?",
-      "fr": "Grimasque",
-      "ge": "Grinsgötze",
-      "it": "?",
-      "jp": "ガオン"
+      "EN": "Cheeky tiki",
+      "ES": "?",
+      "FR": "Grimasque",
+      "DE": "Grinsgötze",
+      "IT": "?",
+      "JA": "ガオン"
     },
     "sprite": "monsters_sprites/102.png",
     "sprite_animated": "monsters_sprites_animated/102.png",
@@ -3482,12 +3482,12 @@
   {
     "id": 103,
     "name": {
-      "en": "Podokesaurus",
-      "es": "?",
-      "fr": "Pokérosaure",
-      "ge": "Podokesaurus",
-      "it": "?",
-      "jp": "はしりとかげ"
+      "EN": "Podokesaurus",
+      "ES": "?",
+      "FR": "Pokérosaure",
+      "DE": "Podokesaurus",
+      "IT": "?",
+      "JA": "はしりとかげ"
     },
     "sprite": "monsters_sprites/103.png",
     "sprite_animated": "monsters_sprites_animated/103.png",
@@ -3514,12 +3514,12 @@
   {
     "id": 104,
     "name": {
-      "en": "Dragon rider",
-      "es": "?",
-      "fr": "Dragonnier",
-      "ge": "Drachenreiter",
-      "it": "?",
-      "jp": "ドラゴンライダー"
+      "EN": "Dragon rider",
+      "ES": "?",
+      "FR": "Dragonnier",
+      "DE": "Drachenreiter",
+      "IT": "?",
+      "JA": "ドラゴンライダー"
     },
     "sprite": "monsters_sprites/104.png",
     "sprite_animated": "monsters_sprites_animated/104.png",
@@ -3551,12 +3551,12 @@
   {
     "id": 105,
     "name": {
-      "en": "Freeze fly",
-      "es": "?",
-      "fr": "Mouche des neiges",
-      "ge": "Frostfliege",
-      "it": "?",
-      "jp": "マヒャドフライ"
+      "EN": "Freeze fly",
+      "ES": "?",
+      "FR": "Mouche des neiges",
+      "DE": "Frostfliege",
+      "IT": "?",
+      "JA": "マヒャドフライ"
     },
     "sprite": "monsters_sprites/105.png",
     "sprite_animated": "monsters_sprites_animated/105.png",
@@ -3587,12 +3587,12 @@
   {
     "id": 106,
     "name": {
-      "en": "Hell raiser",
-      "es": "?",
-      "fr": "Phacomage",
-      "ge": "Höllenhexer",
-      "it": "?",
-      "jp": "カロン"
+      "EN": "Hell raiser",
+      "ES": "?",
+      "FR": "Phacomage",
+      "DE": "Höllenhexer",
+      "IT": "?",
+      "JA": "カロン"
     },
     "sprite": "monsters_sprites/106.png",
     "sprite_animated": "monsters_sprites_animated/106.png",
@@ -3623,12 +3623,12 @@
   {
     "id": 107,
     "name": {
-      "en": "Hellspawn",
-      "es": "?",
-      "fr": "Rejeton de l'enfer",
-      "ge": "Ausgeburt der Hölle",
-      "it": "?",
-      "jp": "フェイスボール"
+      "EN": "Hellspawn",
+      "ES": "?",
+      "FR": "Rejeton de l'enfer",
+      "DE": "Ausgeburt der Hölle",
+      "IT": "?",
+      "JA": "フェイスボール"
     },
     "sprite": "monsters_sprites/107.png",
     "sprite_animated": "monsters_sprites_animated/107.png",
@@ -3655,12 +3655,12 @@
   {
     "id": 108,
     "name": {
-      "en": "Bloody blade",
-      "es": "?",
-      "fr": "Lame sanglante",
-      "ge": "Blutsichel",
-      "it": "?",
-      "jp": "ブラッドソード"
+      "EN": "Bloody blade",
+      "ES": "?",
+      "FR": "Lame sanglante",
+      "DE": "Blutsichel",
+      "IT": "?",
+      "JA": "ブラッドソード"
     },
     "sprite": "monsters_sprites/108.png",
     "sprite_animated": "monsters_sprites_animated/108.png",
@@ -3691,12 +3691,12 @@
   {
     "id": 109,
     "name": {
-      "en": "Terrorflyer",
-      "es": "?",
-      "fr": "Apprentiran",
-      "ge": "Flugschrecken",
-      "it": "?",
-      "jp": "テラノバット"
+      "EN": "Terrorflyer",
+      "ES": "?",
+      "FR": "Apprentiran",
+      "DE": "Flugschrecken",
+      "IT": "?",
+      "JA": "テラノバット"
     },
     "sprite": "monsters_sprites/109.png",
     "sprite_animated": "monsters_sprites_animated/109.png",
@@ -3723,12 +3723,12 @@
   {
     "id": 110,
     "name": {
-      "en": "Voodoo gooroo",
-      "es": "?",
-      "fr": "Gourou vaudou",
-      "ge": "Voodooguru",
-      "it": "?",
-      "jp": "ビビンバー"
+      "EN": "Voodoo gooroo",
+      "ES": "?",
+      "FR": "Gourou vaudou",
+      "DE": "Voodooguru",
+      "IT": "?",
+      "JA": "ビビンバー"
     },
     "sprite": "monsters_sprites/110.png",
     "sprite_animated": "monsters_sprites_animated/110.png",
@@ -3755,12 +3755,12 @@
   {
     "id": 111,
     "name": {
-      "en": "Medislime",
-      "es": "?",
-      "fr": "Coagluant",
-      "ge": "Arztschleim",
-      "it": "?",
-      "jp": "ベホイミスライム"
+      "EN": "Medislime",
+      "ES": "?",
+      "FR": "Coagluant",
+      "DE": "Arztschleim",
+      "IT": "?",
+      "JA": "ベホイミスライム"
     },
     "sprite": "monsters_sprites/111.png",
     "sprite_animated": "monsters_sprites_animated/111.png",
@@ -3787,12 +3787,12 @@
   {
     "id": 112,
     "name": {
-      "en": "Rhinoceraxe",
-      "es": "?",
-      "fr": "Rhinocérache",
-      "ge": "Rhinozeraxt",
-      "it": "?",
-      "jp": "ライノソルジャー"
+      "EN": "Rhinoceraxe",
+      "ES": "?",
+      "FR": "Rhinocérache",
+      "DE": "Rhinozeraxt",
+      "IT": "?",
+      "JA": "ライノソルジャー"
     },
     "sprite": "monsters_sprites/112.png",
     "sprite_animated": "monsters_sprites_animated/112.png",
@@ -3824,12 +3824,12 @@
   {
     "id": 113,
     "name": {
-      "en": "Fat bat",
-      "es": "?",
-      "fr": "Hippovol",
-      "ge": "Fledermops",
-      "it": "?",
-      "jp": "ジャイアントバット"
+      "EN": "Fat bat",
+      "ES": "?",
+      "FR": "Hippovol",
+      "DE": "Fledermops",
+      "IT": "?",
+      "JA": "ジャイアントバット"
     },
     "sprite": "monsters_sprites/113.png",
     "sprite_animated": "monsters_sprites_animated/113.png",
@@ -3856,12 +3856,12 @@
   {
     "id": 114,
     "name": {
-      "en": "Hellion",
-      "es": "?",
-      "fr": "Trublion",
-      "ge": "Höllenlöwe",
-      "it": "?",
-      "jp": "アームライオン"
+      "EN": "Hellion",
+      "ES": "?",
+      "FR": "Trublion",
+      "DE": "Höllenlöwe",
+      "IT": "?",
+      "JA": "アームライオン"
     },
     "sprite": "monsters_sprites/114.png",
     "sprite_animated": "monsters_sprites_animated/114.png",
@@ -3888,12 +3888,12 @@
   {
     "id": 115,
     "name": {
-      "en": "Blizzybody",
-      "es": "?",
-      "fr": "Glazon",
-      "ge": "Eiswerfer",
-      "it": "?",
-      "jp": "ブリザードマン"
+      "EN": "Blizzybody",
+      "ES": "?",
+      "FR": "Glazon",
+      "DE": "Eiswerfer",
+      "IT": "?",
+      "JA": "ブリザードマン"
     },
     "sprite": "monsters_sprites/115.png",
     "sprite_animated": "monsters_sprites_animated/115.png",
@@ -3920,12 +3920,12 @@
   {
     "id": 116,
     "name": {
-      "en": "Wyvern",
-      "es": "?",
-      "fr": "Wyverne",
-      "ge": "Flügeldrache",
-      "it": "?",
-      "jp": "ライバーン"
+      "EN": "Wyvern",
+      "ES": "?",
+      "FR": "Wyverne",
+      "DE": "Flügeldrache",
+      "IT": "?",
+      "JA": "ライバーン"
     },
     "sprite": "monsters_sprites/116.png",
     "sprite_animated": "monsters_sprites_animated/116.png",
@@ -3952,12 +3952,12 @@
   {
     "id": 117,
     "name": {
-      "en": "Fuddlestick",
-      "es": "?",
-      "fr": "Fourmicmac",
-      "ge": "Blauschrecke",
-      "it": "?",
-      "jp": "メダパニバッタ"
+      "EN": "Fuddlestick",
+      "ES": "?",
+      "FR": "Fourmicmac",
+      "DE": "Blauschrecke",
+      "IT": "?",
+      "JA": "メダパニバッタ"
     },
     "sprite": "monsters_sprites/117.png",
     "sprite_animated": "monsters_sprites_animated/117.png",
@@ -3984,12 +3984,12 @@
   {
     "id": 118,
     "name": {
-      "en": "Moosifer",
-      "es": "?",
-      "fr": "Belzébik",
-      "ge": "Bullzebub",
-      "it": "?",
-      "jp": "アンクルホーン"
+      "EN": "Moosifer",
+      "ES": "?",
+      "FR": "Belzébik",
+      "DE": "Bullzebub",
+      "IT": "?",
+      "JA": "アンクルホーン"
     },
     "sprite": "monsters_sprites/118.png",
     "sprite_animated": "monsters_sprites_animated/118.png",
@@ -4016,12 +4016,12 @@
   {
     "id": 119,
     "name": {
-      "en": "King cureslime",
-      "es": "?",
-      "fr": "Roi guérigluant",
-      "ge": "Heilschleimkönig",
-      "it": "?",
-      "jp": "スライムベホマズン"
+      "EN": "King cureslime",
+      "ES": "?",
+      "FR": "Roi guérigluant",
+      "DE": "Heilschleimkönig",
+      "IT": "?",
+      "JA": "スライムベホマズン"
     },
     "sprite": "monsters_sprites/119.png",
     "sprite_animated": "monsters_sprites_animated/119.png",
@@ -4048,12 +4048,12 @@
   {
     "id": 120,
     "name": {
-      "en": "Rhinocerex",
-      "es": "?",
-      "fr": "Rhinofurax",
-      "ge": "Henkerhorn",
-      "it": "?",
-      "jp": "ライノスキング"
+      "EN": "Rhinocerex",
+      "ES": "?",
+      "FR": "Rhinofurax",
+      "DE": "Henkerhorn",
+      "IT": "?",
+      "JA": "ライノスキング"
     },
     "sprite": "monsters_sprites/120.png",
     "sprite_animated": "monsters_sprites_animated/120.png",
@@ -4080,12 +4080,12 @@
   {
     "id": 121,
     "name": {
-      "en": "Joojoo gooroo",
-      "es": "?",
-      "fr": "Gourou jajou",
-      "ge": "Miesmagier",
-      "it": "?",
-      "jp": "ブラックマージ"
+      "EN": "Joojoo gooroo",
+      "ES": "?",
+      "FR": "Gourou jajou",
+      "DE": "Miesmagier",
+      "IT": "?",
+      "JA": "ブラックマージ"
     },
     "sprite": "monsters_sprites/121.png",
     "sprite_animated": "monsters_sprites_animated/121.png",
@@ -4112,12 +4112,12 @@
   {
     "id": 122,
     "name": {
-      "en": "Grim keeper",
-      "es": "?",
-      "fr": "Grand faucheur",
-      "ge": "Sensenhüter",
-      "it": "?",
-      "jp": "じごくのもんばん"
+      "EN": "Grim keeper",
+      "ES": "?",
+      "FR": "Grand faucheur",
+      "DE": "Sensenhüter",
+      "IT": "?",
+      "JA": "じごくのもんばん"
     },
     "sprite": "monsters_sprites/122.png",
     "sprite_animated": "monsters_sprites_animated/122.png",
@@ -4144,12 +4144,12 @@
   {
     "id": 123,
     "name": {
-      "en": "Ogre",
-      "es": "?",
-      "fr": "Bouledogre",
-      "ge": "Oger",
-      "it": "?",
-      "jp": "オーガー"
+      "EN": "Ogre",
+      "ES": "?",
+      "FR": "Bouledogre",
+      "DE": "Oger",
+      "IT": "?",
+      "JA": "オーガー"
     },
     "sprite": "monsters_sprites/123.png",
     "sprite_animated": "monsters_sprites_animated/123.png",
@@ -4176,12 +4176,12 @@
   {
     "id": 124,
     "name": {
-      "en": "Bullion",
-      "es": "?",
-      "fr": "Mygalion",
-      "ge": "Löwenmaul",
-      "it": "?",
-      "jp": "やつざきアニマル"
+      "EN": "Bullion",
+      "ES": "?",
+      "FR": "Mygalion",
+      "DE": "Löwenmaul",
+      "IT": "?",
+      "JA": "やつざきアニマル"
     },
     "sprite": "monsters_sprites/124.png",
     "sprite_animated": "monsters_sprites_animated/124.png",
@@ -4208,12 +4208,12 @@
   {
     "id": 125,
     "name": {
-      "en": "Night emperor",
-      "es": "?",
-      "fr": "Empereur nocturne",
-      "ge": "König der Nacht",
-      "it": "?",
-      "jp": "よるのていおう"
+      "EN": "Night emperor",
+      "ES": "?",
+      "FR": "Empereur nocturne",
+      "DE": "König der Nacht",
+      "IT": "?",
+      "JA": "よるのていおう"
     },
     "sprite": "monsters_sprites/125.png",
     "sprite_animated": "monsters_sprites_animated/125.png",
@@ -4240,12 +4240,12 @@
   {
     "id": 126,
     "name": {
-      "en": "Metal king slime",
-      "es": "?",
-      "fr": "Roi gluant de métal",
-      "ge": "Metall-Königsschleim",
-      "it": "?",
-      "jp": "メタルキング"
+      "EN": "Metal king slime",
+      "ES": "?",
+      "FR": "Roi gluant de métal",
+      "DE": "Metall-Königsschleim",
+      "IT": "?",
+      "JA": "メタルキング"
     },
     "sprite": "monsters_sprites/126.png",
     "sprite_animated": "monsters_sprites_animated/126.png",
@@ -4272,12 +4272,12 @@
   {
     "id": 127,
     "name": {
-      "en": "Green dragon",
-      "es": "",
-      "fr": "Dragon vert",
-      "ge": "Grüner Drache",
-      "it": "?",
-      "jp": "グリーンドラゴン"
+      "EN": "Green dragon",
+      "ES": "",
+      "FR": "Dragon vert",
+      "DE": "Grüner Drache",
+      "IT": "?",
+      "JA": "グリーンドラゴン"
     },
     "sprite": "monsters_sprites/127.png",
     "sprite_animated": "monsters_sprites_animated/127.png",
@@ -4304,12 +4304,12 @@
   {
     "id": 128,
     "name": {
-      "en": "Whirly girly",
-      "es": "",
-      "fr": "Typhonphonphon",
-      "ge": "Wirbeline",
-      "it": "?",
-      "jp": "レッドサイクロン"
+      "EN": "Whirly girly",
+      "ES": "",
+      "FR": "Typhonphonphon",
+      "DE": "Wirbeline",
+      "IT": "?",
+      "JA": "レッドサイクロン"
     },
     "sprite": "monsters_sprites/128.png",
     "sprite_animated": "monsters_sprites_animated/128.png",
@@ -4336,12 +4336,12 @@
   {
     "id": 129,
     "name": {
-      "en": "Bone baron",
-      "es": "?",
-      "fr": "Baron d'os",
-      "ge": "Knochenbaron",
-      "it": "?",
-      "jp": "しにがみきぞく"
+      "EN": "Bone baron",
+      "ES": "?",
+      "FR": "Baron d'os",
+      "DE": "Knochenbaron",
+      "IT": "?",
+      "JA": "しにがみきぞく"
     },
     "sprite": "monsters_sprites/129.png",
     "sprite_animated": "monsters_sprites_animated/129.png",
@@ -4368,12 +4368,12 @@
   {
     "id": 130,
     "name": {
-      "en": "Drooling ghoul",
-      "es": "?",
-      "fr": "Sméagoule",
-      "ge": "Geifernder Ghul",
-      "it": "?",
-      "jp": "スモールグール"
+      "EN": "Drooling ghoul",
+      "ES": "?",
+      "FR": "Sméagoule",
+      "DE": "Geifernder Ghul",
+      "IT": "?",
+      "JA": "スモールグール"
     },
     "sprite": "monsters_sprites/130.png",
     "sprite_animated": "monsters_sprites_animated/130.png",
@@ -4406,12 +4406,12 @@
   {
     "id": 131,
     "name": {
-      "en": "Teaky mask",
-      "es": "?",
-      "fr": "Maskoteck",
-      "ge": "Teak-Tiki",
-      "it": "?",
-      "jp": "トーテムキラー"
+      "EN": "Teaky mask",
+      "ES": "?",
+      "FR": "Maskoteck",
+      "DE": "Teak-Tiki",
+      "IT": "?",
+      "JA": "トーテムキラー"
     },
     "sprite": "monsters_sprites/131.png",
     "sprite_animated": "monsters_sprites_animated/131.png",
@@ -4438,12 +4438,12 @@
   {
     "id": 132,
     "name": {
-      "en": "Pickeerer",
-      "es": "?",
-      "fr": "Vicius",
-      "ge": "Triezer",
-      "it": "?",
-      "jp": "バアラック"
+      "EN": "Pickeerer",
+      "ES": "?",
+      "FR": "Vicius",
+      "DE": "Triezer",
+      "IT": "?",
+      "JA": "バアラック"
     },
     "sprite": "monsters_sprites/132.png",
     "sprite_animated": "monsters_sprites_animated/132.png",
@@ -4475,12 +4475,12 @@
   {
     "id": 133,
     "name": {
-      "en": "Pit viper",
-      "es": "?",
-      "fr": "Crotale",
-      "ge": "Schlundviper",
-      "it": "?",
-      "jp": "ピットバイパー"
+      "EN": "Pit viper",
+      "ES": "?",
+      "FR": "Crotale",
+      "DE": "Schlundviper",
+      "IT": "?",
+      "JA": "ピットバイパー"
     },
     "sprite": "monsters_sprites/133.png",
     "sprite_animated": "monsters_sprites_animated/133.png",
@@ -4507,12 +4507,12 @@
   {
     "id": 134,
     "name": {
-      "en": "Damselfly",
-      "es": "?",
-      "fr": "Damoisel",
-      "ge": "Seejungfer",
-      "it": "?",
-      "jp": "フェアリードラゴン"
+      "EN": "Damselfly",
+      "ES": "?",
+      "FR": "Damoisel",
+      "DE": "Seejungfer",
+      "IT": "?",
+      "JA": "フェアリードラゴン"
     },
     "sprite": "monsters_sprites/134.png",
     "sprite_animated": "monsters_sprites_animated/134.png",
@@ -4539,12 +4539,12 @@
   {
     "id": 135,
     "name": {
-      "en": "Abullddon",
-      "es": "?",
-      "fr": "Belzébouc",
-      "ge": "Zornhorn",
-      "it": "?",
-      "jp": "ブルデビル"
+      "EN": "Abullddon",
+      "ES": "?",
+      "FR": "Belzébouc",
+      "DE": "Zornhorn",
+      "IT": "?",
+      "JA": "ブルデビル"
     },
     "sprite": "monsters_sprites/135.png",
     "sprite_animated": "monsters_sprites_animated/135.png",
@@ -4571,12 +4571,12 @@
   {
     "id": 136,
     "name": {
-      "en": "Hot dog",
-      "es": "?",
-      "fr": "Pitbrûle",
-      "ge": "Flammenfiffi",
-      "it": "?",
-      "jp": "フレイムドック"
+      "EN": "Hot dog",
+      "ES": "?",
+      "FR": "Pitbrûle",
+      "DE": "Flammenfiffi",
+      "IT": "?",
+      "JA": "フレイムドック"
     },
     "sprite": "monsters_sprites/136.png",
     "sprite_animated": "monsters_sprites_animated/136.png",
@@ -4603,12 +4603,12 @@
   {
     "id": 137,
     "name": {
-      "en": "Beelzebuzz",
-      "es": "?",
-      "fr": "Globulœil",
-      "ge": "Herr der Fliegen",
-      "it": "?",
-      "jp": "ベルザブル"
+      "EN": "Beelzebuzz",
+      "ES": "?",
+      "FR": "Globulœil",
+      "DE": "Herr der Fliegen",
+      "IT": "?",
+      "JA": "ベルザブル"
     },
     "sprite": "monsters_sprites/137.png",
     "sprite_animated": "monsters_sprites_animated/137.png",
@@ -4635,12 +4635,12 @@
   {
     "id": 138,
     "name": {
-      "en": "Float-o-copier",
-      "es": "?-copier",
-      "fr": "Feutocopieur",
-      "ge": "Doppelmoppel",
-      "it": "?",
-      "jp": "マネマネ"
+      "EN": "Float-o-copier",
+      "ES": "?-copier",
+      "FR": "Feutocopieur",
+      "DE": "Doppelmoppel",
+      "IT": "?",
+      "JA": "マネマネ"
     },
     "sprite": "monsters_sprites/138.png",
     "sprite_animated": "monsters_sprites_animated/138.png",
@@ -4672,12 +4672,12 @@
   {
     "id": 139,
     "name": {
-      "en": "Terracotta warrior",
-      "es": "?",
-      "fr": "Guerracotta",
-      "ge": "Terrakottakrieger",
-      "it": "?",
-      "jp": "どぐうせんし"
+      "EN": "Terracotta warrior",
+      "ES": "?",
+      "FR": "Guerracotta",
+      "DE": "Terrakottakrieger",
+      "IT": "?",
+      "JA": "どぐうせんし"
     },
     "sprite": "monsters_sprites/139.png",
     "sprite_animated": "monsters_sprites_animated/139.png",
@@ -4704,12 +4704,12 @@
   {
     "id": 140,
     "name": {
-      "en": "Swingre",
-      "es": "?",
-      "fr": "Fléogre",
-      "ge": "Schwinger",
-      "it": "?",
-      "jp": "てっきゅうまじん"
+      "EN": "Swingre",
+      "ES": "?",
+      "FR": "Fléogre",
+      "DE": "Schwinger",
+      "IT": "?",
+      "JA": "てっきゅうまじん"
     },
     "sprite": "monsters_sprites/140.png",
     "sprite_animated": "monsters_sprites_animated/140.png",
@@ -4736,12 +4736,12 @@
   {
     "id": 141,
     "name": {
-      "en": "Red dragon",
-      "es": "?",
-      "fr": "Dragon rouge",
-      "ge": "Roter Drache",
-      "it": "?",
-      "jp": "レッドドラゴン"
+      "EN": "Red dragon",
+      "ES": "?",
+      "FR": "Dragon rouge",
+      "DE": "Roter Drache",
+      "IT": "?",
+      "JA": "レッドドラゴン"
     },
     "sprite": "monsters_sprites/141.png",
     "sprite_animated": "monsters_sprites_animated/141.png",
@@ -4768,12 +4768,12 @@
   {
     "id": 142,
     "name": {
-      "en": "Sasquash",
-      "es": "?",
-      "fr": "Primatraque",
-      "ge": "?",
-      "it": "?",
-      "jp": "ビッグスロース"
+      "EN": "Sasquash",
+      "ES": "?",
+      "FR": "Primatraque",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ビッグスロース"
     },
     "sprite": "monsters_sprites/142.png",
     "sprite_animated": "monsters_sprites_animated/142.png",
@@ -4800,12 +4800,12 @@
   {
     "id": 143,
     "name": {
-      "en": "Wilder beast",
-      "es": "?",
-      "fr": "Bebête sauvage",
-      "ge": "?",
-      "it": "?",
-      "jp": "ビースト"
+      "EN": "Wilder beast",
+      "ES": "?",
+      "FR": "Bebête sauvage",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ビースト"
     },
     "sprite": "monsters_sprites/143.png",
     "sprite_animated": "monsters_sprites_animated/143.png",
@@ -4832,12 +4832,12 @@
   {
     "id": 144,
     "name": {
-      "en": "Vis mage",
-      "es": "?",
-      "fr": "Maximage",
-      "ge": "?",
-      "it": "?",
-      "jp": "だいまどう"
+      "EN": "Vis mage",
+      "ES": "?",
+      "FR": "Maximage",
+      "DE": "?",
+      "IT": "?",
+      "JA": "だいまどう"
     },
     "sprite": "monsters_sprites/144.png",
     "sprite_animated": "monsters_sprites_animated/144.png",
@@ -4869,12 +4869,12 @@
   {
     "id": 145,
     "name": {
-      "en": "Prince of darkness",
-      "es": "?",
-      "fr": "Prince des ténèbres",
-      "ge": "Prinz der Finsternis",
-      "it": "?",
-      "jp": "デビルプリンス"
+      "EN": "Prince of darkness",
+      "ES": "?",
+      "FR": "Prince des ténèbres",
+      "DE": "Prinz der Finsternis",
+      "IT": "?",
+      "JA": "デビルプリンス"
     },
     "sprite": "monsters_sprites/145.png",
     "sprite_animated": "monsters_sprites_animated/145.png",
@@ -4901,12 +4901,12 @@
   {
     "id": 146,
     "name": {
-      "en": "Dragooner",
-      "es": "?",
-      "fr": "Cavalier des enfers",
-      "ge": "?",
-      "it": "?",
-      "jp": "ガーディアン"
+      "EN": "Dragooner",
+      "ES": "?",
+      "FR": "Cavalier des enfers",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ガーディアン"
     },
     "sprite": "monsters_sprites/146.png",
     "sprite_animated": "monsters_sprites_animated/146.png",
@@ -4933,12 +4933,12 @@
   {
     "id": 147,
     "name": {
-      "en": "Emperor wyvern",
-      "es": "?",
-      "fr": "Wyvereine",
-      "ge": "?",
-      "it": "?",
-      "jp": "ライバーンロード"
+      "EN": "Emperor wyvern",
+      "ES": "?",
+      "FR": "Wyvereine",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ライバーンロード"
     },
     "sprite": "monsters_sprites/147.png",
     "sprite_animated": "monsters_sprites_animated/147.png",
@@ -4965,12 +4965,12 @@
   {
     "id": 148,
     "name": {
-      "en": "Demonspawn",
-      "es": "?",
-      "fr": "Rejeton du démon",
-      "ge": "Dämonenbrut",
-      "it": "?",
-      "jp": "デーモンスピリット"
+      "EN": "Demonspawn",
+      "ES": "?",
+      "FR": "Rejeton du démon",
+      "DE": "Dämonenbrut",
+      "IT": "?",
+      "JA": "デーモンスピリット"
     },
     "sprite": "monsters_sprites/148.png",
     "sprite_animated": "monsters_sprites_animated/148.png",
@@ -4997,12 +4997,12 @@
   {
     "id": 149,
     "name": {
-      "en": "Night rider",
-      "es": "?",
-      "fr": "Cavalier nocturne",
-      "ge": "?",
-      "it": "?",
-      "jp": "グレートライドン"
+      "EN": "Night rider",
+      "ES": "?",
+      "FR": "Cavalier nocturne",
+      "DE": "?",
+      "IT": "?",
+      "JA": "グレートライドン"
     },
     "sprite": "monsters_sprites/149.png",
     "sprite_animated": "monsters_sprites_animated/149.png",
@@ -5029,12 +5029,12 @@
   {
     "id": 150,
     "name": {
-      "en": "Night clubber",
-      "es": "?",
-      "fr": "Bastonnier",
-      "ge": "?",
-      "it": "?",
-      "jp": "おにこんぼう"
+      "EN": "Night clubber",
+      "ES": "?",
+      "FR": "Bastonnier",
+      "DE": "?",
+      "IT": "?",
+      "JA": "おにこんぼう"
     },
     "sprite": "monsters_sprites/150.png",
     "sprite_animated": "monsters_sprites_animated/150.png",
@@ -5061,12 +5061,12 @@
   {
     "id": 151,
     "name": {
-      "en": "Knightshade",
-      "es": "?",
-      "fr": "Chevalier nébuleux",
-      "ge": "Schattenritter",
-      "it": "?",
-      "jp": "ダークアーマー"
+      "EN": "Knightshade",
+      "ES": "?",
+      "FR": "Chevalier nébuleux",
+      "DE": "Schattenritter",
+      "IT": "?",
+      "JA": "ダークアーマー"
     },
     "sprite": "monsters_sprites/151.png",
     "sprite_animated": "monsters_sprites_animated/151.png",
@@ -5093,12 +5093,12 @@
   {
     "id": 152,
     "name": {
-      "en": "Decayurion",
-      "es": "?",
-      "fr": "Légionellos",
-      "ge": "?",
-      "it": "?",
-      "jp": "ゾンビソルジャー"
+      "EN": "Decayurion",
+      "ES": "?",
+      "FR": "Légionellos",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ゾンビソルジャー"
     },
     "sprite": "monsters_sprites/152.png",
     "sprite_animated": "monsters_sprites_animated/152.png",
@@ -5125,12 +5125,12 @@
   {
     "id": 153,
     "name": {
-      "en": "Bloody hand",
-      "es": "?",
-      "fr": "Main sanglante",
-      "ge": "Blutige Hand",
-      "it": "?",
-      "jp": "ブラッドハンド"
+      "EN": "Bloody hand",
+      "ES": "?",
+      "FR": "Main sanglante",
+      "DE": "Blutige Hand",
+      "IT": "?",
+      "JA": "ブラッドハンド"
     },
     "sprite": "monsters_sprites/153.png",
     "sprite_animated": "monsters_sprites_animated/153.png",
@@ -5157,12 +5157,12 @@
   {
     "id": 154,
     "name": {
-      "en": "Demon thunderer",
-      "es": "?",
-      "fr": "Démon orageux",
-      "ge": "Donnerdämon",
-      "it": "?",
-      "jp": "サンダーサタン"
+      "EN": "Demon thunderer",
+      "ES": "?",
+      "FR": "Démon orageux",
+      "DE": "Donnerdämon",
+      "IT": "?",
+      "JA": "サンダーサタン"
     },
     "sprite": "monsters_sprites/154.png",
     "sprite_animated": "monsters_sprites_animated/154.png",
@@ -5189,12 +5189,12 @@
   {
     "id": 155,
     "name": {
-      "en": "Draguar",
-      "es": "?",
-      "fr": "Draguar",
-      "ge": "Draguar",
-      "it": "?",
-      "jp": "ゲリュオン"
+      "EN": "Draguar",
+      "ES": "?",
+      "FR": "Draguar",
+      "DE": "Draguar",
+      "IT": "?",
+      "JA": "ゲリュオン"
     },
     "sprite": "monsters_sprites/155.png",
     "sprite_animated": "monsters_sprites_animated/155.png",
@@ -5221,12 +5221,12 @@
   {
     "id": 156,
     "name": {
-      "en": "Juggular",
-      "es": "?",
-      "fr": "Saltimbranque",
-      "ge": "Gurgelgaukler",
-      "it": "?",
-      "jp": "デーモンレスラー"
+      "EN": "Juggular",
+      "ES": "?",
+      "FR": "Saltimbranque",
+      "DE": "Gurgelgaukler",
+      "IT": "?",
+      "JA": "デーモンレスラー"
     },
     "sprite": "monsters_sprites/156.png",
     "sprite_animated": "monsters_sprites_animated/156.png",
@@ -5253,12 +5253,12 @@
   {
     "id": 157,
     "name": {
-      "en": "Cerberuff",
-      "es": "?",
-      "fr": "Cerberk",
-      "ge": "?",
-      "it": "?",
-      "jp": "じごくのばんけん"
+      "EN": "Cerberuff",
+      "ES": "?",
+      "FR": "Cerberk",
+      "DE": "?",
+      "IT": "?",
+      "JA": "じごくのばんけん"
     },
     "sprite": "monsters_sprites/157.png",
     "sprite_animated": "monsters_sprites_animated/157.png",
@@ -5285,12 +5285,12 @@
   {
     "id": 158,
     "name": {
-      "en": "Gnucifer",
-      "es": "?",
-      "fr": "Satanglier",
-      "ge": "Gnuzifer",
-      "it": "?",
-      "jp": "ヌーデビル"
+      "EN": "Gnucifer",
+      "ES": "?",
+      "FR": "Satanglier",
+      "DE": "Gnuzifer",
+      "IT": "?",
+      "JA": "ヌーデビル"
     },
     "sprite": "monsters_sprites/158.png",
     "sprite_animated": "monsters_sprites_animated/158.png",
@@ -5317,12 +5317,12 @@
   {
     "id": 159,
     "name": {
-      "en": "Div",
-      "es": "?",
-      "fr": "Stryge",
-      "ge": "Greifer",
-      "it": "?",
-      "jp": "ランガー"
+      "EN": "Div",
+      "ES": "?",
+      "FR": "Stryge",
+      "DE": "Greifer",
+      "IT": "?",
+      "JA": "ランガー"
     },
     "sprite": "monsters_sprites/159.png",
     "sprite_animated": "monsters_sprites_animated/159.png",
@@ -5349,12 +5349,12 @@
   {
     "id": 160,
     "name": {
-      "en": "Prism peacock",
-      "es": "?",
-      "fr": "Dark-en-ciel",
-      "ge": "?",
-      "it": "?",
-      "jp": "にじくじゃく"
+      "EN": "Prism peacock",
+      "ES": "?",
+      "FR": "Dark-en-ciel",
+      "DE": "?",
+      "IT": "?",
+      "JA": "にじくじゃく"
     },
     "sprite": "monsters_sprites/160.png",
     "sprite_animated": "monsters_sprites_animated/160.png",
@@ -5381,12 +5381,12 @@
   {
     "id": 161,
     "name": {
-      "en": "Testudogre",
-      "es": "?",
-      "fr": "Métallogre",
-      "ge": "Testosteroger",
-      "it": "?",
-      "jp": "オーガキング"
+      "EN": "Testudogre",
+      "ES": "?",
+      "FR": "Métallogre",
+      "DE": "Testosteroger",
+      "IT": "?",
+      "JA": "オーガキング"
     },
     "sprite": "monsters_sprites/161.png",
     "sprite_animated": "monsters_sprites_animated/161.png",
@@ -5413,12 +5413,12 @@
   {
     "id": 162,
     "name": {
-      "en": "Drakulard",
-      "es": "?",
-      "fr": "Draculard",
-      "ge": "?",
-      "it": "?",
-      "jp": "ギガントドラゴン"
+      "EN": "Drakulard",
+      "ES": "?",
+      "FR": "Draculard",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ギガントドラゴン"
     },
     "sprite": "monsters_sprites/162.png",
     "sprite_animated": "monsters_sprites_animated/162.png",
@@ -5445,12 +5445,12 @@
   {
     "id": 163,
     "name": {
-      "en": "Togre",
-      "es": "?",
-      "fr": "Togre",
-      "ge": "?",
-      "it": "?",
-      "jp": "ネクロバルサ"
+      "EN": "Togre",
+      "ES": "?",
+      "FR": "Togre",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ネクロバルサ"
     },
     "sprite": "monsters_sprites/163.png",
     "sprite_animated": "monsters_sprites_animated/163.png",
@@ -5477,12 +5477,12 @@
   {
     "id": 164,
     "name": {
-      "en": "High djinks",
-      "es": "?",
-      "fr": "Djinn-fizz",
-      "ge": "?",
-      "it": "?",
-      "jp": "ランプのまおう"
+      "EN": "High djinks",
+      "ES": "?",
+      "FR": "Djinn-fizz",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ランプのまおう"
     },
     "sprite": "monsters_sprites/164.png",
     "sprite_animated": "monsters_sprites_animated/164.png",
@@ -5509,12 +5509,12 @@
   {
     "id": 165,
     "name": {
-      "en": "Perilwinkle",
-      "es": "?",
-      "fr": "Bicorneau",
-      "ge": "?",
-      "it": "?",
-      "jp": "あんこくつむり"
+      "EN": "Perilwinkle",
+      "ES": "?",
+      "FR": "Bicorneau",
+      "DE": "?",
+      "IT": "?",
+      "JA": "あんこくつむり"
     },
     "sprite": "monsters_sprites/165.png",
     "sprite_animated": "monsters_sprites_animated/165.png",
@@ -5541,12 +5541,12 @@
   {
     "id": 166,
     "name": {
-      "en": "Shelligator",
-      "es": "?",
-      "fr": "Alligatortue",
-      "ge": "Schaligator",
-      "it": "?",
-      "jp": "キルゲータ"
+      "EN": "Shelligator",
+      "ES": "?",
+      "FR": "Alligatortue",
+      "DE": "Schaligator",
+      "IT": "?",
+      "JA": "キルゲータ"
     },
     "sprite": "monsters_sprites/166.png",
     "sprite_animated": "monsters_sprites_animated/166.png",
@@ -5573,12 +5573,12 @@
   {
     "id": 167,
     "name": {
-      "en": "Croaked king",
-      "es": "?",
-      "fr": "Roi crôa",
-      "ge": "?",
-      "it": "?",
-      "jp": "フロッグキング"
+      "EN": "Croaked king",
+      "ES": "?",
+      "FR": "Roi crôa",
+      "DE": "?",
+      "IT": "?",
+      "JA": "フロッグキング"
     },
     "sprite": "monsters_sprites/167.png",
     "sprite_animated": "monsters_sprites_animated/167.png",
@@ -5605,12 +5605,12 @@
   {
     "id": 168,
     "name": {
-      "en": "Seasaur",
-      "es": "?",
-      "fr": "Aquasaure",
-      "ge": "?",
-      "it": "?",
-      "jp": "ギャオース"
+      "EN": "Seasaur",
+      "ES": "?",
+      "FR": "Aquasaure",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ギャオース"
     },
     "sprite": "monsters_sprites/168.png",
     "sprite_animated": "monsters_sprites_animated/168.png",
@@ -5637,12 +5637,12 @@
   {
     "id": 169,
     "name": {
-      "en": "Platinum king jewel",
-      "es": "?",
-      "fr": "Bijou royal en platine",
-      "ge": "Platinkönigsjuwel",
-      "it": "?",
-      "jp": "プラチナキング"
+      "EN": "Platinum king jewel",
+      "ES": "?",
+      "FR": "Bijou royal en platine",
+      "DE": "Platinkönigsjuwel",
+      "IT": "?",
+      "JA": "プラチナキング"
     },
     "sprite": "monsters_sprites/169.png",
     "sprite_animated": "monsters_sprites_animated/169.png",
@@ -5669,12 +5669,12 @@
   {
     "id": 170,
     "name": {
-      "en": "Cannibox",
-      "es": "?",
-      "fr": "Canniboîte",
-      "ge": "Fresskiste",
-      "it": "?",
-      "jp": "ひとくいばこ"
+      "EN": "Cannibox",
+      "ES": "?",
+      "FR": "Canniboîte",
+      "DE": "Fresskiste",
+      "IT": "?",
+      "JA": "ひとくいばこ"
     },
     "sprite": "monsters_sprites/170.png",
     "sprite_animated": "monsters_sprites_animated/170.png",
@@ -5701,12 +5701,12 @@
   {
     "id": 171,
     "name": {
-      "en": "Mimic",
-      "es": "?",
-      "fr": "Imitapeur",
-      "ge": "Imitator",
-      "it": "?",
-      "jp": "ミミック"
+      "EN": "Mimic",
+      "ES": "?",
+      "FR": "Imitapeur",
+      "DE": "Imitator",
+      "IT": "?",
+      "JA": "ミミック"
     },
     "sprite": "monsters_sprites/171.png",
     "sprite_animated": "monsters_sprites_animated/171.png",
@@ -5739,12 +5739,12 @@
   {
     "id": 172,
     "name": {
-      "en": "Pandora's box",
-      "es": "?",
-      "fr": "Boîte de Pandore",
-      "ge": "Pandorabüchse",
-      "it": "?",
-      "jp": "パンドラボックス"
+      "EN": "Pandora's box",
+      "ES": "?",
+      "FR": "Boîte de Pandore",
+      "DE": "Pandorabüchse",
+      "IT": "?",
+      "JA": "パンドラボックス"
     },
     "sprite": "monsters_sprites/172.png",
     "sprite_animated": "monsters_sprites_animated/172.png",
@@ -5771,12 +5771,12 @@
   {
     "id": 173,
     "name": {
-      "en": "Scarewell",
-      "es": "?",
-      "fr": "Puisard",
-      "ge": "Brunnenspuk",
-      "it": "?",
-      "jp": "いどまねき"
+      "EN": "Scarewell",
+      "ES": "?",
+      "FR": "Puisard",
+      "DE": "Brunnenspuk",
+      "IT": "?",
+      "JA": "いどまねき"
     },
     "sprite": "monsters_sprites/173.png",
     "sprite_animated": "monsters_sprites_animated/173.png",
@@ -5803,12 +5803,12 @@
   {
     "id": 174,
     "name": {
-      "en": "Well wisher",
-      "es": "?",
-      "fr": "Puits-sang",
-      "ge": "Quellgeist",
-      "it": "?",
-      "jp": "いどまじん"
+      "EN": "Well wisher",
+      "ES": "?",
+      "FR": "Puits-sang",
+      "DE": "Quellgeist",
+      "IT": "?",
+      "JA": "いどまじん"
     },
     "sprite": "monsters_sprites/174.png",
     "sprite_animated": "monsters_sprites_animated/174.png",
@@ -5835,12 +5835,12 @@
   {
     "id": 175,
     "name": {
-      "en": "Man o' war",
-      "es": "?",
-      "fr": "Méduse",
-      "ge": "Seeblase",
-      "it": "?",
-      "jp": "しびれくらげ"
+      "EN": "Man o' war",
+      "ES": "?",
+      "FR": "Méduse",
+      "DE": "Seeblase",
+      "IT": "?",
+      "JA": "しびれくらげ"
     },
     "sprite": "monsters_sprites/175.png",
     "sprite_animated": "monsters_sprites_animated/175.png",
@@ -5867,12 +5867,12 @@
   {
     "id": 176,
     "name": {
-      "en": "Glugworm",
-      "es": "?",
-      "fr": "Ver mine",
-      "ge": "?",
-      "it": "?",
-      "jp": "マリンワーム"
+      "EN": "Glugworm",
+      "ES": "?",
+      "FR": "Ver mine",
+      "DE": "?",
+      "IT": "?",
+      "JA": "マリンワーム"
     },
     "sprite": "monsters_sprites/176.png",
     "sprite_animated": "monsters_sprites_animated/176.png",
@@ -5899,12 +5899,12 @@
   {
     "id": 177,
     "name": {
-      "en": "Strangler fish",
-      "es": "?",
-      "fr": "Saumonstrueux",
-      "ge": "Drosselfisch",
-      "it": "?",
-      "jp": "ピラニアン"
+      "EN": "Strangler fish",
+      "ES": "?",
+      "FR": "Saumonstrueux",
+      "DE": "Drosselfisch",
+      "IT": "?",
+      "JA": "ピラニアン"
     },
     "sprite": "monsters_sprites/177.png",
     "sprite_animated": "monsters_sprites_animated/177.png",
@@ -5931,12 +5931,12 @@
   {
     "id": 178,
     "name": {
-      "en": "Axolotl",
-      "es": "?",
-      "fr": "Axolotl",
-      "ge": "?",
-      "it": "?",
-      "jp": "マッドルーパー"
+      "EN": "Axolotl",
+      "ES": "?",
+      "FR": "Axolotl",
+      "DE": "?",
+      "IT": "?",
+      "JA": "マッドルーパー"
     },
     "sprite": "monsters_sprites/178.png",
     "sprite_animated": "monsters_sprites_animated/178.png",
@@ -5963,12 +5963,12 @@
   {
     "id": 179,
     "name": {
-      "en": "Preying manta",
-      "es": "?",
-      "fr": "Raie pulsive",
-      "ge": "?",
-      "it": "?",
-      "jp": "さつじんえい"
+      "EN": "Preying manta",
+      "ES": "?",
+      "FR": "Raie pulsive",
+      "DE": "?",
+      "IT": "?",
+      "JA": "さつじんえい"
     },
     "sprite": "monsters_sprites/179.png",
     "sprite_animated": "monsters_sprites_animated/179.png",
@@ -5995,12 +5995,12 @@
   {
     "id": 180,
     "name": {
-      "en": "Barracuda",
-      "es": "?",
-      "fr": "Barracuda",
-      "ge": "?",
-      "it": "?",
-      "jp": "とつげきうお"
+      "EN": "Barracuda",
+      "ES": "?",
+      "FR": "Barracuda",
+      "DE": "?",
+      "IT": "?",
+      "JA": "とつげきうお"
     },
     "sprite": "monsters_sprites/180.png",
     "sprite_animated": "monsters_sprites_animated/180.png",
@@ -6027,12 +6027,12 @@
   {
     "id": 181,
     "name": {
-      "en": "Pterygotus",
-      "es": "?",
-      "fr": "Pterygotus",
-      "ge": "?",
-      "it": "?",
-      "jp": "じごくのざりがに"
+      "EN": "Pterygotus",
+      "ES": "?",
+      "FR": "Pterygotus",
+      "DE": "?",
+      "IT": "?",
+      "JA": "じごくのざりがに"
     },
     "sprite": "monsters_sprites/181.png",
     "sprite_animated": "monsters_sprites_animated/181.png",
@@ -6059,12 +6059,12 @@
   {
     "id": 182,
     "name": {
-      "en": "Devilfish",
-      "es": "?",
-      "fr": "Poulpotrompe",
-      "ge": "?",
-      "it": "?",
-      "jp": "たこまじん"
+      "EN": "Devilfish",
+      "ES": "?",
+      "FR": "Poulpotrompe",
+      "DE": "?",
+      "IT": "?",
+      "JA": "たこまじん"
     },
     "sprite": "monsters_sprites/182.png",
     "sprite_animated": "monsters_sprites_animated/182.png",
@@ -6091,12 +6091,12 @@
   {
     "id": 183,
     "name": {
-      "en": "Mangler fish",
-      "es": "?",
-      "fr": "Rascrasse",
-      "ge": "?",
-      "it": "?",
-      "jp": "しびれあんこう"
+      "EN": "Mangler fish",
+      "ES": "?",
+      "FR": "Rascrasse",
+      "DE": "?",
+      "IT": "?",
+      "JA": "しびれあんこう"
     },
     "sprite": "monsters_sprites/183.png",
     "sprite_animated": "monsters_sprites_animated/183.png",
@@ -6123,12 +6123,12 @@
   {
     "id": 184,
     "name": {
-      "en": "Maulrus",
-      "es": "?",
-      "fr": "Matamorse",
-      "ge": "Schlachtross",
-      "it": "?",
-      "jp": "シーライオン"
+      "EN": "Maulrus",
+      "ES": "?",
+      "FR": "Matamorse",
+      "DE": "Schlachtross",
+      "IT": "?",
+      "JA": "シーライオン"
     },
     "sprite": "monsters_sprites/184.png",
     "sprite_animated": "monsters_sprites_animated/184.png",
@@ -6155,12 +6155,12 @@
   {
     "id": 185,
     "name": {
-      "en": "Woolungasaurus",
-      "es": "?",
-      "fr": "Elasmosaure",
-      "ge": "Woolungasaurier",
-      "it": "?",
-      "jp": "くびながりゅう"
+      "EN": "Woolungasaurus",
+      "ES": "?",
+      "FR": "Elasmosaure",
+      "DE": "Woolungasaurier",
+      "IT": "?",
+      "JA": "くびながりゅう"
     },
     "sprite": "monsters_sprites/185.png",
     "sprite_animated": "monsters_sprites_animated/185.png",
@@ -6187,12 +6187,12 @@
   {
     "id": 186,
     "name": {
-      "en": "Sand viper",
-      "es": "?",
-      "fr": "Vipère des sables",
-      "ge": "Sandviper",
-      "it": "?",
-      "jp": "フルスネイカー"
+      "EN": "Sand viper",
+      "ES": "?",
+      "FR": "Vipère des sables",
+      "DE": "Sandviper",
+      "IT": "?",
+      "JA": "フルスネイカー"
     },
     "sprite": "monsters_sprites/186.png",
     "sprite_animated": "monsters_sprites_animated/186.png",
@@ -6219,12 +6219,12 @@
   {
     "id": 187,
     "name": {
-      "en": "Ultraviolent ray",
-      "es": "?",
-      "fr": "Massacraie",
-      "ge": "Rochenrächer",
-      "it": "?",
-      "jp": "シャークマンタ"
+      "EN": "Ultraviolent ray",
+      "ES": "?",
+      "FR": "Massacraie",
+      "DE": "Rochenrächer",
+      "IT": "?",
+      "JA": "シャークマンタ"
     },
     "sprite": "monsters_sprites/187.png",
     "sprite_animated": "monsters_sprites_animated/187.png",
@@ -6251,12 +6251,12 @@
   {
     "id": 188,
     "name": {
-      "en": "Terrornodon",
-      "es": "?",
-      "fr": "Pterroridactyle",
-      "ge": "?",
-      "it": "?",
-      "jp": "フライングデス"
+      "EN": "Terrornodon",
+      "ES": "?",
+      "FR": "Pterroridactyle",
+      "DE": "?",
+      "IT": "?",
+      "JA": "フライングデス"
     },
     "sprite": "monsters_sprites/188.png",
     "sprite_animated": "monsters_sprites_animated/188.png",
@@ -6283,12 +6283,12 @@
   {
     "id": 189,
     "name": {
-      "en": "Spinchilla",
-      "es": "?",
-      "fr": "Glacyclone",
-      "ge": "Frostfeger",
-      "it": "?",
-      "jp": "うずしおキング"
+      "EN": "Spinchilla",
+      "ES": "?",
+      "FR": "Glacyclone",
+      "DE": "Frostfeger",
+      "IT": "?",
+      "JA": "うずしおキング"
     },
     "sprite": "monsters_sprites/189.png",
     "sprite_animated": "monsters_sprites_animated/189.png",
@@ -6315,12 +6315,12 @@
   {
     "id": 190,
     "name": {
-      "en": "Picuda",
-      "es": "?",
-      "fr": "Mégacuda",
-      "ge": "?",
-      "it": "?",
-      "jp": "バラクーダ"
+      "EN": "Picuda",
+      "ES": "?",
+      "FR": "Mégacuda",
+      "DE": "?",
+      "IT": "?",
+      "JA": "バラクーダ"
     },
     "sprite": "monsters_sprites/190.png",
     "sprite_animated": "monsters_sprites_animated/190.png",
@@ -6347,12 +6347,12 @@
   {
     "id": 191,
     "name": {
-      "en": "Dangler fish",
-      "es": "?",
-      "fr": "Charpiranha",
-      "ge": "Schnappfisch",
-      "it": "?",
-      "jp": "エビルアングラー"
+      "EN": "Dangler fish",
+      "ES": "?",
+      "FR": "Charpiranha",
+      "DE": "Schnappfisch",
+      "IT": "?",
+      "JA": "エビルアングラー"
     },
     "sprite": "monsters_sprites/191.png",
     "sprite_animated": "monsters_sprites_animated/191.png",
@@ -6379,12 +6379,12 @@
   {
     "id": 192,
     "name": {
-      "en": "Octophant",
-      "es": "?",
-      "fr": "Calaphant",
-      "ge": "Oktofant",
-      "it": "?",
-      "jp": "ダゴン"
+      "EN": "Octophant",
+      "ES": "?",
+      "FR": "Calaphant",
+      "DE": "Oktofant",
+      "IT": "?",
+      "JA": "ダゴン"
     },
     "sprite": "monsters_sprites/192.png",
     "sprite_animated": "monsters_sprites_animated/192.png",
@@ -6411,12 +6411,12 @@
   {
     "id": 193,
     "name": {
-      "en": "Incineraytor",
-      "es": "?",
-      "fr": "Incinéraiteur",
-      "ge": "?",
-      "it": "?",
-      "jp": "レイギガース"
+      "EN": "Incineraytor",
+      "ES": "?",
+      "FR": "Incinéraiteur",
+      "DE": "?",
+      "IT": "?",
+      "JA": "レイギガース"
     },
     "sprite": "monsters_sprites/193.png",
     "sprite_animated": "monsters_sprites_animated/193.png",
@@ -6443,12 +6443,12 @@
   {
     "id": 194,
     "name": {
-      "en": "Tuskateer",
-      "es": "?",
-      "fr": "Misamorse",
-      "ge": "Horrorhauer",
-      "it": "?",
-      "jp": "トドマン"
+      "EN": "Tuskateer",
+      "ES": "?",
+      "FR": "Misamorse",
+      "DE": "Horrorhauer",
+      "IT": "?",
+      "JA": "トドマン"
     },
     "sprite": "monsters_sprites/194.png",
     "sprite_animated": "monsters_sprites_animated/194.png",
@@ -6475,12 +6475,12 @@
   {
     "id": 195,
     "name": {
-      "en": "Psaro's Pawn",
-      "es": "?",
-      "fr": "Sbire de Psaro",
-      "ge": "Diener des Psaro",
-      "it": "?",
-      "jp": "ピサロのてさき"
+      "EN": "Psaro's Pawn",
+      "ES": "?",
+      "FR": "Sbire de Psaro",
+      "DE": "Diener des Psaro",
+      "IT": "?",
+      "JA": "ピサロのてさき"
     },
     "sprite": "monsters_sprites/195.png",
     "sprite_animated": "monsters_sprites_animated/195.png",
@@ -6507,12 +6507,12 @@
   {
     "id": 196,
     "name": {
-      "en": "Master Kung",
-      "es": "?",
-      "fr": "Maître Kung",
-      "ge": "Meister Kung",
-      "it": "?",
-      "jp": "カメレオンマン"
+      "EN": "Master Kung",
+      "ES": "?",
+      "FR": "Maître Kung",
+      "DE": "Meister Kung",
+      "IT": "?",
+      "JA": "カメレオンマン"
     },
     "sprite": "monsters_sprites/196.png",
     "sprite_animated": "monsters_sprites_animated/196.png",
@@ -6539,12 +6539,12 @@
   {
     "id": 197,
     "name": {
-      "en": "Abominable showman",
-      "es": "?",
-      "fr": "Abominhomme des neiges",
-      "ge": "Yetiminator",
-      "it": "?",
-      "jp": "ベロリンマン"
+      "EN": "Abominable showman",
+      "ES": "?",
+      "FR": "Abominhomme des neiges",
+      "DE": "Yetiminator",
+      "IT": "?",
+      "JA": "ベロリンマン"
     },
     "sprite": "monsters_sprites/197.png",
     "sprite_animated": "monsters_sprites_animated/197.png",
@@ -6571,12 +6571,12 @@
   {
     "id": 198,
     "name": {
-      "en": "Balzack",
-      "es": "?",
-      "fr": "Dickenz",
-      "ge": "Balzack",
-      "it": "?",
-      "jp": "バルザック"
+      "EN": "Balzack",
+      "ES": "?",
+      "FR": "Dickenz",
+      "DE": "Balzack",
+      "IT": "?",
+      "JA": "バルザック"
     },
     "sprite": "monsters_sprites/198.png",
     "sprite_animated": "monsters_sprites_animated/198.png",
@@ -6603,12 +6603,12 @@
   {
     "id": 199,
     "name": {
-      "en": "Tricksy",
-      "es": "?",
-      "fr": "Angélus",
-      "ge": "Trickser",
-      "it": "?",
-      "jp": "うらぎりこぞう"
+      "EN": "Tricksy",
+      "ES": "?",
+      "FR": "Angélus",
+      "DE": "Trickser",
+      "IT": "?",
+      "JA": "うらぎりこぞう"
     },
     "sprite": "monsters_sprites/199.png",
     "sprite_animated": "monsters_sprites_animated/199.png",
@@ -6635,12 +6635,12 @@
   {
     "id": 200,
     "name": {
-      "en": "Tigergram",
-      "es": "?",
-      "fr": "Tigroar",
-      "ge": "Gewaltiger",
-      "it": "?",
-      "jp": "とうだいタイガー"
+      "EN": "Tigergram",
+      "ES": "?",
+      "FR": "Tigroar",
+      "DE": "Gewaltiger",
+      "IT": "?",
+      "JA": "とうだいタイガー"
     },
     "sprite": "monsters_sprites/200.png",
     "sprite_animated": "monsters_sprites_animated/200.png",
@@ -6667,12 +6667,12 @@
   {
     "id": 201,
     "name": {
-      "en": "Marquis de Léon",
-      "es": "?",
-      "fr": "Lord Lionel",
-      "ge": "Marquis de Léon",
-      "it": "?",
-      "jp": "キングレオ"
+      "EN": "Marquis de Léon",
+      "ES": "?",
+      "FR": "Lord Lionel",
+      "DE": "Marquis de Léon",
+      "IT": "?",
+      "JA": "キングレオ"
     },
     "sprite": "monsters_sprites/201.png",
     "sprite_animated": "monsters_sprites_animated/201.png",
@@ -6699,12 +6699,12 @@
   {
     "id": 202,
     "name": {
-      "en": "Baalzack",
-      "es": "?",
-      "fr": "Déickenz",
-      "ge": "Baalzack",
-      "it": "?",
-      "jp": "バルザック"
+      "EN": "Baalzack",
+      "ES": "?",
+      "FR": "Déickenz",
+      "DE": "Baalzack",
+      "IT": "?",
+      "JA": "バルザック"
     },
     "sprite": "monsters_sprites/202.png",
     "sprite_animated": "monsters_sprites_animated/202.png",
@@ -6731,12 +6731,12 @@
   {
     "id": 203,
     "name": {
-      "en": "Sir Roseguardin",
-      "es": "?",
-      "fr": "Sire Rosegarde",
-      "ge": "Fürst Grünspan",
-      "it": "?",
-      "jp": "ピサロナイト"
+      "EN": "Sir Roseguardin",
+      "ES": "?",
+      "FR": "Sire Rosegarde",
+      "DE": "Fürst Grünspan",
+      "IT": "?",
+      "JA": "ピサロナイト"
     },
     "sprite": "monsters_sprites/203.png",
     "sprite_animated": "monsters_sprites_animated/203.png",
@@ -6763,12 +6763,12 @@
   {
     "id": 204,
     "name": {
-      "en": "Rashaverak",
-      "es": "?",
-      "fr": "Rashaverak",
-      "ge": "Rashaverak",
-      "it": "?",
-      "jp": "アンドレアル"
+      "EN": "Rashaverak",
+      "ES": "?",
+      "FR": "Rashaverak",
+      "DE": "Rashaverak",
+      "IT": "?",
+      "JA": "アンドレアル"
     },
     "sprite": "monsters_sprites/204.png",
     "sprite_animated": "monsters_sprites_animated/204.png",
@@ -6795,12 +6795,12 @@
   {
     "id": 205,
     "name": {
-      "en": "Pruslas",
-      "es": "?",
-      "fr": "Pruslas",
-      "ge": "Pruslas",
-      "it": "?",
-      "jp": "ギガデーモン"
+      "EN": "Pruslas",
+      "ES": "?",
+      "FR": "Pruslas",
+      "DE": "Pruslas",
+      "IT": "?",
+      "JA": "ギガデーモン"
     },
     "sprite": "monsters_sprites/205.png",
     "sprite_animated": "monsters_sprites_animated/205.png",
@@ -6827,12 +6827,12 @@
   {
     "id": 206,
     "name": {
-      "en": "Barbatos",
-      "es": "?",
-      "fr": "Barbatos",
-      "ge": "Barbatos",
-      "it": "?",
-      "jp": "ヘルバトラー"
+      "EN": "Barbatos",
+      "ES": "?",
+      "FR": "Barbatos",
+      "DE": "Barbatos",
+      "IT": "?",
+      "JA": "ヘルバトラー"
     },
     "sprite": "monsters_sprites/206.png",
     "sprite_animated": "monsters_sprites_animated/206.png",
@@ -6859,12 +6859,12 @@
   {
     "id": 207,
     "name": {
-      "en": "Aamon",
-      "es": "?",
-      "fr": "Aamon",
-      "ge": "Aamon",
-      "it": "?",
-      "jp": "エビルプリースト"
+      "EN": "Aamon",
+      "ES": "?",
+      "FR": "Aamon",
+      "DE": "Aamon",
+      "IT": "?",
+      "JA": "エビルプリースト"
     },
     "sprite": "monsters_sprites/207.png",
     "sprite_animated": "monsters_sprites_animated/207.png",
@@ -6891,12 +6891,12 @@
   {
     "id": 208,
     "name": {
-      "en": "Estark",
-      "es": "?",
-      "fr": "Estark",
-      "ge": "Estark",
-      "it": "?",
-      "jp": "エスターク"
+      "EN": "Estark",
+      "ES": "?",
+      "FR": "Estark",
+      "DE": "Estark",
+      "IT": "?",
+      "JA": "エスターク"
     },
     "sprite": "monsters_sprites/208.png",
     "sprite_animated": "monsters_sprites_animated/208.png",
@@ -6923,12 +6923,12 @@
   {
     "id": 209,
     "name": {
-      "en": "Foo Yung",
-      "es": "?",
-      "fr": "Cent-ans",
-      "ge": "Fu Yung",
-      "it": "?",
-      "jp": "エッグラ"
+      "EN": "Foo Yung",
+      "ES": "?",
+      "FR": "Cent-ans",
+      "DE": "Fu Yung",
+      "IT": "?",
+      "JA": "エッグラ"
     },
     "sprite": "monsters_sprites/209.png",
     "sprite_animated": "monsters_sprites_animated/209.png",
@@ -6955,12 +6955,12 @@
   {
     "id": 210,
     "name": {
-      "en": "Chow Mein",
-      "es": "?",
-      "fr": "Cinq-épices",
-      "ge": "Chow Mein",
-      "it": "?",
-      "jp": "チキーラ"
+      "EN": "Chow Mein",
+      "ES": "?",
+      "FR": "Cinq-épices",
+      "DE": "Chow Mein",
+      "IT": "?",
+      "JA": "チキーラ"
     },
     "sprite": "monsters_sprites/210.png",
     "sprite_animated": "monsters_sprites_animated/210.png",
@@ -6987,12 +6987,12 @@
   {
     "id": 211,
     "name": {
-      "en": "Psaro",
-      "es": "?",
-      "fr": "Psaro",
-      "ge": "Psaro",
-      "it": "?",
-      "jp": "デスピサロ"
+      "EN": "Psaro",
+      "ES": "?",
+      "FR": "Psaro",
+      "DE": "Psaro",
+      "IT": "?",
+      "JA": "デスピサロ"
     },
     "sprite": {
       "phase1": "monsters_sprites/211.png",
@@ -7075,12 +7075,12 @@
   {
     "id": 212,
     "name": {
-      "en": "Aamon",
-      "es": "?",
-      "fr": "Aamon",
-      "ge": "?",
-      "it": "?",
-      "jp": "究極エビルプリースト"
+      "EN": "Aamon",
+      "ES": "?",
+      "FR": "Aamon",
+      "DE": "?",
+      "IT": "?",
+      "JA": "究極エビルプリースト"
     },
     "sprite": {
       "phase1": "monsters_sprites/212.png",

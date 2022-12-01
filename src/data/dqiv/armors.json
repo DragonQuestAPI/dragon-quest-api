@@ -2,12 +2,12 @@
   {
     "id": 1,
     "name": {
-      "en": "Plain clothes",
-      "es": "?",
-      "fr": "Vêtement simple",
-      "ge": "?",
-      "it": "?",
-      "jp": "ぬののふく"
+      "EN": "Plain clothes",
+      "ES": "?",
+      "FR": "Vêtement simple",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ぬののふく"
     },
     "sprite": "armors_sprites/plain_clothes.png",
     "artwork": "armors_artworks/plain_clothes.png",
@@ -23,24 +23,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Don't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Don't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "plain_clothes"
   },
   {
     "id": 2,
     "name": {
-      "en": "Wayfarer's clothes",
-      "es": "?",
-      "fr": "Tenue de voyageur",
-      "ge": "?",
-      "it": "?",
-      "jp": "たびびとのふく"
+      "EN": "Wayfarer's clothes",
+      "ES": "?",
+      "FR": "Tenue de voyageur",
+      "DE": "?",
+      "IT": "?",
+      "JA": "たびびとのふく"
     },
     "sprite": "armors_sprites/wayfarers_clothes.png",
     "artwork": "armors_artworks/wayfarers_clothes.png",
@@ -56,24 +56,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Don't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Don't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "wayfarers_clothes"
   },
   {
     "id": 3,
     "name": {
-      "en": "Boxer shorts",
-      "es": "?",
-      "fr": "Caleçon",
-      "ge": "?",
-      "it": "?",
-      "jp": "ステテコパンツ"
+      "EN": "Boxer shorts",
+      "ES": "?",
+      "FR": "Caleçon",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ステテコパンツ"
     },
     "stats": {
       "defense": 8
@@ -87,12 +87,12 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Don't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Don't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "armors_sprites/boxer_shorts.png",
     "artwork": "armors_artworks/boxer_shorts.png",
@@ -101,12 +101,12 @@
   {
     "id": 4,
     "name": {
-      "en": "Dancer's costume",
-      "es": "?",
-      "fr": "Costume de danseuse",
-      "ge": "?",
-      "it": "?",
-      "jp": "おどりこのふく"
+      "EN": "Dancer's costume",
+      "ES": "?",
+      "FR": "Costume de danseuse",
+      "DE": "?",
+      "IT": "?",
+      "JA": "おどりこのふく"
     },
     "sprite": "armors_sprites/dancers_costume.png",
     "artwork": "armors_artworks/dancers_costume.png",
@@ -122,24 +122,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "dancers_costume"
   },
   {
     "id": 5,
     "name": {
-      "en": "Silk robe",
-      "es": "?",
-      "fr": "Robe de soie",
-      "ge": "?",
-      "it": "?",
-      "jp": "きぬのローブ"
+      "EN": "Silk robe",
+      "ES": "?",
+      "FR": "Robe de soie",
+      "DE": "?",
+      "IT": "?",
+      "JA": "きぬのローブ"
     },
     "sprite": "armors_sprites/silk_robe.png",
     "artwork": "armors_artworks/silk_robe.png",
@@ -155,24 +155,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "silk_robe"
   },
   {
     "id": 6,
     "name": {
-      "en": "Leather armour",
-      "es": "?",
-      "fr": "Armure de cuir",
-      "ge": "?",
-      "it": "?",
-      "jp": "かわのよろい"
+      "EN": "Leather armour",
+      "ES": "?",
+      "FR": "Armure de cuir",
+      "DE": "?",
+      "IT": "?",
+      "JA": "かわのよろい"
     },
     "sprite": "armors_sprites/leather_armour.png",
     "artwork": "armors_artworks/leather_armour.png",
@@ -188,24 +188,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "leather_armour"
   },
   {
     "id": 7,
     "name": {
-      "en": "Leather dress",
-      "es": "?",
-      "fr": "Robe de cuir",
-      "ge": "?",
-      "it": "?",
-      "jp": "かわのドレス"
+      "EN": "Leather dress",
+      "ES": "?",
+      "FR": "Robe de cuir",
+      "DE": "?",
+      "IT": "?",
+      "JA": "かわのドレス"
     },
     "sprite": "armors_sprites/leather_dress.png",
     "artwork": "armors_artworks/leather_dress.png",
@@ -221,24 +221,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "leather_dress"
   },
   {
     "id": 8,
     "name": {
-      "en": "Chain mail",
-      "es": "?",
-      "fr": "Cotte de mailles",
-      "ge": "?",
-      "it": "?",
-      "jp": "くさりかたびら"
+      "EN": "Chain mail",
+      "ES": "?",
+      "FR": "Cotte de mailles",
+      "DE": "?",
+      "IT": "?",
+      "JA": "くさりかたびら"
     },
     "sprite": "armors_sprites/chain_mail.png",
     "artwork": "armors_artworks/chain_mail.png",
@@ -254,24 +254,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "chain_mail"
   },
   {
     "id": 9,
     "name": {
-      "en": "Fur coat",
-      "es": "?",
-      "fr": "Pelisse",
-      "ge": "?",
-      "it": "?",
-      "jp": "けがわのコート"
+      "EN": "Fur coat",
+      "ES": "?",
+      "FR": "Pelisse",
+      "DE": "?",
+      "IT": "?",
+      "JA": "けがわのコート"
     },
     "stats": {
       "defense": 22
@@ -285,12 +285,12 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "armors_sprites/fur_coat.png",
     "artwork": "armors_artworks/fur_coat.png",
@@ -299,12 +299,12 @@
   {
     "id": 10,
     "name": {
-      "en": "Bronze armour",
-      "es": "?",
-      "fr": "Armure de bronze",
-      "ge": "?",
-      "it": "?",
-      "jp": "せいどうのよろい"
+      "EN": "Bronze armour",
+      "ES": "?",
+      "FR": "Armure de bronze",
+      "DE": "?",
+      "IT": "?",
+      "JA": "せいどうのよろい"
     },
     "sprite": "armors_sprites/bronze_armour.png",
     "artwork": "armors_artworks/bronze_armour.png",
@@ -320,24 +320,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "bronze_armour"
   },
   {
     "id": 11,
     "name": {
-      "en": "Cloack of evasion",
-      "es": "?",
-      "fr": "Manteau d'esquive",
-      "ge": "?",
-      "it": "?",
-      "jp": "みかわしのふく"
+      "EN": "Cloack of evasion",
+      "ES": "?",
+      "FR": "Manteau d'esquive",
+      "DE": "?",
+      "IT": "?",
+      "JA": "みかわしのふく"
     },
     "sprite": "armors_sprites/cloack_of_evasion.png",
     "artwork": "armors_artworks/cloack_of_evasion.png",
@@ -353,24 +353,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "The wearer may at times escape an enemy's attack altogether.",
-      "es": "?",
-      "fr": "Permet parfois d'esquiver une attaque ennemie.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "The wearer may at times escape an enemy's attack altogether.",
+      "ES": "?",
+      "FR": "Permet parfois d'esquiver une attaque ennemie.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "cloack_of_evasion"
   },
   {
     "id": 12,
     "name": {
-      "en": "Iron armour",
-      "es": "?",
-      "fr": "Armure de fer",
-      "ge": "?",
-      "it": "?",
-      "jp": "てつのよろい"
+      "EN": "Iron armour",
+      "ES": "?",
+      "FR": "Armure de fer",
+      "DE": "?",
+      "IT": "?",
+      "JA": "てつのよろい"
     },
     "sprite": "armors_sprites/iron_armour.png",
     "artwork": "armors_artworks/iron_armour.png",
@@ -386,24 +386,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "iron_armour"
   },
   {
     "id": 13,
     "name": {
-      "en": "Iron apron",
-      "es": "?",
-      "fr": "Tablier de fer",
-      "ge": "?",
-      "it": "?",
-      "jp": "てつのまえかけ"
+      "EN": "Iron apron",
+      "ES": "?",
+      "FR": "Tablier de fer",
+      "DE": "?",
+      "IT": "?",
+      "JA": "てつのまえかけ"
     },
     "sprite": "armors_sprites/iron_apron.png",
     "artwork": "armors_artworks/iron_apron.png",
@@ -419,24 +419,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "iron_apron"
   },
   {
     "id": 14,
     "name": {
-      "en": "Robe of serenity",
-      "es": "?",
-      "fr": "Manteau de sérénité",
-      "ge": "?",
-      "it": "?",
-      "jp": "やすらぎのローブ"
+      "EN": "Robe of serenity",
+      "ES": "?",
+      "FR": "Manteau de sérénité",
+      "DE": "?",
+      "IT": "?",
+      "JA": "やすらぎのローブ"
     },
     "sprite": "armors_sprites/robe_of_serenity.png",
     "artwork": "armors_artworks/robe_of_serenity.png",
@@ -452,24 +452,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Protects the wearer when asleep or paralysed.",
-      "es": "?",
-      "fr": "Protège son utilisateur s'il est endormi ou paralysé.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Protects the wearer when asleep or paralysed.",
+      "ES": "?",
+      "FR": "Protège son utilisateur s'il est endormi ou paralysé.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "robe_of_serenity"
   },
   {
     "id": 15,
     "name": {
-      "en": "Full plate armour",
-      "es": "?",
-      "fr": "Armure de plates",
-      "ge": "?",
-      "it": "?",
-      "jp": "はがねのよろい"
+      "EN": "Full plate armour",
+      "ES": "?",
+      "FR": "Armure de plates",
+      "DE": "?",
+      "IT": "?",
+      "JA": "はがねのよろい"
     },
     "sprite": "armors_sprites/full_plate_armour.png",
     "artwork": "armors_artworks/full_plate_armour.png",
@@ -485,24 +485,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "full_plate_armour"
   },
   {
     "id": 16,
     "name": {
-      "en": "Magic vestment",
-      "es": "?",
-      "fr": "Manteau magique",
-      "ge": "?",
-      "it": "?",
-      "jp": "まほうのほうい"
+      "EN": "Magic vestment",
+      "ES": "?",
+      "FR": "Manteau magique",
+      "DE": "?",
+      "IT": "?",
+      "JA": "まほうのほうい"
     },
     "sprite": "armors_sprites/magic_vestment.png",
     "artwork": "armors_artworks/magic_vestment.png",
@@ -518,24 +518,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "This clothing will help to reduce damage caused by magic.",
-      "es": "?",
-      "fr": "Permet de réduire les dégâts causés par la magie.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "This clothing will help to reduce damage caused by magic.",
+      "ES": "?",
+      "FR": "Permet de réduire les dégâts causés par la magie.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "magic_vestment"
   },
   {
     "id": 17,
     "name": {
-      "en": "Pink leotard",
-      "es": "?",
-      "fr": "Body rose",
-      "ge": "?",
-      "it": "?",
-      "jp": "ピンクのレオタード"
+      "EN": "Pink leotard",
+      "ES": "?",
+      "FR": "Body rose",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ピンクのレオタード"
     },
     "sprite": "armors_sprites/pink_leotard.png",
     "artwork": "armors_artworks/pink_leotard.png",
@@ -551,24 +551,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "pink_leotard"
   },
   {
     "id": 18,
     "name": {
-      "en": "Spangled dress",
-      "es": "?",
-      "fr": "Robe à paillettes",
-      "ge": "?",
-      "it": "?",
-      "jp": "スパンコールドレス"
+      "EN": "Spangled dress",
+      "ES": "?",
+      "FR": "Robe à paillettes",
+      "DE": "?",
+      "IT": "?",
+      "JA": "スパンコールドレス"
     },
     "sprite": "armors_sprites/spangled_dress.png",
     "artwork": "armors_artworks/spangled_dress.png",
@@ -584,24 +584,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "spangled_dress"
   },
   {
     "id": 19,
     "name": {
-      "en": "Flowing dress",
-      "es": "?",
-      "fr": "Robe flottante",
-      "ge": "?",
-      "it": "?",
-      "jp": "みずのはごろも"
+      "EN": "Flowing dress",
+      "ES": "?",
+      "FR": "Robe flottante",
+      "DE": "?",
+      "IT": "?",
+      "JA": "みずのはごろも"
     },
     "sprite": "armors_sprites/flowing_dress.png",
     "artwork": "armors_artworks/flowing_dress.png",
@@ -617,24 +617,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Reduces damage from fire- and ice-based magic attacks.",
-      "es": "?",
-      "fr": "Réduit les dégâts causés par les attaques de feu ou de glace.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Reduces damage from fire- and ice-based magic attacks.",
+      "ES": "?",
+      "FR": "Réduit les dégâts causés par les attaques de feu ou de glace.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "flowing_dress"
   },
   {
     "id": 20,
     "name": {
-      "en": "Dragon mail",
-      "es": "?",
-      "fr": "Cuirasse de dragon",
-      "ge": "?",
-      "it": "?",
-      "jp": "ドラゴンメイル"
+      "EN": "Dragon mail",
+      "ES": "?",
+      "FR": "Cuirasse de dragon",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ドラゴンメイル"
     },
     "sprite": "armors_sprites/dragon_mail.png",
     "artwork": "armors_artworks/dragon_mail.png",
@@ -650,24 +650,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "This armour will reduce damage from fire- and ice-based attacks.",
-      "es": "?",
-      "fr": "Cette cuirasse réduit les dégâts causés par les attaques de feu.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "This armour will reduce damage from fire- and ice-based attacks.",
+      "ES": "?",
+      "FR": "Cette cuirasse réduit les dégâts causés par les attaques de feu.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "dragon_mail"
   },
   {
     "id": 21,
     "name": {
-      "en": "Magical skirt",
-      "es": "?",
-      "fr": "Jupe magique",
-      "ge": "?",
-      "it": "?",
-      "jp": "マジカルスカート"
+      "EN": "Magical skirt",
+      "ES": "?",
+      "FR": "Jupe magique",
+      "DE": "?",
+      "IT": "?",
+      "JA": "マジカルスカート"
     },
     "sprite": "armors_sprites/magical_skirt.png",
     "artwork": "armors_artworks/magical_skirt.png",
@@ -683,24 +683,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "This clothing will help to reduce damage caused by magic.",
-      "es": "?",
-      "fr": "Permet de réduire les dégâts causés par la magie.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "This clothing will help to reduce damage caused by magic.",
+      "ES": "?",
+      "FR": "Permet de réduire les dégâts causés par la magie.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "magical_skirt"
   },
   {
     "id": 22,
     "name": {
-      "en": "Glombolero",
-      "es": "?",
-      "fr": "Absorboléro",
-      "ge": "?",
-      "it": "?",
-      "jp": "ふしぎなボレロ"
+      "EN": "Glombolero",
+      "ES": "?",
+      "FR": "Absorboléro",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ふしぎなボレロ"
     },
     "sprite": "armors_sprites/glombolero.png",
     "artwork": "armors_artworks/glombolero.png",
@@ -716,24 +716,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "This curious garment sometimes absorbs MP from enemy spells.",
-      "es": "?",
-      "fr": "Cet habit absorbe parfois les PM des sorts ennemis.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "This curious garment sometimes absorbs MP from enemy spells.",
+      "ES": "?",
+      "FR": "Cet habit absorbe parfois les PM des sorts ennemis.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "glombolero"
   },
   {
     "id": 23,
     "name": {
-      "en": "Zombie mail",
-      "es": "?",
-      "fr": "Cuirasse de zombie",
-      "ge": "?",
-      "it": "?",
-      "jp": "ゾンビメイル"
+      "EN": "Zombie mail",
+      "ES": "?",
+      "FR": "Cuirasse de zombie",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ゾンビメイル"
     },
     "sprite": "armors_sprites/zombie_mail.png",
     "artwork": "armors_artworks/zombie_mail.png",
@@ -749,24 +749,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Watch out! There's more to this armour than meets the eye.",
-      "es": "?",
-      "fr": "Attention ! Cette armure cache bien son pouvoir.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Watch out! There's more to this armour than meets the eye.",
+      "ES": "?",
+      "FR": "Attention ! Cette armure cache bien son pouvoir.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "zombie_mail"
   },
   {
     "id": 24,
     "name": {
-      "en": "Spiked armour",
-      "es": "?",
-      "fr": "Armure à piques",
-      "ge": "?",
-      "it": "?",
-      "jp": "やいばのよろい"
+      "EN": "Spiked armour",
+      "ES": "?",
+      "FR": "Armure à piques",
+      "DE": "?",
+      "IT": "?",
+      "JA": "やいばのよろい"
     },
     "sprite": "armors_sprites/spiked_armour.png",
     "artwork": "armors_artworks/spiked_armour.png",
@@ -782,24 +782,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "This armour may hold a spiky surprise for the unwary attacker.",
-      "es": "?",
-      "fr": "Offre parfois une piquante surprise à l'attaquant.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "This armour may hold a spiky surprise for the unwary attacker.",
+      "ES": "?",
+      "FR": "Offre parfois une piquante surprise à l'attaquant.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "spiked_armour"
   },
   {
     "id": 25,
     "name": {
-      "en": "Shimmering dress",
-      "es": "?",
-      "fr": "Robe chatoyante",
-      "ge": "?",
-      "it": "?",
-      "jp": "ひかりのドレス"
+      "EN": "Shimmering dress",
+      "ES": "?",
+      "FR": "Robe chatoyante",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ひかりのドレス"
     },
     "sprite": "armors_sprites/shimmering_dress.png",
     "artwork": "armors_artworks/shimmering_dress.png",
@@ -815,24 +815,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "This diaphanous dress may reflect magic back at the caster.",
-      "es": "?",
-      "fr": "Cette robe diaphane peut renvoyer la magie d'un assaillant.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "This diaphanous dress may reflect magic back at the caster.",
+      "ES": "?",
+      "FR": "Cette robe diaphane peut renvoyer la magie d'un assaillant.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "shimmering_dress"
   },
   {
     "id": 26,
     "name": {
-      "en": "Hela's armour",
-      "es": "?",
-      "fr": "Armure de Hela",
-      "ge": "?",
-      "it": "?",
-      "jp": "まじんのよろい"
+      "EN": "Hela's armour",
+      "ES": "?",
+      "FR": "Armure de Hela",
+      "DE": "?",
+      "IT": "?",
+      "JA": "まじんのよろい"
     },
     "sprite": "armors_sprites/helas_armour.png",
     "artwork": "armors_artworks/helas_armour.png",
@@ -848,24 +848,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Watch out! There's more to this armour than meets the eye.",
-      "es": "?",
-      "fr": "Attention ! Cette armure cache bien son pouvoir.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Watch out! There's more to this armour than meets the eye.",
+      "ES": "?",
+      "FR": "Attention ! Cette armure cache bien son pouvoir.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "helas_armour"
   },
   {
     "id": 27,
     "name": {
-      "en": "Angel leotard",
-      "es": "?",
-      "fr": "Body d'ange",
-      "ge": "?",
-      "it": "?",
-      "jp": "てんしのレオタード"
+      "EN": "Angel leotard",
+      "ES": "?",
+      "FR": "Body d'ange",
+      "DE": "?",
+      "IT": "?",
+      "JA": "てんしのレオタード"
     },
     "sprite": "armors_sprites/angel_leotard.png",
     "artwork": "armors_artworks/angel_leotard.png",
@@ -881,24 +881,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "Reduces damage from ice- and ice-based magic attacks.",
-      "es": "?",
-      "fr": "Réduit les dégâts causés par les attaques de feu ou de glace.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Reduces damage from ice- and ice-based magic attacks.",
+      "ES": "?",
+      "FR": "Réduit les dégâts causés par les attaques de feu ou de glace.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "angel_leotard"
   },
   {
     "id": 28,
     "name": {
-      "en": "Zenithian Armour",
-      "es": "?",
-      "fr": "Armure zénithienne",
-      "ge": "?",
-      "it": "?",
-      "jp": "てんくうのよろい"
+      "EN": "Zenithian Armour",
+      "ES": "?",
+      "FR": "Armure zénithienne",
+      "DE": "?",
+      "IT": "?",
+      "JA": "てんくうのよろい"
     },
     "sprite": "armors_sprites/zenithian_armour.png",
     "artwork": "armors_artworks/zenithian_armour.png",
@@ -914,24 +914,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "This armour will help to reduce damage caused by magic.",
-      "es": "?",
-      "fr": "Permet de réduire les dégâts causés par la magie.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "This armour will help to reduce damage caused by magic.",
+      "ES": "?",
+      "FR": "Permet de réduire les dégâts causés par la magie.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "zenithian_armour"
   },
   {
     "id": 29,
     "name": {
-      "en": "Liquid metal armour",
-      "es": "?",
-      "fr": "Armure de mercure",
-      "ge": "?",
-      "it": "?",
-      "jp": "はぐれメタルよろい"
+      "EN": "Liquid metal armour",
+      "ES": "?",
+      "FR": "Armure de mercure",
+      "DE": "?",
+      "IT": "?",
+      "JA": "はぐれメタルよろい"
     },
     "sprite": "armors_sprites/liquid_metal_armour.png",
     "artwork": "armors_artworks/liquid_metal_armour.png",
@@ -947,24 +947,24 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "This armour will help to reduce damage caused by magic.",
-      "es": "?",
-      "fr": "Permet de réduire les dégâts causés par la magie.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "This armour will help to reduce damage caused by magic.",
+      "ES": "?",
+      "FR": "Permet de réduire les dégâts causés par la magie.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "liquid_metal_armour"
   },
   {
     "id": 30,
     "name": {
-      "en": "Pandemonic armour",
-      "es": "?",
-      "fr": "Armure des Enfers",
-      "ge": "?",
-      "it": "?",
-      "jp": "まかいのよろい"
+      "EN": "Pandemonic armour",
+      "ES": "?",
+      "FR": "Armure des Enfers",
+      "DE": "?",
+      "IT": "?",
+      "JA": "まかいのよろい"
     },
     "sprite": "armors_sprites/pandemonic_armour.png",
     "artwork": "armors_artworks/pandemonic_armour.png",
@@ -980,12 +980,12 @@
     "found_at": [],
     "buyable_at": [],
     "description": {
-      "en": "This armour will help to reduce damage caused by magic.",
-      "es": "?",
-      "fr": "Permet de réduire les dégâts causés par la magie.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "This armour will help to reduce damage caused by magic.",
+      "ES": "?",
+      "FR": "Permet de réduire les dégâts causés par la magie.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "slug": "pandemonic_armour"
   }

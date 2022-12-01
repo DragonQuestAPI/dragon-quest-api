@@ -12,7 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.0",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "prettier": "^2.8.0"
   },
   "devDependencies": {
     "jest": "^29.3.1",

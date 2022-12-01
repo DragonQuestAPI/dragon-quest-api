@@ -2,24 +2,24 @@
   {
     "id": 1,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Bouclier de cuir",
-      "ge": "?",
-      "it": "?",
-      "jp": "かわのたて"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier de cuir",
+      "DE": "?",
+      "IT": "?",
+      "JA": "かわのたて"
     },
     "sprite": "shields_sprites/?.png",
     "artwork": "shields_artworks/?.png",
     "stats": { "defense": 4 },
     "price": { "buy": 90, "sell": 67, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -28,24 +28,24 @@
   {
     "id": 2,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Bouclier d'écailles",
-      "ge": "?",
-      "it": "?",
-      "jp": "うろこのたて"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier d'écailles",
+      "DE": "?",
+      "IT": "?",
+      "JA": "うろこのたて"
     },
     "sprite": "shields_sprites/?.png",
     "artwork": "shields_artworks/?.png",
     "stats": { "defense": 7 },
     "price": { "buy": 180, "sell": 135, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -54,24 +54,24 @@
   {
     "id": 3,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Bouclier de fer",
-      "ge": "?",
-      "it": "?",
-      "jp": "てつのたて"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier de fer",
+      "DE": "?",
+      "IT": "?",
+      "JA": "てつのたて"
     },
     "sprite": "shields_sprites/?.png",
     "artwork": "shields_artworks/?.png",
     "stats": { "defense": 12 },
     "price": { "buy": 650, "sell": 487, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -80,24 +80,24 @@
   {
     "id": 4,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Bouclier du dragon",
-      "ge": "?",
-      "it": "?",
-      "jp": "ドラゴンシールド"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier du dragon",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ドラゴンシールド"
     },
     "sprite": "shields_sprites/?.png",
     "artwork": "shields_artworks/?.png",
     "stats": { "defense": 30 },
     "price": { "buy": 7100, "sell": 5325, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -106,24 +106,24 @@
   {
     "id": 5,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Bouclier de puissance",
-      "ge": "?",
-      "it": "?",
-      "jp": "ちからのたて"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier de puissance",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ちからのたて"
     },
     "sprite": "shields_sprites/?.png",
     "artwork": "shields_artworks/?.png",
     "stats": { "defense": 40 },
     "price": { "buy": 13000, "sell": 9750, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -132,24 +132,24 @@
   {
     "id": 6,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Bouclier miroir",
-      "ge": "?",
-      "it": "?",
-      "jp": "ミラーシールド"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier miroir",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ミラーシールド"
     },
     "sprite": "shields_sprites/?.png",
     "artwork": "shields_artworks/?.png",
     "stats": { "defense": 45 },
     "price": { "buy": "-", "sell": 6750, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -158,24 +158,24 @@
   {
     "id": 7,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Bouclier du vent",
-      "ge": "?",
-      "it": "?",
-      "jp": "ふうじんのたて"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier du vent",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ふうじんのたて"
     },
     "sprite": "shields_sprites/?.png",
     "artwork": "shields_artworks/?.png",
     "stats": { "defense": 50 },
     "price": { "buy": 20000, "sell": 15000, "token": "-", "minimedal": "-" },
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -184,24 +184,24 @@
   {
     "id": 8,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Bouclier zénithien",
-      "ge": "?",
-      "it": "?",
-      "jp": "てんくうのたて"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier zénithien",
+      "DE": "?",
+      "IT": "?",
+      "JA": "てんくうのたて"
     },
     "sprite": "shields_sprites/?.png",
     "artwork": "shields_artworks/?.png",
     "stats": { "defense": 55 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -210,24 +210,24 @@
   {
     "id": 9,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Bouclier des enfers",
-      "ge": "?",
-      "it": "?",
-      "jp": "まかいのたて"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier des enfers",
+      "DE": "?",
+      "IT": "?",
+      "JA": "まかいのたて"
     },
     "sprite": "shields_sprites/?.png",
     "artwork": "shields_artworks/?.png",
     "stats": { "defense": 55 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -236,24 +236,24 @@
   {
     "id": 10,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Bouclier de mercure",
-      "ge": "?",
-      "it": "?",
-      "jp": "はぐれメタルのたて"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier de mercure",
+      "DE": "?",
+      "IT": "?",
+      "JA": "はぐれメタルのたて"
     },
     "sprite": "shields_sprites/?.png",
     "artwork": "shields_artworks/?.png",
     "stats": { "defense": 60 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 52 },
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],

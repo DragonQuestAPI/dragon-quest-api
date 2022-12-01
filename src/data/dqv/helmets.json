@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Casque de cuir",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 2,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 65, "sell": 32, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 2,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Chapeau à pointe",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 3,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 70, "sell": 35, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 3,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Casque de bois",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 6,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 120, "sell": 60, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 4,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bigornheaume",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 7,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 150, "sell": 75, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 5,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Diadème",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 7,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 150, "sell": 75, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 6,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Capuche de fourrure",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 11,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 400, "sell": 200, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 7,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Heaume de fer",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 16,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 1100, "sell": 550, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 8,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Haut-de-forme",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 20,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 2000, "sell": 1000, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 9,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Masque de fer",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 25,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 3500, "sell": 1750, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 10,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Heaume d'hadès",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 30,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": null, "sell": 4250, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 11,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Voile de mariée",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 30,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 12,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Chapeau de félicité",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 35,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": null, "sell": 4500, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Restaure une partie des PM de son proprétaire à chaque pas",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 13,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Coiffe de réflexion",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 40,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 13000, "sell": 6500, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ce couvre-chef fera des merveilles sur votre sagesse",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 14,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Tiare d'or",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 45,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Tiare étincelante qui reTourne tous les sorts à l'envoyeur",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 15,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Grand heaume",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 45,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 20000, "sell": 10000, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 16,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Heaume royal",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 70,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": null, "sell": 15000, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 17,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Casque zénithien",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 50,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 18,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Couronne solaire",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": "?",
+      "defense": 60,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Cette couronne peut conjurer des sorts aussi puissants que le célèbre kamikaze",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  }
+]

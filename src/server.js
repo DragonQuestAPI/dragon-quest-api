@@ -23,7 +23,9 @@ app.use(express.json());
 // app.use("/monsters", monsterRoutes);
 
 const dqivRoute = require("./routes/dqiv.js");
+const dqvRoute = require("./routes/dqv.js");
 app.use("/dqiv", dqivRoute);
+app.use("/dqv", dqvRoute);
 
 app.listen(process.env.PORT, () =>
   console.log(`Server started on http://localhost:${process.env.PORT}`)

@@ -2,12 +2,12 @@
   {
     "id": 1,
     "name": {
-      "en": "Solo",
-      "es": "Solo",
-      "fr": "Solo",
-      "ge": "?",
-      "it": "?",
-      "jp": "勇者"
+      "EN": "Solo",
+      "ES": "Solo",
+      "FR": "Solo",
+      "DE": "?",
+      "IT": "?",
+      "JA": "勇者"
     },
     "gender": "male",
     "sprite": "characters_sprites/solo.png",
@@ -16,12 +16,12 @@
     "clone_sprite_animated": "characters_clone_sprites_animated/solo.gif",
     "artwork": "characters_artworks/solo.png",
     "title": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "class": "?",
     "force": {
@@ -837,12 +837,12 @@
   {
     "id": 2,
     "name": {
-      "en": "Sofia",
-      "es": "Sofia",
-      "fr": "Sofia",
-      "ge": "Sofia",
-      "it": "Sofia",
-      "jp": "?"
+      "EN": "Sofia",
+      "ES": "Sofia",
+      "FR": "Sofia",
+      "DE": "Sofia",
+      "IT": "Sofia",
+      "JA": "?"
     },
     "gender": "female",
     "sprite": "characters_sprites/sofia.png",
@@ -851,12 +851,12 @@
     "clone_sprite_animated": "characters_clone_sprites_animated/sofia.gif",
     "artwork": "characters_artworks/sofia.png",
     "title": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "class": "?",
     "force": {
@@ -1672,12 +1672,12 @@
   {
     "id": 3,
     "name": {
-      "en": "Ragnar McRyan",
-      "es": "Ragnar McRyan",
-      "fr": "Ragnar McRyan",
-      "ge": "?",
-      "it": "?",
-      "jp": "ライアン（莱安）"
+      "EN": "Ragnar McRyan",
+      "ES": "Ragnar McRyan",
+      "FR": "Ragnar McRyan",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ライアン（莱安）"
     },
     "gender": "male",
     "sprite": "characters_sprites/ragnar.png",
@@ -1686,12 +1686,12 @@
     "clone_sprite_animated": "characters_clone_sprites_animated/ragnar.gif",
     "artwork": "characters_artworks/ragnar.png",
     "title": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "class": "?",
     "force": {
@@ -2507,12 +2507,12 @@
   {
     "id": 4,
     "name": {
-      "en": "Alena Zamoksva",
-      "es": "Alena Zamoksva",
-      "fr": "Alina Zamoksva",
-      "ge": "?",
-      "it": "?",
-      "jp": "アリーナ（安丽娜）"
+      "EN": "Alena Zamoksva",
+      "ES": "Alena Zamoksva",
+      "FR": "Alina Zamoksva",
+      "DE": "?",
+      "IT": "?",
+      "JA": "アリーナ（安丽娜）"
     },
     "gender": "female",
     "sprite": "characters_sprites/alena.png",
@@ -2521,12 +2521,12 @@
     "clone_sprite_animated": "characters_clone_sprites_animated/alena.gif",
     "artwork": "characters_artworks/alena.png",
     "title": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "class": "?",
     "force": {
@@ -3342,12 +3342,12 @@
   {
     "id": 5,
     "name": {
-      "en": "Kyril",
-      "es": "Kyril",
-      "fr": "Kyril",
-      "ge": "?",
-      "it": "?",
-      "jp": "クリフト（克里夫多）"
+      "EN": "Kyril",
+      "ES": "Kyril",
+      "FR": "Kyril",
+      "DE": "?",
+      "IT": "?",
+      "JA": "クリフト（克里夫多）"
     },
     "gender": "male",
     "sprite": "characters_sprites/kyril.png",
@@ -3356,12 +3356,12 @@
     "clone_sprite_animated": "characters_clone_sprites_animated/kyril.gif",
     "artwork": "characters_artworks/kyril.png",
     "title": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "class": "?",
     "force": {
@@ -4177,12 +4177,12 @@
   {
     "id": 6,
     "name": {
-      "en": "Borya",
-      "es": "Borya",
-      "fr": "Borya",
-      "ge": "?",
-      "it": "?",
-      "jp": "ブライ（布莱）"
+      "EN": "Borya",
+      "ES": "Borya",
+      "FR": "Borya",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ブライ（布莱）"
     },
     "gender": "male",
     "sprite": "characters_sprites/borya.png",
@@ -4191,12 +4191,12 @@
     "clone_sprite_animated": "characters_clone_sprites_animated/borya.gif",
     "artwork": "characters_artworks/borya.png",
     "title": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "class": "?",
     "force": {
@@ -5012,12 +5012,12 @@
   {
     "id": 7,
     "name": {
-      "en": "Torneko Taloon",
-      "es": "Torneko Taloon",
-      "fr": "Torneko Taloon",
-      "ge": "?",
-      "it": "?",
-      "jp": "トルネコ（特鲁尼克）"
+      "EN": "Torneko Taloon",
+      "ES": "Torneko Taloon",
+      "FR": "Torneko Taloon",
+      "DE": "?",
+      "IT": "?",
+      "JA": "トルネコ（特鲁尼克）"
     },
     "gender": "male",
     "sprite": "characters_sprites/torneko.png",
@@ -5026,12 +5026,12 @@
     "clone_sprite_animated": "characters_clone_sprites_animated/torneko.gif",
     "artwork": "characters_artworks/torneko.png",
     "title": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "class": "?",
     "force": {
@@ -5847,12 +5847,12 @@
   {
     "id": 8,
     "name": {
-      "en": "Meena Mahabala",
-      "es": "Meena Mahabala",
-      "fr": "Meena Mahabala",
-      "ge": "?",
-      "it": "?",
-      "jp": "ミネア（米蕾雅）"
+      "EN": "Meena Mahabala",
+      "ES": "Meena Mahabala",
+      "FR": "Meena Mahabala",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ミネア（米蕾雅）"
     },
     "gender": "female",
     "sprite": "characters_sprites/meena.png",
@@ -5861,12 +5861,12 @@
     "clone_sprite_animated": "characters_clone_sprites_animated/meena.gif",
     "artwork": "characters_artworks/meena.png",
     "title": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "class": "?",
     "force": {
@@ -6682,12 +6682,12 @@
   {
     "id": 9,
     "name": {
-      "en": "Maya Mahabala",
-      "es": "Maya Mahabala",
-      "fr": "Maya Mahabala",
-      "ge": "?",
-      "it": "?",
-      "jp": "マーニャ（玛尼雅）"
+      "EN": "Maya Mahabala",
+      "ES": "Maya Mahabala",
+      "FR": "Maya Mahabala",
+      "DE": "?",
+      "IT": "?",
+      "JA": "マーニャ（玛尼雅）"
     },
     "gender": "female",
     "sprite": "characters_sprites/maya.png",
@@ -6696,12 +6696,12 @@
     "clone_sprite_animated": "characters_clone_sprites_animated/maya.gif",
     "artwork": "characters_artworks/maya.png",
     "title": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "class": "?",
     "force": {
@@ -7517,12 +7517,12 @@
   {
     "id": 10,
     "name": {
-      "en": "Psaro",
-      "es": "Psaro",
-      "fr": "Psaro",
-      "ge": "?",
-      "it": "?",
-      "jp": "ピサロ（皮萨罗）"
+      "EN": "Psaro",
+      "ES": "Psaro",
+      "FR": "Psaro",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ピサロ（皮萨罗）"
     },
     "gender": "male",
     "sprite": "characters_sprites/psaro.png",
@@ -7531,12 +7531,12 @@
     "clone_sprite_animated": "characters_clone_sprites_animated/psaro.gif",
     "artwork": "characters_artworks/psaro.png",
     "title": {
-      "en": "?",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "class": "?",
     "force": {

@@ -2,21 +2,21 @@
   {
     "id": 1,
     "name": {
-      "en": "Poof",
-      "es": "Puf",
-      "fr": "Zap",
-      "ge": "Plop",
-      "it": "?",
-      "jp": "ニフラム"
+      "EN": "Poof",
+      "ES": "Puf",
+      "FR": "Zap",
+      "DE": "Plop",
+      "IT": "?",
+      "JA": "ニフラム"
     },
     "mp_cost": 3,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Fait disparaître un groupe d'ennemis dans un éclair de lumière.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Fait disparaître un groupe d'ennemis dans un éclair de lumière.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -25,21 +25,21 @@
   {
     "id": 2,
     "name": {
-      "en": "Heal",
-      "es": "?",
-      "fr": "Premiers Secours",
-      "ge": "?",
-      "it": "?",
-      "jp": "ホイミ"
+      "EN": "Heal",
+      "ES": "?",
+      "FR": "Premiers Secours",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ホイミ"
     },
     "mp_cost": 2,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Restaure au moins 30 PV d'un seul allié.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Restaure au moins 30 PV d'un seul allié.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": true,
@@ -48,21 +48,21 @@
   {
     "id": 3,
     "name": {
-      "en": "Frizz",
-      "es": "Miniataque Ígneo",
-      "fr": "Flamme",
-      "ge": "Fauch",
-      "it": "Globoflamma",
-      "jp": "メラ"
+      "EN": "Frizz",
+      "ES": "Miniataque Ígneo",
+      "FR": "Flamme",
+      "DE": "Fauch",
+      "IT": "Globoflamma",
+      "JA": "メラ"
     },
     "mp_cost": 2,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Brûle légèrement un seul ennemi avec une petite boule de feu.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Brûle légèrement un seul ennemi avec une petite boule de feu.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -71,21 +71,21 @@
   {
     "id": 4,
     "name": {
-      "en": "Midheal",
-      "es": "?",
-      "fr": "Soins Partiels",
-      "ge": "?",
-      "it": "?",
-      "jp": "ベホイミ"
+      "EN": "Midheal",
+      "ES": "?",
+      "FR": "Soins Partiels",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ベホイミ"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Restaure au moins 75 PV d'un seul allié.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Restaure au moins 75 PV d'un seul allié.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": true,
@@ -94,21 +94,21 @@
   {
     "id": 5,
     "name": {
-      "en": "Zoom",
-      "es": "?",
-      "fr": "Téléportation",
-      "ge": "?",
-      "it": "?",
-      "jp": "ルーラ"
+      "EN": "Zoom",
+      "ES": "?",
+      "FR": "Téléportation",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ルーラ"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Permet de retourner instantanément dans des lieux déjà visités.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Permet de retourner instantanément dans des lieux déjà visités.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": false,
     "usable_on_map": true,
@@ -117,21 +117,21 @@
   {
     "id": 6,
     "name": {
-      "en": "Sizz",
-      "es": "Miniincendio",
-      "fr": "Crame",
-      "ge": "Knister",
-      "it": "Fuoco",
-      "jp": "ギラ"
+      "EN": "Sizz",
+      "ES": "Miniincendio",
+      "FR": "Crame",
+      "DE": "Knister",
+      "IT": "Fuoco",
+      "JA": "ギラ"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Brûle légèrement un groupe d'ennemis avec des flammes vives.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Brûle légèrement un groupe d'ennemis avec des flammes vives.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -140,21 +140,21 @@
   {
     "id": 7,
     "name": {
-      "en": "Holy Protection",
-      "es": "?",
-      "fr": "Protection Sacré",
-      "ge": "?",
-      "it": "?",
-      "jp": "トヘロス"
+      "EN": "Holy Protection",
+      "ES": "?",
+      "FR": "Protection Sacré",
+      "DE": "?",
+      "IT": "?",
+      "JA": "トヘロス"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Génère une aura sacrée qui éloigne les monstres les plus faibles.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Génère une aura sacrée qui éloigne les monstres les plus faibles.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": false,
     "usable_on_map": true,
@@ -163,21 +163,21 @@
   {
     "id": 8,
     "name": {
-      "en": "Evac",
-      "es": "?",
-      "fr": "Evac'",
-      "ge": "?",
-      "it": "?",
-      "jp": "リレミト"
+      "EN": "Evac",
+      "ES": "?",
+      "FR": "Evac'",
+      "DE": "?",
+      "IT": "?",
+      "JA": "リレミト"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Permet de sortir instantanément des donjons, grottes et tours.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Permet de sortir instantanément des donjons, grottes et tours.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": false,
     "usable_on_map": true,
@@ -186,21 +186,21 @@
   {
     "id": 9,
     "name": {
-      "en": "Kasnooze",
-      "es": "?",
-      "fr": "Torpeur Ciblée",
-      "ge": "?",
-      "it": "?",
-      "jp": "ラリホーマ"
+      "EN": "Kasnooze",
+      "ES": "?",
+      "FR": "Torpeur Ciblée",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ラリホーマ"
     },
     "mp_cost": 3,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Endort un seul ennemi...la plupart du temps.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Endort un seul ennemi...la plupart du temps.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -209,21 +209,21 @@
   {
     "id": 10,
     "name": {
-      "en": "Cock-a-doodle-doo",
-      "es": "?",
-      "fr": "Cocorico",
-      "ge": "?",
-      "it": "?",
-      "jp": "ザメハ"
+      "EN": "Cock-a-doodle-doo",
+      "ES": "?",
+      "FR": "Cocorico",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ザメハ"
     },
     "mp_cost": 2,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Guérit tous les membres de l'équipe des effets du sommeil.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Guérit tous les membres de l'équipe des effets du sommeil.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -232,21 +232,21 @@
   {
     "id": 11,
     "name": {
-      "en": "Snub",
-      "es": "?",
-      "fr": "Immunomagie",
-      "ge": "?",
-      "it": "?",
-      "jp": "マホステ"
+      "EN": "Snub",
+      "ES": "?",
+      "FR": "Immunomagie",
+      "DE": "?",
+      "IT": "?",
+      "JA": "マホステ"
     },
     "mp_cost": 2,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Enveloppe un allié dans une brume qui neutralise la magie.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Enveloppe un allié dans une brume qui neutralise la magie.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -255,21 +255,21 @@
   {
     "id": 12,
     "name": {
-      "en": "Kaclang",
-      "es": "?",
-      "fr": "Immoblindage",
-      "ge": "?",
-      "it": "?",
-      "jp": "アストロン"
+      "EN": "Kaclang",
+      "ES": "?",
+      "FR": "Immoblindage",
+      "DE": "?",
+      "IT": "?",
+      "JA": "アストロン"
     },
     "mp_cost": 2,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Transforme l'équipe en acier.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Transforme l'équipe en acier.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -278,21 +278,21 @@
   {
     "id": 13,
     "name": {
-      "en": "Boom",
-      "es": "Explosión",
-      "fr": "Superbang",
-      "ge": "Wumm",
-      "it": "Boom",
-      "jp": "イオラ"
+      "EN": "Boom",
+      "ES": "Explosión",
+      "FR": "Superbang",
+      "DE": "Wumm",
+      "IT": "Boom",
+      "JA": "イオラ"
     },
     "mp_cost": 8,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Engloutit tous les ennemis dans une forte explosion.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Engloutit tous les ennemis dans une forte explosion.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -301,21 +301,21 @@
   {
     "id": 14,
     "name": {
-      "en": "Zap",
-      "es": "Descarga",
-      "fr": "Foudre",
-      "ge": "Zick",
-      "it": "Lampo",
-      "jp": "デイン"
+      "EN": "Zap",
+      "ES": "Descarga",
+      "FR": "Foudre",
+      "DE": "Zick",
+      "IT": "Lampo",
+      "JA": "デイン"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Fait tomber la foudre sur un ennemi.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Fait tomber la foudre sur un ennemi.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -324,21 +324,21 @@
   {
     "id": 15,
     "name": {
-      "en": "Fullheal",
-      "es": "?",
-      "fr": "Soins Complets",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Fullheal",
+      "ES": "?",
+      "FR": "Soins Complets",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "mp_cost": 6,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Restaure tous les PV d'un seul allié.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Restaure tous les PV d'un seul allié.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": true,
@@ -347,21 +347,21 @@
   {
     "id": 16,
     "name": {
-      "en": "Zing",
-      "es": "?",
-      "fr": "Rappel",
-      "ge": "?",
-      "it": "?",
-      "jp": "ザオラル"
+      "EN": "Zing",
+      "ES": "?",
+      "FR": "Rappel",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ザオラル"
     },
     "mp_cost": 8,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Ressuscite un allié mort en lui octroyant la moitié de ses PV.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ressuscite un allié mort en lui octroyant la moitié de ses PV.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": true,
@@ -370,21 +370,21 @@
   {
     "id": 17,
     "name": {
-      "en": "Omniheal",
-      "es": "?",
-      "fr": "Omnisoin",
-      "ge": "?",
-      "it": "?",
-      "jp": "ベホマズン"
+      "EN": "Omniheal",
+      "ES": "?",
+      "FR": "Omnisoin",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ベホマズン"
     },
     "mp_cost": 20,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Restaure tous les PV de tous les membres de l'équipe.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Restaure tous les PV de tous les membres de l'équipe.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -393,21 +393,21 @@
   {
     "id": 18,
     "name": {
-      "en": "Kazap",
-      "es": "Superdescarga",
-      "fr": "Superfoudre",
-      "ge": "Zickzack",
-      "it": "Tempesta Magnetica",
-      "jp": "ギガデイン"
+      "EN": "Kazap",
+      "ES": "Superdescarga",
+      "FR": "Superfoudre",
+      "DE": "Zickzack",
+      "IT": "Tempesta Magnetica",
+      "JA": "ギガデイン"
     },
     "mp_cost": 15,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Envoie de violents éclairs sur tous les ennemis.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Envoie de violents éclairs sur tous les ennemis.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -416,21 +416,21 @@
   {
     "id": 19,
     "name": {
-      "en": "Kazapple",
-      "es": "Megadescarga",
-      "fr": "Foudre ciblée",
-      "ge": "Zickzackzuck",
-      "it": "Fulminion",
-      "jp": "ミナデイン"
+      "EN": "Kazapple",
+      "ES": "Megadescarga",
+      "FR": "Foudre ciblée",
+      "DE": "Zickzackzuck",
+      "IT": "Fulminion",
+      "JA": "ミナデイン"
     },
     "mp_cost": 15,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "La puissance combinée de l'équipe foudroie un seul ennemi.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "La puissance combinée de l'équipe foudroie un seul ennemi.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -439,21 +439,21 @@
   {
     "id": 20,
     "name": {
-      "en": "Hocus Pocus",
-      "es": "?",
-      "fr": "Plouf-Plouf",
-      "ge": "?",
-      "it": "?",
-      "jp": "パルプンテ"
+      "EN": "Hocus Pocus",
+      "ES": "?",
+      "FR": "Plouf-Plouf",
+      "DE": "?",
+      "IT": "?",
+      "JA": "パルプンテ"
     },
     "mp_cost": 20,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Laissez faire Dame Fortune ! Elle seule sait ce qui se passera.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Laissez faire Dame Fortune ! Elle seule sait ce qui se passera.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -462,21 +462,21 @@
   {
     "id": 21,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Gigalame",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Gigalame",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "mp_cost": 15,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Une lame imprégnée de foudre sacrée s'abat sur un ennemi.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Une lame imprégnée de foudre sacrée s'abat sur un ennemi.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -485,21 +485,21 @@
   {
     "id": 22,
     "name": {
-      "en": "Crack",
-      "es": "Minihelada",
-      "fr": "Glace",
-      "ge": "Knirsch",
-      "it": "?",
-      "jp": "ヒャド"
+      "EN": "Crack",
+      "ES": "Minihelada",
+      "FR": "Glace",
+      "DE": "Knirsch",
+      "IT": "?",
+      "JA": "ヒャド"
     },
     "mp_cost": 2,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Des stalagmites acérés embroche l'ennemi.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Des stalagmites acérés embroche l'ennemi.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -508,21 +508,21 @@
   {
     "id": 23,
     "name": {
-      "en": "Sap",
-      "es": "?",
-      "fr": "Altération",
-      "ge": "?",
-      "it": "?",
-      "jp": "ルカニ"
+      "EN": "Sap",
+      "ES": "?",
+      "FR": "Altération",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ルカニ"
     },
     "mp_cost": 3,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Diminue la défense d'un ennemi.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Diminue la défense d'un ennemi.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -531,21 +531,21 @@
   {
     "id": 24,
     "name": {
-      "en": "Snooze",
-      "es": "?",
-      "fr": "Torpeur",
-      "ge": "?",
-      "it": "?",
-      "jp": "ラリホー"
+      "EN": "Snooze",
+      "ES": "?",
+      "FR": "Torpeur",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ラリホー"
     },
     "mp_cost": 3,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Endort un groupe d'ennemis dans un profond sommeil.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Endort un groupe d'ennemis dans un profond sommeil.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -554,21 +554,21 @@
   {
     "id": 26,
     "name": {
-      "en": "Bounce",
-      "es": "?",
-      "fr": "Réflexion",
-      "ge": "?",
-      "it": "?",
-      "jp": "マホカンタ"
+      "EN": "Bounce",
+      "ES": "?",
+      "FR": "Réflexion",
+      "DE": "?",
+      "IT": "?",
+      "JA": "マホカンタ"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Créer une barrière qui renvoie tout les sorts.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Créer une barrière qui renvoie tout les sorts.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -577,21 +577,21 @@
   {
     "id": 28,
     "name": {
-      "en": "Crackle",
-      "es": "Helada",
-      "fr": "Superglace",
-      "ge": "Knack",
-      "it": "Iceberg",
-      "jp": "ヒャダルコ"
+      "EN": "Crackle",
+      "ES": "Helada",
+      "FR": "Superglace",
+      "DE": "Knack",
+      "IT": "Iceberg",
+      "JA": "ヒャダルコ"
     },
     "mp_cost": 5,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Des stalagmites tranchantes embrochent un groupe d'ennemis.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Des stalagmites tranchantes embrochent un groupe d'ennemis.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -600,21 +600,21 @@
   {
     "id": 29,
     "name": {
-      "en": "Acceleratle",
-      "es": "?",
-      "fr": "Accélération",
-      "ge": "?",
-      "it": "?",
-      "jp": "ピオリム"
+      "EN": "Acceleratle",
+      "ES": "?",
+      "FR": "Accélération",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ピオリム"
     },
     "mp_cost": 3,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Augmente l'agilité de tout les membres de l'équipe.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Augmente l'agilité de tout les membres de l'équipe.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -623,21 +623,21 @@
   {
     "id": 30,
     "name": {
-      "en": "Peep",
-      "es": "?",
-      "fr": "Coup d'oeil",
-      "ge": "?",
-      "it": "?",
-      "jp": "インパス"
+      "EN": "Peep",
+      "ES": "?",
+      "FR": "Coup d'oeil",
+      "DE": "?",
+      "IT": "?",
+      "JA": "インパス"
     },
     "mp_cost": 2,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Révèle la nature du trésor contenu dans un coffre.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Révèle la nature du trésor contenu dans un coffre.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": false,
     "usable_on_map": true,
@@ -646,21 +646,21 @@
   {
     "id": 31,
     "name": {
-      "en": "Tick-tock",
-      "es": "?",
-      "fr": "Tic Tac",
-      "ge": "?",
-      "it": "?",
-      "jp": "ラナルータ"
+      "EN": "Tick-tock",
+      "ES": "?",
+      "FR": "Tic Tac",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ラナルータ"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Fait venir la nuit en plein jour et le jour en pleine nuit.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Fait venir la nuit en plein jour et le jour en pleine nuit.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": false,
     "usable_on_map": true,
@@ -669,21 +669,21 @@
   {
     "id": 32,
     "name": {
-      "en": "Oomph",
-      "es": "?",
-      "fr": "Décuplo",
-      "ge": "?",
-      "it": "?",
-      "jp": "バイキルト"
+      "EN": "Oomph",
+      "ES": "?",
+      "FR": "Décuplo",
+      "DE": "?",
+      "IT": "?",
+      "JA": "バイキルト"
     },
     "mp_cost": 6,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Double la puissance d'attaque d'un seul membre de l'équipe.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Double la puissance d'attaque d'un seul membre de l'équipe.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -692,21 +692,21 @@
   {
     "id": 33,
     "name": {
-      "en": "Kasap",
-      "es": "?",
-      "fr": "Mégaltération",
-      "ge": "?",
-      "it": "?",
-      "jp": "ルカナン"
+      "EN": "Kasap",
+      "ES": "?",
+      "FR": "Mégaltération",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ルカナン"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Diminue la défense d'un groupe d'ennemis.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Diminue la défense d'un groupe d'ennemis.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -715,21 +715,21 @@
   {
     "id": 34,
     "name": {
-      "en": "Snoop",
-      "es": "?",
-      "fr": "Fouille",
-      "ge": "?",
-      "it": "?",
-      "jp": "レミラーマ"
+      "EN": "Snoop",
+      "ES": "?",
+      "FR": "Fouille",
+      "DE": "?",
+      "IT": "?",
+      "JA": "レミラーマ"
     },
     "mp_cost": 2,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Localise des trésors cachés grâce à la puissance de la magie.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Localise des trésors cachés grâce à la puissance de la magie.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": false,
     "usable_on_map": true,
@@ -738,21 +738,21 @@
   {
     "id": 35,
     "name": {
-      "en": "Drain Magic",
-      "es": "?",
-      "fr": "Aspirmagie",
-      "ge": "?",
-      "it": "?",
-      "jp": "マホトラ"
+      "EN": "Drain Magic",
+      "ES": "?",
+      "FR": "Aspirmagie",
+      "DE": "?",
+      "IT": "?",
+      "JA": "マホトラ"
     },
     "mp_cost": 0,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Vole les PM d'un seul ennemi.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Vole les PM d'un seul ennemi.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -761,21 +761,21 @@
   {
     "id": 36,
     "name": {
-      "en": "Kacrack",
-      "es": "Megahelada",
-      "fr": "Mégaglace",
-      "ge": "Krack",
-      "it": "Antartide",
-      "jp": "マヒャド"
+      "EN": "Kacrack",
+      "ES": "Megahelada",
+      "FR": "Mégaglace",
+      "DE": "Krack",
+      "IT": "Antartide",
+      "JA": "マヒャド"
     },
     "mp_cost": 8,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Lacère tout les ennemis avec une multitude de stalagmites.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Lacère tout les ennemis avec une multitude de stalagmites.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -784,21 +784,21 @@
   {
     "id": 37,
     "name": {
-      "en": "Fuddle",
-      "es": "?",
-      "fr": "Confusion",
-      "ge": "?",
-      "it": "?",
-      "jp": "メダパニ"
+      "EN": "Fuddle",
+      "ES": "?",
+      "FR": "Confusion",
+      "DE": "?",
+      "IT": "?",
+      "JA": "メダパニ"
     },
     "mp_cost": 5,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Plonge un seul ennemi dans un état de confusion.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Plonge un seul ennemi dans un état de confusion.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -807,21 +807,21 @@
   {
     "id": 38,
     "name": {
-      "en": "Kacrackle",
-      "es": "Superhelada",
-      "fr": "Gigaglace",
-      "ge": "Krack",
-      "it": "Antartide",
-      "jp": "マヒャデドス"
+      "EN": "Kacrackle",
+      "ES": "Superhelada",
+      "FR": "Gigaglace",
+      "DE": "Krack",
+      "IT": "Antartide",
+      "JA": "マヒャデドス"
     },
     "mp_cost": 11,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Embroche tout les ennemis avec des stalagmites tranchantes.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Embroche tout les ennemis avec des stalagmites tranchantes.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -830,21 +830,21 @@
   {
     "id": 40,
     "name": {
-      "en": "Buff",
-      "es": "?",
-      "fr": "Protection",
-      "ge": "?",
-      "it": "?",
-      "jp": "スカラ"
+      "EN": "Buff",
+      "ES": "?",
+      "FR": "Protection",
+      "DE": "?",
+      "IT": "?",
+      "JA": "スカラ"
     },
     "mp_cost": 3,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Augmente la défense d'un allié.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Augmente la défense d'un allié.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -853,21 +853,21 @@
   {
     "id": 41,
     "name": {
-      "en": "Dazzle",
-      "es": "?",
-      "fr": "Illusion",
-      "ge": "?",
-      "it": "?",
-      "jp": "マヌーサ"
+      "EN": "Dazzle",
+      "ES": "?",
+      "FR": "Illusion",
+      "DE": "?",
+      "IT": "?",
+      "JA": "マヌーサ"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Plonge un groupe d'ennemis dans l'illusion.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Plonge un groupe d'ennemis dans l'illusion.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -876,21 +876,21 @@
   {
     "id": 42,
     "name": {
-      "en": "Squelch",
-      "es": "?",
-      "fr": "Antipoison",
-      "ge": "?",
-      "it": "?",
-      "jp": "キアリー"
+      "EN": "Squelch",
+      "ES": "?",
+      "FR": "Antipoison",
+      "DE": "?",
+      "IT": "?",
+      "JA": "キアリー"
     },
     "mp_cost": 2,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Guérit un membre de l'équipe empoisonné.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Guérit un membre de l'équipe empoisonné.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": true,
@@ -899,21 +899,21 @@
   {
     "id": 43,
     "name": {
-      "en": "Fizzle",
-      "es": "?",
-      "fr": "Antimagie",
-      "ge": "?",
-      "it": "?",
-      "jp": "マホトーン"
+      "EN": "Fizzle",
+      "ES": "?",
+      "FR": "Antimagie",
+      "DE": "?",
+      "IT": "?",
+      "JA": "マホトーン"
     },
     "mp_cost": 3,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "l'ennemie ne peut plus lancer de sorts.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "l'ennemie ne peut plus lancer de sorts.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -922,21 +922,21 @@
   {
     "id": 44,
     "name": {
-      "en": "Kabuff",
-      "es": "?",
-      "fr": "Mégaprotection",
-      "ge": "?",
-      "it": "?",
-      "jp": "スクルト"
+      "EN": "Kabuff",
+      "ES": "?",
+      "FR": "Mégaprotection",
+      "DE": "?",
+      "IT": "?",
+      "JA": "スクルト"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Augmente la défense tout les alliés.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Augmente la défense tout les alliés.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -945,21 +945,21 @@
   {
     "id": 46,
     "name": {
-      "en": "Whack",
-      "es": "Muerte",
-      "fr": "Kill",
-      "ge": "Wupp",
-      "it": "Morte istantanea",
-      "jp": "ザキ"
+      "EN": "Whack",
+      "ES": "Muerte",
+      "FR": "Kill",
+      "DE": "Wupp",
+      "IT": "Morte istantanea",
+      "JA": "ザキ"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Tue un ennemi d'un seul coup.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Tue un ennemi d'un seul coup.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -968,21 +968,21 @@
   {
     "id": 48,
     "name": {
-      "en": "Thwack",
-      "es": "Multimuerte",
-      "fr": "Superkill",
-      "ge": "Schwupp",
-      "it": "Due in un colpo",
-      "jp": "ザラキ"
+      "EN": "Thwack",
+      "ES": "Multimuerte",
+      "FR": "Superkill",
+      "DE": "Schwupp",
+      "IT": "Due in un colpo",
+      "JA": "ザラキ"
     },
     "mp_cost": 7,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Tue un groupe ennemies d'un seul coup.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Tue un groupe ennemies d'un seul coup.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -991,21 +991,21 @@
   {
     "id": 50,
     "name": {
-      "en": "Multiheal",
-      "es": "?",
-      "fr": "Multisoins",
-      "ge": "?",
-      "it": "?",
-      "jp": "ベホマラー"
+      "EN": "Multiheal",
+      "ES": "?",
+      "FR": "Multisoins",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ベホマラー"
     },
     "mp_cost": 10,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Restaure quelques pv à tout les alliés.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Restaure quelques pv à tout les alliés.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": true,
@@ -1014,21 +1014,21 @@
   {
     "id": 51,
     "name": {
-      "en": "Kazing",
-      "es": "?",
-      "fr": "Résurrection",
-      "ge": "?",
-      "it": "?",
-      "jp": "ザオリク"
+      "EN": "Kazing",
+      "ES": "?",
+      "FR": "Résurrection",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ザオリク"
     },
     "mp_cost": 15,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Ressuscite un allié mort avec tout ses pv.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ressuscite un allié mort avec tout ses pv.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": true,
@@ -1037,21 +1037,21 @@
   {
     "id": 52,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Discreto",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Discreto",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "mp_cost": 0,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "L'équipe se déplace à l'insu des monstres pendant un moment.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "L'équipe se déplace à l'insu des monstres pendant un moment.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": false,
     "usable_on_map": true,
@@ -1060,21 +1060,21 @@
   {
     "id": 53,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Mapille",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Mapille",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "mp_cost": 0,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Permet de localiser les villages des alentours.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Permet de localiser les villages des alentours.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": false,
     "usable_on_map": true,
@@ -1083,21 +1083,21 @@
   {
     "id": 54,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Detectrésor",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Detectrésor",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "mp_cost": 0,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Indique le nombre de trésors à proximité.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Indique le nombre de trésors à proximité.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": false,
     "usable_on_map": true,
@@ -1106,21 +1106,21 @@
   {
     "id": 55,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Sifflet",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Sifflet",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "mp_cost": 0,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Attire les monstres à l'aide d'un sifflet.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Attire les monstres à l'aide d'un sifflet.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": false,
     "usable_on_map": true,
@@ -1129,21 +1129,21 @@
   {
     "id": 61,
     "name": {
-      "en": "Bang",
-      "es": "Miniexplosión",
-      "fr": "Bang",
-      "ge": "Krach",
-      "it": "Bang",
-      "jp": "イオ"
+      "EN": "Bang",
+      "ES": "Miniexplosión",
+      "FR": "Bang",
+      "DE": "Krach",
+      "IT": "Bang",
+      "JA": "イオ"
     },
     "mp_cost": 5,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Inflige des dégats à tous les ennemis avec une petite explosion.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Inflige des dégats à tous les ennemis avec une petite explosion.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1152,21 +1152,21 @@
   {
     "id": 62,
     "name": {
-      "en": "Sizzle",
-      "es": "Incendio",
-      "fr": "Supercrame",
-      "ge": "Brutzel",
-      "it": "Incendio",
-      "jp": "ベギラマ"
+      "EN": "Sizzle",
+      "ES": "Incendio",
+      "FR": "Supercrame",
+      "DE": "Brutzel",
+      "IT": "Incendio",
+      "JA": "ベギラマ"
     },
     "mp_cost": 6,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Brûle un groupe d'ennemis avec un mur de feu.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Brûle un groupe d'ennemis avec un mur de feu.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1175,21 +1175,21 @@
   {
     "id": 64,
     "name": {
-      "en": "Frizzle",
-      "es": "Ataque Ígneo",
-      "fr": "Superflamme",
-      "ge": "Zisch",
-      "it": "Flammasfera",
-      "jp": "メラミ"
+      "EN": "Frizzle",
+      "ES": "Ataque Ígneo",
+      "FR": "Superflamme",
+      "DE": "Zisch",
+      "IT": "Flammasfera",
+      "JA": "メラミ"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Brûle un seul ennemi avec une grosse boule de feu.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Brûle un seul ennemi avec une grosse boule de feu.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1198,21 +1198,21 @@
   {
     "id": 65,
     "name": {
-      "en": "Safe Passage",
-      "es": "?",
-      "fr": "Passage sûr",
-      "ge": "?",
-      "it": "?",
-      "jp": "トラマナ"
+      "EN": "Safe Passage",
+      "ES": "?",
+      "FR": "Passage sûr",
+      "DE": "?",
+      "IT": "?",
+      "JA": "トラマナ"
     },
     "mp_cost": 2,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Permet à l'équipe de traverser sans mal un terrain dangereux.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Permet à l'équipe de traverser sans mal un terrain dangereux.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": false,
     "usable_on_map": true,
@@ -1221,21 +1221,21 @@
   {
     "id": 67,
     "name": {
-      "en": "Kasizzle",
-      "es": "Superincendio",
-      "fr": "Mégacrame",
-      "ge": "Schmor",
-      "it": "Inferno",
-      "jp": "ギラグレイド"
+      "EN": "Kasizzle",
+      "ES": "Superincendio",
+      "FR": "Mégacrame",
+      "DE": "Schmor",
+      "IT": "Inferno",
+      "JA": "ギラグレイド"
     },
     "mp_cost": 10,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Grille un groupe d'ennemis avec de violentes flammes de l'enfer.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Grille un groupe d'ennemis avec de violentes flammes de l'enfer.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1244,21 +1244,21 @@
   {
     "id": 68,
     "name": {
-      "en": "Puff!",
-      "es": "Dracon",
-      "fr": "Pouf",
-      "ge": "Paff",
-      "it": "Pof",
-      "jp": "ドラゴラム"
+      "EN": "Puff!",
+      "ES": "Dracon",
+      "FR": "Pouf",
+      "DE": "Paff",
+      "IT": "Pof",
+      "JA": "ドラゴラム"
     },
     "mp_cost": 18,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Permet de se transformer en dragon cracheur de feu.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Permet de se transformer en dragon cracheur de feu.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1267,21 +1267,21 @@
   {
     "id": 69,
     "name": {
-      "en": "Kafrizzle",
-      "es": "Superataque Ígneo",
-      "fr": "Gigaflamme",
-      "ge": "Schmurgel",
-      "it": "Meteorite di fuoco",
-      "jp": "メラガイアー"
+      "EN": "Kafrizzle",
+      "ES": "Superataque Ígneo",
+      "FR": "Gigaflamme",
+      "DE": "Schmurgel",
+      "IT": "Meteorite di fuoco",
+      "JA": "メラガイアー"
     },
     "mp_cost": 10,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Incinère un seul ennemi avec une énorme boule de feu.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Incinère un seul ennemi avec une énorme boule de feu.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1290,21 +1290,21 @@
   {
     "id": 70,
     "name": {
-      "en": "Kaboom",
-      "es": "Superexplosión",
-      "fr": "Mégabang",
-      "ge": "Kabumm",
-      "it": "Baboom",
-      "jp": "イオナズン"
+      "EN": "Kaboom",
+      "ES": "Superexplosión",
+      "FR": "Mégabang",
+      "DE": "Kabumm",
+      "IT": "Baboom",
+      "JA": "イオナズン"
     },
     "mp_cost": 15,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Pulvérise tous les ennemis avec une explosion trés violente.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Pulvérise tous les ennemis avec une explosion trés violente.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1313,21 +1313,21 @@
   {
     "id": 74,
     "name": {
-      "en": "Woosh",
-      "es": "Minitornado",
-      "fr": "Tornade",
-      "ge": "Säusel",
-      "it": "Vento",
-      "jp": "バギ"
+      "EN": "Woosh",
+      "ES": "Minitornado",
+      "FR": "Tornade",
+      "DE": "Säusel",
+      "IT": "Vento",
+      "JA": "バギ"
     },
     "mp_cost": 2,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Une petite tornade traverse un groupe d'ennemis.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Une petite tornade traverse un groupe d'ennemis.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1336,21 +1336,21 @@
   {
     "id": 75,
     "name": {
-      "en": "Tingle",
-      "es": "?",
-      "fr": "Stimulation",
-      "ge": "?",
-      "it": "?",
-      "jp": "キアリク"
+      "EN": "Tingle",
+      "ES": "?",
+      "FR": "Stimulation",
+      "DE": "?",
+      "IT": "?",
+      "JA": "キアリク"
     },
     "mp_cost": 2,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Guérit tous les membres de l'équipe des effets de la paralysie .",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Guérit tous les membres de l'équipe des effets de la paralysie .",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1359,21 +1359,21 @@
   {
     "id": 79,
     "name": {
-      "en": "Swoosh",
-      "es": "Tornado",
-      "fr": "Supertornade",
-      "ge": "Saus",
-      "it": "Bufera",
-      "jp": "バギマ"
+      "EN": "Swoosh",
+      "ES": "Tornado",
+      "FR": "Supertornade",
+      "DE": "Saus",
+      "IT": "Bufera",
+      "JA": "バギマ"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Une puissante tornade traverse un groupe d'ennemis.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Une puissante tornade traverse un groupe d'ennemis.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1382,21 +1382,21 @@
   {
     "id": 81,
     "name": {
-      "en": "Insulatle",
-      "es": "?",
-      "fr": "Isolation",
-      "ge": "?",
-      "it": "?",
-      "jp": "フバーハ"
+      "EN": "Insulatle",
+      "ES": "?",
+      "FR": "Isolation",
+      "DE": "?",
+      "IT": "?",
+      "JA": "フバーハ"
     },
     "mp_cost": 6,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Protège toute l'équipe des attaques de glace ou de feu.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Protège toute l'équipe des attaques de glace ou de feu.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1405,21 +1405,21 @@
   {
     "id": 82,
     "name": {
-      "en": "Kaswoosh",
-      "es": "Supertornado",
-      "fr": "Mégatornade",
-      "ge": "Braus",
-      "it": "Tornado",
-      "jp": "バギクロス"
+      "EN": "Kaswoosh",
+      "ES": "Supertornado",
+      "FR": "Mégatornade",
+      "DE": "Braus",
+      "IT": "Tornado",
+      "JA": "バギクロス"
     },
     "mp_cost": 8,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Une tornade déchaînée traverse un groupe d'ennemis.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Une tornade déchaînée traverse un groupe d'ennemis.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1428,21 +1428,21 @@
   {
     "id": 83,
     "name": {
-      "en": "Kerplunk",
-      "es": "?",
-      "fr": "Conjuration",
-      "ge": "?",
-      "it": "?",
-      "jp": "メガザル"
+      "EN": "Kerplunk",
+      "ES": "?",
+      "FR": "Conjuration",
+      "DE": "?",
+      "IT": "?",
+      "JA": "メガザル"
     },
     "mp_cost": 99,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Sacrifie votre vie pour ressusciter les autres membres de l'équipe.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Sacrifie votre vie pour ressusciter les autres membres de l'équipe.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": true,
@@ -1451,21 +1451,21 @@
   {
     "id": 86,
     "name": {
-      "en": "Fullheal",
-      "es": "?",
-      "fr": "Soins Complet",
-      "ge": "?",
-      "it": "?",
-      "jp": "ベホマ"
+      "EN": "Fullheal",
+      "ES": "?",
+      "FR": "Soins Complet",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ベホマ"
     },
     "mp_cost": 6,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Restaure tous les PV d'un seul allié.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Restaure tous les PV d'un seul allié.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": true,
@@ -1474,21 +1474,21 @@
   {
     "id": 87,
     "name": {
-      "en": "Multiheal",
-      "es": "?",
-      "fr": "Multision",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Multiheal",
+      "ES": "?",
+      "FR": "Multision",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "mp_cost": 10,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Restaure au moins 75 PV de tous les membres de l'équipe.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Restaure au moins 75 PV de tous les membres de l'équipe.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": true,
@@ -1497,21 +1497,21 @@
   {
     "id": 89,
     "name": {
-      "en": "Dragon Slash",
-      "es": "?",
-      "fr": "Lame du Dragon",
-      "ge": "Drachenhieb",
-      "it": "Colpo del drago",
-      "jp": "ドラゴンぎり"
+      "EN": "Dragon Slash",
+      "ES": "?",
+      "FR": "Lame du Dragon",
+      "DE": "Drachenhieb",
+      "IT": "Colpo del drago",
+      "JA": "ドラゴンぎり"
     },
     "mp_cost": 0,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Attaque qui transperce même les écailles de dragon.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Attaque qui transperce même les écailles de dragon.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1520,21 +1520,21 @@
   {
     "id": 90,
     "name": {
-      "en": "Hatchet Man",
-      "es": "?",
-      "fr": "Coupe Claire",
-      "ge": "Teufelsbeil",
-      "it": "Colpo del sicario",
-      "jp": "まじんぎり"
+      "EN": "Hatchet Man",
+      "ES": "?",
+      "FR": "Coupe Claire",
+      "DE": "Teufelsbeil",
+      "IT": "Colpo del sicario",
+      "JA": "まじんぎり"
     },
     "mp_cost": 0,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Attaque imprévisible qui peut infliger un coup critique.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Attaque imprévisible qui peut infliger un coup critique.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1543,21 +1543,21 @@
   {
     "id": 92,
     "name": {
-      "en": "Harvest Moon",
-      "es": "?",
-      "fr": "Croissant Lunaire",
-      "ge": "Erntemond",
-      "it": "Luna crescente",
-      "jp": "ムーンサルト"
+      "EN": "Harvest Moon",
+      "ES": "?",
+      "FR": "Croissant Lunaire",
+      "DE": "Erntemond",
+      "IT": "Luna crescente",
+      "JA": "ムーンサルト"
     },
     "mp_cost": 0,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Lance une attaque tournoyante sur tous les ennemis.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Lance une attaque tournoyante sur tous les ennemis.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1566,21 +1566,21 @@
   {
     "id": 96,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Protection sacrée",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Protection sacrée",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "mp_cost": 4,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Génère une aura sacrée qui éloigne les monstres les plus faibles.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Génère une aura sacrée qui éloigne les monstres les plus faibles.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": false,
     "usable_on_map": true,
@@ -1589,21 +1589,21 @@
   {
     "id": 99,
     "name": {
-      "en": "Metal Slash",
-      "es": "?",
-      "fr": "Lame de Métal",
-      "ge": "Metallhieb",
-      "it": "Spaccametallo",
-      "jp": "メタル斬り"
+      "EN": "Metal Slash",
+      "ES": "?",
+      "FR": "Lame de Métal",
+      "DE": "Metallhieb",
+      "IT": "Spaccametallo",
+      "JA": "メタル斬り"
     },
     "mp_cost": 0,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Attaque qui transperce même les ennemis métalliques.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Attaque qui transperce même les ennemis métalliques.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1612,21 +1612,21 @@
   {
     "id": 100,
     "name": {
-      "en": "Kathwack",
-      "es": "Exterminio",
-      "fr": "Mégakill",
-      "ge": "Schwuppdiwupp",
-      "it": "Ira Divina",
-      "jp": "ザラキーマ"
+      "EN": "Kathwack",
+      "ES": "Exterminio",
+      "FR": "Mégakill",
+      "DE": "Schwuppdiwupp",
+      "IT": "Ira Divina",
+      "JA": "ザラキーマ"
     },
     "mp_cost": 15,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Incantation maudite qui envoie tous les ennemis dans l'au-delà.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Incantation maudite qui envoie tous les ennemis dans l'au-delà.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1635,21 +1635,21 @@
   {
     "id": 101,
     "name": {
-      "en": "Thin Air",
-      "es": "Ráfaga",
-      "fr": "Trou d'air",
-      "ge": "Dünne Luft",
-      "it": "Aria di guai",
-      "jp": "しんくうは"
+      "EN": "Thin Air",
+      "ES": "Ráfaga",
+      "FR": "Trou d'air",
+      "DE": "Dünne Luft",
+      "IT": "Aria di guai",
+      "JA": "しんくうは"
     },
     "mp_cost": 0,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Génère un tourbillon qui taille tous les ennemis en pièces.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Génère un tourbillon qui taille tous les ennemis en pièces.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1658,21 +1658,21 @@
   {
     "id": 102,
     "name": {
-      "en": "Disruptive Wave",
-      "es": "?",
-      "fr": "Perturbonde",
-      "ge": "Störwelle",
-      "it": "Onda Distruttrice",
-      "jp": "いてつくはどう"
+      "EN": "Disruptive Wave",
+      "ES": "?",
+      "FR": "Perturbonde",
+      "DE": "Störwelle",
+      "IT": "Onda Distruttrice",
+      "JA": "いてつくはどう"
     },
     "mp_cost": 0,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Élimine les effets magiques infligés par tous les ennemis.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Élimine les effets magiques infligés par tous les ennemis.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1681,21 +1681,21 @@
   {
     "id": 104,
     "name": {
-      "en": "Lightning Storm",
-      "es": "Tormenta luminosa",
-      "fr": "Orage d'éclairs",
-      "ge": "Blitzgewitter",
-      "it": "Tempesta di fulmin",
-      "jp": "ジゴスパーク"
+      "EN": "Lightning Storm",
+      "ES": "Tormenta luminosa",
+      "FR": "Orage d'éclairs",
+      "DE": "Blitzgewitter",
+      "IT": "Tempesta di fulmin",
+      "JA": "ジゴスパーク"
     },
     "mp_cost": 25,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Terasse tous les ennemis avec de puissants éclairs.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Terasse tous les ennemis avec de puissants éclairs.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,
@@ -1704,21 +1704,21 @@
   {
     "id": 105,
     "name": {
-      "en": "Magic Burst",
-      "es": "Explosión Mágica",
-      "fr": "Explosion Magique",
-      "ge": "Magieexplosion",
-      "it": "?",
-      "jp": "マダンテ"
+      "EN": "Magic Burst",
+      "ES": "Explosión Mágica",
+      "FR": "Explosion Magique",
+      "DE": "Magieexplosion",
+      "IT": "?",
+      "JA": "マダンテ"
     },
     "mp_cost": 99,
     "description": {
-      "en": "?",
-      "es": "?",
-      "fr": "Libère la puissance magique restante en une grosse explosion.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Libère la puissance magique restante en une grosse explosion.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "usable_in_battle": true,
     "usable_on_map": false,

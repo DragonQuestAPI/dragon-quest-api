@@ -1,0 +1,1082 @@
+[
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Herbe Médicinale",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": 8,
+      "sell": 4,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Restaure une petite partie des PV d'un membre de l'équipe.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Herbe Curative",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": 10,
+      "sell": 5,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Peut guérir un membre de l'équipe empoisonné.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Fiole d'Eau Sacrée",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": 20,
+      "sell": 10,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Eloigne les ennemis les plus faibles pendant un moment.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Aile de Chimère",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": 25,
+      "sell": 12,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Permet de reTourner dans tous les lieux déjà visités.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Feuille D'Yggdrasil",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": 250,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Cette feuille magique peut ressuciter un membre de l'équipe.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Rosée D'Yggdrasil",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": 5,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Permet de restaurer intégralement les PV de toute l'équipe.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Botryche Lunaire",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": 30,
+      "sell": 15,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Cette racine peut guérir un membre de l'équipe de sa paralysie.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bague de prière",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": 2500,
+      "sell": 1250,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "L'utilitilsation de cette bague sacrée permet de récupérer des PM.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Fiole D'Eau Magique",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": 120,
+      "sell": 60,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Restaure une petite partie des PM d'un membre de l'équipe.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Sac de Musc",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": 80,
+      "sell": 40,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Son odeur attirera les monstres jusqu'à ce qu'elle se dissipe.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Fiole d'élixir Elfique",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": 110,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Restaure tous les PM d'un membre de l'équipe.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Graine de Force",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": 75,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Le membre de l'équipe qui la mange voit sa force augmenter.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Graine de Vitalité",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": 30,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Le membre de l'équipe qui la mange voit sa vitalité augmenter.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Graine D'Agilité",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": 50,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Le membre de l'équipe qui la mange voit son agilité augmenter.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Graine de Sagesse",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": 45,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Le membre de l'équipe qui la mange voit sa sagesse augmenter.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Graine de Vie",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": 100,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Le membre de l'équipe qui la mange augmente son maximum de PV.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Graine de Magie",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": 125,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Le membre de l'équipe qui la mange augmente son maximum de PM.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ticket de TNT",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": 5,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Prenez le trésor, mais attention aux pièges ! Aurez-vous la main heureuse ? (Permet de jouer au TNT).",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ticket de Tombola",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": 5,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Participez à une tombola fantastique et gagnez des prix magnifiques !.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Monstrobecs",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": 200,
+      "sell": 100,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Jetez-en à vos ennemis affamés et ils en oublieront de vous attaquer.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Eclat de bombe",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": 450,
+      "sell": 225,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ce fragment volcanique explose avec fracas quand vous le jetez sur l'ennemi.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Fiole de jus de peps",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": 600,
+      "sell": 300,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ce puissant reMontant multiplie par deux la Force du membre de l'équipe qui le boit.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Pierre de résurrection",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": 500,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Une pierre qui peut s'avérer très utile dans les situations critiques (ramène les morts à la vie).",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bionyx",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": 300,
+      "sell": 150,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Cette pierre peut mourir à la place de celui qui la porte.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Lampe des Ténèbres",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Cette lampe fait venir l'obscurité lorsqu'on l'allume.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Sables du Temps",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Au combat, ils peuvent inverser le cour du temps.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Pierre Philosophale",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Au combat, rend quelques PV à chaque membre de l'équipe.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Clochette séraphique",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": 500,
+      "sell": 250,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Sonnez cette clochette au combat pour guérir un membre de l'équipe de la confusion.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Tambour de Guerre",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Double les attaques de l'équipe.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Théière en Argent",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Objet récupéré dans le château de Karpatt.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Tasse de Thé en Argent",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Objet récupéré dans le château de Karpatt.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Plateau en Argent",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Objet récupéré dans le château de Karpatt.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Catéchisme du roi Korol",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": 4000,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Livre des enseignements de l'Ordre du Zugzwang.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Pierre de Ruycelieu",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ce n'est qu'un éclat de rocher trouvé à Ruycelieu.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Gemme bleue de Ruycelieu",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ce fragment de roche présente des éclats visibles de pierre précieuse.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Peau de chamois",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Il n'y a pas mieux pour nettoyer et polir les pièces de collections.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Laissez-passer pour le TNT",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Permet de participer à volonté au jeu TNT.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Carte de fidélité",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Divise le prix des achats par deux en boutique.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Livre des Créatures",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Livre répertoriant les monstres rencontrés.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Mini-médaille",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "price": {
+      "buy": null,
+      "sell": null,
+      "token": "?",
+      "minimedal": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Doit être offert à un roi en échange de récompense.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  }
+]

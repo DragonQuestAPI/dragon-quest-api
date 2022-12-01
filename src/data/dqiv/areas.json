@@ -2,12 +2,12 @@
   {
     "id": 1,
     "name": {
-      "en": "World",
-      "es": "Mundo",
-      "fr": "Monde",
-      "ge": "?",
-      "it": "?",
-      "jp": "ロトゼタシア"
+      "EN": "World",
+      "ES": "Mundo",
+      "FR": "Monde",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ロトゼタシア"
     },
     "shops": [],
     "map": "img/maps/world.png",
@@ -18,12 +18,12 @@
   {
     "id": 2,
     "name": {
-      "en": "The Azimut",
-      "es": "El Azimut",
-      "fr": "L'Azimut",
-      "ge": "?",
-      "it": "?",
-      "jp": "ゴットサイド"
+      "EN": "The Azimut",
+      "ES": "El Azimut",
+      "FR": "L'Azimut",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ゴットサイド"
     },
     "shops": [],
     "map": "img/maps/the_azimut.png",
@@ -34,12 +34,12 @@
   {
     "id": 3,
     "name": {
-      "en": "Nadiria",
-      "es": "Nadiria",
-      "fr": "Nadiria",
-      "ge": "?",
-      "it": "?",
-      "jp": "闇の世界"
+      "EN": "Nadiria",
+      "ES": "Nadiria",
+      "FR": "Nadiria",
+      "DE": "?",
+      "IT": "?",
+      "JA": "闇の世界"
     },
     "shops": [],
     "map": "img/maps/nadiria.png",
@@ -51,12 +51,12 @@
   {
     "id": 4,
     "name": {
-      "en": "Burland",
-      "es": "Burlandia",
-      "fr": "Bastione",
-      "ge": "?",
-      "it": "?",
-      "jp": "バトランド"
+      "EN": "Burland",
+      "ES": "Burlandia",
+      "FR": "Bastione",
+      "DE": "?",
+      "IT": "?",
+      "JA": "バトランド"
     },
     "shops": [],
     "map": "img/maps/burland.png",
@@ -67,12 +67,12 @@
   {
     "id": 5,
     "name": {
-      "en": "Strathbaile Burrow",
-      "es": "Madriguera de Candonga",
-      "fr": "Grotte de Strattbourg",
-      "ge": "?",
-      "it": "?",
-      "jp": "イムル"
+      "EN": "Strathbaile Burrow",
+      "ES": "Madriguera de Candonga",
+      "FR": "Grotte de Strattbourg",
+      "DE": "?",
+      "IT": "?",
+      "JA": "イムル"
     },
     "shops": [],
     "map": null,
@@ -83,12 +83,12 @@
   {
     "id": 6,
     "name": {
-      "en": "Strathbaile",
-      "es": "Candonga",
-      "fr": "Strattbourg",
-      "ge": "?",
-      "it": "?",
-      "jp": "イムル"
+      "EN": "Strathbaile",
+      "ES": "Candonga",
+      "FR": "Strattbourg",
+      "DE": "?",
+      "IT": "?",
+      "JA": "イムル"
     },
     "shops": [],
     "map": "img/maps/strathbaile.png",
@@ -99,12 +99,12 @@
   {
     "id": 7,
     "name": {
-      "en": "Auld well",
-      "es": "Pozo del bosque",
-      "fr": "Aire de jeu",
-      "ge": "?",
-      "it": "?",
-      "jp": "古井戸の底"
+      "EN": "Auld well",
+      "ES": "Pozo del bosque",
+      "FR": "Aire de jeu",
+      "DE": "?",
+      "IT": "?",
+      "JA": "古井戸の底"
     },
     "shops": [],
     "map": null,
@@ -115,12 +115,12 @@
   {
     "id": 8,
     "name": {
-      "en": "Loch Tur",
-      "es": "Torre de Candonga",
-      "fr": "Tour de Strattbourg",
-      "ge": "?",
-      "it": "?",
-      "jp": "湖の塔"
+      "EN": "Loch Tur",
+      "ES": "Torre de Candonga",
+      "FR": "Tour de Strattbourg",
+      "DE": "?",
+      "IT": "?",
+      "JA": "湖の塔"
     },
     "shops": [],
     "map": null,
@@ -132,12 +132,12 @@
   {
     "id": 9,
     "name": {
-      "en": "Zamoksva",
-      "es": "Zamoksva",
-      "fr": "Zamoksva",
-      "ge": "?",
-      "it": "?",
-      "jp": "サントハイム"
+      "EN": "Zamoksva",
+      "ES": "Zamoksva",
+      "FR": "Zamoksva",
+      "DE": "?",
+      "IT": "?",
+      "JA": "サントハイム"
     },
     "shops": [],
     "map": "img/maps/zamoksva.png",
@@ -148,12 +148,12 @@
   {
     "id": 10,
     "name": {
-      "en": "Zalenagrad",
-      "es": "Zalenagrado",
-      "fr": "Zalenagrad",
-      "ge": "?",
-      "it": "?",
-      "jp": "サラン"
+      "EN": "Zalenagrad",
+      "ES": "Zalenagrado",
+      "FR": "Zalenagrad",
+      "DE": "?",
+      "IT": "?",
+      "JA": "サラン"
     },
     "shops": [],
     "map": "img/maps/zalenagrad.png",
@@ -164,12 +164,12 @@
   {
     "id": 11,
     "name": {
-      "en": "Taborov",
-      "es": "Taborov",
-      "fr": "Taborov",
-      "ge": "?",
-      "it": "?",
-      "jp": "サラン"
+      "EN": "Taborov",
+      "ES": "Taborov",
+      "FR": "Taborov",
+      "DE": "?",
+      "IT": "?",
+      "JA": "サラン"
     },
     "shops": [],
     "map": "img/maps/taborov.png",
@@ -180,12 +180,12 @@
   {
     "id": 12,
     "name": {
-      "en": "Vrenor",
-      "es": "Vrenor",
-      "fr": "Vrenor",
-      "ge": "?",
-      "it": "?",
-      "jp": "フレノール"
+      "EN": "Vrenor",
+      "ES": "Vrenor",
+      "FR": "Vrenor",
+      "DE": "?",
+      "IT": "?",
+      "JA": "フレノール"
     },
     "shops": [],
     "map": "img/maps/vrenor.png",
@@ -196,12 +196,12 @@
   {
     "id": 13,
     "name": {
-      "en": "Vault of Vrenor",
-      "es": "Bóveda de Vrenor",
-      "fr": "Grotte de Vrenor",
-      "ge": "?",
-      "it": "?",
-      "jp": "フレノール南の洞窟"
+      "EN": "Vault of Vrenor",
+      "ES": "Bóveda de Vrenor",
+      "FR": "Grotte de Vrenor",
+      "DE": "?",
+      "IT": "?",
+      "JA": "フレノール南の洞窟"
     },
     "shops": [],
     "map": null,
@@ -212,12 +212,12 @@
   {
     "id": 14,
     "name": {
-      "en": "Desert Bazaar",
-      "es": "Bazar del desierto",
-      "fr": "Bazar du désert",
-      "ge": "?",
-      "it": "?",
-      "jp": "さばくのバザー"
+      "EN": "Desert Bazaar",
+      "ES": "Bazar del desierto",
+      "FR": "Bazar du désert",
+      "DE": "?",
+      "IT": "?",
+      "JA": "さばくのバザー"
     },
     "shops": [],
     "map": "img/maps/desert_bazaar.png",
@@ -228,12 +228,12 @@
   {
     "id": 15,
     "name": {
-      "en": "Birdsong Tower",
-      "es": "Torre del Piar",
-      "fr": "Tour du Rossignol",
-      "ge": "?",
-      "it": "?",
-      "jp": "さえずりの塔"
+      "EN": "Birdsong Tower",
+      "ES": "Torre del Piar",
+      "FR": "Tour du Rossignol",
+      "DE": "?",
+      "IT": "?",
+      "JA": "さえずりの塔"
     },
     "shops": [],
     "map": null,
@@ -244,12 +244,12 @@
   {
     "id": 16,
     "name": {
-      "en": "Zamoksva/Endor Teleportal",
-      "es": "Portal a Zamoksva/Endor",
-      "fr": "Téléportail Zamoksva/Chandor",
-      "ge": "?",
-      "it": "?",
-      "jp": ""
+      "EN": "Zamoksva/Endor Teleportal",
+      "ES": "Portal a Zamoksva/Endor",
+      "FR": "Téléportail Zamoksva/Chandor",
+      "DE": "?",
+      "IT": "?",
+      "JA": ""
     },
     "shops": [],
     "map": null,
@@ -260,12 +260,12 @@
   {
     "id": 17,
     "name": {
-      "en": "Endor",
-      "es": "Endor",
-      "fr": "Chandor",
-      "ge": "?",
-      "it": "?",
-      "jp": "エンドール"
+      "EN": "Endor",
+      "ES": "Endor",
+      "FR": "Chandor",
+      "DE": "?",
+      "IT": "?",
+      "JA": "エンドール"
     },
     "shops": [],
     "map": "img/maps/endor.png",
@@ -277,12 +277,12 @@
   {
     "id": 18,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Lakanaba",
-      "ge": "?",
-      "it": "?",
-      "jp": "レイクナバ"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Lakanaba",
+      "DE": "?",
+      "IT": "?",
+      "JA": "レイクナバ"
     },
     "shops": [],
     "map": "img/maps/?.png",
@@ -293,12 +293,12 @@
   {
     "id": 19,
     "name": {
-      "en": "Cave of Safekeeping",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "レイクナバ北の洞窟"
+      "EN": "Cave of Safekeeping",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "レイクナバ北の洞窟"
     },
     "shops": [],
     "map": null,
@@ -309,12 +309,12 @@
   {
     "id": 20,
     "name": {
-      "en": "Shinnock",
-      "es": "Alameda",
-      "fr": "Reginhart",
-      "ge": "?",
-      "it": "?",
-      "jp": "ドン・ガアデ"
+      "EN": "Shinnock",
+      "ES": "Alameda",
+      "FR": "Reginhart",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ドン・ガアデ"
     },
     "shops": [],
     "map": null,
@@ -325,12 +325,12 @@
   {
     "id": 21,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Ballimore",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ballimore",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": "img/maps/?.png",
@@ -341,12 +341,12 @@
   {
     "id": 22,
     "name": {
-      "en": "The Cistern Chapel",
-      "es": "?",
-      "fr": "Caverne de la statuette d'argent",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "The Cistern Chapel",
+      "ES": "?",
+      "FR": "Caverne de la statuette d'argent",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": null,
@@ -357,12 +357,12 @@
   {
     "id": 23,
     "name": {
-      "en": "Trans-Montane Tunnel",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Trans-Montane Tunnel",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": null,
@@ -374,12 +374,12 @@
   {
     "id": 24,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Teafortwo",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Teafortwo",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": "img/maps/?.png",
@@ -390,12 +390,12 @@
   {
     "id": 25,
     "name": {
-      "en": "?",
-      "es": "?",
-      "fr": "Deadend",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "?",
+      "ES": "?",
+      "FR": "Deadend",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": "img/maps/?.png",
@@ -406,12 +406,12 @@
   {
     "id": 26,
     "name": {
-      "en": "Cave West of Aubout du Monde",
-      "es": "?",
-      "fr": "Caverne à l'ouest de Deadend",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Cave West of Aubout du Monde",
+      "ES": "?",
+      "FR": "Caverne à l'ouest de Deadend",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": null,
@@ -422,12 +422,12 @@
   {
     "id": 27,
     "name": {
-      "en": "Palais de Léon",
-      "es": "?",
-      "fr": "Palais de Lord Lionel",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Palais de Léon",
+      "ES": "?",
+      "FR": "Palais de Lord Lionel",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": "img/maps/palais_de_leon.png",
@@ -438,12 +438,12 @@
   {
     "id": 28,
     "name": {
-      "en": "Havre Léon",
-      "es": "?",
-      "fr": "Port Lionel",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Havre Léon",
+      "ES": "?",
+      "FR": "Port Lionel",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": "img/maps/havre_leon.png",
@@ -454,12 +454,12 @@
   {
     "id": 29,
     "name": {
-      "en": "House of Prophecy",
-      "es": "?",
-      "fr": "La Prophétisserie",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "House of Prophecy",
+      "ES": "?",
+      "FR": "La Prophétisserie",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": null,
@@ -470,12 +470,12 @@
   {
     "id": 30,
     "name": {
-      "en": "Mamon",
-      "es": "?",
-      "fr": "Alpion",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Mamon",
+      "ES": "?",
+      "FR": "Alpion",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": "img/maps/mamon.png",
@@ -486,12 +486,12 @@
   {
     "id": 31,
     "name": {
-      "en": "Mamon mine",
-      "es": "?",
-      "fr": "Mine d'Alpion",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Mamon mine",
+      "ES": "?",
+      "FR": "Mine d'Alpion",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": null,
@@ -503,12 +503,12 @@
   {
     "id": 32,
     "name": {
-      "en": "Hidden Valley",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Hidden Valley",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": null,
@@ -519,12 +519,12 @@
   {
     "id": 33,
     "name": {
-      "en": "Woodcutter's cabin",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Woodcutter's cabin",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": null,
@@ -535,12 +535,12 @@
   {
     "id": 34,
     "name": {
-      "en": "Casabranca",
-      "es": "?",
-      "fr": "Casabranca",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Casabranca",
+      "ES": "?",
+      "FR": "Casabranca",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": "img/maps/casabranca.png",
@@ -551,12 +551,12 @@
   {
     "id": 35,
     "name": {
-      "en": "Last Chance Saloon",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "砂漠の宿屋"
+      "EN": "Last Chance Saloon",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "砂漠の宿屋"
     },
     "shops": [],
     "map": null,
@@ -567,12 +567,12 @@
   {
     "id": 36,
     "name": {
-      "en": "Con Cave",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "裏切りの洞窟"
+      "EN": "Con Cave",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "裏切りの洞窟"
     },
     "shops": [],
     "map": null,
@@ -583,12 +583,12 @@
   {
     "id": 37,
     "name": {
-      "en": "Bath",
-      "es": "Baños del Secano",
-      "fr": "Bourg-les-Bains",
-      "ge": "Bad Jungbrunn",
-      "it": "Bonacqua",
-      "jp": "アネイル"
+      "EN": "Bath",
+      "ES": "Baños del Secano",
+      "FR": "Bourg-les-Bains",
+      "DE": "Bad Jungbrunn",
+      "IT": "Bonacqua",
+      "JA": "アネイル"
     },
     "shops": [],
     "map": "img/maps/bath.png",
@@ -599,12 +599,12 @@
   {
     "id": 38,
     "name": {
-      "en": "Porthtrunnel",
-      "es": "Puertoumbrío",
-      "fr": "Port-Carène",
-      "ge": "Guckshaven",
-      "it": "Cala Cantiera",
-      "jp": "コナンベリー"
+      "EN": "Porthtrunnel",
+      "ES": "Puertoumbrío",
+      "FR": "Port-Carène",
+      "DE": "Guckshaven",
+      "IT": "Cala Cantiera",
+      "JA": "コナンベリー"
     },
     "shops": [],
     "map": "img/maps/porthtrunnel.png",
@@ -615,12 +615,12 @@
   {
     "id": 39,
     "name": {
-      "en": "Pharos Beacon",
-      "es": "Faro Pharos",
-      "fr": "Balise de Pharos",
-      "ge": "Turm von Pharos",
-      "it": "Faro di Pharos",
-      "jp": "?"
+      "EN": "Pharos Beacon",
+      "ES": "Faro Pharos",
+      "FR": "Balise de Pharos",
+      "DE": "Turm von Pharos",
+      "IT": "Faro di Pharos",
+      "JA": "?"
     },
     "shops": [],
     "map": null,
@@ -631,12 +631,12 @@
   {
     "id": 38,
     "name": {
-      "en": "Mintos",
-      "es": "Mintos",
-      "fr": "Ringys",
-      "ge": "Mintos",
-      "it": "Mintos",
-      "jp": "ミントス"
+      "EN": "Mintos",
+      "ES": "Mintos",
+      "FR": "Ringys",
+      "DE": "Mintos",
+      "IT": "Mintos",
+      "JA": "ミントス"
     },
     "shops": [],
     "map": "img/maps/mintos.png",
@@ -647,12 +647,12 @@
   {
     "id": 39,
     "name": {
-      "en": "Mintos Shrine",
-      "es": "?",
-      "fr": "Sanctuaire de Ringys",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Mintos Shrine",
+      "ES": "?",
+      "FR": "Sanctuaire de Ringys",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": null,
@@ -663,12 +663,12 @@
   {
     "id": 40,
     "name": {
-      "en": "Parthenia",
-      "es": "?",
-      "fr": "Pathénia",
-      "ge": "?",
-      "it": "?",
-      "jp": "ソレッタ"
+      "EN": "Parthenia",
+      "ES": "?",
+      "FR": "Pathénia",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ソレッタ"
     },
     "shops": [],
     "map": null,
@@ -679,12 +679,12 @@
   {
     "id": 41,
     "name": {
-      "en": "Imperial Pantry of Parthenia",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "パデキアの洞窟"
+      "EN": "Imperial Pantry of Parthenia",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "パデキアの洞窟"
     },
     "shops": [],
     "map": null,
@@ -695,12 +695,12 @@
   {
     "id": 42,
     "name": {
-      "en": "Dunplundrin",
-      "es": "Dunplundrin",
-      "fr": "Pillasac",
-      "ge": "Landrattingen",
-      "it": "Furpredon",
-      "jp": "海辺の村"
+      "EN": "Dunplundrin",
+      "ES": "Dunplundrin",
+      "FR": "Pillasac",
+      "DE": "Landrattingen",
+      "IT": "Furpredon",
+      "JA": "海辺の村"
     },
     "shops": [],
     "map": null,
@@ -711,12 +711,12 @@
   {
     "id": 43,
     "name": {
-      "en": "Canalot",
-      "es": "Canalot",
-      "fr": "Canalot",
-      "ge": "Kanalot",
-      "it": "Canalot",
-      "jp": "スタンシアラ"
+      "EN": "Canalot",
+      "ES": "Canalot",
+      "FR": "Canalot",
+      "DE": "Kanalot",
+      "IT": "Canalot",
+      "JA": "スタンシアラ"
     },
     "shops": [],
     "map": null,
@@ -727,12 +727,12 @@
   {
     "id": 44,
     "name": {
-      "en": "Femiscyra",
-      "es": "Feministia",
-      "fr": "Fémiscyra",
-      "ge": "Femiscyra",
-      "it": "Femiscyra",
-      "jp": "ガーデンブルグ"
+      "EN": "Femiscyra",
+      "ES": "Feministia",
+      "FR": "Fémiscyra",
+      "DE": "Femiscyra",
+      "IT": "Femiscyra",
+      "JA": "ガーデンブルグ"
     },
     "shops": [],
     "map": null,
@@ -743,12 +743,12 @@
   {
     "id": 45,
     "name": {
-      "en": "Cove's Cove",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "ガーデンブルグ南東の洞窟"
+      "EN": "Cove's Cove",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ガーデンブルグ南東の洞窟"
     },
     "shops": [],
     "map": null,
@@ -759,12 +759,12 @@
   {
     "id": 46,
     "name": {
-      "en": "Rosehill",
-      "es": "Rosavilla",
-      "fr": "Rosecolline",
-      "ge": "Rosenbühl",
-      "it": "Col Rosato",
-      "jp": "ロザリーヒル"
+      "EN": "Rosehill",
+      "ES": "Rosavilla",
+      "FR": "Rosecolline",
+      "DE": "Rosenbühl",
+      "IT": "Col Rosato",
+      "JA": "ロザリーヒル"
     },
     "shops": [],
     "map": null,
@@ -775,12 +775,12 @@
   {
     "id": 47,
     "name": {
-      "en": "Riverton",
-      "es": "Riverton",
-      "fr": "Estuaria",
-      "ge": "Oldenförde",
-      "it": "Fiumazza",
-      "jp": "リバーサイド"
+      "EN": "Riverton",
+      "ES": "Riverton",
+      "FR": "Estuaria",
+      "DE": "Oldenförde",
+      "IT": "Fiumazza",
+      "JA": "リバーサイド"
     },
     "shops": [],
     "map": null,
@@ -791,12 +791,12 @@
   {
     "id": 48,
     "name": {
-      "en": "The Colossus",
-      "es": "?",
-      "fr": "Le Colosse",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "The Colossus",
+      "ES": "?",
+      "FR": "Le Colosse",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": null,
@@ -807,12 +807,12 @@
   {
     "id": 49,
     "name": {
-      "en": "Diabolic Hall",
-      "es": "Conciliábulo Demoníaco",
-      "fr": "Palais du Démon",
-      "ge": "Teufelsheim",
-      "it": "Antro del Male",
-      "jp": "デスパレス"
+      "EN": "Diabolic Hall",
+      "ES": "Conciliábulo Demoníaco",
+      "FR": "Palais du Démon",
+      "DE": "Teufelsheim",
+      "IT": "Antro del Male",
+      "JA": "デスパレス"
     },
     "shops": [],
     "map": null,
@@ -823,12 +823,12 @@
   {
     "id": 50,
     "name": {
-      "en": "Estark's Crypt",
-      "es": "?",
-      "fr": "Crypte d'Estark",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Estark's Crypt",
+      "ES": "?",
+      "FR": "Crypte d'Estark",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": null,
@@ -839,12 +839,12 @@
   {
     "id": 51,
     "name": {
-      "en": "El Forado",
-      "es": "El Forrado",
-      "fr": "El Forado",
-      "ge": "El Forado",
-      "it": "El Forado",
-      "jp": "エルフの里"
+      "EN": "El Forado",
+      "ES": "El Forrado",
+      "FR": "El Forado",
+      "DE": "El Forado",
+      "IT": "El Forado",
+      "JA": "エルフの里"
     },
     "shops": [],
     "map": null,
@@ -855,12 +855,12 @@
   {
     "id": 52,
     "name": {
-      "en": "The Azimut",
-      "es": "?",
-      "fr": "L'Azimut",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "The Azimut",
+      "ES": "?",
+      "FR": "L'Azimut",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": null,
@@ -871,12 +871,12 @@
   {
     "id": 53,
     "name": {
-      "en": "",
-      "es": "?",
-      "fr": "Tour du Zenith",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "",
+      "ES": "?",
+      "FR": "Tour du Zenith",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "shops": [],
     "map": null,

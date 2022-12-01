@@ -2,24 +2,24 @@
   {
     "id": 1,
     "name": {
-      "en": "Leather hat",
-      "es": "?",
-      "fr": "Casque de cuir",
-      "ge": "?",
-      "it": "?",
-      "jp": "かわのぼうし"
+      "EN": "Leather hat",
+      "ES": "?",
+      "FR": "Casque de cuir",
+      "DE": "?",
+      "IT": "?",
+      "JA": "かわのぼうし"
     },
     "sprite": "helmets_sprites/leather_hat.png",
     "artwork": "helmets_artworks/leather_hat.png",
     "stats": { "defense": 2 },
     "price": { "buy": 65, "sell": 48, "token": null, "minimedal": null },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -28,24 +28,24 @@
   {
     "id": 2,
     "name": {
-      "en": "Hairband",
-      "es": "?",
-      "fr": "Diadème",
-      "ge": "?",
-      "it": "?",
-      "jp": "ヘアバンド"
+      "EN": "Hairband",
+      "ES": "?",
+      "FR": "Diadème",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ヘアバンド"
     },
     "sprite": "helmets_sprites/hairband.png",
     "artwork": "helmets_artworks/hairband.png",
     "stats": { "defense": 5 },
     "price": { "buy": 110, "sell": 82, "token": null, "minimedal": null },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -54,24 +54,24 @@
   {
     "id": 3,
     "name": {
-      "en": "Hardwood headwear",
-      "es": "?",
-      "fr": "Casque de bois",
-      "ge": "?",
-      "it": "?",
-      "jp": "きのぼうし"
+      "EN": "Hardwood headwear",
+      "ES": "?",
+      "FR": "Casque de bois",
+      "DE": "?",
+      "IT": "?",
+      "JA": "きのぼうし"
     },
     "sprite": "helmets_sprites/hardwood_headwear.png",
     "artwork": "helmets_artworks/hardwood_headwear.png",
     "stats": { "defense": 6 },
     "price": { "buy": 120, "sell": 90, "token": null, "minimedal": null },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -80,24 +80,24 @@
   {
     "id": 4,
     "name": {
-      "en": "Feathered cap",
-      "es": "?",
-      "fr": "Chapeau à plumes",
-      "ge": "?",
-      "it": "?",
-      "jp": "はねぼうし"
+      "EN": "Feathered cap",
+      "ES": "?",
+      "FR": "Chapeau à plumes",
+      "DE": "?",
+      "IT": "?",
+      "JA": "はねぼうし"
     },
     "sprite": "helmets_sprites/feathered_cap.png",
     "artwork": "helmets_artworks/feathered_cap.png",
     "stats": { "defense": 8 },
     "price": { "buy": 280, "sell": 210, "token": null, "minimedal": null },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -106,24 +106,24 @@
   {
     "id": 5,
     "name": {
-      "en": "Golden tiara",
-      "es": "?",
-      "fr": "Tiare d'or",
-      "ge": "?",
-      "it": "?",
-      "jp": "きんのかみかざり"
+      "EN": "Golden tiara",
+      "ES": "?",
+      "FR": "Tiare d'or",
+      "DE": "?",
+      "IT": "?",
+      "JA": "きんのかみかざり"
     },
     "sprite": "helmets_sprites/?golden_tiara.png",
     "artwork": "helmets_artworks/?golden_tiara.png",
     "stats": { "defense": 12 },
     "price": { "buy": 540, "sell": 405, "token": null, "minimedal": null },
     "description": {
-      "en": "This precious tiara protects against Fuddle",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "This precious tiara protects against Fuddle",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -132,24 +132,24 @@
   {
     "id": 6,
     "name": {
-      "en": "Happy hat",
-      "es": "?",
-      "fr": "Chapeau de félicité",
-      "ge": "?",
-      "it": "?",
-      "jp": "しあわせのぼうし"
+      "EN": "Happy hat",
+      "ES": "?",
+      "FR": "Chapeau de félicité",
+      "DE": "?",
+      "IT": "?",
+      "JA": "しあわせのぼうし"
     },
     "sprite": "helmets_sprites/happy_hat.png",
     "artwork": "helmets_artworks/happy_hat.png",
     "stats": { "defense": 15 },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": 43 },
     "description": {
-      "en": "Recovers some of the wearer's MP with each and every step.",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Recovers some of the wearer's MP with each and every step.",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -158,24 +158,24 @@
   {
     "id": 7,
     "name": {
-      "en": "Iron helmet",
-      "es": "?",
-      "fr": "Heaume de fer",
-      "ge": "?",
-      "it": "?",
-      "jp": "てつかぶと"
+      "EN": "Iron helmet",
+      "ES": "?",
+      "FR": "Heaume de fer",
+      "DE": "?",
+      "IT": "?",
+      "JA": "てつかぶと"
     },
     "sprite": "helmets_sprites/iron_helmet.png",
     "artwork": "helmets_artworks/iron_helmet.png",
     "stats": { "defense": 16 },
     "price": { "buy": 1100, "sell": 825, "token": null, "minimedal": null },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -184,24 +184,24 @@
   {
     "id": 8,
     "name": {
-      "en": "Iron mask",
-      "es": "?",
-      "fr": "Masque de fer",
-      "ge": "?",
-      "it": "?",
-      "jp": "てっかめん"
+      "EN": "Iron mask",
+      "ES": "?",
+      "FR": "Masque de fer",
+      "DE": "?",
+      "IT": "?",
+      "JA": "てっかめん"
     },
     "sprite": "helmets_sprites/?iron_mask.png",
     "artwork": "helmets_artworks/?iron_mask.png",
     "stats": { "defense": 25 },
     "price": { "buy": 3500, "sell": 2625, "token": null, "minimedal": null },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -210,24 +210,24 @@
   {
     "id": 9,
     "name": {
-      "en": "Zenithian Helm",
-      "es": "?",
-      "fr": "Casque zénithien",
-      "ge": "?",
-      "it": "?",
-      "jp": "てんくうのかぶと"
+      "EN": "Zenithian Helm",
+      "ES": "?",
+      "FR": "Casque zénithien",
+      "DE": "?",
+      "IT": "?",
+      "JA": "てんくうのかぶと"
     },
     "sprite": "helmets_sprites/zenithian_helm.png",
     "artwork": "helmets_artworks/zenithian_helm.png",
     "stats": { "defense": 30 },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "en": "Doesn't appear to have any special effects.",
-      "es": "?",
-      "fr": "Ne semble pas avoir d'effets particuliers.",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Doesn't appear to have any special effects.",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -236,24 +236,24 @@
   {
     "id": 10,
     "name": {
-      "en": "Pandemonic helm",
-      "es": "?",
-      "fr": "Casque des enfers",
-      "ge": "?",
-      "it": "?",
-      "jp": "まかいのかぶと"
+      "EN": "Pandemonic helm",
+      "ES": "?",
+      "FR": "Casque des enfers",
+      "DE": "?",
+      "IT": "?",
+      "JA": "まかいのかぶと"
     },
     "sprite": "helmets_sprites/pandemonic_helm.png",
     "artwork": "helmets_artworks/pandemonic_helm.png",
     "stats": { "defense": 40 },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "en": "This hellish helm protects against Snooze, Whack and paralysis.",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "This hellish helm protects against Snooze, Whack and paralysis.",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -262,24 +262,24 @@
   {
     "id": 11,
     "name": {
-      "en": "Liquid metal helm",
-      "es": "?",
-      "fr": "Casque de mercure",
-      "ge": "?",
-      "it": "?",
-      "jp": "はぐれメタルヘルム"
+      "EN": "Liquid metal helm",
+      "ES": "?",
+      "FR": "Casque de mercure",
+      "DE": "?",
+      "IT": "?",
+      "JA": "はぐれメタルヘルム"
     },
     "sprite": "helmets_sprites/liquid_metal_helm.png",
     "artwork": "helmets_artworks/liquid_metal_helm.png",
     "stats": { "defense": 50 },
     "price": { "buy": null, "sell": null, "token": 100000, "minimedal": null },
     "description": {
-      "en": "This helm protects against Snooze, Fuddle and paralysis.",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "This helm protects against Snooze, Fuddle and paralysis.",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -288,24 +288,24 @@
   {
     "id": 12,
     "name": {
-      "en": "Death mask",
-      "es": "?",
-      "fr": "Heaume d'Hadès",
-      "ge": "?",
-      "it": "?",
-      "jp": "じゃしんのめん"
+      "EN": "Death mask",
+      "ES": "?",
+      "FR": "Heaume d'Hadès",
+      "DE": "?",
+      "IT": "?",
+      "JA": "じゃしんのめん"
     },
     "sprite": "helmets_sprites/death_mask.png",
     "artwork": "helmets_artworks/death_mask.png",
     "stats": { "defense": 200 },
     "price": { "buy": null, "sell": 6, "token": null, "minimedal": null },
     "description": {
-      "en": "Watch out! There's more on this mask than meets the eye.",
-      "es": "?",
-      "fr": "?",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Watch out! There's more on this mask than meets the eye.",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],

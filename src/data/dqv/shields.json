@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Couvercle de tonneau",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 2,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 40, "sell": 20, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 2,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier de cuir",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 4,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 70, "sell": 35, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 3,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier d'écailles",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 7,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 180, "sell": 90, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 4,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ombrelle florale",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 8,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 1000, "sell": 500, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 5,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier de bronze",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 11,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 370, "sell": 185, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ne semble pas avoir d'effets particuliers.",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 6,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier de fer",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 16,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 720, "sell": 360, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ce bouclier réduit les dégâts des attaques de glace ou de feu",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 7,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier magique",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 22,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 3400, "sell": 1700, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier chamanique qui réduit une partie des dégâts infligés par la magie ou le feu",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 8,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier du dragon",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 30,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 7100, "sell": 3550, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ce bouclier réduit les dégâts des attaques de glace ou de feu",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 9,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier du vent",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 35,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 4700, "sell": 2350, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Peut aussi être utilisé comme objet au combat",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 10,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier de l'ombre",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 37,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": null, "sell": 4900, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Peut aussi être utilisé comme objet au combat",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 11,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier de feu",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 40,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 17000, "sell": 8500, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Cet objet incendiaire peut faire obstacle à la magie et aux attaques de glace",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 12,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier de puissance",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 45,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 25000, "sell": 12500, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Peut aussi être utilisé comme objet au combat",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 13,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier d'ogre",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 48,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": null, "sell": 9900, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ce bouclier réduit les dégâts des attaques de glace ou de feu",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 14,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier d'argent",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 55,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 33000, "sell": 16500, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier rutitant qui réduit une partie des dégâts infligés par la magie ou le feu",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 15,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier du désastre",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": null,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": 4200, "sell": 2100, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Attention ! Ce bouclier cache bien son pouvoir !",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 16,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier royal",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 70,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": null, "sell": 12500, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier robuste qui reTourne tous les sort à l'envoyeur",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 17,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier zénithien",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 60,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Peut aussi être utilisé comme objet au combat",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  },
+  {
+    "id": 18,
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Bouclier étincelant",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "stats": {
+      "attack": null,
+      "defense": 65,
+      "agility": "?",
+      "wisdom": "?",
+      "luck": "?"
+    },
+    "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "Ce bouclier réduit les dégâts des attaques de glace ou de feu",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "found_at": [],
+    "buyable_at": [],
+    "slug": "_slug"
+  }
+]

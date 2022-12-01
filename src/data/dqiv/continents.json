@@ -2,12 +2,12 @@
   {
     "id": 1,
     "name": {
-      "en": "Northern continent",
-      "es": "Continente norte",
-      "fr": "Continent nord",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Northern continent",
+      "ES": "Continente norte",
+      "FR": "Continent nord",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "location": "north",
     "slug": "northern_continent"
@@ -15,12 +15,12 @@
   {
     "id": 2,
     "name": {
-      "en": "Eastern continent",
-      "es": "Continente oriental",
-      "fr": "Continent est",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Eastern continent",
+      "ES": "Continente oriental",
+      "FR": "Continent est",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "location": "east",
     "slug": "eastern_continent"
@@ -28,12 +28,12 @@
   {
     "id": 3,
     "name": {
-      "en": "Siroc",
-      "es": "Siroco",
-      "fr": "Sirocco",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Siroc",
+      "ES": "Siroco",
+      "FR": "Sirocco",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "location": "south-east",
     "slug": "siroc"
@@ -41,12 +41,12 @@
   {
     "id": 4,
     "name": {
-      "en": "Ostro",
-      "es": "Ostro",
-      "fr": "Ostro",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Ostro",
+      "ES": "Ostro",
+      "FR": "Ostro",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "location": "south",
     "slug": "ostro"
@@ -54,12 +54,12 @@
   {
     "id": 5,
     "name": {
-      "en": "Libeccio",
-      "es": "Leveche",
-      "fr": "Libeccio",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Libeccio",
+      "ES": "Leveche",
+      "FR": "Libeccio",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "location": "south-west",
     "slug": "libeccio"
@@ -67,12 +67,12 @@
   {
     "id": 6,
     "name": {
-      "en": "Western continent",
-      "es": "Continente occidental",
-      "fr": "Continent ouest",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Western continent",
+      "ES": "Continente occidental",
+      "FR": "Continent ouest",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "location": "west",
     "slug": "western_continent"
@@ -80,12 +80,12 @@
   {
     "id": 7,
     "name": {
-      "en": "Maestral",
-      "es": "Mistral",
-      "fr": "Mistral",
-      "ge": "?",
-      "it": "?",
-      "jp": "?"
+      "EN": "Maestral",
+      "ES": "Mistral",
+      "FR": "Mistral",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "location": "north-west",
     "slug": "maestral"
@@ -93,12 +93,12 @@
   {
     "id": 8,
     "name": {
-      "en": "Central Island",
-      "es": "Isla Central",
-      "fr": "Île Centrale",
-      "ge": "?",
-      "it": "?",
-      "jp": "ゴットサイド"
+      "EN": "Central Island",
+      "ES": "Isla Central",
+      "FR": "Île Centrale",
+      "DE": "?",
+      "IT": "?",
+      "JA": "ゴットサイド"
     },
     "location": "center",
     "slug": "central_island"
@@ -106,12 +106,12 @@
   {
     "id": 9,
     "name": {
-      "en": "Nadiria",
-      "es": "Nadiria",
-      "fr": "Nadiria",
-      "ge": "?",
-      "it": "?",
-      "jp": "闇の世界"
+      "EN": "Nadiria",
+      "ES": "Nadiria",
+      "FR": "Nadiria",
+      "DE": "?",
+      "IT": "?",
+      "JA": "闇の世界"
     },
     "location": "otherworld",
     "slug": "nadiria"
