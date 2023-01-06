@@ -4,7 +4,7 @@
 <h2>Requirements</h2>
 <ul>
   <li><a href="https://desmume.org/">DeSmuME</a> emulator</li>
-  <li>Dragon Quest IV European DS ROM obtained legally</li>
+  <li>Dragon Quest IV European DS ROM obtained legally 🤡</li>
 </ul>
 
 <h2>Installing</h2>
@@ -20,4 +20,4 @@
 <p>Save files created by :</p>
 <ul>
   <li>NaorimSenchai</li>
- </ul>
+</ul>
