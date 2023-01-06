@@ -1,5 +1,7 @@
 const express = require("express");
 const app = express();
+const fs = require("fs");
+const path = require("path");
 require("dotenv").config();
 
 app.use(express.json());
@@ -24,6 +26,16 @@ app.use(express.json());
 
 const dqivRoute = require("./routes/dqiv.js");
 const dqvRoute = require("./routes/dqv.js");
+
+fs.readdir('./', (err, files) => {
+  files.forEach(file => {
+    console.log(file, typeof file);
+    console.log(fs.lstatSync(file));
+    if (file || fs.lstatSync(file).isDirectory()) {
+      console.log(path.extname());
+    }
+})});
+
 app.use("/dqiv", dqivRoute);
 app.use("/dqv", dqvRoute);
 
