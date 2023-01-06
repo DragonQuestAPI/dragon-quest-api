@@ -8,6 +8,7 @@
 <ul>
   <li><b>Visual Studio Code</b> or any other IDE.</li>
   <li><b>Node.JS v.16.18</b> or greater.</li>
+  <li><b>Prettier</b> extension</li>
   <li>Git (optional).</li>
   <li>Postman (optional).</li>
   <li>Material Icon Theme extension for VSCode if you like fancy icons (optional). 😊</li>
