@@ -1,4 +1,4 @@
-<h1>Dragon Quest API (⚠ Work in progress)</h1>
+<h1>Dragon Quest API (Work in progress)</h1>
 
 <p>An API project implying several episodes of the Dragon Quest franchise.</p>
 <p>English, Spanish, French, German, Italian and Japanese languages are supported.</p>
