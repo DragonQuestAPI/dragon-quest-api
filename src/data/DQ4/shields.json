@@ -9,8 +9,8 @@
       "IT": "?",
       "JA": "かわのたて"
     },
-    "sprite": "shields_sprites/?.png",
-    "artwork": "shields_artworks/?.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_artworks/?.png",
     "stats": { "defense": 4 },
     "price": { "buy": 90, "sell": 67, "token": "-", "minimedal": "-" },
     "description": {
@@ -35,8 +35,8 @@
       "IT": "?",
       "JA": "うろこのたて"
     },
-    "sprite": "shields_sprites/?.png",
-    "artwork": "shields_artworks/?.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_artworks/?.png",
     "stats": { "defense": 7 },
     "price": { "buy": 180, "sell": 135, "token": "-", "minimedal": "-" },
     "description": {
@@ -61,8 +61,8 @@
       "IT": "?",
       "JA": "てつのたて"
     },
-    "sprite": "shields_sprites/?.png",
-    "artwork": "shields_artworks/?.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_artworks/?.png",
     "stats": { "defense": 12 },
     "price": { "buy": 650, "sell": 487, "token": "-", "minimedal": "-" },
     "description": {
@@ -87,8 +87,8 @@
       "IT": "?",
       "JA": "ドラゴンシールド"
     },
-    "sprite": "shields_sprites/?.png",
-    "artwork": "shields_artworks/?.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_artworks/?.png",
     "stats": { "defense": 30 },
     "price": { "buy": 7100, "sell": 5325, "token": "-", "minimedal": "-" },
     "description": {
@@ -113,8 +113,8 @@
       "IT": "?",
       "JA": "ちからのたて"
     },
-    "sprite": "shields_sprites/?.png",
-    "artwork": "shields_artworks/?.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_artworks/?.png",
     "stats": { "defense": 40 },
     "price": { "buy": 13000, "sell": 9750, "token": "-", "minimedal": "-" },
     "description": {
@@ -139,8 +139,8 @@
       "IT": "?",
       "JA": "ミラーシールド"
     },
-    "sprite": "shields_sprites/?.png",
-    "artwork": "shields_artworks/?.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_artworks/?.png",
     "stats": { "defense": 45 },
     "price": { "buy": "-", "sell": 6750, "token": "-", "minimedal": "-" },
     "description": {
@@ -165,8 +165,8 @@
       "IT": "?",
       "JA": "ふうじんのたて"
     },
-    "sprite": "shields_sprites/?.png",
-    "artwork": "shields_artworks/?.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_artworks/?.png",
     "stats": { "defense": 50 },
     "price": { "buy": 20000, "sell": 15000, "token": "-", "minimedal": "-" },
     "description": {
@@ -191,8 +191,8 @@
       "IT": "?",
       "JA": "てんくうのたて"
     },
-    "sprite": "shields_sprites/?.png",
-    "artwork": "shields_artworks/?.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_artworks/?.png",
     "stats": { "defense": 55 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
     "description": {
@@ -217,8 +217,8 @@
       "IT": "?",
       "JA": "まかいのたて"
     },
-    "sprite": "shields_sprites/?.png",
-    "artwork": "shields_artworks/?.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_artworks/?.png",
     "stats": { "defense": 55 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
     "description": {
@@ -243,8 +243,8 @@
       "IT": "?",
       "JA": "はぐれメタルのたて"
     },
-    "sprite": "shields_sprites/?.png",
-    "artwork": "shields_artworks/?.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_artworks/?.png",
     "stats": { "defense": 60 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 52 },
     "description": {

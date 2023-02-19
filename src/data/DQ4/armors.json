@@ -9,8 +9,8 @@
       "IT": "?",
       "JA": "ぬののふく"
     },
-    "sprite": "armors_sprites/plain_clothes.png",
-    "artwork": "armors_artworks/plain_clothes.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/plain_clothes.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/plain_clothes.png",
     "stats": {
       "defense": 4
     },
@@ -42,8 +42,8 @@
       "IT": "?",
       "JA": "たびびとのふく"
     },
-    "sprite": "armors_sprites/wayfarers_clothes.png",
-    "artwork": "armors_artworks/wayfarers_clothes.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/wayfarers_clothes.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/wayfarers_clothes.png",
     "stats": {
       "defense": 7
     },
@@ -94,8 +94,8 @@
       "IT": "?",
       "JA": "?"
     },
-    "sprite": "armors_sprites/boxer_shorts.png",
-    "artwork": "armors_artworks/boxer_shorts.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/boxer_shorts.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/boxer_shorts.png",
     "slug": "boxer_shorts"
   },
   {
@@ -108,8 +108,8 @@
       "IT": "?",
       "JA": "おどりこのふく"
     },
-    "sprite": "armors_sprites/dancers_costume.png",
-    "artwork": "armors_artworks/dancers_costume.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/dancers_costume.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/dancers_costume.png",
     "stats": {
       "defense": 8
     },
@@ -141,8 +141,8 @@
       "IT": "?",
       "JA": "きぬのローブ"
     },
-    "sprite": "armors_sprites/silk_robe.png",
-    "artwork": "armors_artworks/silk_robe.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/silk_robe.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/silk_robe.png",
     "stats": {
       "defense": 10
     },
@@ -174,8 +174,8 @@
       "IT": "?",
       "JA": "かわのよろい"
     },
-    "sprite": "armors_sprites/leather_armour.png",
-    "artwork": "armors_artworks/leather_armour.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/leather_armour.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/leather_armour.png",
     "stats": {
       "defense": 12
     },
@@ -207,8 +207,8 @@
       "IT": "?",
       "JA": "かわのドレス"
     },
-    "sprite": "armors_sprites/leather_dress.png",
-    "artwork": "armors_artworks/leather_dress.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/leather_dress.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/leather_dress.png",
     "stats": {
       "defense": 14
     },
@@ -240,8 +240,8 @@
       "IT": "?",
       "JA": "くさりかたびら"
     },
-    "sprite": "armors_sprites/chain_mail.png",
-    "artwork": "armors_artworks/chain_mail.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/chain_mail.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/chain_mail.png",
     "stats": {
       "defense": 18
     },
@@ -292,8 +292,8 @@
       "IT": "?",
       "JA": "?"
     },
-    "sprite": "armors_sprites/fur_coat.png",
-    "artwork": "armors_artworks/fur_coat.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/fur_coat.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/fur_coat.png",
     "slug": "fur_coat"
   },
   {
@@ -306,8 +306,8 @@
       "IT": "?",
       "JA": "せいどうのよろい"
     },
-    "sprite": "armors_sprites/bronze_armour.png",
-    "artwork": "armors_artworks/bronze_armour.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/bronze_armour.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/bronze_armour.png",
     "stats": {
       "defense": 25
     },
@@ -339,8 +339,8 @@
       "IT": "?",
       "JA": "みかわしのふく"
     },
-    "sprite": "armors_sprites/cloack_of_evasion.png",
-    "artwork": "armors_artworks/cloack_of_evasion.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/cloack_of_evasion.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/cloack_of_evasion.png",
     "stats": {
       "defense": 28
     },
@@ -372,8 +372,8 @@
       "IT": "?",
       "JA": "てつのよろい"
     },
-    "sprite": "armors_sprites/iron_armour.png",
-    "artwork": "armors_artworks/iron_armour.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/iron_armour.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/iron_armour.png",
     "stats": {
       "defense": 30
     },
@@ -405,8 +405,8 @@
       "IT": "?",
       "JA": "てつのまえかけ"
     },
-    "sprite": "armors_sprites/iron_apron.png",
-    "artwork": "armors_artworks/iron_apron.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/iron_apron.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/iron_apron.png",
     "stats": {
       "defense": 32
     },
@@ -438,8 +438,8 @@
       "IT": "?",
       "JA": "やすらぎのローブ"
     },
-    "sprite": "armors_sprites/robe_of_serenity.png",
-    "artwork": "armors_artworks/robe_of_serenity.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/robe_of_serenity.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/robe_of_serenity.png",
     "stats": {
       "defense": 33
     },
@@ -471,8 +471,8 @@
       "IT": "?",
       "JA": "はがねのよろい"
     },
-    "sprite": "armors_sprites/full_plate_armour.png",
-    "artwork": "armors_artworks/full_plate_armour.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/full_plate_armour.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/full_plate_armour.png",
     "stats": {
       "defense": 35
     },
@@ -504,8 +504,8 @@
       "IT": "?",
       "JA": "まほうのほうい"
     },
-    "sprite": "armors_sprites/magic_vestment.png",
-    "artwork": "armors_artworks/magic_vestment.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/magic_vestment.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/magic_vestment.png",
     "stats": {
       "defense": 38
     },
@@ -537,8 +537,8 @@
       "IT": "?",
       "JA": "ピンクのレオタード"
     },
-    "sprite": "armors_sprites/pink_leotard.png",
-    "artwork": "armors_artworks/pink_leotard.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/pink_leotard.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/pink_leotard.png",
     "stats": {
       "defense": 38
     },
@@ -570,8 +570,8 @@
       "IT": "?",
       "JA": "スパンコールドレス"
     },
-    "sprite": "armors_sprites/spangled_dress.png",
-    "artwork": "armors_artworks/spangled_dress.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/spangled_dress.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/spangled_dress.png",
     "stats": {
       "defense": 40
     },
@@ -603,8 +603,8 @@
       "IT": "?",
       "JA": "みずのはごろも"
     },
-    "sprite": "armors_sprites/flowing_dress.png",
-    "artwork": "armors_artworks/flowing_dress.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/flowing_dress.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/flowing_dress.png",
     "stats": {
       "defense": 43
     },
@@ -636,8 +636,8 @@
       "IT": "?",
       "JA": "ドラゴンメイル"
     },
-    "sprite": "armors_sprites/dragon_mail.png",
-    "artwork": "armors_artworks/dragon_mail.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/dragon_mail.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/dragon_mail.png",
     "stats": {
       "defense": 45
     },
@@ -669,8 +669,8 @@
       "IT": "?",
       "JA": "マジカルスカート"
     },
-    "sprite": "armors_sprites/magical_skirt.png",
-    "artwork": "armors_artworks/magical_skirt.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/magical_skirt.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/magical_skirt.png",
     "stats": {
       "defense": 45
     },
@@ -702,8 +702,8 @@
       "IT": "?",
       "JA": "ふしぎなボレロ"
     },
-    "sprite": "armors_sprites/glombolero.png",
-    "artwork": "armors_artworks/glombolero.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/glombolero.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/glombolero.png",
     "stats": {
       "defense": 47
     },
@@ -735,8 +735,8 @@
       "IT": "?",
       "JA": "ゾンビメイル"
     },
-    "sprite": "armors_sprites/zombie_mail.png",
-    "artwork": "armors_artworks/zombie_mail.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/zombie_mail.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/zombie_mail.png",
     "stats": {
       "defense": 49
     },
@@ -768,8 +768,8 @@
       "IT": "?",
       "JA": "やいばのよろい"
     },
-    "sprite": "armors_sprites/spiked_armour.png",
-    "artwork": "armors_artworks/spiked_armour.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/spiked_armour.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/spiked_armour.png",
     "stats": {
       "defense": 50
     },
@@ -801,8 +801,8 @@
       "IT": "?",
       "JA": "ひかりのドレス"
     },
-    "sprite": "armors_sprites/shimmering_dress.png",
-    "artwork": "armors_artworks/shimmering_dress.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/shimmering_dress.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/shimmering_dress.png",
     "stats": {
       "defense": 50
     },
@@ -834,8 +834,8 @@
       "IT": "?",
       "JA": "まじんのよろい"
     },
-    "sprite": "armors_sprites/helas_armour.png",
-    "artwork": "armors_artworks/helas_armour.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/helas_armour.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/helas_armour.png",
     "stats": {
       "defense": 60
     },
@@ -867,8 +867,8 @@
       "IT": "?",
       "JA": "てんしのレオタード"
     },
-    "sprite": "armors_sprites/angel_leotard.png",
-    "artwork": "armors_artworks/angel_leotard.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/angel_leotard.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/angel_leotard.png",
     "stats": {
       "defense": 60
     },
@@ -900,8 +900,8 @@
       "IT": "?",
       "JA": "てんくうのよろい"
     },
-    "sprite": "armors_sprites/zenithian_armour.png",
-    "artwork": "armors_artworks/zenithian_armour.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/zenithian_armour.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/zenithian_armour.png",
     "stats": {
       "defense": 70
     },
@@ -933,8 +933,8 @@
       "IT": "?",
       "JA": "はぐれメタルよろい"
     },
-    "sprite": "armors_sprites/liquid_metal_armour.png",
-    "artwork": "armors_artworks/liquid_metal_armour.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/liquid_metal_armour.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/liquid_metal_armour.png",
     "stats": {
       "defense": 95
     },
@@ -966,8 +966,8 @@
       "IT": "?",
       "JA": "まかいのよろい"
     },
-    "sprite": "armors_sprites/pandemonic_armour.png",
-    "artwork": "armors_artworks/pandemonic_armour.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/pandemonic_armour.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/pandemonic_armour.png",
     "stats": {
       "defense": 100
     },

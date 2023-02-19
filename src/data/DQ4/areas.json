@@ -10,7 +10,7 @@
       "JA": "ロトゼタシア"
     },
     "shops": [],
-    "map": "img/maps/world.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/world.png",
     "continent": "?",
     "type": "overworld",
     "slug": "_slug"
@@ -26,7 +26,7 @@
       "JA": "ゴットサイド"
     },
     "shops": [],
-    "map": "img/maps/the_azimut.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/the_azimut.png",
     "continent": "?",
     "type": "overworld",
     "slug": "_slug"
@@ -42,7 +42,7 @@
       "JA": "闇の世界"
     },
     "shops": [],
-    "map": "img/maps/nadiria.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/nadiria.png",
     "continent": "?",
     "type": "overworld",
     "slug": "_slug"
@@ -59,7 +59,7 @@
       "JA": "バトランド"
     },
     "shops": [],
-    "map": "img/maps/burland.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/burland.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -91,7 +91,7 @@
       "JA": "イムル"
     },
     "shops": [],
-    "map": "img/maps/strathbaile.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/strathbaile.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -140,7 +140,7 @@
       "JA": "サントハイム"
     },
     "shops": [],
-    "map": "img/maps/zamoksva.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/zamoksva.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -156,7 +156,7 @@
       "JA": "サラン"
     },
     "shops": [],
-    "map": "img/maps/zalenagrad.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/zalenagrad.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -172,7 +172,7 @@
       "JA": "サラン"
     },
     "shops": [],
-    "map": "img/maps/taborov.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/taborov.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -188,7 +188,7 @@
       "JA": "フレノール"
     },
     "shops": [],
-    "map": "img/maps/vrenor.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/vrenor.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -220,7 +220,7 @@
       "JA": "さばくのバザー"
     },
     "shops": [],
-    "map": "img/maps/desert_bazaar.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/desert_bazaar.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -268,7 +268,7 @@
       "JA": "エンドール"
     },
     "shops": [],
-    "map": "img/maps/endor.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/endor.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -285,7 +285,7 @@
       "JA": "レイクナバ"
     },
     "shops": [],
-    "map": "img/maps/?.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/?.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -333,7 +333,7 @@
       "JA": "?"
     },
     "shops": [],
-    "map": "img/maps/?.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/?.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -382,7 +382,7 @@
       "JA": "?"
     },
     "shops": [],
-    "map": "img/maps/?.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/?.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -398,7 +398,7 @@
       "JA": "?"
     },
     "shops": [],
-    "map": "img/maps/?.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/?.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -430,7 +430,7 @@
       "JA": "?"
     },
     "shops": [],
-    "map": "img/maps/palais_de_leon.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/palais_de_leon.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -446,7 +446,7 @@
       "JA": "?"
     },
     "shops": [],
-    "map": "img/maps/havre_leon.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/havre_leon.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -478,7 +478,7 @@
       "JA": "?"
     },
     "shops": [],
-    "map": "img/maps/mamon.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/mamon.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -543,7 +543,7 @@
       "JA": "?"
     },
     "shops": [],
-    "map": "img/maps/casabranca.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/casabranca.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -591,7 +591,7 @@
       "JA": "アネイル"
     },
     "shops": [],
-    "map": "img/maps/bath.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/bath.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -607,7 +607,7 @@
       "JA": "コナンベリー"
     },
     "shops": [],
-    "map": "img/maps/porthtrunnel.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/porthtrunnel.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
@@ -639,7 +639,7 @@
       "JA": "ミントス"
     },
     "shops": [],
-    "map": "img/maps/mintos.png",
+    "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/mintos.png",
     "continent": "?",
     "type": "town",
     "slug": "_slug"
