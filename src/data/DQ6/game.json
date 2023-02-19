@@ -1,0 +1,33 @@
+{
+  "name": {
+    "EN": "Dragon Quest Ⅵ",
+    "ES": "Dragon Quest Ⅵ",
+    "FR": "Dragon Quest Ⅵ",
+    "DE": "Dragon Quest Ⅵ",
+    "IT": "Dragon Quest Ⅵ",
+    "JA": "ドラゴンクエストⅥ"
+  },
+  "title": {
+    "EN": "Realms of Reverie",
+    "ES": "Los Reinos Oníricos",
+    "FR": "Le Royaume des songes",
+    "DE": "Wandler zwischen den Welten",
+    "IT": "Nel regno dei sogni",
+    "JA": "幻の大地"
+  },
+  "logo": "img/DQ6/logo.png",
+  "developer": ["Heartbeat", "ArtePiazza"],
+  "publisher": "Square Enix",
+  "designer": "Yuji Horii",
+  "writer": "Yuji Horii",
+  "artist": "Akira Toriyama",
+  "composer": "Kōichi Sugiyama",
+  "platform": "Nintendo DS",
+  "release_date": {
+    "EU": 2011,
+    "JA": 2010,
+    "US": 2011
+  },
+  "genre": "RPG",
+  "players": 1
+}

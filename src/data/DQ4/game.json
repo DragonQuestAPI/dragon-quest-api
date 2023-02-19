@@ -1,11 +1,11 @@
 {
   "name": {
-    "EN": "Dragon Quest IV",
-    "ES": "Dragon Quest IV",
-    "FR": "Dragon Quest IV",
-    "DE": "Dragon Quest IV",
-    "IT": "Dragon Quest IV",
-    "JA": "ドラゴンクエストIV"
+    "EN": "Dragon Quest Ⅳ",
+    "ES": "Dragon Quest Ⅳ",
+    "FR": "Dragon Quest Ⅳ",
+    "DE": "Dragon Quest Ⅳ",
+    "IT": "Dragon Quest Ⅳ",
+    "JA": "ドラゴンクエストⅣ"
   },
   "title": {
     "EN": "Chapters of the Chosen",
@@ -15,19 +15,19 @@
     "IT": "Le cronache dei Prescelti",
     "JA": "導かれし者たち"
   },
-  "logo": "../../img/dqiv/dragon-quest-iv.png",
+  "logo": "img/DQ4/logo.png",
   "developer": "ArtePiazza",
-  "publisher": "Square-Enix",
+  "publisher": "Square Enix",
   "director": "Koichi Nakamura",
   "designer": "Yuji Horii",
   "writer": "Yuji Horii",
   "artist": "Akira Toriyama",
-  "composer": "Koichi Sugiyama",
+  "composer": "Kōichi Sugiyama",
   "platform": "Nintendo DS",
   "release_date": {
-    "eu": 2008,
-    "us": 2008,
-    "JA": 2007
+    "EU": 2008,
+    "JA": 2007,
+    "US": 2008
   },
   "genre": "RPG",
   "players": 1

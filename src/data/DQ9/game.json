@@ -1,0 +1,36 @@
+{
+  "name": {
+    "EN": "Dragon Quest Ⅸ",
+    "ES": "Dragon Quest Ⅸ",
+    "FR": "Dragon Quest Ⅸ",
+    "DE": "Dragon Quest Ⅸ",
+    "IT": "Dragon Quest Ⅸ",
+    "JA": "ドラゴンクエストⅨ"
+  },
+  "title": {
+    "EN": "Sentinels of the Starry Skies",
+    "ES": "Centinelas del firmamento",
+    "FR": "Les sentinelles du firmament",
+    "DE": "Hüter des Himmels",
+    "IT": "Le Sentinelle Del Cielo",
+    "JA": "星空の守り人"
+  },
+  "logo": "img/DQ9/logo.png",
+  "developer": "ArtePiazza",
+  "publisher": "Square Enix",
+  "director": "Manabu Yamana",
+  "producer": "Yukinobu Chida",
+  "designer": "Yuji Horii",
+  "writer": "Yuji Horii",
+  "artist": "Akira Toriyama",
+  "composer": "Kōichi Sugiyama",
+  "programmers": ["Kenichi Masuta", "Togo Narita"],
+  "platform": "Nintendo DS",
+  "release_date": {
+    "EU": 2009,
+    "JA": 2008,
+    "US": 2009
+  },
+  "genre": "RPG",
+  "players": 1
+}

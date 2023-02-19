@@ -1,0 +1,41 @@
+{
+  "name": {
+    "EN": "Dragon Quest",
+    "ES": "Dragon Quest",
+    "FR": "Dragon Quest",
+    "DE": "Dragon Quest",
+    "IT": "Dragon Quest",
+    "JA": "ドラゴンクエスト"
+  },
+  "title": {
+    "EN": null,
+    "ES": null,
+    "FR": null,
+    "DE": null,
+    "IT": null,
+    "JA": null
+  },
+  "logo": "img/DQ1/logo.png",
+  "developer": "Enix",
+  "publisher": "Enix",
+  "chief_programmer": "Kouhei Tamura",
+  "programming_support": ["Manabu Yamana", "Jinji Horagai", "Yutaka Gyotoku"],
+  "scenario_assistants": ["Sachiko Sugimura", "Hiroshi Miyaoka"],
+  "cg_designer": "Shintaro Majima",
+  "director": "Koichi Nakamura",
+  "designer": "Yuji Horii",
+  "writer": "Yuji Horii",
+  "artist": "Akira Toriyama",
+  "composer": "Kōichi Sugiyama",
+  "sound_programmer": "Dogen Shibuya",
+  "soung_programming_assistants": ["akenori Yamamori", "Chiyoko Mimata"],
+  "development_manager": "Taichi Inuzuka",
+  "producer": "Yukinobu Chida",
+  "production_staff": ["Shigeki Maruyama", "Daizo Shimamura", "Mariko Iida"],
+  "platform": "SNES",
+  "release_date": {
+    "JA": 1993
+  },
+  "genre": "RPG",
+  "players": 1
+}

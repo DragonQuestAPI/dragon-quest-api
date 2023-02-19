@@ -1,0 +1,34 @@
+{
+  "name": {
+    "EN": "Dragon Quest Ⅷ",
+    "ES": "Dragon Quest Ⅷ",
+    "FR": "Dragon Quest Ⅷ",
+    "DE": "Dragon Quest Ⅷ",
+    "IT": "Dragon Quest Ⅷ",
+    "JA": "ドラゴンクエストⅧ"
+  },
+  "title": {
+    "EN": "Journey of the Cursed King",
+    "ES": "El Periplo del Rey Maldito",
+    "FR": "L'odyssée du roi maudit",
+    "DE": "Die Reise des verwunschenen Königs",
+    "IT": "L'odissea del re maledetto",
+    "JA": "空と海と大地と呪われし姫君"
+  },
+  "logo": "img/DQ8/logo.png",
+  "developer": ["Level-5", "Square Enix"],
+  "publisher": "Square Enix",
+  "designer": "Yuji Horii",
+  "writer": "Yuji Horii",
+  "artist": "Akira Toriyama",
+  "composer": "Kōichi Sugiyama",
+  "platform": "Nintendo 3DS",
+  "release_date": {
+    "AU": 2016,
+    "EU": 2016,
+    "JA": 2013,
+    "US": 2016
+  },
+  "genre": "RPG",
+  "players": 1
+}

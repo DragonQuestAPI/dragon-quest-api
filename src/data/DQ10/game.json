@@ -1,0 +1,31 @@
+{
+  "name": {
+    "EN": "Dragon Quest Ⅹ",
+    "ES": "Dragon Quest Ⅹ",
+    "FR": "Dragon Quest Ⅹ",
+    "DE": "Dragon Quest Ⅹ",
+    "IT": "Dragon Quest Ⅹ",
+    "JA": "ドラゴンクエストⅩ"
+  },
+  "title": {
+    "EN": "Awakening of the Five Walkers",
+    "ES": "?",
+    "FR": "L'Éveil des cinq tribus",
+    "DE": "?",
+    "IT": "?",
+    "JA": "目覚めし五つの種族"
+  },
+  "logo": "img/DQ10/logo.png",
+  "developer": "Square Enix",
+  "publisher": "Square Enix",
+  "designer": "Yuji Horii",
+  "writer": "Yuji Horii",
+  "artist": "Akira Toriyama",
+  "composer": "Kōichi Sugiyama",
+  "platform": "Nintendo 3DS",
+  "release_date": {
+    "JA": 2012
+  },
+  "genre": "RPG",
+  "players": 1
+}

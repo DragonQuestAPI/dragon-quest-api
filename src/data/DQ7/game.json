@@ -1,0 +1,34 @@
+{
+  "name": {
+    "EN": "Dragon Quest Ⅶ",
+    "ES": "Dragon Quest Ⅶ",
+    "FR": "Dragon Quest Ⅶ",
+    "DE": "Dragon Quest Ⅶ",
+    "IT": "Dragon Quest Ⅶ",
+    "JA": "ドラゴンクエストⅦ"
+  },
+  "title": {
+    "EN": "Fragments of the Forgotten Past",
+    "ES": "Fragments of the Forgotten Past",
+    "FR": "La Quête des vestiges du monde",
+    "DE": "Fragmente der Vergangenheit",
+    "IT": "Frammenti di un Mondo Dimenticato",
+    "JA": "エデンの戦士たち"
+  },
+  "logo": "img/DQ7/logo.png",
+  "developer": ["Heartbeat", "ArtePiazza"],
+  "publisher": "Square Enix",
+  "designer": "Yuji Horii",
+  "writer": "Yuji Horii",
+  "artist": "Akira Toriyama",
+  "composer": "Kōichi Sugiyama",
+  "platform": "Nintendo 3DS",
+  "release_date": {
+    "AU": 2016,
+    "EU": 2016,
+    "JA": 2013,
+    "US": 2016
+  },
+  "genre": "RPG",
+  "players": 1
+}

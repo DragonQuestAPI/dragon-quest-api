@@ -1,0 +1,31 @@
+{
+  "name": {
+    "EN": "Dragon Quest Ⅲ",
+    "ES": "Dragon Quest Ⅲ",
+    "FR": "Dragon Quest Ⅲ",
+    "DE": "Dragon Quest Ⅲ",
+    "IT": "Dragon Quest Ⅲ",
+    "JA": "ドラゴンクエストⅢ"
+  },
+  "title": {
+    "EN": "The Seeds of Salvation",
+    "ES": "The Seeds of Salvation",
+    "FR": "The Seeds of Salvation",
+    "DE": "The Seeds of Salvation",
+    "IT": "The Seeds of Salvation",
+    "JA": "そして伝説へ…"
+  },
+  "logo": "img/DQ3/logo.png",
+  "developer": "Heartbeat",
+  "publisher": "Enix",
+  "designer": "Yuji Horii",
+  "writer": "Yuji Horii",
+  "artist": "Akira Toriyama",
+  "composer": "Kōichi Sugiyama",
+  "platform": "SNES",
+  "release_date": {
+    "JA": 1996
+  },
+  "genre": "RPG",
+  "players": 1
+}

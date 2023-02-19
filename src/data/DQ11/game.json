@@ -1,0 +1,31 @@
+{
+  "name": {
+    "EN": "Dragon Quest Ⅺ S",
+    "ES": "Dragon Quest Ⅺ S",
+    "FR": "Dragon Quest Ⅺ S",
+    "DE": "Dragon Quest Ⅺ S",
+    "IT": "Dragon Quest Ⅺ S",
+    "JA": "ドラゴンクエストⅪ S"
+  },
+  "title": {
+    "EN": "Echoes of an Elusive Age",
+    "ES": "Ecos de un pasado perdito",
+    "FR": "Les Combattants de la destinée",
+    "DE": "Streiter des Schicksals",
+    "IT": "Echi di un'era perduta",
+    "JA": "過ぎ去りし時を求めて"
+  },
+  "logo": "img/DQ11/logo.png",
+  "developer": "Square Enix",
+  "publisher": "Square Enix",
+  "designer": "Yuji Horii",
+  "writer": "Yuji Horii",
+  "artist": "Akira Toriyama",
+  "composer": "Kōichi Sugiyama",
+  "platform": "Nintendo Switch",
+  "release_date": {
+    "JA": 2019
+  },
+  "genre": "RPG",
+  "players": 1
+}

@@ -1,0 +1,31 @@
+{
+  "name": {
+    "EN": "Dragon Quest Ⅱ",
+    "ES": "Dragon Quest Ⅱ",
+    "FR": "Dragon Quest Ⅱ",
+    "DE": "Dragon Quest Ⅱ",
+    "IT": "Dragon Quest Ⅱ",
+    "JA": "ドラゴンクエストⅡ"
+  },
+  "title": {
+    "EN": "Luminaries of the Legendary Line",
+    "ES": "Luminaries of the Legendary Line",
+    "FR": "Luminaries of the Legendary Line",
+    "DE": "Luminaries of the Legendary Line",
+    "IT": "Luminaries of the Legendary Line",
+    "JA": "悪霊の神々"
+  },
+  "logo": "img/DQ2/logo.png",
+  "developer": "Chunsoft",
+  "publisher": "Enix",
+  "designer": "Yuji Horii",
+  "writer": "Yuji Horii",
+  "artist": "Akira Toriyama",
+  "composer": "Kōichi Sugiyama",
+  "platform": "SNES",
+  "release_date": {
+    "JA": 1993
+  },
+  "genre": "RPG",
+  "players": 1
+}

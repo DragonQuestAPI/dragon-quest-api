@@ -1,11 +1,11 @@
 {
   "name": {
-    "EN": "Dragon Quest V",
-    "ES": "Dragon Quest V",
-    "FR": "Dragon Quest V",
-    "DE": "Dragon Quest V",
-    "IT": "Dragon Quest V",
-    "JA": "ドラゴンクエストV"
+    "EN": "Dragon Quest Ⅴ",
+    "ES": "Dragon Quest Ⅴ",
+    "FR": "Dragon Quest Ⅴ",
+    "DE": "Dragon Quest Ⅴ",
+    "IT": "Dragon Quest Ⅴ",
+    "JA": "ドラゴンクエストⅤ"
   },
   "title": {
     "EN": "Hand of the Heavenly Bride",
@@ -15,21 +15,21 @@
     "IT": "La sposa del destino",
     "JA": "天空の花嫁"
   },
-  "logo": "img/dqiv/dragon-quest-v.png",
+  "logo": "img/DQ5/logo.png",
   "developer": "ArtePiazza",
-  "publisher": "Square-Enix",
+  "publisher": "Square Enix",
   "director": "Manabu Yamana",
   "producer": "Yukinobu Chida",
   "designer": "Yuji Horii",
   "programmers": ["Kenichi Masuta", "Togo Narita"],
   "writer": "Yuji Horii",
   "artist": "Akira Toriyama",
-  "composer": "Koichi Sugiyama",
+  "composer": "Kōichi Sugiyama",
   "platform": "Nintendo DS",
   "release_date": {
-    "eu": 2009,
-    "us": 2009,
-    "JA": 2008
+    "EU": 2009,
+    "JA": 2008,
+    "US": 2009
   },
   "genre": "RPG",
   "players": 1
