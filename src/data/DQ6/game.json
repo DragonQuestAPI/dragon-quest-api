@@ -15,7 +15,7 @@
     "IT": "Nel regno dei sogni",
     "JA": "幻の大地"
   },
-  "logo": "img/DQ6/logo.png",
+  "logo": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ6/logo.png",
   "developer": ["Heartbeat", "ArtePiazza"],
   "publisher": "Square Enix",
   "designer": "Yuji Horii",

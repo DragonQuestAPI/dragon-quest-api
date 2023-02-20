@@ -15,7 +15,7 @@
     "IT": "Luminaries of the Legendary Line",
     "JA": "悪霊の神々"
   },
-  "logo": "img/DQ2/logo.png",
+  "logo": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ2/logo.png",
   "developer": "Chunsoft",
   "publisher": "Enix",
   "designer": "Yuji Horii",

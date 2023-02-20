@@ -15,7 +15,7 @@
     "IT": "Frammenti di un Mondo Dimenticato",
     "JA": "エデンの戦士たち"
   },
-  "logo": "img/DQ7/logo.png",
+  "logo": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ7/logo.png",
   "developer": ["Heartbeat", "ArtePiazza"],
   "publisher": "Square Enix",
   "designer": "Yuji Horii",

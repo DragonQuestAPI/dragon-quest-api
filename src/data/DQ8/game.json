@@ -15,7 +15,7 @@
     "IT": "L'odissea del re maledetto",
     "JA": "空と海と大地と呪われし姫君"
   },
-  "logo": "img/DQ8/logo.png",
+  "logo": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ8/logo.png",
   "developer": ["Level-5", "Square Enix"],
   "publisher": "Square Enix",
   "designer": "Yuji Horii",

@@ -9,8 +9,8 @@
       "IT": "?",
       "JA": "かわのぼうし"
     },
-    "sprite": "helmets_sprites/leather_hat.png",
-    "artwork": "helmets_artworks/leather_hat.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/leather_hat.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_artworks/leather_hat.png",
     "stats": { "defense": 2 },
     "price": { "buy": 65, "sell": 48, "token": null, "minimedal": null },
     "description": {
@@ -35,8 +35,8 @@
       "IT": "?",
       "JA": "ヘアバンド"
     },
-    "sprite": "helmets_sprites/hairband.png",
-    "artwork": "helmets_artworks/hairband.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/hairband.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_artworks/hairband.png",
     "stats": { "defense": 5 },
     "price": { "buy": 110, "sell": 82, "token": null, "minimedal": null },
     "description": {
@@ -61,8 +61,8 @@
       "IT": "?",
       "JA": "きのぼうし"
     },
-    "sprite": "helmets_sprites/hardwood_headwear.png",
-    "artwork": "helmets_artworks/hardwood_headwear.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/hardwood_headwear.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_artworks/hardwood_headwear.png",
     "stats": { "defense": 6 },
     "price": { "buy": 120, "sell": 90, "token": null, "minimedal": null },
     "description": {
@@ -87,8 +87,8 @@
       "IT": "?",
       "JA": "はねぼうし"
     },
-    "sprite": "helmets_sprites/feathered_cap.png",
-    "artwork": "helmets_artworks/feathered_cap.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/feathered_cap.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_artworks/feathered_cap.png",
     "stats": { "defense": 8 },
     "price": { "buy": 280, "sell": 210, "token": null, "minimedal": null },
     "description": {
@@ -113,8 +113,8 @@
       "IT": "?",
       "JA": "きんのかみかざり"
     },
-    "sprite": "helmets_sprites/?golden_tiara.png",
-    "artwork": "helmets_artworks/?golden_tiara.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/?golden_tiara.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_artworks/?golden_tiara.png",
     "stats": { "defense": 12 },
     "price": { "buy": 540, "sell": 405, "token": null, "minimedal": null },
     "description": {
@@ -139,8 +139,8 @@
       "IT": "?",
       "JA": "しあわせのぼうし"
     },
-    "sprite": "helmets_sprites/happy_hat.png",
-    "artwork": "helmets_artworks/happy_hat.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/happy_hat.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_artworks/happy_hat.png",
     "stats": { "defense": 15 },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": 43 },
     "description": {
@@ -165,8 +165,8 @@
       "IT": "?",
       "JA": "てつかぶと"
     },
-    "sprite": "helmets_sprites/iron_helmet.png",
-    "artwork": "helmets_artworks/iron_helmet.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/iron_helmet.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_artworks/iron_helmet.png",
     "stats": { "defense": 16 },
     "price": { "buy": 1100, "sell": 825, "token": null, "minimedal": null },
     "description": {
@@ -191,8 +191,8 @@
       "IT": "?",
       "JA": "てっかめん"
     },
-    "sprite": "helmets_sprites/?iron_mask.png",
-    "artwork": "helmets_artworks/?iron_mask.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/?iron_mask.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_artworks/?iron_mask.png",
     "stats": { "defense": 25 },
     "price": { "buy": 3500, "sell": 2625, "token": null, "minimedal": null },
     "description": {
@@ -217,8 +217,8 @@
       "IT": "?",
       "JA": "てんくうのかぶと"
     },
-    "sprite": "helmets_sprites/zenithian_helm.png",
-    "artwork": "helmets_artworks/zenithian_helm.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/zenithian_helm.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_artworks/zenithian_helm.png",
     "stats": { "defense": 30 },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
@@ -243,8 +243,8 @@
       "IT": "?",
       "JA": "まかいのかぶと"
     },
-    "sprite": "helmets_sprites/pandemonic_helm.png",
-    "artwork": "helmets_artworks/pandemonic_helm.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/pandemonic_helm.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_artworks/pandemonic_helm.png",
     "stats": { "defense": 40 },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
@@ -269,8 +269,8 @@
       "IT": "?",
       "JA": "はぐれメタルヘルム"
     },
-    "sprite": "helmets_sprites/liquid_metal_helm.png",
-    "artwork": "helmets_artworks/liquid_metal_helm.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/liquid_metal_helm.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_artworks/liquid_metal_helm.png",
     "stats": { "defense": 50 },
     "price": { "buy": null, "sell": null, "token": 100000, "minimedal": null },
     "description": {
@@ -295,8 +295,8 @@
       "IT": "?",
       "JA": "じゃしんのめん"
     },
-    "sprite": "helmets_sprites/death_mask.png",
-    "artwork": "helmets_artworks/death_mask.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/death_mask.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_artworks/death_mask.png",
     "stats": { "defense": 200 },
     "price": { "buy": null, "sell": 6, "token": null, "minimedal": null },
     "description": {

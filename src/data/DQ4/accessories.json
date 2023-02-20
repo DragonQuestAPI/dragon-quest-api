@@ -9,8 +9,8 @@
       "IT": "Anello della forza",
       "JA": "ちからのゆびわ"
     },
-    "sprite": "accessories_sprites/strength_ring.png",
-    "artwork": "accessories_artworks/strength_ring.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/strength_ring.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/strength_ring.png",
     "stats": {
       "attack": 8,
       "defense": null,
@@ -46,8 +46,8 @@
       "IT": "Fascia del potere",
       "JA": "ごうけつのうでわ"
     },
-    "sprite": "accessories_sprites/mighty_armlet.png",
-    "artwork": "accessories_artworks/mighty_armlet.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/mighty_armlet.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/mighty_armlet.png",
     "stats": {
       "attack": 25,
       "defense": null,
@@ -83,8 +83,8 @@
       "IT": "Bracciale d'oro",
       "JA": "きんのブレスレット"
     },
-    "sprite": "accessories_sprites/gold_bracer.png",
-    "artwork": "accessories_artworks/gold_bracer.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/gold_bracer.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/gold_bracer.png",
     "stats": {
       "attack": null,
       "defense": 5,
@@ -120,8 +120,8 @@
       "IT": "Anello della fede",
       "JA": "いのりのゆびわ"
     },
-    "sprite": "accessories_sprites/prayer_ring.png",
-    "artwork": "accessories_artworks/prayer_ring.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/prayer_ring.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/prayer_ring.png",
     "stats": {
       "attack": null,
       "defense": 5,
@@ -157,8 +157,8 @@
       "IT": "Calze a rete",
       "JA": "あみタイツ"
     },
-    "sprite": "accessories_sprites/fishnet_stockings.png",
-    "artwork": "accessories_artworks/fishnet_stockings.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/fishnet_stockings.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/fishnet_stockings.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -194,8 +194,8 @@
       "IT": "Rubino della difesa",
       "JA": "まもりのルビー"
     },
-    "sprite": "accessories_sprites/ruby_of_protection.png",
-    "artwork": "accessories_artworks/ruby_of_protection.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/ruby_of_protection.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/ruby_of_protection.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -231,8 +231,8 @@
       "IT": "Anello guaritore",
       "JA": "いのちのゆびわ"
     },
-    "sprite": "accessories_sprites/recovery_ring.png",
-    "artwork": "accessories_artworks/recovery_ring.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/recovery_ring.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/recovery_ring.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -268,8 +268,8 @@
       "IT": "Bracciale Kamikaze",
       "JA": "メガンテのうでわ"
     },
-    "sprite": "accessories_sprites/kamikazee_bracer.png",
-    "artwork": "accessories_artworks/kamikazee_bracer.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/kamikazee_bracer.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/kamikazee_bracer.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -305,8 +305,8 @@
       "IT": "Bracciale sacrificale",
       "JA": "メガザルのうでわ"
     },
-    "sprite": "accessories_sprites/kerplunk_bracer.png",
-    "artwork": "accessories_artworks/kerplunk_bracer.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/kerplunk_bracer.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/kerplunk_bracer.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -342,8 +342,8 @@
       "IT": "Anello della dea",
       "JA": "めがみのゆびわ"
     },
-    "sprite": "accessories_sprites/goddess_ring.png",
-    "artwork": "accessories_artworks/goddess_ring.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/goddess_ring.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/goddess_ring.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -379,8 +379,8 @@
       "IT": "Bandana di Mercurio",
       "JA": "しっぷうのバンダナ"
     },
-    "sprite": "accessories_sprites/mercurys_bandana.png",
-    "artwork": "accessories_artworks/mercurys_bandana.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/mercurys_bandana.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/mercurys_bandana.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -416,8 +416,8 @@
       "IT": "Bracciale del lampo",
       "JA": "ほしふるうでわ"
     },
-    "sprite": "accessories_sprites/meteorite_bracer.png",
-    "artwork": "accessories_artworks/meteorite_bracer.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/meteorite_bracer.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/meteorite_bracer.png",
     "stats": {
       "attack": null,
       "defense": null,
@@ -453,8 +453,8 @@
       "IT": "Frammento lucido",
       "JA": "ほしのかけら"
     },
-    "sprite": "accessories_sprites/lucida_shard.png",
-    "artwork": "accessories_artworks/lucida_shard.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/lucida_shard.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/lucida_shard.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -490,8 +490,8 @@
       "IT": "Coda da coniglietta",
       "JA": "うざぎのしっぽ"
     },
-    "sprite": "accessories_sprites/bunny_tail.png",
-    "artwork": "accessories_artworks/bunny_tail.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/bunny_tail.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/bunny_tail.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -527,8 +527,8 @@
       "IT": "Scarpe Sante",
       "JA": "しあわせのくつ"
     },
-    "sprite": "accessories_sprites/elevating_shoes.png",
-    "artwork": "accessories_artworks/elevating_shoes.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/elevating_shoes.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/elevating_shoes.png",
     "stats": {
       "attack": "?",
       "defense": "?",
@@ -564,8 +564,8 @@
       "IT": "Se indossato, allontana tutti i mostri vicini.",
       "JA": "ゴスペルリング"
     },
-    "sprite": "accessories_sprites/gospel_ring.png",
-    "artwork": "accessories_artworks/gospel_ring.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/gospel_ring.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/gospel_ring.png",
     "stats": {
       "attack": "?",
       "defense": "?",
