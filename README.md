@@ -6,18 +6,18 @@
 <h2>Prerequisites</h2>
 
 <ul>
-  <li><b>[Visual Studio Code](https://code.visualstudio.com)</b> or any other IDE</li>
-  <li><b>[Node.JS v.16.18](https://nodejs.org)</b> or greater</li>
-  <li><b>[Git](https://git-scm.com/)</b></li>
-  <li><b>[Postman](https://www.postman.com)</b> or any tool to test the API</li>
-  <li><b>[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)</b> extension</li>
-  <li><b>[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)</b> extension for VSCode if you like fancy icons (optional) 😊</li>
+  <li><b><a href="https://code.visualstudio.com">Visual Studio Code</a></b> or any other IDE</li>
+  <li><b><a href="https://nodejs.org">Node.JS v.16.18</a></b> or greater</li>
+  <li><b><a href="https://git-scm.com">Git</a></b></li>
+  <li><b><a href="https://www.postman.com">Postman</a></b> or any tool to test the API</li>
+  <li><b><a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">Prettier</a></b> extension</li>
+  <li><b><a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme">Material Icon Theme</a></b> extension for VSCode if you like fancy icons (optional) 😊</li>
 </ul>
 
 <h2>Installing</h2>
 
 <ul>
-  <li>Download the project with <code>git clone https://github.com/NaorimSenchai/dragon-quest-api.git</code></li>
+  <li>Download the project with <code>git clone https://github.com/DragonQuestAPI/dragon-quest-api.git</code></li>
   <li>Open the projet's folder your IDE</li>
   <li>In the terminal, type <code>npm i</code> to install the required dependencies</li>
 </ul>
