@@ -6,21 +6,26 @@
 <h2>Prerequisites</h2>
 
 <ul>
-  <li><b>Visual Studio Code</b> or any other IDE.</li>
-  <li><b>Node.JS v.16.18</b> or greater.</li>
-  <li><b>Prettier</b> extension</li>
-  <li>Git (optional).</li>
-  <li>Postman (optional).</li>
-  <li>Material Icon Theme extension for VSCode if you like fancy icons (optional). 😊</li>
+  <li><b>[Visual Studio Code](https://code.visualstudio.com)</b> or any other IDE</li>
+  <li><b>[Node.JS v.16.18](https://nodejs.org)</b> or greater</li>
+  <li><b>[Git](https://git-scm.com/)</b></li>
+  <li><b>[Postman](https://www.postman.com)</b> or any tool to test the API</li>
+  <li><b>[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)</b> extension</li>
+  <li><b>[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)</b> extension for VSCode if you like fancy icons (optional) 😊</li>
 </ul>
 
 <h2>Installing</h2>
 
 <ul>
-  <li>Download the project with <code>git clone https://github.com/NaorimSenchai/dragon-quest-api.git</code>.</li>
-  <li>Open the projet's folder with Visual Studio Code.</li>
-  <li>In the terminal, type <code>npm i</code> to install the required dependencies.</li>
-  <li>The API is now operational.</li>
+  <li>Download the project with <code>git clone https://github.com/NaorimSenchai/dragon-quest-api.git</code></li>
+  <li>Open the projet's folder your IDE</li>
+  <li>In the terminal, type <code>npm i</code> to install the required dependencies</li>
+</ul>
+
+<h2>Launching</h2>
+
+<ul>
+  <li>In the terminal, type <code>npm start</code> to launch the API</li>
 </ul>
 
 <h2>Games covered by the API</h2>
