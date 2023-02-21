@@ -1,1 +1,4940 @@
-[]
+[
+  {
+    "id": 1,
+    "name": {
+      "EN": "Slime",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Gluant",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/slime.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/slime.png",
+    "attack": 7,
+    "defence": 5,
+    "agility": 3,
+    "exp": 1,
+    "gold": 1,
+    "drop": { "slug": "Herbe Médicinale", "probability": 6.25 },
+    "location": [
+      "grotte_de_ruycelieu",
+      "region_de_ruycelieu",
+      "region_de_bonaventure",
+      "grotte_de_ruycelieu_(radeau)",
+      "grand_desert",
+      "region_du_chateau_de_dominicus"
+    ],
+    "slug": "slime"
+  },
+  {
+    "id": 2,
+    "name": {
+      "EN": "Burr baby",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Boulebogue",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/burr_baby.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/burr_baby.png",
+    "attack": 9,
+    "defence": 6,
+    "agility": 5,
+    "exp": 2,
+    "gold": 2,
+    "drop": { "slug": "Herbe Médicinale", "probability": 6.25 },
+    "location": ["grotte_de_ruycelieu"],
+    "slug": "burr_baby"
+  },
+  {
+    "id": 3,
+    "name": {
+      "EN": "Boring bug",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Puce tule",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/boring_bug.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/boring_bug.png",
+    "attack": 10,
+    "defence": 7,
+    "agility": 4,
+    "exp": 3,
+    "gold": 2,
+    "drop": { "slug": "Herbe Médicinale", "probability": 12.5 },
+    "location": ["grotte_de_ruycelieu"],
+    "slug": "boring_bug"
+  },
+  {
+    "id": 4,
+    "name": {
+      "EN": "Dracky",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Vampivol",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/dracky.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/dracky.png",
+    "attack": 12,
+    "defence": 9,
+    "agility": 7,
+    "exp": 4,
+    "gold": 3,
+    "drop": { "slug": "Herbe Médicinale", "probability": 6.25 },
+    "location": [
+      "grotte_de_ruycelieu",
+      "region_de_blanchecombe",
+      "region_de_cobourg",
+      "region_de_port_lanterne",
+      "region_de_la_tour_de_bebal"
+    ],
+    "slug": "dracky"
+  },
+  {
+    "id": 5,
+    "name": {
+      "EN": "Hammerhood",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Marteleur",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hammerhood.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hammerhood.png",
+    "attack": 2,
+    "defence": 2,
+    "agility": 10,
+    "exp": 6,
+    "gold": 3,
+    "drop": { "slug": "Herbe Médicinale", "probability": 6.25 },
+    "location": [
+      "grotte_de_ruycelieu",
+      "region_de_blanchecombe",
+      "grotte_des_nains",
+      "region_de_la_tour_de_bebal"
+    ],
+    "slug": "hammerhood"
+  },
+  {
+    "id": 6,
+    "name": {
+      "EN": "Bunicorn",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Lapicorne",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/bunicorn.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/bunicorn.png",
+    "attack": 13,
+    "defence": 7,
+    "agility": 8,
+    "exp": 4,
+    "gold": 3,
+    "drop": { "slug": "Casque de cuir", "probability": 3.125 },
+    "location": [
+      "grotte_de_ruycelieu",
+      "region_de_blanchecombe",
+      "region_de_la_tour_de_bebal"
+    ],
+    "slug": "bunicorn"
+  },
+  {
+    "id": 7,
+    "name": {
+      "EN": "Combatterpillar",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Bombatomyx",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/combatterpillar.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/combatterpillar.png",
+    "attack": 12,
+    "defence": 8,
+    "agility": 5,
+    "exp": 4,
+    "gold": 4,
+    "drop": { "slug": "Graine de Sagesse", "probability": 0.78125 },
+    "location": ["region_de_blanchecombe", "region_de_la_tour_de_bebal"],
+    "slug": "combatterpillar"
+  },
+  {
+    "id": 8,
+    "name": {
+      "EN": "Bad apple",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Grannytrique",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/bad_apple.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/bad_apple.png",
+    "attack": 25,
+    "defence": 17,
+    "agility": 19,
+    "exp": 9,
+    "gold": 8,
+    "drop": { "slug": "Aile de Chimère", "probability": 3.125 },
+    "location": ["region_de_feeria_enneigee"],
+    "slug": "bad_apple"
+  },
+  {
+    "id": 9,
+    "name": {
+      "EN": "Funky ferret",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Foufuret",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/funky_ferret.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/funky_ferret.png",
+    "attack": 14,
+    "defence": 9,
+    "agility": 8,
+    "exp": 5,
+    "gold": 6,
+    "drop": { "slug": "Graine D'Agilité", "probability": 0.78125 },
+    "location": ["region_de_ruycelieu"],
+    "slug": "funky_ferret"
+  },
+  {
+    "id": 10,
+    "name": {
+      "EN": "Bubble slime",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Gluanbulle",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/bubble_slime.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/bubble_slime.png",
+    "attack": 12,
+    "defence": 7,
+    "agility": 7,
+    "exp": 6,
+    "gold": 7,
+    "drop": { "slug": "Herbe Curative", "probability": 6.25 },
+    "location": [
+      "region_de_blanchecombe",
+      "chateau_de_karpatt",
+      "region_de_feeria_enneigee",
+      "region_du_chateau_de_dominicus",
+      "region_de_la_tour_de_bebal"
+    ],
+    "slug": "bubble_slime"
+  },
+  {
+    "id": 11,
+    "name": {
+      "EN": "Fat rat",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Gratatouille",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/fat_rat.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/fat_rat.png",
+    "attack": 13,
+    "defence": 10,
+    "agility": 9,
+    "exp": 4,
+    "gold": 8,
+    "drop": { "slug": "Herbe Médicinale", "probability": 3.125 },
+    "location": [
+      "region_de_blanchecombe",
+      "chateau_de_karpatt",
+      "region_de_la_tour_de_bebal"
+    ],
+    "slug": "fat_rat"
+  },
+  {
+    "id": 12,
+    "name": {
+      "EN": "Bona constrictor",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Boa constrictos",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/bona_constrictor.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/bona_constrictor.png",
+    "attack": 19,
+    "defence": 13,
+    "agility": 11,
+    "exp": 7,
+    "gold": 7,
+    "drop": { "slug": "Herbe Médicinale", "probability": 3.125 },
+    "location": ["chateau_de_karpatt"],
+    "slug": "bona_constrictor"
+  },
+  {
+    "id": 13,
+    "name": {
+      "EN": "Lickspittle",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Glair de lune",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/lickspittle.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/lickspittle.png",
+    "attack": 22,
+    "defence": 11,
+    "agility": 13,
+    "exp": 8,
+    "gold": 5,
+    "drop": { "slug": "Lance de bambou", "probability": 1.5625 },
+    "location": ["region_de_feeria_enneigee", "grotte_des_nains"],
+    "slug": "lickspittle"
+  },
+  {
+    "id": 14,
+    "name": {
+      "EN": "Frizzard",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Flambeur",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/frizzard.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/frizzard.png",
+    "attack": 24,
+    "defence": 20,
+    "agility": 16,
+    "exp": 12,
+    "gold": 8,
+    "drop": { "slug": "Casque de cuir", "probability": 3.125 },
+    "location": ["region_de_blanchecombe", "grotte_des_nains"],
+    "slug": "frizzard"
+  },
+  {
+    "id": 15,
+    "name": {
+      "EN": "Jailcat",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Chagriffeur",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/jailcat.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/jailcat.png",
+    "attack": 17,
+    "defence": 10,
+    "agility": 11,
+    "exp": 11,
+    "gold": 7,
+    "drop": { "slug": "Guenille", "probability": 3.125 },
+    "location": [
+      "region_de_ruycelieu",
+      "region_de_blanchecombe",
+      "region_de_bonaventure"
+    ],
+    "slug": "jailcat"
+  },
+  {
+    "id": 16,
+    "name": {
+      "EN": "Mental pitcher",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Gourdéchaîné",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/mental_pitcher.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/mental_pitcher.png",
+    "attack": 23,
+    "defence": 14,
+    "agility": 17,
+    "exp": 13,
+    "gold": 10,
+    "drop": { "slug": "Graine de Magie", "probability": 0.78125 },
+    "location": ["region_de_blanchecombe", "region_de_feeria_enneigee"],
+    "slug": "mental_pitcher"
+  },
+  {
+    "id": 17,
+    "name": {
+      "EN": "Time burrm",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Chateigne",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/time_burrm.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/time_burrm.png",
+    "attack": 21,
+    "defence": 30,
+    "agility": 16,
+    "exp": 15,
+    "gold": 9,
+    "drop": { "slug": "Herbe Médicinale", "probability": 12.5 },
+    "location": ["grotte_des_nains"],
+    "slug": "time_burrm"
+  },
+  {
+    "id": 18,
+    "name": {
+      "EN": "Prestidigitator",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Prestidigitatueur",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/prestidigitator.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/prestidigitator.png",
+    "attack": 21,
+    "defence": 17,
+    "agility": 19,
+    "exp": 18,
+    "gold": 20,
+    "drop": { "slug": "Fiole D'Eau Magique", "probability": 3.125 },
+    "location": [
+      "region_de_feeria_enneigee",
+      "palais_de_l_hiver",
+      "region_de_cobourg",
+      "region_de_port_lanterne",
+      "taniere_de_la_panthere"
+    ],
+    "slug": "prestidigitator"
+  },
+  {
+    "id": 19,
+    "name": {
+      "EN": "Cactiball",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Cactueur",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/cactiball.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/cactiball.png",
+    "attack": 24,
+    "defence": 14,
+    "agility": 17,
+    "exp": 16,
+    "gold": 9,
+    "drop": { "slug": "Herbe Médicinale", "probability": 6.25 },
+    "location": ["region_de_feeria_enneigee"],
+    "slug": "cactiball"
+  },
+  {
+    "id": 20,
+    "name": {
+      "EN": "Lava larva",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Lavelarve",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/lava_larva.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/lava_larva.png",
+    "attack": 26,
+    "defence": 17,
+    "agility": 19,
+    "exp": 17,
+    "gold": 10,
+    "drop": { "slug": "Herbe Médicinale", "probability": 12.5 },
+    "location": ["grotte_des_nains"],
+    "slug": "lava_larva"
+  },
+  {
+    "id": 21,
+    "name": {
+      "EN": "Will-o'-the-whips",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Fouet follet",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/will-o'-the-whips.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/will-o'-the-whips.png",
+    "attack": 19,
+    "defence": 14,
+    "agility": 16,
+    "exp": 12,
+    "gold": 7,
+    "drop": { "slug": "Herbe Médicinale", "probability": 12.5 },
+    "location": ["grotte_des_nains"],
+    "slug": "will-o'-the-whips"
+  },
+  {
+    "id": 22,
+    "name": {
+      "EN": "Foetid ferret",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Belouffe",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/foetid_ferret.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/foetid_ferret.png",
+    "attack": 28,
+    "defence": 21,
+    "agility": 21,
+    "exp": 15,
+    "gold": 11,
+    "drop": { "slug": "Aile de Chimère", "probability": 6.25 },
+    "location": ["grotte_des_nains", "region_de_cobourg"],
+    "slug": "foetid_ferret"
+  },
+  {
+    "id": 23,
+    "name": {
+      "EN": "Dirty rat",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Crat-crat",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/dirty_rat.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/dirty_rat.png",
+    "attack": 20,
+    "defence": 19,
+    "agility": 14,
+    "exp": 14,
+    "gold": 13,
+    "drop": { "slug": "Graine D'Agilité", "probability": 0.78125 },
+    "location": ["region_de_blanchecombe", "region_de_cobourg"],
+    "slug": "dirty_rat"
+  },
+  {
+    "id": 24,
+    "name": {
+      "EN": "Drackyma",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Vampivolle",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/drackyma.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/drackyma.png",
+    "attack": 25,
+    "defence": 27,
+    "agility": 23,
+    "exp": 16,
+    "gold": 10,
+    "drop": { "slug": "Tenue de voyageur", "probability": 3.125 },
+    "location": ["palais_de_l_hiver"],
+    "slug": "drackyma"
+  },
+  {
+    "id": 25,
+    "name": {
+      "EN": "Ghost",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Fantôme",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/ghost.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/ghost.png",
+    "attack": 18,
+    "defence": 15,
+    "agility": 14,
+    "exp": 11,
+    "gold": 12,
+    "drop": { "slug": "Fiole  d'Eau Sacrée", "probability": 3.125 },
+    "location": ["chateau_de_karpatt"],
+    "slug": "ghost"
+  },
+  {
+    "id": 26,
+    "name": {
+      "EN": "Wax murderer",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Tristecire",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/wax_murderer.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/wax_murderer.png",
+    "attack": 21,
+    "defence": 17,
+    "agility": 13,
+    "exp": 13,
+    "gold": 11,
+    "drop": { "slug": "Poignard de bronze", "probability": 6.25 },
+    "location": ["chateau_de_karpatt"],
+    "slug": "wax_murderer"
+  },
+  {
+    "id": 27,
+    "name": {
+      "EN": "Lesionnaire",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Lésionnaire",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/lesionnaire.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/lesionnaire.png",
+    "attack": 52,
+    "defence": 50,
+    "agility": 20,
+    "exp": 25,
+    "gold": 12,
+    "drop": { "slug": "Epée  de cuivre", "probability": 1.5625 },
+    "location": [
+      "grotte_de_cobourg",
+      "grotte_de_ruycelieu_(radeau)",
+      "region_de_cobourg",
+      "tour_des_nuees"
+    ],
+    "slug": "lesionnaire"
+  },
+  {
+    "id": 28,
+    "name": {
+      "EN": "Spiked hare",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Lièvrecorne",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/spiked_hare.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/spiked_hare.png",
+    "attack": 27,
+    "defence": 25,
+    "agility": 21,
+    "exp": 20,
+    "gold": 13,
+    "drop": { "slug": "Cape de fourrure", "probability": 1.5625 },
+    "location": ["palais_de_l_hiver", "region_de_cobourg"],
+    "slug": "spiked_hare"
+  },
+  {
+    "id": 29,
+    "name": {
+      "EN": "Brrrattling snake",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Crostale",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/brrrattling_snake.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/brrrattling_snake.png",
+    "attack": 30,
+    "defence": 31,
+    "agility": 22,
+    "exp": 22,
+    "gold": 12,
+    "drop": { "slug": "Pieu d'os", "probability": 3.125 },
+    "location": ["palais_de_l_hiver", "grotte_de_cobourg"],
+    "slug": "brrrattling_snake"
+  },
+  {
+    "id": 30,
+    "name": {
+      "EN": "Healslime",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Médigluant",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/healslime.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/healslime.png",
+    "attack": 17,
+    "defence": 20,
+    "agility": 18,
+    "exp": 19,
+    "gold": 14,
+    "drop": { "slug": "Herbe Médicinale", "probability": 12.5 },
+    "location": [
+      "region_de_blanchecombe",
+      "region_de_feeria_enneigees",
+      "grotte_de_cobourg",
+      "tour_des_nuees",
+      "region_de_port_lanterne"
+    ],
+    "slug": "healslime"
+  },
+  {
+    "id": 31,
+    "name": {
+      "EN": "Screwball pitcher",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Gourdegandin",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/screwball_pitcher.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/screwball_pitcher.png",
+    "attack": 23,
+    "defence": 28,
+    "agility": 16,
+    "exp": 17,
+    "gold": 3,
+    "drop": { "slug": "Graine de Magie", "probability": 0.78125 },
+    "location": ["region_de_cobourg"],
+    "slug": "screwball_pitcher"
+  },
+  {
+    "id": 32,
+    "name": {
+      "EN": "Fandangow",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Cactak",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/fandangow.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/fandangow.png",
+    "attack": 35,
+    "defence": 30,
+    "agility": 16,
+    "exp": 19,
+    "gold": 13,
+    "drop": { "slug": "Casque de bois", "probability": 6.25 },
+    "location": ["region_de_cobourg"],
+    "slug": "fandangow"
+  },
+  {
+    "id": 33,
+    "name": {
+      "EN": "Sizzard",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Crâmeur",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/sizzard.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/sizzard.png",
+    "attack": 40,
+    "defence": 38,
+    "agility": 17,
+    "exp": 20,
+    "gold": 15,
+    "drop": { "slug": "Crocs de pierre", "probability": 3.125 },
+    "location": [
+      "region_de_cobourg",
+      "grotte_de_cobourg",
+      "region_de_bonaventure"
+    ],
+    "slug": "sizzard"
+  },
+  {
+    "id": 34,
+    "name": {
+      "EN": "Scaraburrower",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Bousieur",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/scaraburrower.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/scaraburrower.png",
+    "attack": 34,
+    "defence": 51,
+    "agility": 9,
+    "exp": 18,
+    "gold": 9,
+    "drop": { "slug": "Herbe Médicinale", "probability": 12.5 },
+    "location": ["region_de_cobourg"],
+    "slug": "scaraburrower"
+  },
+  {
+    "id": 35,
+    "name": {
+      "EN": "Terracotta warrior",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Guerracotta",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/terracotta_warrior.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/terracotta_warrior.png",
+    "attack": 39,
+    "defence": 38,
+    "agility": 19,
+    "exp": 25,
+    "gold": 12,
+    "drop": { "slug": "Graine de Vitalité", "probability": 0.390625 },
+    "location": ["grotte_de_cobourg", "grotte_de_ruycelieu_(radeau)"],
+    "slug": "terracotta_warrior"
+  },
+  {
+    "id": 36,
+    "name": {
+      "EN": "Eyelasher",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Tentaculoeil",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/eyelasher.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/eyelasher.png",
+    "attack": 38,
+    "defence": 19,
+    "agility": 22,
+    "exp": 27,
+    "gold": 19,
+    "drop": { "slug": "Herbe Médicinale", "probability": 3.125 },
+    "location": ["grotte_de_cobourg"],
+    "slug": "eyelasher"
+  },
+  {
+    "id": 37,
+    "name": {
+      "EN": "Slime knight",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Monte-gluant",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/slime_knight.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/slime_knight.png",
+    "attack": 44,
+    "defence": 45,
+    "agility": 20,
+    "exp": 37,
+    "gold": 22,
+    "drop": { "slug": "Armure de bronze", "probability": 3.125 },
+    "location": [
+      "region_de_cobourg",
+      "la_cave_de_douairiere",
+      "tour_des_nuees"
+    ],
+    "slug": "slime_knight"
+  },
+  {
+    "id": 38,
+    "name": {
+      "EN": "Bag o' laughs",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Maransac",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/bag_o'_laughs.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/bag_o'_laughs.png",
+    "attack": 33,
+    "defence": 15,
+    "agility": 25,
+    "exp": 10,
+    "gold": 55,
+    "drop": { "slug": "Aile de Chimère", "probability": 6.25 },
+    "location": ["grotte_de_cobourg", "tour_des_nuees", "volcan_de_la_mort"],
+    "slug": "bag_o'_laughs"
+  },
+  {
+    "id": 39,
+    "name": {
+      "EN": "Brownie",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Martebrun",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/brownie.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/brownie.png",
+    "attack": 15,
+    "defence": 33,
+    "agility": 16,
+    "exp": 21,
+    "gold": 15,
+    "drop": { "slug": "Monstrobecs", "probability": 3.125 },
+    "location": [
+      "region_de_cobourg",
+      "grotte_de_cobourg",
+      "region_de_bonaventure",
+      "region_de_ruycelieu",
+      "grotte_de_ruycelieu_(radeau)"
+    ],
+    "slug": "brownie"
+  },
+  {
+    "id": 40,
+    "name": {
+      "EN": "Rotten apple",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Ogreinette",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/rotten_apple.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/rotten_apple.png",
+    "attack": 41,
+    "defence": 35,
+    "agility": 25,
+    "exp": 30,
+    "gold": 18,
+    "drop": { "slug": "Herbe Médicinale", "probability": 6.25 },
+    "location": [
+      "region_tour_des_nuees",
+      "region_de_port_lanterne",
+      "region_de_la_tour_des_monstres"
+    ],
+    "slug": "rotten_apple"
+  },
+  {
+    "id": 41,
+    "name": {
+      "EN": "Ticking timeburrm",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Kaméclate",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/ticking_timeburrm.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/ticking_timeburrm.png",
+    "attack": 49,
+    "defence": 46,
+    "agility": 23,
+    "exp": 37,
+    "gold": 32,
+    "drop": { "slug": "Eclat de bombe", "probability": 1.5625 },
+    "location": ["region_de_ruycelieu", "region_de_cobourg"],
+    "slug": "ticking_timeburrm"
+  },
+  {
+    "id": 42,
+    "name": {
+      "EN": "Flatulent ferret",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Béléthale",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/flatulent_ferret.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/flatulent_ferret.png",
+    "attack": 41,
+    "defence": 28,
+    "agility": 24,
+    "exp": 35,
+    "gold": 30,
+    "drop": { "slug": "Bouclier d'écailles", "probability": 6.25 },
+    "location": [
+      "region_de_bonaventure",
+      "region_de_blanchecombe",
+      "region_de_cobourg",
+      "region_de_la_tour_de_bebal"
+    ],
+    "slug": "flatulent_ferret"
+  },
+  {
+    "id": 43,
+    "name": {
+      "EN": "Metal slime",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Gluant de métal",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/metal_slime.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/metal_slime.png",
+    "attack": 39,
+    "defence": 1024,
+    "agility": 115,
+    "exp": 1350,
+    "gold": 75,
+    "drop": { "slug": "Graine D'Agilité", "probability": 1.5625 },
+    "location": [
+      "grotte_de_ruycelieu_(radeau)",
+      "tour_des_nuees",
+      "taniere_de_la_panthere",
+      "volcan_de_la_mort",
+      "grotte_de_la_cascade",
+      "region_du_chateau_de_dominicus",
+      "foret_de_feeria",
+      "mont_zugzwang",
+      "donjon_d_estark"
+    ],
+    "slug": "metal_slime"
+  },
+  {
+    "id": 44,
+    "name": {
+      "EN": "Bludgerigar",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Aratétou",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/bludgerigar.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/bludgerigar.png",
+    "attack": 44,
+    "defence": 41,
+    "agility": 21,
+    "exp": 38,
+    "gold": 30,
+    "drop": { "slug": "Aile de Chimère", "probability": 6.25 },
+    "location": [
+      "region_de_ruycelieu",
+      "region_de_blanchecombe",
+      "region_de_cobourg"
+    ],
+    "slug": "bludgerigar"
+  },
+  {
+    "id": 45,
+    "name": {
+      "EN": "Funghoul",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Champigoule",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/funghoul.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/funghoul.png",
+    "attack": 45,
+    "defence": 37,
+    "agility": 24,
+    "exp": 40,
+    "gold": 35,
+    "drop": { "slug": "Herbe Curative", "probability": 3.125 },
+    "location": [
+      "region_de_ruycelieu",
+      "region_de_blanchecombe",
+      "region_de_cobourg",
+      "region_de_port_lanterne",
+      "region_de_l_auberge_au_sud_de_moulinsort"
+    ],
+    "slug": "funghoul"
+  },
+  {
+    "id": 46,
+    "name": {
+      "EN": "Wickerman",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Candélabré",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/wickerman.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/wickerman.png",
+    "attack": 51,
+    "defence": 36,
+    "agility": 22,
+    "exp": 42,
+    "gold": 37,
+    "drop": { "slug": "Poignard de  bronze", "probability": 6.25 },
+    "location": ["grotte_de_ruycelieu_(radeau)", "region_de_port_lanterne"],
+    "slug": "wickerman"
+  },
+  {
+    "id": 47,
+    "name": {
+      "EN": "Walking corpse",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Mort-vivant",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/walking_corpse.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/walking_corpse.png",
+    "attack": 48,
+    "defence": 2,
+    "agility": 10,
+    "exp": 57,
+    "gold": 15,
+    "drop": { "slug": "Guenille", "probability": 12.5 },
+    "location": ["grotte_de_ruycelieu_(radeau)", "la_cave_de_douairiere"],
+    "slug": "walking_corpse"
+  },
+  {
+    "id": 48,
+    "name": {
+      "EN": "Owlbear",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Hibours",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/owlbear.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/owlbear.png",
+    "attack": 55,
+    "defence": 31,
+    "agility": 30,
+    "exp": 45,
+    "gold": 40,
+    "drop": { "slug": "Bouclier de fer", "probability": 1.5625 },
+    "location": [
+      "grotte_de_ruycelieu_(radeau)",
+      "region_de_cobourg",
+      "region_tour_des_nuees"
+    ],
+    "slug": "owlbear"
+  },
+  {
+    "id": 49,
+    "name": {
+      "EN": "Powie yowie",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Yéti yétu",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/powie_yowie.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/powie_yowie.png",
+    "attack": 56,
+    "defence": 40,
+    "agility": 23,
+    "exp": 49,
+    "gold": 37,
+    "drop": { "slug": "Fiole d'Eau Sacrée", "probability": 6.25 },
+    "location": ["region_de_cobourg", "la_cave_de_douairiere"],
+    "slug": "powie_yowie"
+  },
+  {
+    "id": 50,
+    "name": {
+      "EN": "Cannibox",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Canniboîte",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/cannibox.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/cannibox.png",
+    "attack": 60,
+    "defence": 50,
+    "agility": 12,
+    "exp": 23,
+    "gold": 95,
+    "drop": { "slug": "Mini-médaille", "probability": 12.5 },
+    "location": ["taniere_de_la_panthere", "grotte_de_gotha"],
+    "slug": "cannibox"
+  },
+  {
+    "id": 51,
+    "name": {
+      "EN": "Wyrtle",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Tortugon",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/wyrtle.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/wyrtle.png",
+    "attack": 53,
+    "defence": 110,
+    "agility": 20,
+    "exp": 42,
+    "gold": 38,
+    "drop": { "slug": "Graine de Vitalité", "probability": 6.25 },
+    "location": [
+      "grotte_de_ruycelieu_(radeau)",
+      "la_cave_de_douairiere",
+      "tour_des_nuees"
+    ],
+    "slug": "wyrtle"
+  },
+  {
+    "id": 52,
+    "name": {
+      "EN": "Legerdeman",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Pyromancien",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/legerdeman.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/legerdeman.png",
+    "attack": 54,
+    "defence": 30,
+    "agility": 28,
+    "exp": 45,
+    "gold": 47,
+    "drop": { "slug": "Fiole D'Eau Magique", "probability": 6.25 },
+    "location": [
+      "la_cave_de_douairiere",
+      "tour_des_nuees",
+      "region_de_la_tour_des_monstres"
+    ],
+    "slug": "legerdeman"
+  },
+  {
+    "id": 53,
+    "name": {
+      "EN": "Small fry",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Souffleu",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/small_fry.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/small_fry.png",
+    "attack": 59,
+    "defence": 33,
+    "agility": 25,
+    "exp": 50,
+    "gold": 45,
+    "drop": { "slug": "Graine de Vie", "probability": 3.125 },
+    "location": ["region_de_cobourg", "tour_des_nuees"],
+    "slug": "small_fry"
+  },
+  {
+    "id": 54,
+    "name": {
+      "EN": "Ruff ruffian",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Filoup",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/ruff_ruffian.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/ruff_ruffian.png",
+    "attack": 64,
+    "defence": 39,
+    "agility": 43,
+    "exp": 48,
+    "gold": 37,
+    "drop": { "slug": "Epée de cuivre", "probability": 6.25 },
+    "location": [
+      "region_de_bonaventure",
+      "region_tour_des_nuees",
+      "tour_des_nuees",
+      "region_de_port_lanterne",
+      "region_de_l_auberge_au_sud_de_moulinsort"
+    ],
+    "slug": "ruff_ruffian"
+  },
+  {
+    "id": 55,
+    "name": {
+      "EN": "Grudgerigar",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Perverruche",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/grudgerigar.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/grudgerigar.png",
+    "attack": 62,
+    "defence": 35,
+    "agility": 37,
+    "exp": 44,
+    "gold": 31,
+    "drop": { "slug": "Herbe Médicinale", "probability": 12.5 },
+    "location": [
+      "region_de_bonaventure",
+      "la_cave_de_douairiere",
+      "region_tour_des_nuees",
+      ""
+    ],
+    "slug": "grudgerigar"
+  },
+  {
+    "id": 56,
+    "name": {
+      "EN": "Eyepod",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Médusoeil",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/eyepod.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/eyepod.png",
+    "attack": 55,
+    "defence": 40,
+    "agility": 31,
+    "exp": 42,
+    "gold": 38,
+    "drop": { "slug": "Aile de Chimère", "probability": 12.5 },
+    "location": ["la_cave_de_douairiere", "tour_des_nuees"],
+    "slug": "eyepod"
+  },
+  {
+    "id": 57,
+    "name": {
+      "EN": "Hulagan",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Vahinéfaste",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hulagan.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hulagan.png",
+    "attack": 49,
+    "defence": 37,
+    "agility": 32,
+    "exp": 55,
+    "gold": 42,
+    "drop": { "slug": "Kilt de cuir", "probability": 3.125 },
+    "location": ["tour_des_nuees", "region_de_moulinsort"],
+    "slug": "hulagan"
+  },
+  {
+    "id": 58,
+    "name": {
+      "EN": "Cross eye",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Nakunoeil",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/cross_eye.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/cross_eye.png",
+    "attack": 60,
+    "defence": 40,
+    "agility": 35,
+    "exp": 52,
+    "gold": 28,
+    "drop": { "slug": "Maillet géant", "probability": 6.25 },
+    "location": [
+      "tour_des_nuees",
+      "taniere_de_la_panthere",
+      "tunnel_de_mostroferrato"
+    ],
+    "slug": "cross_eye"
+  },
+  {
+    "id": 59,
+    "name": {
+      "EN": "Urnexpected",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Alcajarre",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/urnexpected.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/urnexpected.png",
+    "attack": 22,
+    "defence": 92,
+    "agility": 65,
+    "exp": 71,
+    "gold": 79,
+    "drop": { "slug": "Mini-médaille", "probability": 12.5 },
+    "location": ["imitation_d_une_jarre"],
+    "slug": "urnexpected"
+  },
+  {
+    "id": 60,
+    "name": {
+      "EN": "Gourdzilla",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Gourdzilla",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/gourdzilla.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/gourdzilla.png",
+    "attack": 57,
+    "defence": 31,
+    "agility": 48,
+    "exp": 59,
+    "gold": 30,
+    "drop": { "slug": "Fouet d'épines", "probability": 6.25 },
+    "location": ["tour_des_nuees", "taniere_de_la_panthere"],
+    "slug": "gourdzilla"
+  },
+  {
+    "id": 61,
+    "name": {
+      "EN": "Metal slime knight",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Monte-gluant de métal",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/metal_slime_knight.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/metal_slime_knight.png",
+    "attack": 61,
+    "defence": 85,
+    "agility": 55,
+    "exp": 135,
+    "gold": 31,
+    "drop": { "slug": "Plastron de fer", "probability": 3.125 },
+    "location": [
+      "region_de_port_lanterne",
+      "taniere_de_la_panthere",
+      "region_de_moulinsort"
+    ],
+    "slug": "metal_slime_knight"
+  },
+  {
+    "id": 62,
+    "name": {
+      "EN": "Restless armour",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Armure errante",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/restless_armour.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/restless_armour.png",
+    "attack": 72,
+    "defence": 64,
+    "agility": 41,
+    "exp": 65,
+    "gold": 35,
+    "drop": { "slug": "Armure errante", "probability": 3.125 },
+    "location": ["tour_des_nuees", "region_de_port_lanterne"],
+    "slug": "restless_armour"
+  },
+  {
+    "id": 63,
+    "name": {
+      "EN": "Growlbear",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Grizzlibou",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/growlbear.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/growlbear.png",
+    "attack": 59,
+    "defence": 64,
+    "agility": 44,
+    "exp": 57,
+    "gold": 45,
+    "drop": { "slug": "Bouclier de fer", "probability": 6.25 },
+    "location": [
+      "region_de_port_lanterne",
+      "region_de_l_auberge_au_sud_de_moulinsort"
+    ],
+    "slug": "growlbear"
+  },
+  {
+    "id": 64,
+    "name": {
+      "EN": "Mudraker",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Fangeux",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/mudraker.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/mudraker.png",
+    "attack": 70,
+    "defence": 40,
+    "agility": 20,
+    "exp": 60,
+    "gold": 31,
+    "drop": { "slug": "Graine de Vie", "probability": 1.5625 },
+    "location": ["taniere_de_la_panthere", "tunnel_de_mostroferrato"],
+    "slug": "mudraker"
+  },
+  {
+    "id": 65,
+    "name": {
+      "EN": "Liquid metal slime",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Gluant de mercure",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/liquid_metal_slime.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/liquid_metal_slime.png",
+    "attack": 61,
+    "defence": 1023,
+    "agility": 150,
+    "exp": 10050,
+    "gold": 10,
+    "drop": { "slug": "Mini-médaille", "probability": 1.5625 },
+    "location": [
+      "grotte_de_gotha",
+      "balme_des_debutants",
+      "tour_des_monstres",
+      "region_de_la_tour_de_zenithia",
+      "la_cachette",
+      "mont_zugzwang",
+      "donjon_d_estark"
+    ],
+    "slug": "liquid_metal_slime"
+  },
+  {
+    "id": 66,
+    "name": {
+      "EN": "Pocus poppet",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Talismaboule",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/pocus_poppet.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/pocus_poppet.png",
+    "attack": 65,
+    "defence": 95,
+    "agility": 48,
+    "exp": 50,
+    "gold": 120,
+    "drop": { "slug": "Graine de Vitalité", "probability": 1.5625 },
+    "location": [
+      "taniere_de_la_panthere",
+      "region_de_l_auberge_au_sud_de_moulinsort"
+    ],
+    "slug": "pocus_poppet"
+  },
+  {
+    "id": 67,
+    "name": {
+      "EN": "Paralakeet",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Paralycatoès",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/paralakeet.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/paralakeet.png",
+    "attack": 66,
+    "defence": 56,
+    "agility": 47,
+    "exp": 65,
+    "gold": 35,
+    "drop": { "slug": "Aile de Chimère", "probability": 6.25 },
+    "location": ["region_de_l_auberge_au_sud_de_moulinsort"],
+    "slug": "paralakeet"
+  },
+  {
+    "id": 68,
+    "name": {
+      "EN": "Sasquash",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Primatraque",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/sasquash.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/sasquash.png",
+    "attack": 75,
+    "defence": 50,
+    "agility": 35,
+    "exp": 74,
+    "gold": 42,
+    "drop": { "slug": "Graine de Force", "probability": 1.5625 },
+    "location": ["taniere_de_la_panthere", "region_de_moulinsort"],
+    "slug": "sasquash"
+  },
+  {
+    "id": 69,
+    "name": {
+      "EN": "Magic marionette",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Pantin magique",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/magic_marionette.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/magic_marionette.png",
+    "attack": 63,
+    "defence": 71,
+    "agility": 54,
+    "exp": 70,
+    "gold": 30,
+    "drop": { "slug": "Costume de danseuse", "probability": 6.25 },
+    "location": [
+      "region_de_moulinsort",
+      "region_de_l_auberge_au_sud_de_moulinsort"
+    ],
+    "slug": "magic_marionette"
+  },
+  {
+    "id": 70,
+    "name": {
+      "EN": "Wisp-o'-smoke",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Fumefouet",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/wisp-o'-smoke.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/wisp-o'-smoke.png",
+    "attack": 68,
+    "defence": 58,
+    "agility": 46,
+    "exp": 77,
+    "gold": 17,
+    "drop": { "slug": "Fiole D'Eau Magique", "probability": 12.5 },
+    "location": [
+      "taniere_de_la_panthere",
+      "region_de_moulinsort",
+      "tunnel_de_mostroferrato"
+    ],
+    "slug": "wisp-o'-smoke"
+  },
+  {
+    "id": 71,
+    "name": {
+      "EN": "Pokesperson",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Melbalancier",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/pokesperson.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/pokesperson.png",
+    "attack": 85,
+    "defence": 72,
+    "agility": 47,
+    "exp": 79,
+    "gold": 42,
+    "drop": { "slug": "Plastron de fer", "probability": 6.25 },
+    "location": ["taniere_de_la_panthere", "region_de_mostroferrato"],
+    "slug": "pokesperson"
+  },
+  {
+    "id": 72,
+    "name": {
+      "EN": "Corpse corporal",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Macchab",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/corpse_corporal.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/corpse_corporal.png",
+    "attack": 74,
+    "defence": 15,
+    "agility": 28,
+    "exp": 85,
+    "gold": 11,
+    "drop": { "slug": "Feuille D'Yggdrasil", "probability": 1.5625 },
+    "location": [
+      "region_de_l_auberge_au_sud_de_moulinsort",
+      "tunnel_de_mostroferrato"
+    ],
+    "slug": "corpse_corporal"
+  },
+  {
+    "id": 73,
+    "name": {
+      "EN": "Drooling ghoul",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Sméagoule",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/drooling_ghoul.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/drooling_ghoul.png",
+    "attack": 72,
+    "defence": 52,
+    "agility": 55,
+    "exp": 69,
+    "gold": 22,
+    "drop": { "slug": "Herbe Médicinale", "probability": 6.25 },
+    "location": [
+      "region_de_l_auberge_au_sud_de_moulinsort",
+      "region_de_mostroferrato"
+    ],
+    "slug": "drooling_ghoul"
+  },
+  {
+    "id": 74,
+    "name": {
+      "EN": "Gamigin",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Boukémisère",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/gamigin.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/gamigin.png",
+    "attack": 83,
+    "defence": 68,
+    "agility": 53,
+    "exp": 101,
+    "gold": 55,
+    "drop": { "slug": "Monstrobecs", "probability": 3.125 },
+    "location": ["volcan_de_la_mort"],
+    "slug": "gamigin"
+  },
+  {
+    "id": 75,
+    "name": {
+      "EN": "Great sabrecat",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Smilodon",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/great_sabrecat.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/great_sabrecat.png",
+    "attack": 71,
+    "defence": 54,
+    "agility": 51,
+    "exp": 100,
+    "gold": 45,
+    "drop": { "slug": "Griffe de feu", "probability": 3.125 },
+    "location": [
+      "region_de_moulinsort",
+      "region_de_l_auberge_au_sud_de_moulinsort"
+    ],
+    "slug": "great_sabrecat"
+  },
+  {
+    "id": 76,
+    "name": {
+      "EN": "Thaumaturge",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Traumaturge",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/thaumaturge.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/thaumaturge.png",
+    "attack": 70,
+    "defence": 60,
+    "agility": 56,
+    "exp": 85,
+    "gold": 43,
+    "drop": { "slug": "Fiole d'Eau Sacrée", "probability": 6.25 },
+    "location": ["region_de_moulinsort"],
+    "slug": "thaumaturge"
+  },
+  {
+    "id": 77,
+    "name": {
+      "EN": "Hunter mech",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Mécachasseur",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hunter_mech.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hunter_mech.png",
+    "attack": 88,
+    "defence": 90,
+    "agility": 63,
+    "exp": 140,
+    "gold": 51,
+    "drop": { "slug": "Graine de Sagesse", "probability": 6.25 },
+    "location": ["region_de_mostroferrato", "grotte_de_tecarlo"],
+    "slug": "hunter_mech"
+  },
+  {
+    "id": 78,
+    "name": {
+      "EN": "Mimic",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Imitapeur",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/mimic.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/mimic.png",
+    "attack": 110,
+    "defence": 150,
+    "agility": 52,
+    "exp": 210,
+    "gold": 110,
+    "drop": { "slug": "Mini-médaille", "probability": 100 },
+    "location": [
+      "grotte_de_gotha",
+      "tour_des_monstres",
+      "mont_zugzwang",
+      "donjon_d_estark"
+    ],
+    "slug": "mimic"
+  },
+  {
+    "id": 79,
+    "name": {
+      "EN": "Chimaera",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Chimère",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/chimaera.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/chimaera.png",
+    "attack": 72,
+    "defence": 65,
+    "agility": 54,
+    "exp": 90,
+    "gold": 45,
+    "drop": { "slug": "Aile de Chimère", "probability": 12.5 },
+    "location": ["region_de_mostroferrato", "volcan_de_la_mort"],
+    "slug": "chimaera"
+  },
+  {
+    "id": 80,
+    "name": {
+      "EN": "Wormbat",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Lézaérien",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/wormbat.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/wormbat.png",
+    "attack": 79,
+    "defence": 61,
+    "agility": 52,
+    "exp": 80,
+    "gold": 33,
+    "drop": { "slug": "Botryche Lunaire", "probability": 12.5 },
+    "location": [
+      "grotte_de_ruycelieu_(radeau)",
+      "tunnel_de_mostroferrato",
+      "region_de_mostroferrato",
+      "volcan_de_la_mort",
+      "grotte_de_la_cascade"
+    ],
+    "slug": "wormbat"
+  },
+  {
+    "id": 81,
+    "name": {
+      "EN": "Poxtongue",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Bavipare",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/poxtongue.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/poxtongue.png",
+    "attack": 75,
+    "defence": 42,
+    "agility": 32,
+    "exp": 99,
+    "gold": 35,
+    "drop": { "slug": "Sac de Musc", "probability": 6.25 },
+    "location": ["region_de_mostroferrato", "grotte_de_la_cascade"],
+    "slug": "poxtongue"
+  },
+  {
+    "id": 82,
+    "name": {
+      "EN": "Phantaseyes",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Trompeloeil",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/phantaseyes.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/phantaseyes.png",
+    "attack": 105,
+    "defence": 65,
+    "agility": 41,
+    "exp": 115,
+    "gold": 55,
+    "drop": { "slug": "Graine de Force", "probability": 1.5625 },
+    "location": ["region_de_mostroferrato"],
+    "slug": "phantaseyes"
+  },
+  {
+    "id": 83,
+    "name": {
+      "EN": "Rockbomb",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Rochexplosif",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/rockbomb.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/rockbomb.png",
+    "attack": 69,
+    "defence": 12,
+    "agility": 10,
+    "exp": 95,
+    "gold": 27,
+    "drop": { "slug": "Eclat  de bombe", "probability": 3.125 },
+    "location": [
+      "region_de_mostroferrato",
+      "volcan_de_la_mort",
+      "tour_des_monstres"
+    ],
+    "slug": "rockbomb"
+  },
+  {
+    "id": 84,
+    "name": {
+      "EN": "Jiggery-pokerer",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Lanciémacié",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/jiggery-pokerer.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/jiggery-pokerer.png",
+    "attack": 85,
+    "defence": 64,
+    "agility": 61,
+    "exp": 105,
+    "gold": 41,
+    "drop": { "slug": "Plastron de fer", "probability": 6.25 },
+    "location": [
+      "region_de_mostroferrato",
+      "volcan_de_la_mort",
+      "grotte_de_la_cascade"
+    ],
+    "slug": "jiggery-pokerer"
+  },
+  {
+    "id": 85,
+    "name": {
+      "EN": "Monster tamer",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Fouettard",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/monster_tamer.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/monster_tamer.png",
+    "attack": 75,
+    "defence": 58,
+    "agility": 53,
+    "exp": 108,
+    "gold": 53,
+    "drop": { "slug": "Fouet d'épines", "probability": 6.25 },
+    "location": [
+      "region_de_mostroferrato",
+      "volcan_de_la_mort",
+      "grotte_de_la_cascade"
+    ],
+    "slug": "monster_tamer"
+  },
+  {
+    "id": 86,
+    "name": {
+      "EN": "Hotbog",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Tadbou",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hotbog.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hotbog.png",
+    "attack": 91,
+    "defence": 35,
+    "agility": 40,
+    "exp": 120,
+    "gold": 31,
+    "drop": { "slug": "Graine de Vitalité", "probability": 1.5625 },
+    "location": ["volcan_de_la_mort", "grotte_de_la_cascade", "grand_desert"],
+    "slug": "hotbog"
+  },
+  {
+    "id": 87,
+    "name": {
+      "EN": "Goodybag",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Sacatrésor",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/goodybag.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/goodybag.png",
+    "attack": 65,
+    "defence": 110,
+    "agility": 70,
+    "exp": 80,
+    "gold": 200,
+    "drop": { "slug": "Bague de prière", "probability": 0.78125 },
+    "location": [
+      "volcan_de_la_mort",
+      "grotte_de_la_cascade",
+      "foret_de_feeria"
+    ],
+    "slug": "goodybag"
+  },
+  {
+    "id": 88,
+    "name": {
+      "EN": "Cureslime",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Guérigluant",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/cureslime.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/cureslime.png",
+    "attack": 57,
+    "defence": 62,
+    "agility": 37,
+    "exp": 70,
+    "gold": 43,
+    "drop": { "slug": "Feuille D'Yggdrasil", "probability": 1.5625 },
+    "location": [
+      "grotte_de_la_cascade",
+      "grand_desert",
+      "region_du_chateau_de_dominicus"
+    ],
+    "slug": "cureslime"
+  },
+  {
+    "id": 89,
+    "name": {
+      "EN": "Gastank",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Ogravent",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/gastank.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/gastank.png",
+    "attack": 75,
+    "defence": 40,
+    "agility": 23,
+    "exp": 115,
+    "gold": 40,
+    "drop": { "slug": "Herbe Curative", "probability": 6.25 },
+    "location": ["grotte_de_la_cascade"],
+    "slug": "gastank"
+  },
+  {
+    "id": 90,
+    "name": {
+      "EN": "Orc",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Orque",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/orc.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/orc.png",
+    "attack": 90,
+    "defence": 64,
+    "agility": 55,
+    "exp": 125,
+    "gold": 55,
+    "drop": { "slug": "Cape de fourrure", "probability": 6.25 },
+    "location": ["mont_zugzwang"],
+    "slug": "orc"
+  },
+  {
+    "id": 91,
+    "name": {
+      "EN": "King slime",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Roi gluant",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/king_slime.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/king_slime.png",
+    "attack": 115,
+    "defence": 58,
+    "agility": 40,
+    "exp": 200,
+    "gold": 115,
+    "drop": { "slug": "Feuille D'Yggdrasil", "probability": 3.125 },
+    "location": ["region_du_chateau_de_dominicus"],
+    "slug": "king_slime"
+  },
+  {
+    "id": 92,
+    "name": {
+      "EN": "Flamethrower",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Tizon",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/flamethrower.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/flamethrower.png",
+    "attack": 83,
+    "defence": 60,
+    "agility": 58,
+    "exp": 130,
+    "gold": 50,
+    "drop": { "slug": "Graine de Sagesse", "probability": 1.5625 },
+    "location": ["volcan_de_la_mort", "grand_desert", "grotte_de_gotha"],
+    "slug": "flamethrower"
+  },
+  {
+    "id": 93,
+    "name": {
+      "EN": "Frighturn",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Orque",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/frighturn.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/frighturn.png",
+    "attack": 120,
+    "defence": 300,
+    "agility": 91,
+    "exp": 250,
+    "gold": 158,
+    "drop": { "slug": "Mini-médaille", "probability": 12.5 },
+    "location": ["mont_zugzwang"],
+    "slug": "frighturn"
+  },
+  {
+    "id": 94,
+    "name": {
+      "EN": "Lazy eye",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Monoeil",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/lazy_eye.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/lazy_eye.png",
+    "attack": 70,
+    "defence": 44,
+    "agility": 33,
+    "exp": 95,
+    "gold": 33,
+    "drop": { "slug": "Graine de Vie", "probability": 1.5625 },
+    "location": [
+      "grand_desert",
+      "region_de_l_auberge_de_la_pie",
+      "region_de_la_tour_des_monstres"
+    ],
+    "slug": "lazy_eye"
+  },
+  {
+    "id": 95,
+    "name": {
+      "EN": "Wizened wizard",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Majasque",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/wizened_wizard.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/wizened_wizard.png",
+    "attack": 68,
+    "defence": 72,
+    "agility": 47,
+    "exp": 123,
+    "gold": 50,
+    "drop": { "slug": "Fiole D'Eau Magique", "probability": 3.125 },
+    "location": [
+      "region_de_l_auberge_de_la_pie",
+      "grotte_de_tecarlo",
+      "region_de_gotha",
+      "region_de_la_tour_des_monstres"
+    ],
+    "slug": "wizened_wizard"
+  },
+  {
+    "id": 96,
+    "name": {
+      "EN": "Drag-goof",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Dindodrag",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/drag-goof.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/drag-goof.png",
+    "attack": 99,
+    "defence": 65,
+    "agility": 53,
+    "exp": 127,
+    "gold": 45,
+    "drop": { "slug": "Graine de Sagesse", "probability": 1.5625 },
+    "location": [
+      "region_de_l_auberge_de_la_pie",
+      "grotte_de_tecarlo",
+      "grotte_de_gotha",
+      "region_de_la_tour_des_monstres"
+    ],
+    "slug": "drag-goof"
+  },
+  {
+    "id": 97,
+    "name": {
+      "EN": "Deadcurion",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Sangturion",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/deadcurion.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/deadcurion.png",
+    "attack": 84,
+    "defence": 61,
+    "agility": 60,
+    "exp": 106,
+    "gold": 25,
+    "drop": { "slug": "Botryche Lunaire", "probability": 6.25 },
+    "location": ["grotte_de_tecarlo", "grotte_de_gotha"],
+    "slug": "deadcurion"
+  },
+  {
+    "id": 98,
+    "name": {
+      "EN": "Wight prince",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Prince maudit",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/wight_prince.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/wight_prince.png",
+    "attack": 100,
+    "defence": 89,
+    "agility": 67,
+    "exp": 158,
+    "gold": 45,
+    "drop": { "slug": "Bâton de foudre", "probability": 0.78125 },
+    "location": ["grotte_de_tecarlo", "grotte_de_gotha"],
+    "slug": "wight_prince"
+  },
+  {
+    "id": 99,
+    "name": {
+      "EN": "Lindworm",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Dragoptère",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/lindworm.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/lindworm.png",
+    "attack": 85,
+    "defence": 73,
+    "agility": 63,
+    "exp": 98,
+    "gold": 42,
+    "drop": { "slug": "Sac de Musc", "probability": 1.5625 },
+    "location": ["grotte_de_tecarlo", "grotte_de_gotha"],
+    "slug": "lindworm"
+  },
+  {
+    "id": 100,
+    "name": {
+      "EN": "Minidemon",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Mini démon",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/minidemon.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/minidemon.png",
+    "attack": 79,
+    "defence": 68,
+    "agility": 55,
+    "exp": 120,
+    "gold": 47,
+    "drop": { "slug": "Couvercle de tonneau", "probability": 6.25 },
+    "location": ["grotte_de_gotha", "tour_des_monstres"],
+    "slug": "minidemon"
+  },
+  {
+    "id": 101,
+    "name": {
+      "EN": "Eyevory tusk-tusk",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Stigmammouth",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/eyevory_tusk-tusk.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/eyevory_tusk-tusk.png",
+    "attack": 115,
+    "defence": 60,
+    "agility": 56,
+    "exp": 145,
+    "gold": 40,
+    "drop": { "slug": "Graine de Force", "probability": 1.5625 },
+    "location": [
+      "region_de_l_auberge_de_la_pie",
+      "region_de_gotha",
+      "region_de_la_tour_des_monstres"
+    ],
+    "slug": "eyevory_tusk-tusk"
+  },
+  {
+    "id": 102,
+    "name": {
+      "EN": "Stone golem",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Golem de pierre",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/stone_golem.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/stone_golem.png",
+    "attack": 130,
+    "defence": 110,
+    "agility": 33,
+    "exp": 176,
+    "gold": 65,
+    "drop": { "slug": "Bionyx", "probability": 0.78125 },
+    "location": [
+      "region_de_l_auberge_de_la_pie",
+      "region_de_gotha",
+      "region_de_la_tour_des_monstres"
+    ],
+    "slug": "stone_golem"
+  },
+  {
+    "id": 103,
+    "name": {
+      "EN": "Quack up",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Palmiplane",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/quack_up.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/quack_up.png",
+    "attack": 85,
+    "defence": 60,
+    "agility": 65,
+    "exp": 135,
+    "gold": 57,
+    "drop": { "slug": "Aile de Chimère", "probability": 3.125 },
+    "location": ["grotte_de_tecarlo", "tour_des_monstres"],
+    "slug": "quack_up"
+  },
+  {
+    "id": 104,
+    "name": {
+      "EN": "Samigina",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Mouflacorne",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/samigina.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/samigina.png",
+    "attack": 107,
+    "defence": 67,
+    "agility": 70,
+    "exp": 155,
+    "gold": 50,
+    "drop": { "slug": "Bague de prière", "probability": 1.5625 },
+    "location": [
+      "grotte_de_gotha",
+      "region_de_gotha",
+      "balme_des_debutants",
+      "region_de_la_tour_des_monstres"
+    ],
+    "slug": "samigina"
+  },
+  {
+    "id": 105,
+    "name": {
+      "EN": "Hocus chimaera",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Archimère",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hocus_chimaera.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hocus_chimaera.png",
+    "attack": 82,
+    "defence": 67,
+    "agility": 63,
+    "exp": 171,
+    "gold": 65,
+    "drop": { "slug": "Aile de Chimère", "probability": 6.25 },
+    "location": ["region_de_mostroferrato", "volcan_de_la_mort"],
+    "slug": "hocus_chimaera"
+  },
+  {
+    "id": 106,
+    "name": {
+      "EN": "Toxtongue",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Bavisqueux",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/toxtongue.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/toxtongue.png",
+    "attack": 95,
+    "defence": 40,
+    "agility": 48,
+    "exp": 180,
+    "gold": 35,
+    "drop": { "slug": "Graine de Sagesse", "probability": 1.5625 },
+    "location": ["tour_des_monstres"],
+    "slug": "toxtongue"
+  },
+  {
+    "id": 107,
+    "name": {
+      "EN": "Admirer",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Viscaire",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/admirer.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/admirer.png",
+    "attack": 95,
+    "defence": 30,
+    "agility": 120,
+    "exp": 550,
+    "gold": 85,
+    "drop": { "slug": "Mini-médaille", "probability": 1.5625 },
+    "location": ["balme_des_debutants", "tour_de_zenithia", "mont_zugzwang"],
+    "slug": "admirer"
+  },
+  {
+    "id": 108,
+    "name": {
+      "EN": "Hex hellmet",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Macasque",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hex_hellmet.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hex_hellmet.png",
+    "attack": 90,
+    "defence": 90,
+    "agility": 72,
+    "exp": 210,
+    "gold": 40,
+    "drop": { "slug": "Masque de fer", "probability": 3.125 },
+    "location": [
+      "region_de_gotha",
+      "balme_des_debutants",
+      "region_de_la_tour_des_monstres"
+    ],
+    "slug": "hex_hellmet"
+  },
+  {
+    "id": 109,
+    "name": {
+      "EN": "Orc king",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Roi orque",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/orc_king.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/orc_king.png",
+    "attack": 110,
+    "defence": 65,
+    "agility": 70,
+    "exp": 205,
+    "gold": 65,
+    "drop": { "slug": "Cape de fourrure", "probability": 6.25 },
+    "location": [
+      "region_de_l_auberge_de_la_pie",
+      "region_de_gotha",
+      "balme_des_debutants",
+      "region_de_la_tour_des_monstres",
+      "tour_des_monstres"
+    ],
+    "slug": "orc_king"
+  },
+  {
+    "id": 110,
+    "name": {
+      "EN": "Gasbag",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Flatulogre",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/gasbag.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/gasbag.png",
+    "attack": 105,
+    "defence": 62,
+    "agility": 52,
+    "exp": 190,
+    "gold": 55,
+    "drop": { "slug": "Herbe Curative", "probability": 3.125 },
+    "location": ["balme_des_debutants"],
+    "slug": "gasbag"
+  },
+  {
+    "id": 111,
+    "name": {
+      "EN": "Hippoblockomus",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Hippocrik",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hippoblockomus.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hippoblockomus.png",
+    "attack": 105,
+    "defence": 120,
+    "agility": 45,
+    "exp": 202,
+    "gold": 60,
+    "drop": { "slug": "Bouclier de fer", "probability": 6.25 },
+    "location": ["tour_des_monstres"],
+    "slug": "hippoblockomus"
+  },
+  {
+    "id": 112,
+    "name": {
+      "EN": "Hawk man",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Gerfaut",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hawk_man.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hawk_man.png",
+    "attack": 95,
+    "defence": 62,
+    "agility": 70,
+    "exp": 185,
+    "gold": 51,
+    "drop": { "slug": "Epée large d'acier", "probability": 3.125 },
+    "location": ["tour_des_monstres"],
+    "slug": "hawk_man"
+  },
+  {
+    "id": 113,
+    "name": {
+      "EN": "Hula ghoul",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Monstraïtienne",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hula_ghoul.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hula_ghoul.png",
+    "attack": 84,
+    "defence": 60,
+    "agility": 63,
+    "exp": 225,
+    "gold": 45,
+    "drop": { "slug": "Costume de danseuse", "probability": 6.25 },
+    "location": ["balme_des_debutants", "tour_des_monstres"],
+    "slug": "hula_ghoul"
+  },
+  {
+    "id": 114,
+    "name": {
+      "EN": "Hellion",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Trublion",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hellion.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hellion.png",
+    "attack": 117,
+    "defence": 72,
+    "agility": 78,
+    "exp": 240,
+    "gold": 70,
+    "drop": { "slug": "Griffe de fer", "probability": 6.25 },
+    "location": ["tour_des_monstres"],
+    "slug": "hellion"
+  },
+  {
+    "id": 115,
+    "name": {
+      "EN": "Jowler",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Crinocéphale",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/jowler.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/jowler.png",
+    "attack": 105,
+    "defence": 45,
+    "agility": 51,
+    "exp": 183,
+    "gold": 37,
+    "drop": { "slug": "Graine D'Agilité", "probability": 1.5625 },
+    "location": ["tour_des_monstres"],
+    "slug": "jowler"
+  },
+  {
+    "id": 116,
+    "name": {
+      "EN": "Hoodlum",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Truciteur",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hoodlum.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hoodlum.png",
+    "attack": 75,
+    "defence": 71,
+    "agility": 61,
+    "exp": 195,
+    "gold": 54,
+    "drop": { "slug": "Hache de pierre", "probability": 6.25 },
+    "location": [
+      "region_de_haute_cime",
+      "tour_de_zenithia",
+      "region_de_la_cachette"
+    ],
+    "slug": "hoodlum"
+  },
+  {
+    "id": 117,
+    "name": {
+      "EN": "Air duckt",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Canarssier",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/air_duckt.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/air_duckt.png",
+    "attack": 89,
+    "defence": 73,
+    "agility": 64,
+    "exp": 217,
+    "gold": 60,
+    "drop": { "slug": "Clochette séraphique", "probability": 1.5625 },
+    "location": [
+      "tour_des_monstres",
+      "region_de_haute_cime",
+      "tour_de_zenithia"
+    ],
+    "slug": "air_duckt"
+  },
+  {
+    "id": 118,
+    "name": {
+      "EN": "Tortoceratops",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Tensiocératops",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/tortoceratops.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/tortoceratops.png",
+    "attack": 121,
+    "defence": 115,
+    "agility": 49,
+    "exp": 225,
+    "gold": 45,
+    "drop": { "slug": "Graine de Force", "probability": 0.78125 },
+    "location": ["region_de_haute_cime"],
+    "slug": "tortoceratops"
+  },
+  {
+    "id": 119,
+    "name": {
+      "EN": "Pink elephant",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Pachyrose",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/pink_elephant.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/pink_elephant.png",
+    "attack": 137,
+    "defence": 75,
+    "agility": 56,
+    "exp": 264,
+    "gold": 70,
+    "drop": { "slug": "Graine de Vie", "probability": 1.5625 },
+    "location": ["region_de_la_tour_de_zenithia"],
+    "slug": "pink_elephant"
+  },
+  {
+    "id": 120,
+    "name": {
+      "EN": "Drag-goon",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Dragedin",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/drag-goon.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/drag-goon.png",
+    "attack": 130,
+    "defence": 81,
+    "agility": 63,
+    "exp": 245,
+    "gold": 63,
+    "drop": { "slug": "Fiole de jus de peps", "probability": 3.125 },
+    "location": ["region_de_haute_cime", "la_cachette"],
+    "slug": "drag-goon"
+  },
+  {
+    "id": 121,
+    "name": {
+      "EN": "Hypothermion",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Hypothermiox",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hypothermion.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hypothermion.png",
+    "attack": 110,
+    "defence": 93,
+    "agility": 77,
+    "exp": 252,
+    "gold": 60,
+    "drop": { "slug": "Graine de Magie", "probability": 1.5625 },
+    "location": ["region_de_haute_cime", "tour_de_zenithia"],
+    "slug": "hypothermion"
+  },
+  {
+    "id": 122,
+    "name": {
+      "EN": "Muddy hand",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Main de boue",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/muddy_hand.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/muddy_hand.png",
+    "attack": 83,
+    "defence": 60,
+    "agility": 71,
+    "exp": 110,
+    "gold": 35,
+    "drop": { "slug": "Aile de Chimère", "probability": 3.125 },
+    "location": ["region_de_la_tour_de_zenithia", "la_cachette"],
+    "slug": "muddy_hand"
+  },
+  {
+    "id": 123,
+    "name": {
+      "EN": "Golem",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Golem",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/golem.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/golem.png",
+    "attack": 160,
+    "defence": 150,
+    "agility": 51,
+    "exp": 330,
+    "gold": 90,
+    "drop": { "slug": "Graine de Force", "probability": 1.5625 },
+    "location": [
+      "region_de_haute_cime",
+      "tour_de_zenithia",
+      "la_cachette",
+      "tour_de_bebal"
+    ],
+    "slug": "golem"
+  },
+  {
+    "id": 124,
+    "name": {
+      "EN": "Mandrake major",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Caporal mandragor",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/mandrake_major.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/mandrake_major.png",
+    "attack": 105,
+    "defence": 95,
+    "agility": 78,
+    "exp": 215,
+    "gold": 65,
+    "drop": { "slug": "Epée dentée", "probability": 6.25 },
+    "location": ["region_de_haute_cime", "tour_de_zenithia", "la_cachette"],
+    "slug": "mandrake_major"
+  },
+  {
+    "id": 125,
+    "name": {
+      "EN": "Firebird",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Aiglefeu",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/firebird.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/firebird.png",
+    "attack": 89,
+    "defence": 80,
+    "agility": 82,
+    "exp": 238,
+    "gold": 63,
+    "drop": { "slug": "Bâton somatique", "probability": 3.125 },
+    "location": ["region_de_haute_cime", "tour_de_zenithia", "la_cachette"],
+    "slug": "firebird"
+  },
+  {
+    "id": 126,
+    "name": {
+      "EN": "Revaulting horse",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Léthalon",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/revaulting_horse.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/revaulting_horse.png",
+    "attack": 120,
+    "defence": 94,
+    "agility": 69,
+    "exp": 270,
+    "gold": 75,
+    "drop": { "slug": "Fiole D'Eau Magique", "probability": 3.125 },
+    "location": ["tour_de_zenithia", "region_de_la_tour_de_zenithia"],
+    "slug": "revaulting_horse"
+  },
+  {
+    "id": 127,
+    "name": {
+      "EN": "Blizzybody",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Glazon",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/blizzybody.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/blizzybody.png",
+    "attack": 105,
+    "defence": 73,
+    "agility": 73,
+    "exp": 290,
+    "gold": 60,
+    "drop": { "slug": "Haut-de-forme", "probability": 3.125 },
+    "location": ["sanctuaire_de_l_estuaire"],
+    "slug": "blizzybody"
+  },
+  {
+    "id": 128,
+    "name": {
+      "EN": "Stenchurion",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Décarion",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/stenchurion.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/stenchurion.png",
+    "attack": 115,
+    "defence": 53,
+    "agility": 45,
+    "exp": 282,
+    "gold": 40,
+    "drop": { "slug": "Cuirasse sanglante", "probability": 3.125 },
+    "location": ["sanctuaire_de_l_estuaire", "la_cachette"],
+    "slug": "stenchurion"
+  },
+  {
+    "id": 129,
+    "name": {
+      "EN": "Necromancer",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Nécromancien",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/necromancer.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/necromancer.png",
+    "attack": 98,
+    "defence": 115,
+    "agility": 75,
+    "exp": 325,
+    "gold": 90,
+    "drop": { "slug": "Bague de prière", "probability": 1.5625 },
+    "location": ["sanctuaire_de_l_estuaire", "region_de_la_tour_de_zenithia"],
+    "slug": "necromancer"
+  },
+  {
+    "id": 130,
+    "name": {
+      "EN": "King cureslime",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Roi guérigluant",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/king_cureslime.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/king_cureslime.png",
+    "attack": 99,
+    "defence": 99,
+    "agility": 58,
+    "exp": 380,
+    "gold": 100,
+    "drop": { "slug": "Pierre de résurrection", "probability": 0.78125 },
+    "location": ["tour_de_zenithia"],
+    "slug": "king_cureslime"
+  },
+  {
+    "id": 131,
+    "name": {
+      "EN": "Red-hot poker",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Fantassassin",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/red-hot_poker.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/red-hot_poker.png",
+    "attack": 125,
+    "defence": 105,
+    "agility": 77,
+    "exp": 270,
+    "gold": 63,
+    "drop": { "slug": "Plastron de fer", "probability": 3.125 },
+    "location": ["tour_de_zenithia", "region_de_la_tour_de_zenithia"],
+    "slug": "red-hot_poker"
+  },
+  {
+    "id": 132,
+    "name": {
+      "EN": "Hippopotamiss",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Hippokondric",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hippopotamiss.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hippopotamiss.png",
+    "attack": 135,
+    "defence": 160,
+    "agility": 56,
+    "exp": 295,
+    "gold": 80,
+    "drop": { "slug": "Bouclier de fer", "probability": 3.125 },
+    "location": ["tour_de_zenithia"],
+    "slug": "hippopotamiss"
+  },
+  {
+    "id": 133,
+    "name": {
+      "EN": "Gargoyle",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Gargouille",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/gargoyle.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/gargoyle.png",
+    "attack": 140,
+    "defence": 96,
+    "agility": 80,
+    "exp": 290,
+    "gold": 85,
+    "drop": { "slug": "Epée serpentine", "probability": 3.125 },
+    "location": ["tour_de_zenithia", "la_cachette"],
+    "slug": "gargoyle"
+  },
+  {
+    "id": 134,
+    "name": {
+      "EN": "Warhog",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Sanguinolier",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/warhog.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/warhog.png",
+    "attack": 154,
+    "defence": 110,
+    "agility": 78,
+    "exp": 335,
+    "gold": 90,
+    "drop": { "slug": "Hache de guerre", "probability": 1.5625 },
+    "location": ["tour_de_zenithia"],
+    "slug": "warhog"
+  },
+  {
+    "id": 135,
+    "name": {
+      "EN": "Hades helm",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Mortimasque",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hades_helm.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hades_helm.png",
+    "attack": 130,
+    "defence": 135,
+    "agility": 95,
+    "exp": 294,
+    "gold": 95,
+    "drop": { "slug": "Heaume d'hadès", "probability": 1.5625 },
+    "location": ["grotte_du_chateau_de_zenithia", "la_cachette"],
+    "slug": "hades_helm"
+  },
+  {
+    "id": 136,
+    "name": {
+      "EN": "Prowler jowler",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Mandibrute",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/prowler_jowler.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/prowler_jowler.png",
+    "attack": 145,
+    "defence": 70,
+    "agility": 70,
+    "exp": 310,
+    "gold": 65,
+    "drop": { "slug": "Graine D'Agilité", "probability": 1.5625 },
+    "location": ["grotte_du_chateau_de_zenithia"],
+    "slug": "prowler_jowler"
+  },
+  {
+    "id": 137,
+    "name": {
+      "EN": "Hyperpyrexion",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Hyperpyrex",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hyperpyrexion.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hyperpyrexion.png",
+    "attack": 140,
+    "defence": 121,
+    "agility": 79,
+    "exp": 401,
+    "gold": 110,
+    "drop": { "slug": "Lame des fées", "probability": 3.125 },
+    "location": ["grotte_du_chateau_de_zenithia", "la_cachette"],
+    "slug": "hyperpyrexion"
+  },
+  {
+    "id": 138,
+    "name": {
+      "EN": "Terrorceratops",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Torducératops",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/terrorceratops.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/terrorceratops.png",
+    "attack": 165,
+    "defence": 125,
+    "agility": 61,
+    "exp": 376,
+    "gold": 95,
+    "drop": { "slug": "Graine de Vitalité", "probability": 1.5625 },
+    "location": ["grotte_du_chateau_de_zenithia", "la_cachette"],
+    "slug": "terrorceratops"
+  },
+  {
+    "id": 139,
+    "name": {
+      "EN": "Mandrake marauder",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Soldat mandragor",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/mandrake_marauder.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/mandrake_marauder.png",
+    "attack": 160,
+    "defence": 115,
+    "agility": 88,
+    "exp": 380,
+    "gold": 81,
+    "drop": { "slug": "Epée large d'acier", "probability": 3.125 },
+    "location": ["grotte_du_chateau_de_zenithia"],
+    "slug": "mandrake_marauder"
+  },
+  {
+    "id": 140,
+    "name": {
+      "EN": "Silvapithecus",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Silvapithèque",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/silvapithecus.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/silvapithecus.png",
+    "attack": 130,
+    "defence": 110,
+    "agility": 77,
+    "exp": 403,
+    "gold": 100,
+    "drop": { "slug": "Fiole d'élixir Elfique", "probability": 3.125 },
+    "location": ["region_de_la_cachette", "la_cachette", "tour_de_bebal"],
+    "slug": "silvapithecus"
+  },
+  {
+    "id": 141,
+    "name": {
+      "EN": "Pummel horse",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Carnasson",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/pummel_horse.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/pummel_horse.png",
+    "attack": 138,
+    "defence": 101,
+    "agility": 75,
+    "exp": 350,
+    "gold": 68,
+    "drop": { "slug": "Monstrobecs", "probability": 3.125 },
+    "location": ["foret_de_feeria"],
+    "slug": "pummel_horse"
+  },
+  {
+    "id": 142,
+    "name": {
+      "EN": "Dragon zombie",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Dragon-zombie",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/dragon_zombie.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/dragon_zombie.png",
+    "attack": 173,
+    "defence": 55,
+    "agility": 48,
+    "exp": 450,
+    "gold": 55,
+    "drop": { "slug": "Bouclier du désastre", "probability": 3.125 },
+    "location": ["region_de_la_cachette"],
+    "slug": "dragon_zombie"
+  },
+  {
+    "id": 143,
+    "name": {
+      "EN": "Bomboulder",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Vulcanobombe",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/bomboulder.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/bomboulder.png",
+    "attack": 105,
+    "defence": 195,
+    "agility": 52,
+    "exp": 340,
+    "gold": 70,
+    "drop": { "slug": "Bionyx", "probability": 1.5625 },
+    "location": ["foret_de_feeria", "tour_de_bebal", "donjon_d_estark"],
+    "slug": "bomboulder"
+  },
+  {
+    "id": 144,
+    "name": {
+      "EN": "Metal king slime",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Roi gluant de métal",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/metal_king_slime.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/metal_king_slime.png",
+    "attack": 97,
+    "defence": 1023,
+    "agility": 152,
+    "exp": 30010,
+    "gold": 15,
+    "drop": { "slug": "Mini-médaille", "probability": 1.5625 },
+    "location": ["mont_zugzwang", "donjon_d_estark"],
+    "slug": "metal_king_slime"
+  },
+  {
+    "id": 145,
+    "name": {
+      "EN": "Quadrahead",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Têtaclaque",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/quadrahead.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/quadrahead.png",
+    "attack": 103,
+    "defence": 230,
+    "agility": 90,
+    "exp": 390,
+    "gold": 112,
+    "drop": { "slug": "Graine de Magie", "probability": 1.5625 },
+    "location": ["foret_de_feeria", "tour_de_bebal"],
+    "slug": "quadrahead"
+  },
+  {
+    "id": 146,
+    "name": {
+      "EN": "Moosifer",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Belzébik",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/moosifer.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/moosifer.png",
+    "attack": 147,
+    "defence": 120,
+    "agility": 85,
+    "exp": 410,
+    "gold": 120,
+    "drop": { "slug": "Armure maléfique", "probability": 3.125 },
+    "location": ["foret_de_feeria", "tour_de_bebal"],
+    "slug": "moosifer"
+  },
+  {
+    "id": 147,
+    "name": {
+      "EN": "Snake ch-arm-er",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Boarmé",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/snake_ch-arm-er.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/snake_ch-arm-er.png",
+    "attack": 152,
+    "defence": 100,
+    "agility": 77,
+    "exp": 370,
+    "gold": 82,
+    "drop": { "slug": "Epée serpentine", "probability": 3.125 },
+    "location": ["region_de_la_cachette", "sanctuaire_du_roi_korol"],
+    "slug": "snake_ch-arm-er"
+  },
+  {
+    "id": 148,
+    "name": {
+      "EN": "Thwarthog",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Sanglanglier",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/thwarthog.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/thwarthog.png",
+    "attack": 170,
+    "defence": 140,
+    "agility": 80,
+    "exp": 393,
+    "gold": 109,
+    "drop": { "slug": "Cotte de mailles", "probability": 3.125 },
+    "location": ["region_de_la_cachette", "tour_de_bebal"],
+    "slug": "thwarthog"
+  },
+  {
+    "id": 149,
+    "name": {
+      "EN": "Orobas",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Sangtaure",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/orobas.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/orobas.png",
+    "attack": 163,
+    "defence": 155,
+    "agility": 85,
+    "exp": 410,
+    "gold": 98,
+    "drop": { "slug": "Feuille D'Yggdrasil", "probability": 3.125 },
+    "location": [
+      "region_de_la_cachette",
+      "la_cachette",
+      "sanctuaire_du_roi_korol"
+    ],
+    "slug": "orobas"
+  },
+  {
+    "id": 150,
+    "name": {
+      "EN": "Snowbird",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Rapaglace",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/snowbird.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/snowbird.png",
+    "attack": 150,
+    "defence": 120,
+    "agility": 80,
+    "exp": 445,
+    "gold": 90,
+    "drop": { "slug": "Chapeau d'hermès", "probability": 0.78125 },
+    "location": ["region_de_la_cachette", "monde_de_nadiria"],
+    "slug": "snowbird"
+  },
+  {
+    "id": 151,
+    "name": {
+      "EN": "Black dragon",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Dragon noir",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/black_dragon.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/black_dragon.png",
+    "attack": 185,
+    "defence": 144,
+    "agility": 88,
+    "exp": 630,
+    "gold": 125,
+    "drop": { "slug": "Graine de Force", "probability": 1.5625 },
+    "location": ["tour_de_bebal", "sanctuaire_du_roi_korol"],
+    "slug": "black_dragon"
+  },
+  {
+    "id": 152,
+    "name": {
+      "EN": "Tyrannoceratops",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Tyrannocératops",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/tyrannoceratops.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/tyrannoceratops.png",
+    "attack": 173,
+    "defence": 137,
+    "agility": 63,
+    "exp": 470,
+    "gold": 80,
+    "drop": { "slug": "Graine de  Vitalité", "probability": 0.78125 },
+    "location": ["monde_de_nadiria"],
+    "slug": "tyrannoceratops"
+  },
+  {
+    "id": 153,
+    "name": {
+      "EN": "Balhib",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Phix",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/balhib.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/balhib.png",
+    "attack": 175,
+    "defence": 130,
+    "agility": 125,
+    "exp": 130,
+    "gold": 1023,
+    "drop": { "slug": "Marteau de hela", "probability": 1.5625 },
+    "location": ["tour_de_bebal", "monde_de_nadiria", "mont_zugzwang"],
+    "slug": "balhib"
+  },
+  {
+    "id": 154,
+    "name": {
+      "EN": "Metal dragon",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Dragon de métal",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/metal_dragon.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/metal_dragon.png",
+    "attack": 210,
+    "defence": 210,
+    "agility": 94,
+    "exp": 610,
+    "gold": 93,
+    "drop": { "slug": "Armure royale", "probability": 0.390625 },
+    "location": [
+      "tour_de_bebal",
+      "sanctuaire_du_roi_korol",
+      "monde_de_nadiria"
+    ],
+    "slug": "metal_dragon"
+  },
+  {
+    "id": 155,
+    "name": {
+      "EN": "Wrecktor",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Cyclomage",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/wrecktor.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/wrecktor.png",
+    "attack": 165,
+    "defence": 123,
+    "agility": 75,
+    "exp": 550,
+    "gold": 117,
+    "drop": { "slug": "Mini-médaille", "probability": 0.78125 },
+    "location": ["sanctuaire_du_roi_korol", "mont_zugzwang"],
+    "slug": "wrecktor"
+  },
+  {
+    "id": 156,
+    "name": {
+      "EN": "Mandrake marshal",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Général mandragor",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/mandrake_marshal.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/mandrake_marshal.png",
+    "attack": 190,
+    "defence": 145,
+    "agility": 91,
+    "exp": 490,
+    "gold": 98,
+    "drop": { "slug": "Epée large d'acier", "probability": 3.125 },
+    "location": [
+      "tour_de_bebal",
+      "sanctuaire_du_roi_korol",
+      "mont_zugzwang",
+      "donjon_d_estark"
+    ],
+    "slug": "mandrake_marshal"
+  },
+  {
+    "id": 157,
+    "name": {
+      "EN": "Beastmaster",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Maître-monstre",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/beastmaster.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/beastmaster.png",
+    "attack": 154,
+    "defence": 155,
+    "agility": 81,
+    "exp": 400,
+    "gold": 110,
+    "drop": { "slug": "Armure maléfique", "probability": 1.5625 },
+    "location": ["la_cachette", "mont_zugzwang"],
+    "slug": "beastmaster"
+  },
+  {
+    "id": 158,
+    "name": {
+      "EN": "Fire-eater",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Pyrophage",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/fire-eater.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/fire-eater.png",
+    "attack": 170,
+    "defence": 70,
+    "agility": 115,
+    "exp": 370,
+    "gold": 80,
+    "drop": { "slug": "Botryche Lunaire", "probability": 1.5625 },
+    "location": ["la_cachette"],
+    "slug": "fire-eater"
+  },
+  {
+    "id": 159,
+    "name": {
+      "EN": "Ice-breaker",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Brise-glace",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/ice-breaker.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/ice-breaker.png",
+    "attack": 180,
+    "defence": 70,
+    "agility": 115,
+    "exp": 310,
+    "gold": 74,
+    "drop": { "slug": "Griffe de feu", "probability": 3.125 },
+    "location": ["la_cachette", "mont_zugzwang"],
+    "slug": "ice-breaker"
+  },
+  {
+    "id": 160,
+    "name": {
+      "EN": "Luneyetic",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Endoeil",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/luneyetic.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/luneyetic.png",
+    "attack": 138,
+    "defence": 55,
+    "agility": 72,
+    "exp": 380,
+    "gold": 82,
+    "drop": { "slug": "Coiffe de réflexion", "probability": 1.5625 },
+    "location": ["la_cachette", "mont_zugzwang"],
+    "slug": "luneyetic"
+  },
+  {
+    "id": 161,
+    "name": {
+      "EN": "Archdemon",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Archidémon",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/archdemon.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/archdemon.png",
+    "attack": 234,
+    "defence": 160,
+    "agility": 70,
+    "exp": 927,
+    "gold": 85,
+    "drop": { "slug": "Eclat de bombe", "probability": 3.125 },
+    "location": ["la_cachette"],
+    "slug": "archdemon"
+  },
+  {
+    "id": 162,
+    "name": {
+      "EN": "Soulspawn",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Grouillâme",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/soulspawn.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/soulspawn.png",
+    "attack": 145,
+    "defence": 67,
+    "agility": 108,
+    "exp": 551,
+    "gold": 53,
+    "drop": { "slug": "Fiole d'élixir Elfique", "probability": 6.25 },
+    "location": [
+      "sanctuaire_du_roi_korol",
+      "monde_de_nadiria",
+      "mont_zugzwang"
+    ],
+    "slug": "soulspawn"
+  },
+  {
+    "id": 163,
+    "name": {
+      "EN": "Great dragon",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Grand dragon",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/great_dragon.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/great_dragon.png",
+    "attack": 220,
+    "defence": 160,
+    "agility": 95,
+    "exp": 810,
+    "gold": 158,
+    "drop": { "slug": "Pierre de résurrection", "probability": 0.78125 },
+    "location": ["monde_de_nadiria"],
+    "slug": "great_dragon"
+  },
+  {
+    "id": 164,
+    "name": {
+      "EN": "Snake handler",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Boardent",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/snake_handler.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/snake_handler.png",
+    "attack": 160,
+    "defence": 164,
+    "agility": 88,
+    "exp": 640,
+    "gold": 110,
+    "drop": { "slug": "Pyromanteau", "probability": 1.5625 },
+    "location": ["sanctuaire_du_roi_korol", "mont_zugzwang"],
+    "slug": "snake_handler"
+  },
+  {
+    "id": 165,
+    "name": {
+      "EN": "Killing machine",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Machine à tuer",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/killing_machine.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/killing_machine.png",
+    "attack": 185,
+    "defence": 185,
+    "agility": 98,
+    "exp": 633,
+    "gold": 74,
+    "drop": { "slug": "Armure à piques", "probability": 3.125 },
+    "location": ["monde_de_nadiria", "mont_zugzwang"],
+    "slug": "killing_machine"
+  },
+  {
+    "id": 166,
+    "name": {
+      "EN": "Pazuzu",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Pazuzu",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/pazuzu.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/pazuzu.png",
+    "attack": 168,
+    "defence": 158,
+    "agility": 89,
+    "exp": 610,
+    "gold": 112,
+    "drop": { "slug": "Brassard kamikaze", "probability": 1.5625 },
+    "location": ["monde_de_nadiria", "mont_zugzwang"],
+    "slug": "pazuzu"
+  },
+  {
+    "id": 167,
+    "name": {
+      "EN": "Hybird",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Pandépervier",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hybird.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hybird.png",
+    "attack": 170,
+    "defence": 160,
+    "agility": 86,
+    "exp": 575,
+    "gold": 90,
+    "drop": { "slug": "Chapeau d'hermès", "probability": 1.5625 },
+    "location": ["monde_de_nadiria"],
+    "slug": "hybird"
+  },
+  {
+    "id": 168,
+    "name": {
+      "EN": "Hyperanemon",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Hyperanémox",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/hyperanemon.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/hyperanemon.png",
+    "attack": 180,
+    "defence": 170,
+    "agility": 97,
+    "exp": 580,
+    "gold": 124,
+    "drop": { "slug": "Bouclier de l'ombre", "probability": 3.125 },
+    "location": ["mont_zugzwang", "donjon_d_estark"],
+    "slug": "hyperanemon"
+  },
+  {
+    "id": 169,
+    "name": {
+      "EN": "Wyrtoise",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Dracarapace",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/wyrtoise.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/wyrtoise.png",
+    "attack": 169,
+    "defence": 260,
+    "agility": 63,
+    "exp": 590,
+    "gold": 140,
+    "drop": { "slug": "Fiole D'Eau Magique", "probability": 6.25 },
+    "location": ["monde_de_nadiria", "donjon_d_estark"],
+    "slug": "wyrtoise"
+  },
+  {
+    "id": 170,
+    "name": {
+      "EN": "Gigantes",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Géant",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/gigantes.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/gigantes.png",
+    "attack": 210,
+    "defence": 110,
+    "agility": 77,
+    "exp": 570,
+    "gold": 70,
+    "drop": { "slug": "Graine  de Force", "probability": 1.5625 },
+    "location": ["monde_de_nadiria", "mont_zugzwang", "donjon_d_estark"],
+    "slug": "gigantes"
+  },
+  {
+    "id": 171,
+    "name": {
+      "EN": "Lick-o'-flame",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Craqueflamme",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/lick-o'-flame.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/lick-o'-flame.png",
+    "attack": 125,
+    "defence": 115,
+    "agility": 87,
+    "exp": 550,
+    "gold": 95,
+    "drop": { "slug": "Graine de Vie", "probability": 1.5625 },
+    "location": ["mont_zugzwang"],
+    "slug": "lick-o'-flame"
+  },
+  {
+    "id": 172,
+    "name": {
+      "EN": "Drakenstein",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Drakenstein",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/drakenstein.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/drakenstein.png",
+    "attack": 190,
+    "defence": 93,
+    "agility": 65,
+    "exp": 670,
+    "gold": 53,
+    "drop": { "slug": "Aiguille empoisonnée", "probability": 3.125 },
+    "location": ["mont_zugzwang", "donjon_d_estark"],
+    "slug": "drakenstein"
+  },
+  {
+    "id": 173,
+    "name": {
+      "EN": "Deathsquad",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Polymort",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/deathsquad.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/deathsquad.png",
+    "attack": 140,
+    "defence": 210,
+    "agility": 99,
+    "exp": 519,
+    "gold": 80,
+    "drop": { "slug": "Eclat de bombe", "probability": 6.25 },
+    "location": ["donjon_d_estark"],
+    "slug": "deathsquad"
+  },
+  {
+    "id": 174,
+    "name": {
+      "EN": "Wight king",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Roi maudit",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/wight_king.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/wight_king.png",
+    "attack": 150,
+    "defence": 142,
+    "agility": 87,
+    "exp": 777,
+    "gold": 5,
+    "drop": { "slug": "Bâton d'antimagie", "probability": 3.125 },
+    "location": ["mont_zugzwang"],
+    "slug": "wight_king"
+  },
+  {
+    "id": 175,
+    "name": {
+      "EN": "Doom slugger",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Trizoeil",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/doom_slugger.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/doom_slugger.png",
+    "attack": 169,
+    "defence": 135,
+    "agility": 103,
+    "exp": 510,
+    "gold": 63,
+    "drop": { "slug": "Griffe de cobra", "probability": 3.125 },
+    "location": ["mont_zugzwang"],
+    "slug": "doom_slugger"
+  },
+  {
+    "id": 176,
+    "name": {
+      "EN": "Gloom slugger",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Gastéropogre",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/gloom_slugger.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/gloom_slugger.png",
+    "attack": 179,
+    "defence": 139,
+    "agility": 103,
+    "exp": 570,
+    "gold": 57,
+    "drop": { "slug": "Griffe de cobra", "probability": 3.125 },
+    "location": ["mont_zugzwang"],
+    "slug": "gloom_slugger"
+  },
+  {
+    "id": 177,
+    "name": {
+      "EN": "Mechan-o'-wyrm",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Mécadragon",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/mechan-o'-wyrm.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/mechan-o'-wyrm.png",
+    "attack": 260,
+    "defence": 270,
+    "agility": 99,
+    "exp": 978,
+    "gold": 160,
+    "drop": { "slug": "Crocs d'orichalque", "probability": 1.5625 },
+    "location": ["donjon_d_estark"],
+    "slug": "mechan-o'-wyrm"
+  },
+  {
+    "id": 178,
+    "name": {
+      "EN": "Barbatos",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Barbatos",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/barbatos.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/barbatos.png",
+    "attack": 205,
+    "defence": 192,
+    "agility": 124,
+    "exp": 1165,
+    "gold": 215,
+    "drop": { "slug": "Epée de l'enfer", "probability": 1.5625 },
+    "location": ["mont_zugzwang", "donjon_d_estark"],
+    "slug": "barbatos"
+  },
+  {
+    "id": 179,
+    "name": {
+      "EN": "Bilhaw",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Chiron",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/bilhaw.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/bilhaw.png",
+    "attack": 250,
+    "defence": 185,
+    "agility": 119,
+    "exp": 1275,
+    "gold": 300,
+    "drop": { "slug": "Bouclier d'ogre", "probability": 3.125 },
+    "location": ["donjon_d_estark"],
+    "slug": "bilhaw"
+  },
+  {
+    "id": 180,
+    "name": {
+      "EN": "Pollywiggle",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Tétard d'assaut",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/pollywiggle.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/pollywiggle.png",
+    "attack": 69,
+    "defence": 40,
+    "agility": 50,
+    "exp": 80,
+    "gold": 30,
+    "drop": { "slug": "Herbe Médicinale", "probability": 3.125 },
+    "location": ["ocean"],
+    "slug": "pollywiggle"
+  },
+  {
+    "id": 181,
+    "name": {
+      "EN": "Man o' war",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Méduse",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/man_o'_war.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/man_o'_war.png",
+    "attack": 65,
+    "defence": 41,
+    "agility": 48,
+    "exp": 77,
+    "gold": 22,
+    "drop": { "slug": "Botryche Lunaire", "probability": 3.125 },
+    "location": ["sanctuaire_de_l_estuaire", "ocean"],
+    "slug": "man_o'_war"
+  },
+  {
+    "id": 182,
+    "name": {
+      "EN": "Morphean mollusc",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Morphéllusque",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/morphean_mollusc.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/morphean_mollusc.png",
+    "attack": 80,
+    "defence": 97,
+    "agility": 60,
+    "exp": 110,
+    "gold": 47,
+    "drop": { "slug": "Graine de Vitalité", "probability": 1.5625 },
+    "location": ["ocean"],
+    "slug": "morphean_mollusc"
+  },
+  {
+    "id": 183,
+    "name": {
+      "EN": "Suckling ocker",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Octopoupon",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/suckling_ocker.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/suckling_ocker.png",
+    "attack": 75,
+    "defence": 55,
+    "agility": 55,
+    "exp": 95,
+    "gold": 37,
+    "drop": { "slug": "Costume de danseuse", "probability": 1.5625 },
+    "location": ["grotte_de_la_cascade", "ocean"],
+    "slug": "suckling_ocker"
+  },
+  {
+    "id": 184,
+    "name": {
+      "EN": "Merman",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Sirénien",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/merman.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/merman.png",
+    "attack": 85,
+    "defence": 72,
+    "agility": 51,
+    "exp": 105,
+    "gold": 45,
+    "drop": { "slug": "Griffe de fer", "probability": 3.125 },
+    "location": ["grotte_de_la_cascade"],
+    "slug": "merman"
+  },
+  {
+    "id": 185,
+    "name": {
+      "EN": "Pollywaggle",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Tétartare",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/pollywaggle.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/pollywaggle.png",
+    "attack": 69,
+    "defence": 49,
+    "agility": 38,
+    "exp": 99,
+    "gold": 29,
+    "drop": { "slug": "Aile de Chimère", "probability": 1.5625 },
+    "location": ["ocean"],
+    "slug": "pollywaggle"
+  },
+  {
+    "id": 186,
+    "name": {
+      "EN": "Sea dog",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Loup de mer",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/sea_dog.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/sea_dog.png",
+    "attack": 89,
+    "defence": 63,
+    "agility": 57,
+    "exp": 113,
+    "gold": 45,
+    "drop": { "slug": "Epée dentée", "probability": 3.125 },
+    "location": ["ocean"],
+    "slug": "sea_dog"
+  },
+  {
+    "id": 187,
+    "name": {
+      "EN": "Cross bones",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Capitenace",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/cross_bones.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/cross_bones.png",
+    "attack": 95,
+    "defence": 73,
+    "agility": 56,
+    "exp": 200,
+    "gold": 100,
+    "drop": { "slug": "Haut-de-forme", "probability": 3.125 },
+    "location": ["ocean"],
+    "slug": "cross_bones"
+  },
+  {
+    "id": 188,
+    "name": {
+      "EN": "Wallop scallop",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Cokill",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/wallop_scallop.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/wallop_scallop.png",
+    "attack": 87,
+    "defence": 110,
+    "agility": 67,
+    "exp": 120,
+    "gold": 43,
+    "drop": { "slug": "Graine de Vitalité", "probability": 1.5625 },
+    "location": ["ocean"],
+    "slug": "wallop_scallop"
+  },
+  {
+    "id": 189,
+    "name": {
+      "EN": "Mother ocker",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Octopoulpe",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/mother_ocker.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/mother_ocker.png",
+    "attack": 84,
+    "defence": 40,
+    "agility": 62,
+    "exp": 125,
+    "gold": 53,
+    "drop": { "slug": "Monstrobecs", "probability": 3.125 },
+    "location": ["sanctuaire_de_l_estuaire", "ocean"],
+    "slug": "mother_ocker"
+  },
+  {
+    "id": 190,
+    "name": {
+      "EN": "Thaumatosaurus",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Hypertensiosaure",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/thaumatosaurus.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/thaumatosaurus.png",
+    "attack": 110,
+    "defence": 89,
+    "agility": 67,
+    "exp": 210,
+    "gold": 59,
+    "drop": { "slug": "Graine de Vie", "probability": 1.5625 },
+    "location": ["ocean"],
+    "slug": "thaumatosaurus"
+  },
+  {
+    "id": 191,
+    "name": {
+      "EN": "Old man of the sea",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Boudini",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/old_man_of_the_sea.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/old_man_of_the_sea.png",
+    "attack": 110,
+    "defence": 103,
+    "agility": 71,
+    "exp": 230,
+    "gold": 110,
+    "drop": { "slug": "Bigornheaume", "probability": 6.25 },
+    "location": ["ocean"],
+    "slug": "old_man_of_the_sea"
+  },
+  {
+    "id": 192,
+    "name": {
+      "EN": "Merking",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Poisséidon",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/merking.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/merking.png",
+    "attack": 120,
+    "defence": 90,
+    "agility": 83,
+    "exp": 170,
+    "gold": 90,
+    "drop": { "slug": "Graine de Force", "probability": 0.78125 },
+    "location": ["ocean"],
+    "slug": "merking"
+  },
+  {
+    "id": 193,
+    "name": {
+      "EN": "Poltarrrgeist",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Capiteigneux",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/poltarrrgeist.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/poltarrrgeist.png",
+    "attack": 130,
+    "defence": 105,
+    "agility": 84,
+    "exp": 350,
+    "gold": 85,
+    "drop": { "slug": "Fléau des zombies", "probability": 3.125 },
+    "location": ["ocean"],
+    "slug": "poltarrrgeist"
+  },
+  {
+    "id": 194,
+    "name": {
+      "EN": "Strongylokrotaphus",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Pyropulmosaure",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/strongylokrotaphus.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/strongylokrotaphus.png",
+    "attack": 145,
+    "defence": 62,
+    "agility": 92,
+    "exp": 400,
+    "gold": 125,
+    "drop": { "slug": "Lame des fées", "probability": 3.125 },
+    "location": ["ocean"],
+    "slug": "strongylokrotaphus"
+  },
+  {
+    "id": 195,
+    "name": {
+      "EN": "Pip fighter",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Graine de soldat",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/pip_fighter.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/pip_fighter.png",
+    "attack": 38,
+    "defence": 30,
+    "agility": 20,
+    "exp": 25,
+    "gold": 25,
+    "drop": { "slug": "Herbe Médicinale", "probability": 6.25 },
+    "location": ["region_de_feeria_enneigee"],
+    "slug": "pip_fighter"
+  },
+  {
+    "id": 196,
+    "name": {
+      "EN": "Battle pip",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Graine de barbare",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/battle_pip.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/battle_pip.png",
+    "attack": 43,
+    "defence": 35,
+    "agility": 17,
+    "exp": 24,
+    "gold": 9,
+    "drop": { "slug": "Herbe Curative", "probability": 6.25 },
+    "location": ["region_de_feeria_enneigee"],
+    "slug": "battle_pip"
+  },
+  {
+    "id": 197,
+    "name": {
+      "EN": "Epipany",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Graine de prêtre",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/epipany.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/epipany.png",
+    "attack": 30,
+    "defence": 33,
+    "agility": 19,
+    "exp": 22,
+    "gold": 12,
+    "drop": { "slug": "Fiole d'Eau Sacrée", "probability": 6.25 },
+    "location": ["region_de_feeria_enneigee"],
+    "slug": "epipany"
+  },
+  {
+    "id": 198,
+    "name": {
+      "EN": "Wiz pip",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Graine de mage",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/wiz_pip.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/wiz_pip.png",
+    "attack": 22,
+    "defence": 27,
+    "agility": 23,
+    "exp": 23,
+    "gold": 18,
+    "drop": { "slug": "Ticket de TNT", "probability": 6.25 },
+    "location": ["region_de_feeria_enneigee"],
+    "slug": "wiz_pip"
+  },
+  {
+    "id": 199,
+    "name": {
+      "EN": "Conkuistador",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Glantassin",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/conkuistador.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/conkuistador.png",
+    "attack": 75,
+    "defence": 60,
+    "agility": 38,
+    "exp": 72,
+    "gold": 50,
+    "drop": { "slug": "Rosée D'Yggdrasil", "probability": 1.5625 },
+    "location": ["region_de_la_tour_de_zenithia", "foret_de_feeria"],
+    "slug": "conkuistador"
+  },
+  {
+    "id": 200,
+    "name": {
+      "EN": "Conkerer",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Combaglant",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/conkerer.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/conkerer.png",
+    "attack": 8,
+    "defence": 58,
+    "agility": 30,
+    "exp": 70,
+    "gold": 32,
+    "drop": { "slug": "Herbe Médicinale", "probability": 6.25 },
+    "location": ["foret_de_feeria"],
+    "slug": "conkerer"
+  },
+  {
+    "id": 201,
+    "name": {
+      "EN": "Conkuisitor",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Gland prêtre",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/conkuisitor.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/conkuisitor.png",
+    "attack": 68,
+    "defence": 50,
+    "agility": 41,
+    "exp": 75,
+    "gold": 33,
+    "drop": { "slug": "Feuille D'Yggdrasil", "probability": 1.5625 },
+    "location": ["region_de_la_tour_de_zenithia"],
+    "slug": "conkuisitor"
+  },
+  {
+    "id": 202,
+    "name": {
+      "EN": "Conkjurer",
+      "ES": "???",
+      "DE": "???",
+      "FR": "Glanvoûteur",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/conkjurer.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/conkjurer.png",
+    "attack": 55,
+    "defence": 40,
+    "agility": 45,
+    "exp": 68,
+    "gold": 40,
+    "drop": { "slug": "Ticket de TNT", "probability": 3.125 },
+    "location": ["region_de_la_tour_de_zenithia"],
+    "slug": "conkjurer"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Merry Man",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/merry_man.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/merry_man.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "merry_man"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Robbin' Hood",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/robbin__hood.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/robbin__hood.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "robbin__hood"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Haunted housekeeper",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/haunted_housekeeper.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/haunted_housekeeper.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "haunted_housekeeper"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Dwight",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/dwight.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/dwight.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "dwight"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "The Winter Queen",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/the_winter_queen.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/the_winter_queen.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "the_winter_queen"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Faux Dowager",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/faux_dowager.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/faux_dowager.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "faux_dowager"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Slimification",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/slimification.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/slimification.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "slimification"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Living statue",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/living_statue.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/living_statue.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "living_statue"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Magman",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/magman.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/magman.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "magman"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Slave-driver",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/slave_driver.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/slave_driver.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "slave_driver"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Orc pawn",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/orc_pawn.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/orc_pawn.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "orc_pawn"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Chimaera pawn",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/chimaera_pawn.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/chimaera_pawn.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "chimaera_pawn"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Bjorn the Behemoose",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/bjorn_the_behemoose.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/bjorn_the_behemoose.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "bjorn_the_behemoose"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Slon the Rook",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/slon_the_rook.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/slon_the_rook.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "slon_the_rook"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Kon the Knight",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/kon_the_knight.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/kon_the_knight.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "kon_the_knight"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Bishop Ladja",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/bishop_ladja.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/bishop_ladja.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "bishop_ladja"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Queen Ferz",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/queen_ferz.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/queen_ferz.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "queen_ferz"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "King Korol",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/king_korol.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/king_korol.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "king_korol"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Grandmaster Nimzo",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/grandmaster_nimzo.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/grandmaster_nimzo.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "grandmaster_nimzo"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Grandmaster Nimzo",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/grandmaster_nimzo.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/grandmaster_nimzo.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "grandmaster_nimzo"
+  },
+  {
+    "id": null,
+    "name": {
+      "EN": "Estark",
+      "ES": "???",
+      "DE": "???",
+      "FR": "???",
+      "IT": "???",
+      "JA": "???"
+    },
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_sprites/estark.png",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ5/monsters_artworks/estark.png",
+    "attack": "???",
+    "defence": "???",
+    "agility": "???",
+    "exp": "???",
+    "gold": "???",
+    "drop": { "slug": "???", "probability": "???" },
+    "location": "???",
+    "slug": "estark"
+  }
+]
