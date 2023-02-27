@@ -1,7 +1,7 @@
 {
-  "name": "dqiv_api",
+  "name": "dragon-quest-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "An API to gather informations about the various games in the Dragon Quest series.",
   "main": "src/server.js",
   "scripts": {
     "start": "node .",
