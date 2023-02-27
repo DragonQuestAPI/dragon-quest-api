@@ -20,7 +20,7 @@ const dq11Route = require("./routes/DQ11.js");
 
 app.use("/api/dqi", dq1Route);
 app.use("/api/dqii", dq2Route);
-app.use("/api/dqiv", dq3Route);
+app.use("/api/dqiii", dq3Route);
 app.use("/api/dqiv", dq4Route);
 app.use("/api/dqv", dq5Route);
 app.use("/api/dqvi", dq6Route);
