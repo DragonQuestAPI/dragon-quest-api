@@ -1,24 +1,25 @@
 {
-  "name": "dqiv_api",
+  "name": "dragon-quest-api",
+  "description": "An API containing data from most Dragon Quest games",
   "version": "1.0.0",
-  "description": "",
   "main": "src/server.js",
   "scripts": {
     "start": "node .",
-    "dev": "nodemon ."
+    "dev": "nodemon .",
+    "test": "jest"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "SoruTheSleepy / NaorimSenchai",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.0",
-    "express": "^4.17.3",
-    "prettier": "^2.8.0"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.4.4",
     "@commitlint/config-conventional": "^17.4.4",
     "jest": "^29.4.3",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.4"
   }
 }

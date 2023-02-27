@@ -2,16 +2,13 @@ const fs = require("fs");
 const path = require("path");
 
 const game = __dirname.split("\\")[__dirname.split("\\").length - 1];
-const pathToJSON = path.join(
-  __dirname,
-  `../../data/DQ5/../../data/DQ4/characters.json`
-);
+const pathToJSON = path.join(__dirname, `../../data/DQ5/characters.json`);
 const file = JSON.parse(fs.readFileSync(pathToJSON).toString());
 
 const formatQueryset = require("../../utils/formatQueryset.js");
 const filterByQueryset = require("../../utils/filterByQueryset.js");
 
-const findAll = async (queryset) => {
+const find = async (queryset) => {
   try {
     const result = await filterByQueryset(
       file,
@@ -33,6 +30,6 @@ const findById = async (id) => {
 };
 
 module.exports = {
-  findAll,
+  find,
   findById,
 };

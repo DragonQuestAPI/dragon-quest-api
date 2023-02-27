@@ -5,6 +5,7 @@
  * @returns {array<object/>} The filtered data
  */
 const filterByQueryset = (data, queryset) => {
+  if (!queryset) return data;
   Object.keys(queryset).forEach((q) => {
     data = data.filter((d) => {
       return d[q] == queryset[q];
