@@ -1,7 +1,7 @@
 const express = require("express");
 const router = express.Router();
 
-const model = require(`../../models/DQ8/game.js`);
+const model = require(`../../models/DQ10/game.js`);
 
 router.get("/", async (req, res) => {
   try {
