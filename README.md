@@ -45,6 +45,8 @@
   <li>Dragon Quest Monsters Joker</li>
   <li>Dragon Quest Monsters Joker 2</li>
   <br>
+  <li>Dragon Quest Monsters: The Dark Prince</li>
+  <br>
   <li>Probably more to come in the future...</li>
 </ul>
 
