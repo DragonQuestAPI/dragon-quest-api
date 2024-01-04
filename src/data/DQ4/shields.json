@@ -2,11 +2,11 @@
   {
     "id": 1,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bouclier de cuir",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "かわのたて"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
@@ -14,12 +14,12 @@
     "stats": { "defense": 4 },
     "price": { "buy": 90, "sell": 67, "token": "-", "minimedal": "-" },
     "description": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -28,11 +28,11 @@
   {
     "id": 2,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bouclier d'écailles",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "うろこのたて"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
@@ -40,12 +40,12 @@
     "stats": { "defense": 7 },
     "price": { "buy": 180, "sell": 135, "token": "-", "minimedal": "-" },
     "description": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -54,11 +54,11 @@
   {
     "id": 3,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bouclier de fer",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "てつのたて"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
@@ -66,12 +66,12 @@
     "stats": { "defense": 12 },
     "price": { "buy": 650, "sell": 487, "token": "-", "minimedal": "-" },
     "description": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -80,11 +80,11 @@
   {
     "id": 4,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bouclier du dragon",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ドラゴンシールド"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
@@ -92,12 +92,12 @@
     "stats": { "defense": 30 },
     "price": { "buy": 7100, "sell": 5325, "token": "-", "minimedal": "-" },
     "description": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -106,11 +106,11 @@
   {
     "id": 5,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bouclier de puissance",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ちからのたて"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
@@ -118,12 +118,12 @@
     "stats": { "defense": 40 },
     "price": { "buy": 13000, "sell": 9750, "token": "-", "minimedal": "-" },
     "description": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -132,11 +132,11 @@
   {
     "id": 6,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bouclier miroir",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ミラーシールド"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
@@ -144,12 +144,12 @@
     "stats": { "defense": 45 },
     "price": { "buy": "-", "sell": 6750, "token": "-", "minimedal": "-" },
     "description": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -158,11 +158,11 @@
   {
     "id": 7,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bouclier du vent",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ふうじんのたて"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
@@ -170,12 +170,12 @@
     "stats": { "defense": 50 },
     "price": { "buy": 20000, "sell": 15000, "token": "-", "minimedal": "-" },
     "description": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -184,11 +184,11 @@
   {
     "id": 8,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bouclier zénithien",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "てんくうのたて"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
@@ -196,12 +196,12 @@
     "stats": { "defense": 55 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
     "description": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -210,11 +210,11 @@
   {
     "id": 9,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bouclier des enfers",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "まかいのたて"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
@@ -222,12 +222,12 @@
     "stats": { "defense": 55 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": "-" },
     "description": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -236,11 +236,11 @@
   {
     "id": 10,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bouclier de mercure",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "はぐれメタルのたて"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/shields_sprites/?.png",
@@ -248,12 +248,12 @@
     "stats": { "defense": 60 },
     "price": { "buy": "-", "sell": "-", "token": "-", "minimedal": 52 },
     "description": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],

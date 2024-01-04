@@ -138,7 +138,7 @@
     "price": { "buy": 150, "sell": 112 },
     "description": {
       "EN": "Its scent will attract monsters for a while until it runs out.",
-      "ES": "",
+      "ES": "?",
       "FR": "Son odeur attirera les monstres jusqu'à ce qu'elle se dissipe.",
       "DE": "Ihr Duft lockt eine Weile Ungehever an und verfliegt dann wieder.",
       "IT": "Il suo profumo attira i mostri per un po' di tempo.",
@@ -163,7 +163,7 @@
     "price": { "buy": null, "sell": 90 },
     "description": {
       "EN": "Any party member can eat this to increase strength.",
-      "ES": "",
+      "ES": "?",
       "FR": "Le membre de l'équipe qui la mange voit sa force augmenter.",
       "DE": "Ein Gruppenmitglied kann ihn essen, um stärker zu werden.",
       "IT": "Accresce la forza di chi lo mangia.",
@@ -188,7 +188,7 @@
     "price": { "buy": null, "sell": 67 },
     "description": {
       "EN": "Any party member can eat this to increase agility.",
-      "ES": "",
+      "ES": "?",
       "FR": "Le membre de l'équipe qui la mange voit son agilité augmenter.",
       "DE": "Ein Gruppenmitglied kann ihn essen um flinker zu werden.",
       "IT": "Accresce l'agilità di chi lo mangia.",
@@ -227,7 +227,7 @@
     "price": { "buy": null, "sell": 60 },
     "description": {
       "EN": "Any party member can eat this to increase wisdom.",
-      "ES": "",
+      "ES": "?",
       "FR": "Le membre de l'équipe qui la mange voit sa sagesse augmenter.",
       "DE": "Ein Gruppenmitglied kann ihn essen, um weiser zu werden.",
       "IT": "Accresce la forza di chi lo mangia.",
@@ -252,7 +252,7 @@
     "price": { "buy": null, "sell": 52 },
     "description": {
       "EN": "Any party member can eat this to increase resilience.",
-      "ES": "",
+      "ES": "?",
       "FR": "Le membre de l'équipe qui la mange voit sa vitalité augmenter.",
       "DE": "Ein Gruppenmitglied kann ihn essen, um die Ausdauer zu steigern.",
       "IT": "Accresce la resistenza di chi lo mangia.",
@@ -283,7 +283,7 @@
     "price": { "buy": null, "sell": 187 },
     "description": {
       "EN": "Any party member can eat this to increase maximum HP.",
-      "ES": "",
+      "ES": "?",
       "FR": "Le membre de l'équipe qui la mange augmente son maximum de PV",
       "DE": "Ein Gruppenmitglied kann ihn essen, um das LP-Maximum zu steigern.",
       "IT": "Accresce la capacità massima di HP di chi lo mangia.",
@@ -324,7 +324,7 @@
     "price": { "buy": null, "sell": 412 },
     "description": {
       "EN": "Any party member can eat this to increase maximum MP.",
-      "ES": "",
+      "ES": "?",
       "FR": "Le membre de l'équipe qui la mange augmente son maximum de PM",
       "DE": "Ein Gruppenmitglied kann ihn essen, um das MP-Maximum zu steigern.",
       "IT": "Accresce la capacità massima di PM di chi lo mangia.",
@@ -358,18 +358,18 @@
       "FR": "Clef de voleur",
       "DE": "Diebesschlüssel",
       "IT": "Chiavre del ladro",
-      "JA": ""
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/thiefs_key.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/thiefs_key.png",
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "The holder of this key can open simple locks.",
-      "ES": "",
+      "ES": "?",
       "FR": "Cette clef peut ouvrir des serrures simples.",
       "DE": "Der Besitzer dieses Schlüssels kann einfache Schlösser öffnen.",
       "IT": "Questa chiave permette di aprire le serrature meno ostiche.",
-      "JA": ""
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -383,18 +383,18 @@
       "FR": "Clef magique",
       "DE": "Zauber-schlüssel",
       "IT": "Chiave magica",
-      "JA": ""
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/magic_key.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/magic_key.png",
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "The holder of this key can open complicated locks.",
-      "ES": "",
+      "ES": "?",
       "FR": "Cette clef permet d'ouvrir des serrures complexes.",
       "DE": "Der Besitzer des Schlüssels kann komplizierte Schlösser öffnen.",
       "IT": "Questa chiave permette di aprire la serrature complicate.",
-      "JA": ""
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -407,19 +407,19 @@
       "ES": "Llave suprema",
       "FR": "Clef suprême",
       "DE": "Universal-schlüssel",
-      "IT": "",
-      "JA": ""
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/ultimate_key.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/ultimate_key.png",
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "The holder of this key can open all locks.",
-      "ES": "",
+      "ES": "?",
       "FR": "Cette clef permet d'ouvrir tous types de serrures.",
       "DE": "Der Besitzer dieses Schlüssels kann alle Schlösser öffnen.",
-      "IT": "",
-      "JA": ""
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -440,7 +440,7 @@
     "price": { "buy": null, "sell": 22 },
     "description": {
       "EN": "Recovers a little of one party member's MP.",
-      "ES": "",
+      "ES": "?",
       "FR": "Restaure une petite partie des PM d'un membre de l'équipe",
       "DE": "Regeneriert ein paar MP bei einem Mitglied der Gruppe.",
       "IT": "Fa recuperare un po' di PM a un membro del gruppo.",
@@ -471,7 +471,7 @@
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "This legendary looking glass always reflects the truth.",
-      "ES": "",
+      "ES": "?",
       "FR": "Ce miroir légendaire reflète toujours la vérité.",
       "DE": "Dieses legendäre Kunstwerk spiegelt stets die Wahrheit wider.",
       "IT": "Questo vetro leggendario riflette sempre la verità.",
@@ -496,7 +496,7 @@
     "price": { "buy": null, "sell": 7 },
     "description": {
       "EN": "A delicious way to restore some HP.",
-      "ES": "",
+      "ES": "?",
       "FR": "Une manière délicieuse de récupérer quelques PV",
       "DE": "Eine köstliche Methode, einige LP zurückzugewinnen.",
       "IT": "Fa recuperare un po' di HP. Delizioso!",
@@ -529,7 +529,7 @@
     "price": { "buy": null, "sell": 1 },
     "description": {
       "EN": "Pooey! That sticks!",
-      "ES": "",
+      "ES": "?",
       "FR": "Pouah! Quelle odeur!",
       "DE": "Uh! Das stinkt!",
       "IT": "Argh! Che tanfo!",
@@ -560,7 +560,7 @@
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "A magical leaf that can resurrect a party member.",
-      "ES": "",
+      "ES": "?",
       "FR": "Cette feuille magique peut ressuciter un membre de l'équipe",
       "DE": "Kann ein Mitglied der Gruppe ins Leben zurückrufen.",
       "IT": "Questa foglia può riportare in vita un membro del gruppo.",
@@ -585,11 +585,11 @@
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "A dainty dew that will fully restore all party members' HP.",
-      "ES": "",
+      "ES": "?",
       "FR": "Permet de restaurer intégralement les PV de toute l'équipe.",
       "DE": "Stellt die LP aller Gruppenmitglieder vollständig wieder her.",
       "IT": "Fa recuperare pienamente gli HP a tutti membri del gruppo.",
-      "JA": ""
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -602,19 +602,19 @@
       "ES": "Flauta reveladora",
       "FR": "Flûte de révélation",
       "DE": "Flöte der Enthüllung",
-      "IT": "",
-      "JA": ""
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/flute_of_uncovering.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/flute_of_uncovering.png",
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "An instrument harbouring rare magical properties.",
-      "ES": "",
+      "ES": "?",
       "FR": "Cet instrument dispose de propriétés magiques rares.",
       "DE": "Ein Instrument, dem seltene magische Eigenschaften innewohnen.",
-      "IT": "",
-      "JA": ""
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -624,22 +624,22 @@
   {
     "name": {
       "EN": "Silver Goddess statue",
-      "ES": "",
+      "ES": "?",
       "FR": "Statuette en argent",
       "DE": "Silberne Göttin",
-      "IT": "",
-      "JA": ""
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/silver_goddess_statue.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/silver_goddess_statue.png",
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "A burnished silver statue of the Goddess.",
-      "ES": "",
+      "ES": "?",
       "FR": "Une statuette de la Déesse en argent poli",
       "DE": "Eine polierte Silberstatue der Göttin.",
-      "IT": "",
-      "JA": ""
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -649,22 +649,22 @@
   {
     "name": {
       "EN": "Night light",
-      "ES": "",
+      "ES": "?",
       "FR": "Lampe des ténèbres",
       "DE": "Nachtlicht",
-      "IT": "",
-      "JA": ""
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/night_lamp.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/night_lamp.png",
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "A lamp that summons nightfall when lit.",
-      "ES": "",
+      "ES": "?",
       "FR": "Cette lampe fait venir l'obscurité lorsqu'on l'allume",
       "DE": "Eine Lampe, die die Nacht herbeiruft, wenn sie angezündet wird.",
-      "IT": "",
-      "JA": ""
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -674,22 +674,22 @@
   {
     "name": {
       "EN": "Sphere of silence",
-      "ES": "",
+      "ES": "?",
       "FR": "Sphère du silence",
       "DE": "Stillesphäre",
-      "IT": "",
-      "JA": ""
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/sphere_of_silence.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/sphere_of_silence.png",
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "This sneaky sphere can seal an enemy's spells during battle.",
-      "ES": "",
+      "ES": "?",
       "FR": "Peut enfermer les sort d'un ennemi pendant le combat.",
       "DE": "Diese heimtückische Kugel kann die Zauber eines Feindes im Kampf blockieren.",
-      "IT": "",
-      "JA": ""
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -699,22 +699,22 @@
   {
     "name": {
       "EN": "Powder keg",
-      "ES": "",
+      "ES": "?",
       "FR": "Jarre de poudre",
       "DE": "Pulverfass",
-      "IT": "",
-      "JA": ""
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/powder_keg.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/powder_keg.png",
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "A container packed with gunpowder.",
-      "ES": "",
+      "ES": "?",
       "FR": "Un récipient rempli de poudre à canon.",
       "DE": "Ein Behältnis, bis zum Rand voll mit Schießpulver.",
-      "IT": "",
-      "JA": ""
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -727,19 +727,19 @@
       "ES": "Mapa del Tesoro",
       "FR": "Carte au trésor",
       "DE": "Schatzkarte",
-      "IT": "",
-      "JA": ""
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/treasure_map.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/treasure_map.png",
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "It shows the location of some legendary treasure.",
-      "ES": "",
+      "ES": "?",
       "FR": "Indique l'emplacement d'un trésor légendaire.",
       "DE": "Darauf sieht man, wo ein legendärer Schatz wersteckt ist.",
-      "IT": "",
-      "JA": ""
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -760,11 +760,11 @@
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "In battle, they can reverse time itself.",
-      "ES": "",
+      "ES": "?",
       "FR": "Au combat, ils peuvent inverser le cour du temps.",
       "DE": "Im Kampf kann er die Zeit selbst umkehren.",
       "IT": "Se usate in battaglia, possono invertire lo scorrere del tempo.",
-      "JA": ""
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -778,18 +778,18 @@
       "FR": "Bâton de transformation",
       "DE": "Mutationsstab",
       "IT": "Bacchetta mutatrice",
-      "JA": ""
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/mod_rod.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/mod_rod.png",
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "This staff can change the party's appearance for a short while.",
-      "ES": "",
+      "ES": "?",
       "FR": "Peut modifier l'apparence de l'équipe pendant un court moment.",
       "DE": "Kann das Erscheinungsbild der Gruppe für kurze Zeit varändern.",
       "IT": "Può cambiare l'aspetto del gruppo per un po' di tempo.",
-      "JA": ""
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -810,11 +810,11 @@
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "This rock restores some of each party member's HP in battle.",
-      "ES": "",
+      "ES": "?",
       "FR": "Au combat, rend quelques PV à chaque membre de l'équipe",
       "DE": "Stellt im Kampf einige LP jedes Gruppenmitglieds wieder her.",
       "IT": "Fa recuperare HP a tutti i membri del gruppo in battaglia.",
-      "JA": ""
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -828,18 +828,18 @@
       "FR": "Clairon du baron",
       "DE": "Horn des Barons",
       "IT": "Tromba del barone",
-      "JA": ""
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/barons_bugle.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/barons_bugle.png",
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "Blow it before the final battle to bring your wagon before you.",
-      "ES": "",
+      "ES": "?",
       "FR": "Sonné au combat, il fait venir un énorme troupeau de cheveaux.",
       "DE": "Blase vor der letzten Schlacht hinein, um den Wagen herbeizuholen!",
       "IT": "Suonala prima della battaglia finale per far accorrere il carro!",
-      "JA": ""
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -849,22 +849,22 @@
   {
     "name": {
       "EN": "'The Big Book of Beasts'",
-      "ES": "",
+      "ES": "?",
       "FR": "Livre des créatures",
       "DE": "Buch der Bestien",
       "IT": "Libro delle Bestie",
-      "JA": ""
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/the_big_book_of_beasts.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/the_big_book_of_beasts.png",
     "price": { "buy": null, "sell": null },
     "description": {
       "EN": "An illustrated guide to monsters.",
-      "ES": "",
+      "ES": "?",
       "FR": "Un guide des monstres illustré.",
       "DE": "Ein bebildertes Buch über Ungehever.",
       "IT": "Questo volume illustrato contiene informazioni su tutti i mostri.",
-      "JA": ""
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -876,19 +876,19 @@
       "EN": "Talaria",
       "ES": "Sandalias aladas",
       "FR": "Chaussures ailées",
-      "DE": "",
-      "IT": "",
+      "DE": "?",
+      "IT": "?",
       "JA": "そらとぶくつ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/talaria.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/talaria.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
+      "EN": "?",
+      "ES": "?",
       "FR": "Des ailes sont fixés sur ces drôles de chaussures!",
-      "DE": "",
-      "IT": "",
+      "DE": "?",
+      "IT": "?",
       "JA": "はねのはえた ふしぎなくつ"
     },
     "found_at": [],
@@ -901,19 +901,19 @@
       "EN": "Armlet of transmutation",
       "ES": "Brazalete de transmutación",
       "FR": "Brassard étincelant",
-      "DE": "",
-      "IT": "",
+      "DE": "?",
+      "IT": "?",
       "JA": "おうごんの うでわ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/armlet_of_transmutation.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/armlet_of_transmutation.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
+      "EN": "?",
+      "ES": "?",
       "FR": "La lumière joue sur ce mystérieux brassard doré",
-      "DE": "",
-      "IT": "",
+      "DE": "?",
+      "IT": "?",
       "JA": "きんいろに かがやく しんびのうでわ"
     },
     "found_at": [],
@@ -926,19 +926,19 @@
       "EN": "Birdsong nectar",
       "ES": "Néctar de piar",
       "FR": "Nectar du rossignol",
-      "DE": "",
-      "IT": "",
+      "DE": "?",
+      "IT": "?",
       "JA": "さえずりの みつ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/birdsong_nectar.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/birdsong_nectar.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
+      "EN": "?",
+      "ES": "?",
       "FR": "Sa texture veloutée donne une voix mélodieuse.",
-      "DE": "",
-      "IT": "",
+      "DE": "?",
+      "IT": "?",
       "JA": "すてきな うたごえになる みつ"
     },
     "found_at": [],
@@ -949,22 +949,22 @@
   {
     "name": {
       "EN": "Steel strongbox",
-      "ES": "",
+      "ES": "?",
       "FR": "Coffre-fort de fer",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/steel_strongbox.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/steel_strongbox.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
+      "EN": "?",
+      "ES": "?",
       "FR": "Protège l'or de l'équipe, même si celle-ci se fait décimer",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -974,22 +974,22 @@
   {
     "name": {
       "EN": "Prince's letter",
-      "ES": "",
+      "ES": "?",
       "FR": "Lettre du prince",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/princes_letter.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/princes_letter.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
+      "EN": "?",
+      "ES": "?",
       "FR": "Une lettre écrite de la main du prince Réginald",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -1001,20 +1001,20 @@
       "EN": "Royal scroll",
       "ES": "Pergamino real",
       "FR": "Parchemin royal",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/royal_scroll.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/royal_scroll.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
+      "EN": "?",
+      "ES": "?",
       "FR": "Une correspondante du roi Norbert de Chandor",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -1026,20 +1026,20 @@
       "EN": "Boarding pass",
       "ES": "Pasaje",
       "FR": "Permis d'embarquer",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/boarding_pass.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/boarding_pass.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
+      "EN": "?",
+      "ES": "?",
       "FR": "Un billet valable pour un voyage vers Chandor",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -1051,20 +1051,20 @@
       "EN": "Symbol of Faith",
       "ES": "Símbolo de Fe",
       "FR": "Symbole de la Foi",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/symbol_of_faith.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/symbol_of_faith.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
+      "EN": "?",
+      "ES": "?",
       "FR": "Ce joyau peut ouvrir le cœur de n'importe qui",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -1076,20 +1076,20 @@
       "EN": "Holy embers",
       "ES": "Fuego sagrado",
       "FR": "Braises Sacrées",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/holy_embers.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/holy_embers.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
+      "EN": "?",
+      "ES": "?",
       "FR": "Elles luisent avec une puissance divine.",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -1101,20 +1101,20 @@
       "EN": "Feverfew seed",
       "ES": "Semilla reducefiebre",
       "FR": "Graine de camomille",
-      "DE": "",
+      "DE": "?",
       "IT": "Seme di parthenio",
-      "JA": ""
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/feverfew_seed.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/feverfew_seed.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
+      "EN": "?",
+      "ES": "?",
       "FR": "Une graine pleine de vigueur",
-      "DE": "",
+      "DE": "?",
       "IT": "Un seme pieno di vitalità!",
-      "JA": ""
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -1126,20 +1126,20 @@
       "EN": "Feverfew root",
       "ES": "Raíz reducefiebre",
       "FR": "Racine de Camomille",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/feverfew_root.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/feverfew_root.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
+      "EN": "?",
+      "ES": "?",
       "FR": "Cette puissante racine guérit beaucoup de maladies",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -1151,20 +1151,20 @@
       "EN": "Karstaway stone",
       "ES": "Piedra porosa",
       "FR": "Pierre éponge",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/karstaway_stone.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/karstaway_stone.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
+      "EN": "?",
+      "ES": "?",
       "FR": "Une roche étrange qui peut absorber un grand volume d'eau",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -1176,20 +1176,20 @@
       "EN": "Gas cannister",
       "ES": "Recipiente de gas",
       "FR": "Bonbonne de gaz",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/gas_cannister.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/gas_cannister.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
+      "EN": "?",
+      "ES": "?",
       "FR": "Un gros récipient contenant du gaz.",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -1201,20 +1201,20 @@
       "EN": "Yggdrasil flower",
       "ES": "Flor de Yggdrasil",
       "FR": "Fleur d'Yggdrasil",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/yggdrasil_flower.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/yggdrasil_flower.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
+      "EN": "?",
+      "ES": "?",
       "FR": "La plus rare des fleurs, qui fleurit tous les milles ans",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],
@@ -1227,19 +1227,19 @@
       "ES": "Minimedalla",
       "FR": "Mini médaille",
       "DE": "Minimedaillen",
-      "IT": "",
+      "IT": "?",
       "JA": "ちいさなメダル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_sprites/mini_medal.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/items_artworks/mini_medal.png",
     "price": { "buy": null, "sell": null },
     "description": {
-      "EN": "",
-      "ES": "",
-      "FR": "",
-      "DE": "",
-      "IT": "",
-      "JA": ""
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
     },
     "found_at": [],
     "buyable_at": [],

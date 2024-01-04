@@ -2,28 +2,28 @@
   {
     "id": 1,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Guenille",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 3,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 25, "sell": 12, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -32,28 +32,28 @@
   {
     "id": 2,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Vêtement simple",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 4,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 30, "sell": 15, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -62,28 +62,28 @@
   {
     "id": 3,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Habit d'esclave",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 5,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 10, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -92,28 +92,28 @@
   {
     "id": 4,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cape de laine",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 6,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 25, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -122,28 +122,28 @@
   {
     "id": 5,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Tenue de voyageur",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 7,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 70, "sell": 35, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -152,28 +152,28 @@
   {
     "id": 6,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Tablier de soie",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 10,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 110, "sell": 55, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -182,28 +182,28 @@
   {
     "id": 7,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure de cuir",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 11,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 180, "sell": 90, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -212,28 +212,28 @@
   {
     "id": 8,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Kilt de cuir",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 12,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 220, "sell": 110, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -242,28 +242,28 @@
   {
     "id": 9,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Robe de soie",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 13,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 125, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -272,28 +272,28 @@
   {
     "id": 10,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure d'écailles",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 15,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 350, "sell": 175, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -302,28 +302,28 @@
   {
     "id": 11,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Caleçon",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 15,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 10, "sell": 5, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -332,28 +332,28 @@
   {
     "id": 12,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Robe de cuir",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 17,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 380, "sell": 190, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -362,28 +362,28 @@
   {
     "id": 13,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cape de fourrure",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 18,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 550, "sell": 275, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -392,28 +392,28 @@
   {
     "id": 14,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cotte de mailles",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 19,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 500, "sell": 250, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -422,28 +422,28 @@
   {
     "id": 15,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Costume de danseuse",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 20,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 1300, "sell": 650, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -452,28 +452,28 @@
   {
     "id": 16,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Gluniforme",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 20,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 330, "sell": 165, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -482,28 +482,28 @@
   {
     "id": 17,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure de bronze",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 21,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 700, "sell": 350, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -512,28 +512,28 @@
   {
     "id": 18,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Plastron de fer",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 23,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 1000, "sell": 500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -542,28 +542,28 @@
   {
     "id": 19,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Lingerie robuste",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 23,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 2750, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Sous-vêtements si séduisants qu'ils perturbent même les âmes les plus pieuses",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -572,28 +572,28 @@
   {
     "id": 20,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure de fer",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 25,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 1200, "sell": 600, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -602,28 +602,28 @@
   {
     "id": 21,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Manteau d'esquive",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 28,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 3000, "sell": 1500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Permet parfois d'esquiver une attaque ennemie",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -632,28 +632,28 @@
   {
     "id": 22,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure de plates",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 30,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 2300, "sell": 1150, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -662,28 +662,28 @@
   {
     "id": 23,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Manteau de sérénité",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 33,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 3000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Réduit l'impact du sommeil ou de la paralysie",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -692,28 +692,28 @@
   {
     "id": 24,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bustier à lacet",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 35,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 5500, "sell": 2750, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -722,28 +722,28 @@
   {
     "id": 25,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Absorboléro",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 37,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 3750, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cet habit absorbe parfois les PM des sorts ennemis",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -752,28 +752,28 @@
   {
     "id": 26,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Pyromanteau",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 37,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 6800, "sell": 3400, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Permet de réduire les dégâts causés par la magie",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -782,28 +782,28 @@
   {
     "id": 27,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cuirasse de zombie",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 38,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 250, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -812,28 +812,28 @@
   {
     "id": 28,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Plastron d'argent",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 40,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 5000, "sell": 2500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -842,28 +842,28 @@
   {
     "id": 29,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cuirasse d'argent",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 40,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 4800, "sell": 2400, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -872,28 +872,28 @@
   {
     "id": 30,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Pyjama de combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 40,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 1900, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Pyjama idéal pour les soldats qui veulent en découdre même pendant leur sommeil",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -902,28 +902,28 @@
   {
     "id": 31,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cuirasse sanglante",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 45,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 6500, "sell": 3250, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -932,28 +932,28 @@
   {
     "id": 32,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Robe chatoyante",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 45,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 8800, "sell": 440, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cette robe diaphane renvoie les attaques magiques à celui qui les lance",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -962,28 +962,28 @@
   {
     "id": 33,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cuirasse de dragon",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 50,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 7500, "sell": 3750, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cette cuirasse réduit les dégâts causés par les attaques de feu",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -992,28 +992,28 @@
   {
     "id": 34,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Manteau de sagesse",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 50,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 12000, "sell": 6000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Permet de réduire les dégâts causés par la magie",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1022,28 +1022,28 @@
   {
     "id": 35,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure à piques",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 55,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 4000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cette armure réserve une surprise piquante aux ennemis peu méfiants",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1052,28 +1052,28 @@
   {
     "id": 36,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Robe flottante",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 55,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 14800, "sell": 7400, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Vêtement capable de réduire une partie des dégâts infligés par la magie ou le feu",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1082,28 +1082,28 @@
   {
     "id": 37,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Mantelet sombre",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 55,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 16000, "sell": 8000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Permet de réduire les dégâts causés par la magie",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1112,28 +1112,28 @@
   {
     "id": 38,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure magique",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 60,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 12000, "sell": 6000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Permet de réduire les dégâts causés par la magie",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1142,28 +1142,28 @@
   {
     "id": 39,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bustier de soie",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 60,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 18800, "sell": 9400, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1172,28 +1172,28 @@
   {
     "id": 40,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure maléfique",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 65,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 4500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1202,28 +1202,28 @@
   {
     "id": 41,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure de feu",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 70,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 15000, "sell": 7500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cette noble armure peut faire obstacle à la magie et aux attaques de glace",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1232,28 +1232,28 @@
   {
     "id": 42,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Body d'ange",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 70,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 21000, "sell": 10500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cette noble armure peut faire obstacle à la magie et aux attaques de glace",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1262,28 +1262,28 @@
   {
     "id": 43,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure sacrée",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 75,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 10000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bénit soit celui qui la porte au combat, car il récupérera des PV à chaque mouvement",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1292,28 +1292,28 @@
   {
     "id": 44,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure miroir",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 80,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 30000, "sell": 15000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cette armure étincelante peut renvoyer les attaques magiques à celui qui les lance",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1322,28 +1322,28 @@
   {
     "id": 45,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Robe de princesse",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 80,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cet imposant surplus réduit les dégâts infligés par le feu et la glace",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1352,28 +1352,28 @@
   {
     "id": 46,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure de hela",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 85,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 495, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Attention ! Cette armure cache bien son pouvoir",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1382,28 +1382,28 @@
   {
     "id": 47,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure errante",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": null,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 1500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Attention ! Cette armure cache bien - bling ! - son pouvoir !",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1412,28 +1412,28 @@
   {
     "id": 48,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure royale",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 95,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 7500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1442,28 +1442,28 @@
   {
     "id": 49,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Armure zénithienne",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 85,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cette noble armure peut faire obstacle à la magie et aux attaques de glace",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -1472,28 +1472,28 @@
   {
     "id": 50,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Manteau pourpre",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
+      "attack": "",
       "defense": 90,
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cette noble armure peut faire obstacle à la magie et aux attaques de glace",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],

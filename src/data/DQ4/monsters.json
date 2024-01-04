@@ -3,10 +3,10 @@
     "id": 1,
     "name": {
       "EN": "Slime",
-      "ES": "?",
+      "ES": "",
       "FR": "Gluant",
       "DE": "Schleim",
-      "IT": "?",
+      "IT": "",
       "JA": "スライム"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/1.png",
@@ -21,7 +21,7 @@
     "speed": 5,
     "exp": 1,
     "gold": 2,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [
         "Région de Bastione",
@@ -39,10 +39,10 @@
     "id": 2,
     "name": {
       "EN": "Wiggly",
-      "ES": "?",
+      "ES": "",
       "FR": "Londuleux",
       "DE": "Schlängler",
-      "IT": "?",
+      "IT": "",
       "JA": "おおみみず"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/2.png",
@@ -57,7 +57,7 @@
     "speed": 2,
     "exp": 3,
     "gold": 6,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [
         "Région de Bastione",
@@ -81,10 +81,10 @@
     "id": 3,
     "name": {
       "EN": "Air rat",
-      "ES": "?",
+      "ES": "",
       "FR": "Rat volant",
       "DE": "Ohrensauser",
-      "IT": "?",
+      "IT": "",
       "JA": "エアラット"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/3.png",
@@ -99,7 +99,7 @@
     "speed": 7,
     "exp": 3,
     "gold": 7,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [
         "Région de Bastione",
@@ -117,10 +117,10 @@
     "id": 4,
     "name": {
       "EN": "Scissor beatle",
-      "ES": "?",
+      "ES": "",
       "FR": "Scarapince",
       "DE": "Scherenkäfer",
-      "IT": "?",
+      "IT": "",
       "JA": "はさみくわがた"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/4.png",
@@ -135,7 +135,7 @@
     "speed": 3,
     "exp": 1,
     "gold": 4,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [
         "Région de Bastione",
@@ -153,10 +153,10 @@
     "id": 5,
     "name": {
       "EN": "Bubble Slime",
-      "ES": "?",
+      "ES": "",
       "FR": "Gluanbulle",
       "DE": "Blasenchleim",
-      "IT": "?",
+      "IT": "",
       "JA": "バブルスライム"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/5.png",
@@ -171,7 +171,7 @@
     "speed": 8,
     "exp": 6,
     "gold": 8,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": ["Région de Bastione", "Région de Strattbourg"],
       "chapter2": [],
@@ -185,10 +185,10 @@
     "id": 6,
     "name": {
       "EN": "Mischievous mole",
-      "ES": "?",
+      "ES": "",
       "FR": "Pataupe",
       "DE": "Maulwurfschelm",
-      "IT": "?",
+      "IT": "",
       "JA": "いたずらもぐら"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/6.png",
@@ -203,7 +203,7 @@
     "speed": 5,
     "exp": 2,
     "gold": 4,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région de Zalenagrad"],
@@ -221,10 +221,10 @@
     "id": 7,
     "name": {
       "EN": "Stump chump",
-      "ES": "?",
+      "ES": "",
       "FR": "Souche louche",
       "DE": "Stumpfpimpf",
-      "IT": "?",
+      "IT": "",
       "JA": "きりかぶおばけ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/7.png",
@@ -239,7 +239,7 @@
     "speed": 1,
     "exp": 7,
     "gold": 13,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [
         "Région de Strattbourg",
@@ -260,10 +260,10 @@
     "id": 8,
     "name": {
       "EN": "Healslime",
-      "ES": "?",
+      "ES": "",
       "FR": "Médigluant",
       "DE": "Doktorschleim",
-      "IT": "?",
+      "IT": "",
       "JA": "ホイミスライム"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/8.png",
@@ -278,7 +278,7 @@
     "speed": 12,
     "exp": 7,
     "gold": 11,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [
         "Grotte aire de jeu de Strattbourg",
@@ -300,10 +300,10 @@
     "id": 9,
     "name": {
       "EN": "Mad mole",
-      "ES": "?",
+      "ES": "",
       "FR": "Taupelle",
       "DE": "Manischer Maulwurf",
-      "IT": "?",
+      "IT": "",
       "JA": "キラースコップ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/9.png",
@@ -318,7 +318,7 @@
     "speed": 10,
     "exp": 9,
     "gold": 10,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [
         "Grotte aire de jeu de Strattbourg",
@@ -335,10 +335,10 @@
     "id": 10,
     "name": {
       "EN": "Winkster",
-      "ES": "?",
+      "ES": "",
       "FR": "Fée tide",
       "DE": "Blinzler",
-      "IT": "?",
+      "IT": "",
       "JA": "みならいあくま"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/10.png",
@@ -353,7 +353,7 @@
     "speed": 7,
     "exp": 11,
     "gold": 13,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": ["Grotte aire de jeu de Strattbourg"],
       "chapter2": [],
@@ -367,10 +367,10 @@
     "id": 11,
     "name": {
       "EN": "Bodkin archer",
-      "ES": "?",
+      "ES": "",
       "FR": "Archer vert",
       "DE": "Schützenwicht",
-      "IT": "?",
+      "IT": "",
       "JA": "リリパット"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/11.png",
@@ -385,7 +385,7 @@
     "speed": 20,
     "exp": 13,
     "gold": 15,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": ["Grande tour de Strattbourg"],
       "chapter2": [],
@@ -399,10 +399,10 @@
     "id": 12,
     "name": {
       "EN": "Splatypunk",
-      "ES": "?",
+      "ES": "",
       "FR": "Ornitro",
       "DE": "Muddel",
-      "IT": "?",
+      "IT": "",
       "JA": "ダックスピル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/12.png",
@@ -417,7 +417,7 @@
     "speed": 12,
     "exp": 14,
     "gold": 10,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": ["Grande tour de Strattbourg"],
       "chapter2": [],
@@ -431,10 +431,10 @@
     "id": 13,
     "name": {
       "EN": "Blinkster",
-      "ES": "?",
+      "ES": "",
       "FR": "Fée brile",
       "DE": "Zwinkerer",
-      "IT": "?",
+      "IT": "",
       "JA": "ベビーマジシャン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/13.png",
@@ -449,7 +449,7 @@
     "speed": 14,
     "exp": 18,
     "gold": 20,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": ["Grande tour de Strattbourg"],
       "chapter2": ["Grotte de Vrenor"],
@@ -463,10 +463,10 @@
     "id": 14,
     "name": {
       "EN": "Picksy",
-      "ES": "?",
+      "ES": "",
       "FR": "Chérubus",
       "DE": "Piekser",
-      "IT": "?",
+      "IT": "",
       "JA": "ピクシー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/14.png",
@@ -481,7 +481,7 @@
     "speed": 15,
     "exp": 16,
     "gold": 20,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": ["Grande tour de Strattbourg"],
       "chapter2": [],
@@ -495,10 +495,10 @@
     "id": 15,
     "name": {
       "EN": "Bantamweight",
-      "ES": "?",
+      "ES": "",
       "FR": "Poids-coq",
       "DE": "Kampfhuhn",
-      "IT": "?",
+      "IT": "",
       "JA": "おおにわとり"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/15.png",
@@ -513,7 +513,7 @@
     "speed": 18,
     "exp": 20,
     "gold": 9,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": ["Grande tour de Strattbourg"],
       "chapter2": [],
@@ -530,10 +530,10 @@
     "id": 16,
     "name": {
       "EN": "Winky",
-      "ES": "?",
+      "ES": "",
       "FR": "Clindœil",
       "DE": "Monekel",
-      "IT": "?",
+      "IT": "",
       "JA": "おおめだま"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/16.png",
@@ -548,7 +548,7 @@
     "speed": 20,
     "exp": 27,
     "gold": 40,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": ["Grande tour de Strattbourg"],
       "chapter2": [],
@@ -562,10 +562,10 @@
     "id": 17,
     "name": {
       "EN": "Walking stick",
-      "ES": "?",
+      "ES": "",
       "FR": "Fourmiasme",
       "DE": "Gelbschrecke",
-      "IT": "?",
+      "IT": "",
       "JA": "キリキリバッタ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/17.png",
@@ -580,7 +580,7 @@
     "speed": 8,
     "exp": 1,
     "gold": 2,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région de Zalenagrad", "Région de Vrenor"],
@@ -594,10 +594,10 @@
     "id": 18,
     "name": {
       "EN": "She-slime",
-      "ES": "?",
+      "ES": "",
       "FR": "Gluante",
       "DE": "Schleimette",
-      "IT": "?",
+      "IT": "",
       "JA": "スライムベス"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/18.png",
@@ -612,7 +612,7 @@
     "speed": 3,
     "exp": 2,
     "gold": 5,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région de Zalenagrad"],
@@ -626,10 +626,10 @@
     "id": 19,
     "name": {
       "EN": "Lickspittle",
-      "ES": "?",
+      "ES": "",
       "FR": "Glair de lune",
       "DE": "Speichellecker",
-      "IT": "?",
+      "IT": "",
       "JA": "つちわらし"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/19.png",
@@ -644,7 +644,7 @@
     "speed": 5,
     "exp": 4,
     "gold": 10,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région de Zalenagrad", "Région de Vrenor"],
@@ -658,10 +658,10 @@
     "id": 20,
     "name": {
       "EN": "Mouseflap",
-      "ES": "?",
+      "ES": "",
       "FR": "Chauve-sourat",
       "DE": "Flattermaus",
-      "IT": "?",
+      "IT": "",
       "JA": "みみとびねずみ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/20.png",
@@ -676,7 +676,7 @@
     "speed": 9,
     "exp": 3,
     "gold": 5,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région de Zalenagrad", "Région de Taborov"],
@@ -690,10 +690,10 @@
     "id": 21,
     "name": {
       "EN": "Foo dog",
-      "ES": "?",
+      "ES": "",
       "FR": "Chienfernal",
       "DE": "Fu-Hund",
-      "IT": "?",
+      "IT": "",
       "JA": "あばれこまいぬ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/21.png",
@@ -708,7 +708,7 @@
     "speed": 7,
     "exp": 7,
     "gold": 20,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [
@@ -726,10 +726,10 @@
     "id": 22,
     "name": {
       "EN": "Bagworm",
-      "ES": "?",
+      "ES": "",
       "FR": "Sacaver",
       "DE": "Raupenrüpel",
-      "IT": "?",
+      "IT": "",
       "JA": "ミノーン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/22.png",
@@ -744,7 +744,7 @@
     "speed": 8,
     "exp": 5,
     "gold": 18,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région de Zalenagrad"],
@@ -758,10 +758,10 @@
     "id": 23,
     "name": {
       "EN": "Funghoul",
-      "ES": "?",
+      "ES": "",
       "FR": "Champigoule",
       "DE": "Pestpilz",
-      "IT": "?",
+      "IT": "",
       "JA": "おばけキノコ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/23.png",
@@ -776,7 +776,7 @@
     "speed": 10,
     "exp": 6,
     "gold": 15,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région de Vrenor", "Grotte de Vrenor"],
@@ -790,10 +790,10 @@
     "id": 24,
     "name": {
       "EN": "Bullfinch",
-      "ES": "?",
+      "ES": "",
       "FR": "Taurapace",
       "DE": "Stierstar",
-      "IT": "?",
+      "IT": "",
       "JA": "あばれうしどり"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/24.png",
@@ -808,7 +808,7 @@
     "speed": 10,
     "exp": 7,
     "gold": 17,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [
@@ -826,10 +826,10 @@
     "id": 25,
     "name": {
       "EN": "Carnivine",
-      "ES": "?",
+      "ES": "",
       "FR": "Morchidée",
       "DE": "Fleischfresser",
-      "IT": "?",
+      "IT": "",
       "JA": "ひとくいそう"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/25.png",
@@ -844,7 +844,7 @@
     "speed": 4,
     "exp": 7,
     "gold": 18,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région de Vrenor", "Région de Chandor"],
@@ -858,10 +858,10 @@
     "id": 26,
     "name": {
       "EN": "Firespirit",
-      "ES": "?",
+      "ES": "",
       "FR": "Feu follet",
       "DE": "Feuergeist",
-      "IT": "?",
+      "IT": "",
       "JA": "メラゴースト"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/26.png",
@@ -876,7 +876,7 @@
     "speed": 8,
     "exp": 6,
     "gold": 18,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région de Vrenor", "Grotte de Vrenor", "Région de Chandor"],
@@ -890,10 +890,10 @@
     "id": 27,
     "name": {
       "EN": "Thorny devil",
-      "ES": "?",
+      "ES": "",
       "FR": "Démon piquant",
       "DE": "Dornteufel",
-      "IT": "?",
+      "IT": "",
       "JA": "テペロ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/27.png",
@@ -908,7 +908,7 @@
     "speed": 15,
     "exp": 15,
     "gold": 25,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Grotte de Vrenor"],
@@ -922,10 +922,10 @@
     "id": 28,
     "name": {
       "EN": "Lugworm",
-      "ES": "?",
+      "ES": "",
       "FR": "Tortilleux",
       "DE": "Kreuchler",
-      "IT": "?",
+      "IT": "",
       "JA": "サンドマスター"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/28.png",
@@ -940,7 +940,7 @@
     "speed": 24,
     "exp": 22,
     "gold": 27,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région du bazar du désert"],
@@ -954,10 +954,10 @@
     "id": 29,
     "name": {
       "EN": "Bedbug",
-      "ES": "?",
+      "ES": "",
       "FR": "Scarasomniaque",
       "DE": "Bettwanze",
-      "IT": "?",
+      "IT": "",
       "JA": "ラリホービートル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/29.png",
@@ -972,7 +972,7 @@
     "speed": 10,
     "exp": 12,
     "gold": 15,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région de la grotte de Vrenor", "Grotte de Vrenor"],
@@ -986,10 +986,10 @@
     "id": 30,
     "name": {
       "EN": "Komodo",
-      "ES": "?",
+      "ES": "",
       "FR": "Komodor",
       "DE": "Komodo",
-      "IT": "?",
+      "IT": "",
       "JA": "コドラ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/30.png",
@@ -1004,7 +1004,7 @@
     "speed": 25,
     "exp": 25,
     "gold": 39,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [
@@ -1021,10 +1021,10 @@
     "id": 31,
     "name": {
       "EN": "Pickayune",
-      "ES": "?",
+      "ES": "",
       "FR": "Démonius",
       "DE": "Necker",
-      "IT": "?",
+      "IT": "",
       "JA": "おにこぞう"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/31.png",
@@ -1039,7 +1039,7 @@
     "speed": 21,
     "exp": 18,
     "gold": 36,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [
@@ -1060,7 +1060,7 @@
       "ES": "",
       "FR": "Vipère à crête",
       "DE": "Kranzviper",
-      "IT": "?",
+      "IT": "",
       "JA": "とさかへび"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/32.png",
@@ -1075,7 +1075,7 @@
     "speed": 18,
     "exp": 18,
     "gold": 25,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Grotte de Vrenor"],
@@ -1093,10 +1093,10 @@
     "id": 33,
     "name": {
       "EN": "Armoured scorpion",
-      "ES": "?",
+      "ES": "",
       "FR": "Scorpion blindé",
       "DE": "Panzerskorpion",
-      "IT": "?",
+      "IT": "",
       "JA": "さそりアーマー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/33.png",
@@ -1111,7 +1111,7 @@
     "speed": 9,
     "exp": 38,
     "gold": 44,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région du bazar du désert", "Région de Chandor"],
@@ -1125,10 +1125,10 @@
     "id": 34,
     "name": {
       "EN": "Vampire bat",
-      "ES": "?",
+      "ES": "",
       "FR": "Vampierre",
       "DE": "Vampirfledermaus",
-      "IT": "?",
+      "IT": "",
       "JA": "きゅうけつこうもり"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/34.png",
@@ -1143,7 +1143,7 @@
     "speed": 14,
     "exp": 11,
     "gold": 23,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Grotte de Vrenor"],
@@ -1157,10 +1157,10 @@
     "id": 35,
     "name": {
       "EN": "Cyclown",
-      "ES": "?",
+      "ES": "",
       "FR": "Cyclown",
       "DE": "Tornadoteufel",
-      "IT": "?",
+      "IT": "",
       "JA": "かまいたち"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/35.png",
@@ -1175,7 +1175,7 @@
     "speed": 40,
     "exp": 32,
     "gold": 34,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Tour elfique", "Région de Chandor"],
@@ -1192,10 +1192,10 @@
     "id": 36,
     "name": {
       "EN": "Killer gila",
-      "ES": "?",
+      "ES": "",
       "FR": "Batratueur",
       "DE": "Giftechse",
-      "IT": "?",
+      "IT": "",
       "JA": "ポイズンリザード"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/36.png",
@@ -1210,7 +1210,7 @@
     "speed": 15,
     "exp": 18,
     "gold": 21,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Tour elfique"],
@@ -1224,10 +1224,10 @@
     "id": 37,
     "name": {
       "EN": "Flyguy",
-      "ES": "?",
+      "ES": "",
       "FR": "Mouchomme",
       "DE": "Fliegerich",
-      "IT": "?",
+      "IT": "",
       "JA": "はえおとこ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/37.png",
@@ -1242,7 +1242,7 @@
     "speed": 17,
     "exp": 35,
     "gold": 47,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Tour elfique"],
@@ -1256,10 +1256,10 @@
     "id": 38,
     "name": {
       "EN": "Erazor blade",
-      "ES": "?",
+      "ES": "",
       "FR": "Cimetueur",
       "DE": "Sichelschlitzer",
-      "IT": "?",
+      "IT": "",
       "JA": "ひとくいサーベル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/38.png",
@@ -1274,7 +1274,7 @@
     "speed": 17,
     "exp": 30,
     "gold": 46,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Tour elfique"],
@@ -1288,10 +1288,10 @@
     "id": 39,
     "name": {
       "EN": "Pteranodon",
-      "ES": "?",
+      "ES": "",
       "FR": "Ptéranodon",
       "DE": "Pteranodon",
-      "IT": "?",
+      "IT": "",
       "JA": "プテラノドン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/39.png",
@@ -1306,7 +1306,7 @@
     "speed": 19,
     "exp": 36,
     "gold": 50,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Tour elfique", "Région de Chandor"],
@@ -1325,10 +1325,10 @@
     "id": 40,
     "name": {
       "EN": "Flying doctor",
-      "ES": "?",
+      "ES": "",
       "FR": "Dragonlule",
       "DE": "Medikopter",
-      "IT": "?",
+      "IT": "",
       "JA": "ドラゴンバタフライ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/40.png",
@@ -1343,7 +1343,7 @@
     "speed": 25,
     "exp": 38,
     "gold": 60,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Tour elfique"],
@@ -1357,10 +1357,10 @@
     "id": 41,
     "name": {
       "EN": "Peeper",
-      "ES": "?",
+      "ES": "",
       "FR": "Matœil",
       "DE": "Glubscher",
-      "IT": "?",
+      "IT": "",
       "JA": "スペクテット"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/41.png",
@@ -1375,7 +1375,7 @@
     "speed": 21,
     "exp": 31,
     "gold": 62,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Tour elfique"],
@@ -1389,10 +1389,10 @@
     "id": 42,
     "name": {
       "EN": "Skeleton swordsman",
-      "ES": "?",
+      "ES": "",
       "FR": "Squelépéiste",
       "DE": "Skelettkämpfer",
-      "IT": "?",
+      "IT": "",
       "JA": "がいこつけんし"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/42.png",
@@ -1407,7 +1407,7 @@
     "speed": 27,
     "exp": 53,
     "gold": 54,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région de Chandor"],
@@ -1425,10 +1425,10 @@
     "id": 43,
     "name": {
       "EN": "Restless armour",
-      "ES": "?",
+      "ES": "",
       "FR": "Armure errante",
       "DE": "Ruhelose Rüstung",
-      "IT": "?",
+      "IT": "",
       "JA": "さまようよろい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/43.png",
@@ -1443,7 +1443,7 @@
     "speed": 25,
     "exp": 55,
     "gold": 49,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région de Chandor"],
@@ -1461,10 +1461,10 @@
     "id": 44,
     "name": {
       "EN": "Metal slime",
-      "ES": "?",
+      "ES": "",
       "FR": "Gluant de métal",
       "DE": "Metallschleim",
-      "IT": "?",
+      "IT": "",
       "JA": "メタルスライム"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/44.png",
@@ -1479,7 +1479,7 @@
     "speed": 50,
     "exp": 1350,
     "gold": 5,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Région de Chandor"],
@@ -1497,10 +1497,10 @@
     "id": 45,
     "name": {
       "EN": "Elepus",
-      "ES": "?",
+      "ES": "",
       "FR": "Elépieuvre",
       "DE": "Elepus",
-      "IT": "?",
+      "IT": "",
       "JA": "エレフローパー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/45.png",
@@ -1515,7 +1515,7 @@
     "speed": 10,
     "exp": 14,
     "gold": 18,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -1529,10 +1529,10 @@
     "id": 46,
     "name": {
       "EN": "Platypunk",
-      "ES": "?",
+      "ES": "",
       "FR": "Ornithox",
       "DE": "Kuddel",
-      "IT": "?",
+      "IT": "",
       "JA": "ももんじゃ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/46.png",
@@ -1547,7 +1547,7 @@
     "speed": 5,
     "exp": 3,
     "gold": 8,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -1561,10 +1561,10 @@
     "id": 47,
     "name": {
       "EN": "Horny devil",
-      "ES": "?",
+      "ES": "",
       "FR": "Démon cornu",
       "DE": "Hornteufel",
-      "IT": "?",
+      "IT": "",
       "JA": "とんがりあたま"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/47.png",
@@ -1579,7 +1579,7 @@
     "speed": 7,
     "exp": 7,
     "gold": 11,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -1593,10 +1593,10 @@
     "id": 48,
     "name": {
       "EN": "Dirty dogu",
-      "ES": "?",
+      "ES": "",
       "FR": "Gris-gris",
       "DE": "Adrette Statuette",
-      "IT": "?",
+      "IT": "",
       "JA": "いしにんぎょう"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/48.png",
@@ -1611,7 +1611,7 @@
     "speed": 5,
     "exp": 12,
     "gold": 17,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -1625,10 +1625,10 @@
     "id": 49,
     "name": {
       "EN": "Wimp",
-      "ES": "?",
+      "ES": "",
       "FR": "Diablutin",
       "DE": "Kümmerling",
-      "IT": "?",
+      "IT": "",
       "JA": "つかいま"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/49.png",
@@ -1643,7 +1643,7 @@
     "speed": 12,
     "exp": 15,
     "gold": 28,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -1662,10 +1662,10 @@
     "id": 50,
     "name": {
       "EN": "Crack-billed platypunk",
-      "ES": "?",
+      "ES": "",
       "FR": "Ornicryo",
       "DE": "Knirschkuddel",
-      "IT": "?",
+      "IT": "",
       "JA": "メイジももんじゃ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/50.png",
@@ -1680,7 +1680,7 @@
     "speed": 17,
     "exp": 18,
     "gold": 30,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -1699,10 +1699,10 @@
     "id": 51,
     "name": {
       "EN": "Fire beatle",
-      "ES": "?",
+      "ES": "",
       "FR": "Pyroblatte",
       "DE": "Feuerkäfer",
-      "IT": "?",
+      "IT": "",
       "JA": "ヘルビートル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/51.png",
@@ -1717,7 +1717,7 @@
     "speed": 10,
     "exp": 16,
     "gold": 21,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -1731,10 +1731,10 @@
     "id": 52,
     "name": {
       "EN": "Slimification",
-      "ES": "?",
+      "ES": "",
       "FR": "Gluantification",
       "DE": "Schleimifizierung",
-      "IT": "?",
+      "IT": "",
       "JA": "がったいスライム"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/52.png",
@@ -1749,7 +1749,7 @@
     "speed": 15,
     "exp": 3,
     "gold": 1,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -1763,10 +1763,10 @@
     "id": 53,
     "name": {
       "EN": "King slime",
-      "ES": "?",
+      "ES": "",
       "FR": "Roi gluant",
       "DE": "Königsschleim",
-      "IT": "?",
+      "IT": "",
       "JA": "キングスライム"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/53.png",
@@ -1781,7 +1781,7 @@
     "speed": 17,
     "exp": 100,
     "gold": 150,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -1795,10 +1795,10 @@
     "id": 54,
     "name": {
       "EN": "Ratatattack",
-      "ES": "?",
+      "ES": "",
       "FR": "Ratatattaque",
       "DE": "Rattentäter",
-      "IT": "?",
+      "IT": "",
       "JA": "エビルハムスター"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/54.png",
@@ -1813,7 +1813,7 @@
     "speed": 30,
     "exp": 43,
     "gold": 18,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -1827,10 +1827,10 @@
     "id": 55,
     "name": {
       "EN": "Frolicker",
-      "ES": "?",
+      "ES": "",
       "FR": "Salivard",
       "DE": "Sabberschlabber",
-      "IT": "?",
+      "IT": "",
       "JA": "ペロペロ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/55.png",
@@ -1845,7 +1845,7 @@
     "speed": 15,
     "exp": 28,
     "gold": 61,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -1867,10 +1867,10 @@
     "id": 56,
     "name": {
       "EN": "Stump grump",
-      "ES": "?",
+      "ES": "",
       "FR": "Cyclotronc",
       "DE": "Dumpfstumpf",
-      "IT": "?",
+      "IT": "",
       "JA": "ダークドリアード"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/56.png",
@@ -1885,7 +1885,7 @@
     "speed": 18,
     "exp": 25,
     "gold": 30,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -1899,10 +1899,10 @@
     "id": 57,
     "name": {
       "EN": "Weartiger",
-      "ES": "?",
+      "ES": "",
       "FR": "Tigriff",
       "DE": "Abartiger",
-      "IT": "?",
+      "IT": "",
       "JA": "とらおとこ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/57.png",
@@ -1917,7 +1917,7 @@
     "speed": 20,
     "exp": 30,
     "gold": 50,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -1936,10 +1936,10 @@
     "id": 58,
     "name": {
       "EN": "Jinkster",
-      "ES": "?",
+      "ES": "",
       "FR": "Fée lée",
       "DE": "Blödler",
-      "IT": "?",
+      "IT": "",
       "JA": "ひとつめピエロ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/58.png",
@@ -1954,7 +1954,7 @@
     "speed": 16,
     "exp": 27,
     "gold": 52,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -1972,10 +1972,10 @@
     "id": 59,
     "name": {
       "EN": "Paralyslicer",
-      "ES": "?",
+      "ES": "",
       "FR": "Paralysabre",
       "DE": "Sichel der Starre",
-      "IT": "?",
+      "IT": "",
       "JA": "しびれだんびら"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/59.png",
@@ -1990,7 +1990,7 @@
     "speed": 16,
     "exp": 25,
     "gold": 18,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2008,10 +2008,10 @@
     "id": 60,
     "name": {
       "EN": "Lost soul",
-      "ES": "?",
+      "ES": "",
       "FR": "Flammerolle",
       "DE": "Verlorene Seele",
-      "IT": "?",
+      "IT": "",
       "JA": "さまようたましい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/60.png",
@@ -2026,7 +2026,7 @@
     "speed": 1,
     "exp": 20,
     "gold": 28,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2040,10 +2040,10 @@
     "id": 61,
     "name": {
       "EN": "Vampire battler",
-      "ES": "?",
+      "ES": "",
       "FR": "Vampaul",
       "DE": "Vampirkämpfer",
-      "IT": "?",
+      "IT": "",
       "JA": "バンプドック"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/61.png",
@@ -2058,7 +2058,7 @@
     "speed": 28,
     "exp": 36,
     "gold": 24,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2077,10 +2077,10 @@
     "id": 62,
     "name": {
       "EN": "Metal scorpion",
-      "ES": "?",
+      "ES": "",
       "FR": "Scorpion d'assaut",
       "DE": "Metallskorpion",
-      "IT": "?",
+      "IT": "",
       "JA": "メタルスコーピオン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/62.png",
@@ -2095,7 +2095,7 @@
     "speed": 25,
     "exp": 59,
     "gold": 38,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2113,10 +2113,10 @@
     "id": 63,
     "name": {
       "EN": "Featherweight",
-      "ES": "?",
+      "ES": "",
       "FR": "Poids-plume",
       "DE": "Federfaust",
-      "IT": "?",
+      "IT": "",
       "JA": "ドードーどり"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/63.png",
@@ -2131,7 +2131,7 @@
     "speed": 26,
     "exp": 50,
     "gold": 51,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2153,10 +2153,10 @@
     "id": 64,
     "name": {
       "EN": "Salamander fry",
-      "ES": "?",
+      "ES": "",
       "FR": "Geckorrosif",
       "DE": "Geckorrosif",
-      "IT": "?",
+      "IT": "",
       "JA": "ベビーサラマンダ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/64.png",
@@ -2171,7 +2171,7 @@
     "speed": 27,
     "exp": 59,
     "gold": 58,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2189,10 +2189,10 @@
     "id": 65,
     "name": {
       "EN": "Venus guytrap",
-      "ES": "?",
+      "ES": "",
       "FR": "Dionéneuse",
       "DE": "Venus-Menschenfalle",
-      "IT": "?",
+      "IT": "",
       "JA": "デビルプラント"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/65.png",
@@ -2207,7 +2207,7 @@
     "speed": 15,
     "exp": 40,
     "gold": 34,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2224,7 +2224,7 @@
       "ES": "",
       "FR": "Dardeur",
       "DE": "Pfeilwicht",
-      "IT": "?",
+      "IT": "",
       "JA": "どくやずきん"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/66.png",
@@ -2239,7 +2239,7 @@
     "speed": 10,
     "exp": 18,
     "gold": 16,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2253,10 +2253,10 @@
     "id": 67,
     "name": {
       "EN": "Mandragore",
-      "ES": "?",
+      "ES": "",
       "FR": "Mandragore",
       "DE": "Mandragora",
-      "IT": "?",
+      "IT": "",
       "JA": "マンドレイク"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/67.png",
@@ -2271,7 +2271,7 @@
     "speed": 15,
     "exp": 26,
     "gold": 17,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2285,10 +2285,10 @@
     "id": 68,
     "name": {
       "EN": "Bodkin bawyer",
-      "ES": "?",
+      "ES": "",
       "FR": "Tire-flèches",
       "DE": "Bogenwicht",
-      "IT": "?",
+      "IT": "",
       "JA": "アローインプ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/68.png",
@@ -2303,7 +2303,7 @@
     "speed": 21,
     "exp": 47,
     "gold": 16,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2321,10 +2321,10 @@
     "id": 69,
     "name": {
       "EN": "Sweaty yeti",
-      "ES": "?",
+      "ES": "",
       "FR": "Yeti des sables",
       "DE": "Yetigitt",
-      "IT": "?",
+      "IT": "",
       "JA": "デザートゴースト"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/69.png",
@@ -2339,7 +2339,7 @@
     "speed": 25,
     "exp": 70,
     "gold": 68,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2353,10 +2353,10 @@
     "id": 70,
     "name": {
       "EN": "Flamethrower",
-      "ES": "?",
+      "ES": "",
       "FR": "Tizon",
       "DE": "Flammenwerfer",
-      "IT": "?",
+      "IT": "",
       "JA": "ほのおのせんし"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/70.png",
@@ -2371,7 +2371,7 @@
     "speed": 36,
     "exp": 110,
     "gold": 52,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2390,10 +2390,10 @@
     "id": 71,
     "name": {
       "EN": "Murshroom mage",
-      "ES": "?",
+      "ES": "",
       "FR": "Champimage",
       "DE": "Plizmagier",
-      "IT": "?",
+      "IT": "",
       "JA": "マージマタンゴ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/71.png",
@@ -2408,7 +2408,7 @@
     "speed": 20,
     "exp": 45,
     "gold": 30,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2427,10 +2427,10 @@
     "id": 72,
     "name": {
       "EN": "Buffalo wing",
-      "ES": "?",
+      "ES": "",
       "FR": "Bovipare",
       "DE": "Flügelbüffel",
-      "IT": "?",
+      "IT": "",
       "JA": "ブルホーク"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/72.png",
@@ -2445,7 +2445,7 @@
     "speed": 26,
     "exp": 49,
     "gold": 39,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2459,10 +2459,10 @@
     "id": 73,
     "name": {
       "EN": "Imp",
-      "ES": "?",
+      "ES": "",
       "FR": "Diablotin",
       "DE": "Kobold",
-      "IT": "?",
+      "IT": "",
       "JA": "ベビーサタン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/73.png",
@@ -2477,7 +2477,7 @@
     "speed": 23,
     "exp": 80,
     "gold": 75,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2491,10 +2491,10 @@
     "id": 74,
     "name": {
       "EN": "Whizzard",
-      "ES": "?",
+      "ES": "",
       "FR": "Marcagicien",
       "DE": "Scharlatan",
-      "IT": "?",
+      "IT": "",
       "JA": "コンジャラー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/74.png",
@@ -2509,7 +2509,7 @@
     "speed": 30,
     "exp": 70,
     "gold": 31,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2523,10 +2523,10 @@
     "id": 75,
     "name": {
       "EN": "Infernal armour",
-      "ES": "?",
+      "ES": "",
       "FR": "Armure infernale",
       "DE": "Höllenrüstung",
-      "IT": "?",
+      "IT": "",
       "JA": "じごくのよろい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/75.png",
@@ -2541,7 +2541,7 @@
     "speed": 24,
     "exp": 77,
     "gold": 76,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2559,10 +2559,10 @@
     "id": 76,
     "name": {
       "EN": "Powie yowie",
-      "ES": "?",
+      "ES": "",
       "FR": "Yéti yétu",
       "DE": "Schneestrolch",
-      "IT": "?",
+      "IT": "",
       "JA": "イエティ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/76.png",
@@ -2577,7 +2577,7 @@
     "speed": 25,
     "exp": 85,
     "gold": 38,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2591,10 +2591,10 @@
     "id": 77,
     "name": {
       "EN": "Skeleton soldier",
-      "ES": "?",
+      "ES": "",
       "FR": "Soldat squelette",
       "DE": "Skelettsoldat",
-      "IT": "?",
+      "IT": "",
       "JA": "しりょうのきし"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/77.png",
@@ -2609,7 +2609,7 @@
     "speed": 40,
     "exp": 106,
     "gold": 47,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2629,10 +2629,10 @@
     "id": 78,
     "name": {
       "EN": "Pocus poppet",
-      "ES": "?",
+      "ES": "",
       "FR": "Talismaboule",
       "DE": "Fiese Figurine",
-      "IT": "?",
+      "IT": "",
       "JA": "ミステリードール"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/78.png",
@@ -2647,7 +2647,7 @@
     "speed": 30,
     "exp": 37,
     "gold": 300,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2661,10 +2661,10 @@
     "id": 79,
     "name": {
       "EN": "Wild beast",
-      "ES": "?",
+      "ES": "",
       "FR": "Bête sauvage",
       "DE": "Grobian",
-      "IT": "?",
+      "IT": "",
       "JA": "オックスベア"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/79.png",
@@ -2679,7 +2679,7 @@
     "speed": 33,
     "exp": 89,
     "gold": 49,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2693,10 +2693,10 @@
     "id": 80,
     "name": {
       "EN": "Dragon pup",
-      "ES": "?",
+      "ES": "",
       "FR": "Dragonnet",
       "DE": "Drachenbaby",
-      "IT": "?",
+      "IT": "",
       "JA": "ドラゴンパピー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/80.png",
@@ -2711,7 +2711,7 @@
     "speed": 34,
     "exp": 96,
     "gold": 50,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2725,10 +2725,10 @@
     "id": 81,
     "name": {
       "EN": "Hoodoo gooroo",
-      "ES": "?",
+      "ES": "",
       "FR": "Gourou coucou",
       "DE": "Unglücksbringer",
-      "IT": "?",
+      "IT": "",
       "JA": "しりょうつかい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/81.png",
@@ -2743,7 +2743,7 @@
     "speed": 55,
     "exp": 200,
     "gold": 54,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2757,10 +2757,10 @@
     "id": 82,
     "name": {
       "EN": "Cocoon goon",
-      "ES": "?",
+      "ES": "",
       "FR": "Asticocon",
       "DE": "Kokonkiller",
-      "IT": "?",
+      "IT": "",
       "JA": "あくまのす"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/82.png",
@@ -2775,7 +2775,7 @@
     "speed": 5,
     "exp": 80,
     "gold": 10,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2793,10 +2793,10 @@
     "id": 83,
     "name": {
       "EN": "Cureslime",
-      "ES": "?",
+      "ES": "",
       "FR": "Guérigluant",
       "DE": "Heilschleim",
-      "IT": "?",
+      "IT": "",
       "JA": "ベホマスライム"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/83.png",
@@ -2811,7 +2811,7 @@
     "speed": 28,
     "exp": 68,
     "gold": 43,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2825,10 +2825,10 @@
     "id": 84,
     "name": {
       "EN": "Abracadabrador",
-      "ES": "?",
+      "ES": "",
       "FR": "Abracadabraque",
       "DE": "Abrakadabrador",
-      "IT": "?",
+      "IT": "",
       "JA": "サブナック"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/84.png",
@@ -2843,7 +2843,7 @@
     "speed": 38,
     "exp": 125,
     "gold": 81,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2857,10 +2857,10 @@
     "id": 85,
     "name": {
       "EN": "Cheater cheetah",
-      "ES": "?",
+      "ES": "",
       "FR": "Tigrrr",
       "DE": "Unartiger",
-      "IT": "?",
+      "IT": "",
       "JA": "ベンガル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/85.png",
@@ -2875,7 +2875,7 @@
     "speed": 36,
     "exp": 115,
     "gold": 62,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2893,10 +2893,10 @@
     "id": 86,
     "name": {
       "EN": "Rhinothrope",
-      "ES": "?",
+      "ES": "",
       "FR": "Rhinocérosse",
       "DE": "Beilhorn",
-      "IT": "?",
+      "IT": "",
       "JA": "サイおとこ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/86.png",
@@ -2911,7 +2911,7 @@
     "speed": 22,
     "exp": 126,
     "gold": 39,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2925,10 +2925,10 @@
     "id": 87,
     "name": {
       "EN": "Minidemon",
-      "ES": "?",
+      "ES": "",
       "FR": "Mini démon",
       "DE": "Minidämon",
-      "IT": "?",
+      "IT": "",
       "JA": "ミニデーモン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/87.png",
@@ -2943,7 +2943,7 @@
     "speed": 54,
     "exp": 193,
     "gold": 43,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -2964,10 +2964,10 @@
     "id": 88,
     "name": {
       "EN": "Chillanodon",
-      "ES": "?",
+      "ES": "",
       "FR": "Glacianodon",
       "DE": "Schocknodon",
-      "IT": "?",
+      "IT": "",
       "JA": "アイスコンドル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/88.png",
@@ -2982,7 +2982,7 @@
     "speed": 37,
     "exp": 104,
     "gold": 33,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3001,10 +3001,10 @@
     "id": 89,
     "name": {
       "EN": "Lethal armour",
-      "ES": "?",
+      "ES": "",
       "FR": "Armure fatale",
       "DE": "Todesrüstung",
-      "IT": "?",
+      "IT": "",
       "JA": "キラーアーマー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/89.png",
@@ -3019,7 +3019,7 @@
     "speed": 30,
     "exp": 120,
     "gold": 58,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3033,10 +3033,10 @@
     "id": 90,
     "name": {
       "EN": "Rockbomb",
-      "ES": "?",
+      "ES": "",
       "FR": "Rochexplosif",
       "DE": "Falsenbombe",
-      "IT": "?",
+      "IT": "",
       "JA": "ばくだんいわ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/90.png",
@@ -3051,7 +3051,7 @@
     "speed": 0,
     "exp": 150,
     "gold": 40,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3065,10 +3065,10 @@
     "id": 91,
     "name": {
       "EN": "Eoraptor",
-      "ES": "?",
+      "ES": "",
       "FR": "Radiaptor",
       "DE": "Eoraptor",
-      "IT": "?",
+      "IT": "",
       "JA": "テラノザース"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/91.png",
@@ -3083,7 +3083,7 @@
     "speed": 40,
     "exp": 116,
     "gold": 45,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3101,10 +3101,10 @@
     "id": 92,
     "name": {
       "EN": "Beleth",
-      "ES": "?",
+      "ES": "",
       "FR": "Byleth",
       "DE": "Beleth",
-      "IT": "?",
+      "IT": "",
       "JA": "ベレス"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/92.png",
@@ -3119,7 +3119,7 @@
     "speed": 57,
     "exp": 132,
     "gold": 70,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3133,10 +3133,10 @@
     "id": 93,
     "name": {
       "EN": "Grim rider",
-      "ES": "?",
+      "ES": "",
       "FR": "Cavalier fantôme",
       "DE": "Galgenreiter",
-      "IT": "?",
+      "IT": "",
       "JA": "ボーンナイト"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/93.png",
@@ -3151,7 +3151,7 @@
     "speed": 40,
     "exp": 216,
     "gold": 82,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3169,10 +3169,10 @@
     "id": 94,
     "name": {
       "EN": "Bulldozer",
-      "ES": "?",
+      "ES": "",
       "FR": "Ronflicorne",
       "DE": "Bulldozer",
-      "IT": "?",
+      "IT": "",
       "JA": "アークバッファロー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/94.png",
@@ -3187,7 +3187,7 @@
     "speed": 39,
     "exp": 121,
     "gold": 72,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3205,10 +3205,10 @@
     "id": 95,
     "name": {
       "EN": "Chicken poxer",
-      "ES": "?",
+      "ES": "",
       "FR": "Coq-toc",
       "DE": "Haudraufhenne",
-      "IT": "?",
+      "IT": "",
       "JA": "マンルースター"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/95.png",
@@ -3223,7 +3223,7 @@
     "speed": 61,
     "exp": 108,
     "gold": 40,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3237,10 +3237,10 @@
     "id": 96,
     "name": {
       "EN": "War-rus",
-      "ES": "?",
+      "ES": "",
       "FR": "Toréamorse",
       "DE": "Qualross",
-      "IT": "?",
+      "IT": "",
       "JA": "グレートオーラス"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/96.png",
@@ -3255,7 +3255,7 @@
     "speed": 40,
     "exp": 120,
     "gold": 54,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3269,10 +3269,10 @@
     "id": 97,
     "name": {
       "EN": "Liquid metal slime",
-      "ES": "?",
+      "ES": "",
       "FR": "Gluant de mercure",
       "DE": "Flüssigmetallschleim",
-      "IT": "?",
+      "IT": "",
       "JA": "はぐれメタル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/97.png",
@@ -3287,7 +3287,7 @@
     "speed": 150,
     "exp": 10050,
     "gold": 10,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3301,10 +3301,10 @@
     "id": 98,
     "name": {
       "EN": "Humbaba",
-      "ES": "?",
+      "ES": "",
       "FR": "Humbaba",
       "DE": "Humbaba",
-      "IT": "?",
+      "IT": "",
       "JA": "ハンババ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/98.png",
@@ -3319,7 +3319,7 @@
     "speed": 30,
     "exp": 144,
     "gold": 76,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3337,10 +3337,10 @@
     "id": 99,
     "name": {
       "EN": "Spitfire",
-      "ES": "?",
+      "ES": "",
       "FR": "Libellugon",
       "DE": "Feuerspeier",
-      "IT": "?",
+      "IT": "",
       "JA": "ドラゴニット"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/99.png",
@@ -3355,7 +3355,7 @@
     "speed": 41,
     "exp": 180,
     "gold": 100,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3373,10 +3373,10 @@
     "id": 100,
     "name": {
       "EN": "Terminonatator",
-      "ES": "?",
+      "ES": "",
       "FR": "Terminataure",
       "DE": "Terminonatator",
-      "IT": "?",
+      "IT": "",
       "JA": "プレシオドン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/100.png",
@@ -3391,7 +3391,7 @@
     "speed": 30,
     "exp": 135,
     "gold": 57,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3409,10 +3409,10 @@
     "id": 101,
     "name": {
       "EN": "Skerleton",
-      "ES": "?",
+      "ES": "",
       "FR": "Berserkerlette",
       "DE": "Sokarlett",
-      "IT": "?",
+      "IT": "",
       "JA": "しにがみ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/101.png",
@@ -3427,7 +3427,7 @@
     "speed": 53,
     "exp": 315,
     "gold": 50,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3447,10 +3447,10 @@
     "id": 102,
     "name": {
       "EN": "Cheeky tiki",
-      "ES": "?",
+      "ES": "",
       "FR": "Grimasque",
       "DE": "Grinsgötze",
-      "IT": "?",
+      "IT": "",
       "JA": "ガオン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/102.png",
@@ -3465,7 +3465,7 @@
     "speed": 50,
     "exp": 290,
     "gold": 102,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3483,10 +3483,10 @@
     "id": 103,
     "name": {
       "EN": "Podokesaurus",
-      "ES": "?",
+      "ES": "",
       "FR": "Pokérosaure",
       "DE": "Podokesaurus",
-      "IT": "?",
+      "IT": "",
       "JA": "はしりとかげ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/103.png",
@@ -3501,7 +3501,7 @@
     "speed": 74,
     "exp": 270,
     "gold": 81,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3515,10 +3515,10 @@
     "id": 104,
     "name": {
       "EN": "Dragon rider",
-      "ES": "?",
+      "ES": "",
       "FR": "Dragonnier",
       "DE": "Drachenreiter",
-      "IT": "?",
+      "IT": "",
       "JA": "ドラゴンライダー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/104.png",
@@ -3533,7 +3533,7 @@
     "speed": 70,
     "exp": 351,
     "gold": 108,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3552,10 +3552,10 @@
     "id": 105,
     "name": {
       "EN": "Freeze fly",
-      "ES": "?",
+      "ES": "",
       "FR": "Mouche des neiges",
       "DE": "Frostfliege",
-      "IT": "?",
+      "IT": "",
       "JA": "マヒャドフライ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/105.png",
@@ -3570,7 +3570,7 @@
     "speed": 35,
     "exp": 261,
     "gold": 151,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3588,10 +3588,10 @@
     "id": 106,
     "name": {
       "EN": "Hell raiser",
-      "ES": "?",
+      "ES": "",
       "FR": "Phacomage",
       "DE": "Höllenhexer",
-      "IT": "?",
+      "IT": "",
       "JA": "カロン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/106.png",
@@ -3606,7 +3606,7 @@
     "speed": 50,
     "exp": 234,
     "gold": 91,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3624,10 +3624,10 @@
     "id": 107,
     "name": {
       "EN": "Hellspawn",
-      "ES": "?",
+      "ES": "",
       "FR": "Rejeton de l'enfer",
       "DE": "Ausgeburt der Hölle",
-      "IT": "?",
+      "IT": "",
       "JA": "フェイスボール"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/107.png",
@@ -3642,7 +3642,7 @@
     "speed": 67,
     "exp": 225,
     "gold": 186,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3656,10 +3656,10 @@
     "id": 108,
     "name": {
       "EN": "Bloody blade",
-      "ES": "?",
+      "ES": "",
       "FR": "Lame sanglante",
       "DE": "Blutsichel",
-      "IT": "?",
+      "IT": "",
       "JA": "ブラッドソード"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/108.png",
@@ -3674,7 +3674,7 @@
     "speed": 49,
     "exp": 180,
     "gold": 80,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3692,10 +3692,10 @@
     "id": 109,
     "name": {
       "EN": "Terrorflyer",
-      "ES": "?",
+      "ES": "",
       "FR": "Apprentiran",
       "DE": "Flugschrecken",
-      "IT": "?",
+      "IT": "",
       "JA": "テラノバット"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/109.png",
@@ -3710,7 +3710,7 @@
     "speed": 43,
     "exp": 187,
     "gold": 74,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3724,10 +3724,10 @@
     "id": 110,
     "name": {
       "EN": "Voodoo gooroo",
-      "ES": "?",
+      "ES": "",
       "FR": "Gourou vaudou",
       "DE": "Voodooguru",
-      "IT": "?",
+      "IT": "",
       "JA": "ビビンバー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/110.png",
@@ -3742,7 +3742,7 @@
     "speed": 57,
     "exp": 211,
     "gold": 88,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3756,10 +3756,10 @@
     "id": 111,
     "name": {
       "EN": "Medislime",
-      "ES": "?",
+      "ES": "",
       "FR": "Coagluant",
       "DE": "Arztschleim",
-      "IT": "?",
+      "IT": "",
       "JA": "ベホイミスライム"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/111.png",
@@ -3774,7 +3774,7 @@
     "speed": 47,
     "exp": 162,
     "gold": 55,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3788,10 +3788,10 @@
     "id": 112,
     "name": {
       "EN": "Rhinoceraxe",
-      "ES": "?",
+      "ES": "",
       "FR": "Rhinocérache",
       "DE": "Rhinozeraxt",
-      "IT": "?",
+      "IT": "",
       "JA": "ライノソルジャー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/112.png",
@@ -3806,7 +3806,7 @@
     "speed": 35,
     "exp": 245,
     "gold": 68,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3825,10 +3825,10 @@
     "id": 113,
     "name": {
       "EN": "Fat bat",
-      "ES": "?",
+      "ES": "",
       "FR": "Hippovol",
       "DE": "Fledermops",
-      "IT": "?",
+      "IT": "",
       "JA": "ジャイアントバット"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/113.png",
@@ -3843,7 +3843,7 @@
     "speed": 38,
     "exp": 172,
     "gold": 84,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3857,10 +3857,10 @@
     "id": 114,
     "name": {
       "EN": "Hellion",
-      "ES": "?",
+      "ES": "",
       "FR": "Trublion",
       "DE": "Höllenlöwe",
-      "IT": "?",
+      "IT": "",
       "JA": "アームライオン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/114.png",
@@ -3875,7 +3875,7 @@
     "speed": 45,
     "exp": 224,
     "gold": 119,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3889,10 +3889,10 @@
     "id": 115,
     "name": {
       "EN": "Blizzybody",
-      "ES": "?",
+      "ES": "",
       "FR": "Glazon",
       "DE": "Eiswerfer",
-      "IT": "?",
+      "IT": "",
       "JA": "ブリザードマン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/115.png",
@@ -3907,7 +3907,7 @@
     "speed": 47,
     "exp": 286,
     "gold": 100,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3921,10 +3921,10 @@
     "id": 116,
     "name": {
       "EN": "Wyvern",
-      "ES": "?",
+      "ES": "",
       "FR": "Wyverne",
       "DE": "Flügeldrache",
-      "IT": "?",
+      "IT": "",
       "JA": "ライバーン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/116.png",
@@ -3939,7 +3939,7 @@
     "speed": 82,
     "exp": 393,
     "gold": 116,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3953,10 +3953,10 @@
     "id": 117,
     "name": {
       "EN": "Fuddlestick",
-      "ES": "?",
+      "ES": "",
       "FR": "Fourmicmac",
       "DE": "Blauschrecke",
-      "IT": "?",
+      "IT": "",
       "JA": "メダパニバッタ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/117.png",
@@ -3971,7 +3971,7 @@
     "speed": 59,
     "exp": 261,
     "gold": 99,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -3985,10 +3985,10 @@
     "id": 118,
     "name": {
       "EN": "Moosifer",
-      "ES": "?",
+      "ES": "",
       "FR": "Belzébik",
       "DE": "Bullzebub",
-      "IT": "?",
+      "IT": "",
       "JA": "アンクルホーン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/118.png",
@@ -4003,7 +4003,7 @@
     "speed": 78,
     "exp": 387,
     "gold": 122,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4017,10 +4017,10 @@
     "id": 119,
     "name": {
       "EN": "King cureslime",
-      "ES": "?",
+      "ES": "",
       "FR": "Roi guérigluant",
       "DE": "Heilschleimkönig",
-      "IT": "?",
+      "IT": "",
       "JA": "スライムベホマズン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/119.png",
@@ -4035,7 +4035,7 @@
     "speed": 30,
     "exp": 384,
     "gold": 300,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4049,10 +4049,10 @@
     "id": 120,
     "name": {
       "EN": "Rhinocerex",
-      "ES": "?",
+      "ES": "",
       "FR": "Rhinofurax",
       "DE": "Henkerhorn",
-      "IT": "?",
+      "IT": "",
       "JA": "ライノスキング"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/120.png",
@@ -4067,7 +4067,7 @@
     "speed": 70,
     "exp": 655,
     "gold": 150,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4081,10 +4081,10 @@
     "id": 121,
     "name": {
       "EN": "Joojoo gooroo",
-      "ES": "?",
+      "ES": "",
       "FR": "Gourou jajou",
       "DE": "Miesmagier",
-      "IT": "?",
+      "IT": "",
       "JA": "ブラックマージ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/121.png",
@@ -4099,7 +4099,7 @@
     "speed": 58,
     "exp": 477,
     "gold": 146,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4113,10 +4113,10 @@
     "id": 122,
     "name": {
       "EN": "Grim keeper",
-      "ES": "?",
+      "ES": "",
       "FR": "Grand faucheur",
       "DE": "Sensenhüter",
-      "IT": "?",
+      "IT": "",
       "JA": "じごくのもんばん"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/122.png",
@@ -4131,7 +4131,7 @@
     "speed": 61,
     "exp": 585,
     "gold": 73,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4145,10 +4145,10 @@
     "id": 123,
     "name": {
       "EN": "Ogre",
-      "ES": "?",
+      "ES": "",
       "FR": "Bouledogre",
       "DE": "Oger",
-      "IT": "?",
+      "IT": "",
       "JA": "オーガー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/123.png",
@@ -4163,7 +4163,7 @@
     "speed": 47,
     "exp": 391,
     "gold": 65,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4177,10 +4177,10 @@
     "id": 124,
     "name": {
       "EN": "Bullion",
-      "ES": "?",
+      "ES": "",
       "FR": "Mygalion",
       "DE": "Löwenmaul",
-      "IT": "?",
+      "IT": "",
       "JA": "やつざきアニマル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/124.png",
@@ -4195,7 +4195,7 @@
     "speed": 57,
     "exp": 447,
     "gold": 92,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4209,10 +4209,10 @@
     "id": 125,
     "name": {
       "EN": "Night emperor",
-      "ES": "?",
+      "ES": "",
       "FR": "Empereur nocturne",
       "DE": "König der Nacht",
-      "IT": "?",
+      "IT": "",
       "JA": "よるのていおう"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/125.png",
@@ -4227,7 +4227,7 @@
     "speed": 60,
     "exp": 495,
     "gold": 144,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4241,10 +4241,10 @@
     "id": 126,
     "name": {
       "EN": "Metal king slime",
-      "ES": "?",
+      "ES": "",
       "FR": "Roi gluant de métal",
       "DE": "Metall-Königsschleim",
-      "IT": "?",
+      "IT": "",
       "JA": "メタルキング"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/126.png",
@@ -4259,7 +4259,7 @@
     "speed": 165,
     "exp": 30010,
     "gold": 20,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4276,7 +4276,7 @@
       "ES": "",
       "FR": "Dragon vert",
       "DE": "Grüner Drache",
-      "IT": "?",
+      "IT": "",
       "JA": "グリーンドラゴン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/127.png",
@@ -4291,7 +4291,7 @@
     "speed": 55,
     "exp": 405,
     "gold": 132,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4308,7 +4308,7 @@
       "ES": "",
       "FR": "Typhonphonphon",
       "DE": "Wirbeline",
-      "IT": "?",
+      "IT": "",
       "JA": "レッドサイクロン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/128.png",
@@ -4323,7 +4323,7 @@
     "speed": 79,
     "exp": 403,
     "gold": 128,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4337,10 +4337,10 @@
     "id": 129,
     "name": {
       "EN": "Bone baron",
-      "ES": "?",
+      "ES": "",
       "FR": "Baron d'os",
       "DE": "Knochenbaron",
-      "IT": "?",
+      "IT": "",
       "JA": "しにがみきぞく"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/129.png",
@@ -4355,7 +4355,7 @@
     "speed": 65,
     "exp": 543,
     "gold": 139,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4369,10 +4369,10 @@
     "id": 130,
     "name": {
       "EN": "Drooling ghoul",
-      "ES": "?",
+      "ES": "",
       "FR": "Sméagoule",
       "DE": "Geifernder Ghul",
-      "IT": "?",
+      "IT": "",
       "JA": "スモールグール"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/130.png",
@@ -4387,7 +4387,7 @@
     "speed": 66,
     "exp": 448,
     "gold": 63,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4407,10 +4407,10 @@
     "id": 131,
     "name": {
       "EN": "Teaky mask",
-      "ES": "?",
+      "ES": "",
       "FR": "Maskoteck",
       "DE": "Teak-Tiki",
-      "IT": "?",
+      "IT": "",
       "JA": "トーテムキラー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/131.png",
@@ -4425,7 +4425,7 @@
     "speed": 75,
     "exp": 485,
     "gold": 52,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4439,10 +4439,10 @@
     "id": 132,
     "name": {
       "EN": "Pickeerer",
-      "ES": "?",
+      "ES": "",
       "FR": "Vicius",
       "DE": "Triezer",
-      "IT": "?",
+      "IT": "",
       "JA": "バアラック"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/132.png",
@@ -4457,7 +4457,7 @@
     "speed": 70,
     "exp": 573,
     "gold": 172,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4476,10 +4476,10 @@
     "id": 133,
     "name": {
       "EN": "Pit viper",
-      "ES": "?",
+      "ES": "",
       "FR": "Crotale",
       "DE": "Schlundviper",
-      "IT": "?",
+      "IT": "",
       "JA": "ピットバイパー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/133.png",
@@ -4494,7 +4494,7 @@
     "speed": 60,
     "exp": 563,
     "gold": 95,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4508,10 +4508,10 @@
     "id": 134,
     "name": {
       "EN": "Damselfly",
-      "ES": "?",
+      "ES": "",
       "FR": "Damoisel",
       "DE": "Seejungfer",
-      "IT": "?",
+      "IT": "",
       "JA": "フェアリードラゴン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/134.png",
@@ -4526,7 +4526,7 @@
     "speed": 110,
     "exp": 615,
     "gold": 390,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4540,10 +4540,10 @@
     "id": 135,
     "name": {
       "EN": "Abullddon",
-      "ES": "?",
+      "ES": "",
       "FR": "Belzébouc",
       "DE": "Zornhorn",
-      "IT": "?",
+      "IT": "",
       "JA": "ブルデビル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/135.png",
@@ -4558,7 +4558,7 @@
     "speed": 88,
     "exp": 670,
     "gold": 205,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4572,10 +4572,10 @@
     "id": 136,
     "name": {
       "EN": "Hot dog",
-      "ES": "?",
+      "ES": "",
       "FR": "Pitbrûle",
       "DE": "Flammenfiffi",
-      "IT": "?",
+      "IT": "",
       "JA": "フレイムドック"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/136.png",
@@ -4590,7 +4590,7 @@
     "speed": 61,
     "exp": 515,
     "gold": 205,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4604,10 +4604,10 @@
     "id": 137,
     "name": {
       "EN": "Beelzebuzz",
-      "ES": "?",
+      "ES": "",
       "FR": "Globulœil",
       "DE": "Herr der Fliegen",
-      "IT": "?",
+      "IT": "",
       "JA": "ベルザブル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/137.png",
@@ -4622,7 +4622,7 @@
     "speed": 68,
     "exp": 570,
     "gold": 123,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4639,7 +4639,7 @@
       "ES": "?-copier",
       "FR": "Feutocopieur",
       "DE": "Doppelmoppel",
-      "IT": "?",
+      "IT": "",
       "JA": "マネマネ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/138.png",
@@ -4654,7 +4654,7 @@
     "speed": 120,
     "exp": 582,
     "gold": 316,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4673,10 +4673,10 @@
     "id": 139,
     "name": {
       "EN": "Terracotta warrior",
-      "ES": "?",
+      "ES": "",
       "FR": "Guerracotta",
       "DE": "Terrakottakrieger",
-      "IT": "?",
+      "IT": "",
       "JA": "どぐうせんし"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/139.png",
@@ -4691,7 +4691,7 @@
     "speed": 120,
     "exp": 693,
     "gold": 15,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4705,10 +4705,10 @@
     "id": 140,
     "name": {
       "EN": "Swingre",
-      "ES": "?",
+      "ES": "",
       "FR": "Fléogre",
       "DE": "Schwinger",
-      "IT": "?",
+      "IT": "",
       "JA": "てっきゅうまじん"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/140.png",
@@ -4723,7 +4723,7 @@
     "speed": 55,
     "exp": 1094,
     "gold": 53,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4737,10 +4737,10 @@
     "id": 141,
     "name": {
       "EN": "Red dragon",
-      "ES": "?",
+      "ES": "",
       "FR": "Dragon rouge",
       "DE": "Roter Drache",
-      "IT": "?",
+      "IT": "",
       "JA": "レッドドラゴン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/141.png",
@@ -4755,7 +4755,7 @@
     "speed": 78,
     "exp": 603,
     "gold": 215,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4769,10 +4769,10 @@
     "id": 142,
     "name": {
       "EN": "Sasquash",
-      "ES": "?",
+      "ES": "",
       "FR": "Primatraque",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ビッグスロース"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/142.png",
@@ -4787,7 +4787,7 @@
     "speed": 37,
     "exp": 589,
     "gold": 99,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4801,10 +4801,10 @@
     "id": 143,
     "name": {
       "EN": "Wilder beast",
-      "ES": "?",
+      "ES": "",
       "FR": "Bebête sauvage",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ビースト"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/143.png",
@@ -4819,7 +4819,7 @@
     "speed": 54,
     "exp": 480,
     "gold": 81,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4833,10 +4833,10 @@
     "id": 144,
     "name": {
       "EN": "Vis mage",
-      "ES": "?",
+      "ES": "",
       "FR": "Maximage",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "だいまどう"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/144.png",
@@ -4851,7 +4851,7 @@
     "speed": 220,
     "exp": 1232,
     "gold": 112,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4870,10 +4870,10 @@
     "id": 145,
     "name": {
       "EN": "Prince of darkness",
-      "ES": "?",
+      "ES": "",
       "FR": "Prince des ténèbres",
       "DE": "Prinz der Finsternis",
-      "IT": "?",
+      "IT": "",
       "JA": "デビルプリンス"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/145.png",
@@ -4888,7 +4888,7 @@
     "speed": 70,
     "exp": 684,
     "gold": 226,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4902,10 +4902,10 @@
     "id": 146,
     "name": {
       "EN": "Dragooner",
-      "ES": "?",
+      "ES": "",
       "FR": "Cavalier des enfers",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ガーディアン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/146.png",
@@ -4920,7 +4920,7 @@
     "speed": 75,
     "exp": 740,
     "gold": 169,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4934,10 +4934,10 @@
     "id": 147,
     "name": {
       "EN": "Emperor wyvern",
-      "ES": "?",
+      "ES": "",
       "FR": "Wyvereine",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ライバーンロード"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/147.png",
@@ -4952,7 +4952,7 @@
     "speed": 67,
     "exp": 786,
     "gold": 254,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4966,10 +4966,10 @@
     "id": 148,
     "name": {
       "EN": "Demonspawn",
-      "ES": "?",
+      "ES": "",
       "FR": "Rejeton du démon",
       "DE": "Dämonenbrut",
-      "IT": "?",
+      "IT": "",
       "JA": "デーモンスピリット"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/148.png",
@@ -4984,7 +4984,7 @@
     "speed": 80,
     "exp": 586,
     "gold": 247,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -4998,10 +4998,10 @@
     "id": 149,
     "name": {
       "EN": "Night rider",
-      "ES": "?",
+      "ES": "",
       "FR": "Cavalier nocturne",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "グレートライドン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/149.png",
@@ -5016,7 +5016,7 @@
     "speed": 71,
     "exp": 1678,
     "gold": 20,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5030,10 +5030,10 @@
     "id": 150,
     "name": {
       "EN": "Night clubber",
-      "ES": "?",
+      "ES": "",
       "FR": "Bastonnier",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "おにこんぼう"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/150.png",
@@ -5048,7 +5048,7 @@
     "speed": 22,
     "exp": 1023,
     "gold": 137,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5062,10 +5062,10 @@
     "id": 151,
     "name": {
       "EN": "Knightshade",
-      "ES": "?",
+      "ES": "",
       "FR": "Chevalier nébuleux",
       "DE": "Schattenritter",
-      "IT": "?",
+      "IT": "",
       "JA": "ダークアーマー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/151.png",
@@ -5080,7 +5080,7 @@
     "speed": 78,
     "exp": 450,
     "gold": 92,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5094,10 +5094,10 @@
     "id": 152,
     "name": {
       "EN": "Decayurion",
-      "ES": "?",
+      "ES": "",
       "FR": "Légionellos",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ゾンビソルジャー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/152.png",
@@ -5112,7 +5112,7 @@
     "speed": 70,
     "exp": 563,
     "gold": 72,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5126,10 +5126,10 @@
     "id": 153,
     "name": {
       "EN": "Bloody hand",
-      "ES": "?",
+      "ES": "",
       "FR": "Main sanglante",
       "DE": "Blutige Hand",
-      "IT": "?",
+      "IT": "",
       "JA": "ブラッドハンド"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/153.png",
@@ -5144,7 +5144,7 @@
     "speed": 112,
     "exp": 347,
     "gold": 50,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5158,10 +5158,10 @@
     "id": 154,
     "name": {
       "EN": "Demon thunderer",
-      "ES": "?",
+      "ES": "",
       "FR": "Démon orageux",
       "DE": "Donnerdämon",
-      "IT": "?",
+      "IT": "",
       "JA": "サンダーサタン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/154.png",
@@ -5176,7 +5176,7 @@
     "speed": 91,
     "exp": 480,
     "gold": 95,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5190,10 +5190,10 @@
     "id": 155,
     "name": {
       "EN": "Draguar",
-      "ES": "?",
+      "ES": "",
       "FR": "Draguar",
       "DE": "Draguar",
-      "IT": "?",
+      "IT": "",
       "JA": "ゲリュオン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/155.png",
@@ -5208,7 +5208,7 @@
     "speed": 102,
     "exp": 543,
     "gold": 102,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5222,10 +5222,10 @@
     "id": 156,
     "name": {
       "EN": "Juggular",
-      "ES": "?",
+      "ES": "",
       "FR": "Saltimbranque",
       "DE": "Gurgelgaukler",
-      "IT": "?",
+      "IT": "",
       "JA": "デーモンレスラー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/156.png",
@@ -5240,7 +5240,7 @@
     "speed": 105,
     "exp": 680,
     "gold": 142,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5254,10 +5254,10 @@
     "id": 157,
     "name": {
       "EN": "Cerberuff",
-      "ES": "?",
+      "ES": "",
       "FR": "Cerberk",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "じごくのばんけん"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/157.png",
@@ -5272,7 +5272,7 @@
     "speed": 123,
     "exp": 435,
     "gold": 95,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5286,10 +5286,10 @@
     "id": 158,
     "name": {
       "EN": "Gnucifer",
-      "ES": "?",
+      "ES": "",
       "FR": "Satanglier",
       "DE": "Gnuzifer",
-      "IT": "?",
+      "IT": "",
       "JA": "ヌーデビル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/158.png",
@@ -5304,7 +5304,7 @@
     "speed": 83,
     "exp": 685,
     "gold": 121,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5318,10 +5318,10 @@
     "id": 159,
     "name": {
       "EN": "Div",
-      "ES": "?",
+      "ES": "",
       "FR": "Stryge",
       "DE": "Greifer",
-      "IT": "?",
+      "IT": "",
       "JA": "ランガー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/159.png",
@@ -5336,7 +5336,7 @@
     "speed": 125,
     "exp": 712,
     "gold": 160,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5350,10 +5350,10 @@
     "id": 160,
     "name": {
       "EN": "Prism peacock",
-      "ES": "?",
+      "ES": "",
       "FR": "Dark-en-ciel",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "にじくじゃく"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/160.png",
@@ -5368,7 +5368,7 @@
     "speed": 95,
     "exp": 885,
     "gold": 155,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5382,10 +5382,10 @@
     "id": 161,
     "name": {
       "EN": "Testudogre",
-      "ES": "?",
+      "ES": "",
       "FR": "Métallogre",
       "DE": "Testosteroger",
-      "IT": "?",
+      "IT": "",
       "JA": "オーガキング"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/161.png",
@@ -5400,7 +5400,7 @@
     "speed": 115,
     "exp": 750,
     "gold": 200,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5414,10 +5414,10 @@
     "id": 162,
     "name": {
       "EN": "Drakulard",
-      "ES": "?",
+      "ES": "",
       "FR": "Draculard",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ギガントドラゴン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/162.png",
@@ -5432,7 +5432,7 @@
     "speed": 82,
     "exp": 935,
     "gold": 130,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5446,10 +5446,10 @@
     "id": 163,
     "name": {
       "EN": "Togre",
-      "ES": "?",
+      "ES": "",
       "FR": "Togre",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ネクロバルサ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/163.png",
@@ -5464,7 +5464,7 @@
     "speed": 102,
     "exp": 525,
     "gold": 142,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5478,10 +5478,10 @@
     "id": 164,
     "name": {
       "EN": "High djinks",
-      "ES": "?",
+      "ES": "",
       "FR": "Djinn-fizz",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ランプのまおう"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/164.png",
@@ -5496,7 +5496,7 @@
     "speed": 88,
     "exp": 710,
     "gold": 117,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5510,10 +5510,10 @@
     "id": 165,
     "name": {
       "EN": "Perilwinkle",
-      "ES": "?",
+      "ES": "",
       "FR": "Bicorneau",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "あんこくつむり"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/165.png",
@@ -5528,7 +5528,7 @@
     "speed": 62,
     "exp": 356,
     "gold": 83,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5542,10 +5542,10 @@
     "id": 166,
     "name": {
       "EN": "Shelligator",
-      "ES": "?",
+      "ES": "",
       "FR": "Alligatortue",
       "DE": "Schaligator",
-      "IT": "?",
+      "IT": "",
       "JA": "キルゲータ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/166.png",
@@ -5560,7 +5560,7 @@
     "speed": 106,
     "exp": 415,
     "gold": 77,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5574,10 +5574,10 @@
     "id": 167,
     "name": {
       "EN": "Croaked king",
-      "ES": "?",
+      "ES": "",
       "FR": "Roi crôa",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "フロッグキング"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/167.png",
@@ -5592,7 +5592,7 @@
     "speed": 88,
     "exp": 740,
     "gold": 110,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5606,10 +5606,10 @@
     "id": 168,
     "name": {
       "EN": "Seasaur",
-      "ES": "?",
+      "ES": "",
       "FR": "Aquasaure",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ギャオース"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/168.png",
@@ -5624,7 +5624,7 @@
     "speed": 90,
     "exp": 640,
     "gold": 150,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5638,10 +5638,10 @@
     "id": 169,
     "name": {
       "EN": "Platinum king jewel",
-      "ES": "?",
+      "ES": "",
       "FR": "Bijou royal en platine",
       "DE": "Platinkönigsjuwel",
-      "IT": "?",
+      "IT": "",
       "JA": "プラチナキング"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/169.png",
@@ -5656,7 +5656,7 @@
     "speed": 255,
     "exp": 65000,
     "gold": 700,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5670,10 +5670,10 @@
     "id": 170,
     "name": {
       "EN": "Cannibox",
-      "ES": "?",
+      "ES": "",
       "FR": "Canniboîte",
       "DE": "Fresskiste",
-      "IT": "?",
+      "IT": "",
       "JA": "ひとくいばこ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/170.png",
@@ -5688,7 +5688,7 @@
     "speed": 62,
     "exp": 150,
     "gold": 25,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5702,10 +5702,10 @@
     "id": 171,
     "name": {
       "EN": "Mimic",
-      "ES": "?",
+      "ES": "",
       "FR": "Imitapeur",
       "DE": "Imitator",
-      "IT": "?",
+      "IT": "",
       "JA": "ミミック"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/171.png",
@@ -5720,7 +5720,7 @@
     "speed": 70,
     "exp": 350,
     "gold": 48,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5740,10 +5740,10 @@
     "id": 172,
     "name": {
       "EN": "Pandora's box",
-      "ES": "?",
+      "ES": "",
       "FR": "Boîte de Pandore",
       "DE": "Pandorabüchse",
-      "IT": "?",
+      "IT": "",
       "JA": "パンドラボックス"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/172.png",
@@ -5758,7 +5758,7 @@
     "speed": 131,
     "exp": 1250,
     "gold": 280,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5772,10 +5772,10 @@
     "id": 173,
     "name": {
       "EN": "Scarewell",
-      "ES": "?",
+      "ES": "",
       "FR": "Puisard",
       "DE": "Brunnenspuk",
-      "IT": "?",
+      "IT": "",
       "JA": "いどまねき"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/173.png",
@@ -5790,7 +5790,7 @@
     "speed": 65,
     "exp": 350,
     "gold": 100,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5804,10 +5804,10 @@
     "id": 174,
     "name": {
       "EN": "Well wisher",
-      "ES": "?",
+      "ES": "",
       "FR": "Puits-sang",
       "DE": "Quellgeist",
-      "IT": "?",
+      "IT": "",
       "JA": "いどまじん"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/174.png",
@@ -5822,7 +5822,7 @@
     "speed": 61,
     "exp": 574,
     "gold": 67,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5836,10 +5836,10 @@
     "id": 175,
     "name": {
       "EN": "Man o' war",
-      "ES": "?",
+      "ES": "",
       "FR": "Méduse",
       "DE": "Seeblase",
-      "IT": "?",
+      "IT": "",
       "JA": "しびれくらげ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/175.png",
@@ -5854,7 +5854,7 @@
     "speed": 20,
     "exp": 35,
     "gold": 12,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5868,10 +5868,10 @@
     "id": 176,
     "name": {
       "EN": "Glugworm",
-      "ES": "?",
+      "ES": "",
       "FR": "Ver mine",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "マリンワーム"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/176.png",
@@ -5886,7 +5886,7 @@
     "speed": 41,
     "exp": 94,
     "gold": 29,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5900,10 +5900,10 @@
     "id": 177,
     "name": {
       "EN": "Strangler fish",
-      "ES": "?",
+      "ES": "",
       "FR": "Saumonstrueux",
       "DE": "Drosselfisch",
-      "IT": "?",
+      "IT": "",
       "JA": "ピラニアン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/177.png",
@@ -5918,7 +5918,7 @@
     "speed": 50,
     "exp": 80,
     "gold": 43,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5932,10 +5932,10 @@
     "id": 178,
     "name": {
       "EN": "Axolotl",
-      "ES": "?",
+      "ES": "",
       "FR": "Axolotl",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "マッドルーパー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/178.png",
@@ -5950,7 +5950,7 @@
     "speed": 25,
     "exp": 113,
     "gold": 60,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5964,10 +5964,10 @@
     "id": 179,
     "name": {
       "EN": "Preying manta",
-      "ES": "?",
+      "ES": "",
       "FR": "Raie pulsive",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "さつじんえい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/179.png",
@@ -5982,7 +5982,7 @@
     "speed": 23,
     "exp": 70,
     "gold": 24,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -5996,10 +5996,10 @@
     "id": 180,
     "name": {
       "EN": "Barracuda",
-      "ES": "?",
+      "ES": "",
       "FR": "Barracuda",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "とつげきうお"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/180.png",
@@ -6014,7 +6014,7 @@
     "speed": 10,
     "exp": 75,
     "gold": 33,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6028,10 +6028,10 @@
     "id": 181,
     "name": {
       "EN": "Pterygotus",
-      "ES": "?",
+      "ES": "",
       "FR": "Pterygotus",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "じごくのざりがに"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/181.png",
@@ -6046,7 +6046,7 @@
     "speed": 40,
     "exp": 95,
     "gold": 25,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6060,10 +6060,10 @@
     "id": 182,
     "name": {
       "EN": "Devilfish",
-      "ES": "?",
+      "ES": "",
       "FR": "Poulpotrompe",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "たこまじん"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/182.png",
@@ -6078,7 +6078,7 @@
     "speed": 29,
     "exp": 120,
     "gold": 72,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6092,10 +6092,10 @@
     "id": 183,
     "name": {
       "EN": "Mangler fish",
-      "ES": "?",
+      "ES": "",
       "FR": "Rascrasse",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "しびれあんこう"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/183.png",
@@ -6110,7 +6110,7 @@
     "speed": 51,
     "exp": 155,
     "gold": 72,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6124,10 +6124,10 @@
     "id": 184,
     "name": {
       "EN": "Maulrus",
-      "ES": "?",
+      "ES": "",
       "FR": "Matamorse",
       "DE": "Schlachtross",
-      "IT": "?",
+      "IT": "",
       "JA": "シーライオン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/184.png",
@@ -6142,7 +6142,7 @@
     "speed": 30,
     "exp": 140,
     "gold": 80,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6156,10 +6156,10 @@
     "id": 185,
     "name": {
       "EN": "Woolungasaurus",
-      "ES": "?",
+      "ES": "",
       "FR": "Elasmosaure",
       "DE": "Woolungasaurier",
-      "IT": "?",
+      "IT": "",
       "JA": "くびながりゅう"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/185.png",
@@ -6174,7 +6174,7 @@
     "speed": 26,
     "exp": 65,
     "gold": 38,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6188,10 +6188,10 @@
     "id": 186,
     "name": {
       "EN": "Sand viper",
-      "ES": "?",
+      "ES": "",
       "FR": "Vipère des sables",
       "DE": "Sandviper",
-      "IT": "?",
+      "IT": "",
       "JA": "フルスネイカー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/186.png",
@@ -6206,7 +6206,7 @@
     "speed": 38,
     "exp": 170,
     "gold": 124,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6220,10 +6220,10 @@
     "id": 187,
     "name": {
       "EN": "Ultraviolent ray",
-      "ES": "?",
+      "ES": "",
       "FR": "Massacraie",
       "DE": "Rochenrächer",
-      "IT": "?",
+      "IT": "",
       "JA": "シャークマンタ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/187.png",
@@ -6238,7 +6238,7 @@
     "speed": 39,
     "exp": 103,
     "gold": 48,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6252,10 +6252,10 @@
     "id": 188,
     "name": {
       "EN": "Terrornodon",
-      "ES": "?",
+      "ES": "",
       "FR": "Pterroridactyle",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "フライングデス"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/188.png",
@@ -6270,7 +6270,7 @@
     "speed": 60,
     "exp": 187,
     "gold": 70,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6284,10 +6284,10 @@
     "id": 189,
     "name": {
       "EN": "Spinchilla",
-      "ES": "?",
+      "ES": "",
       "FR": "Glacyclone",
       "DE": "Frostfeger",
-      "IT": "?",
+      "IT": "",
       "JA": "うずしおキング"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/189.png",
@@ -6302,7 +6302,7 @@
     "speed": 42,
     "exp": 180,
     "gold": 84,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6316,10 +6316,10 @@
     "id": 190,
     "name": {
       "EN": "Picuda",
-      "ES": "?",
+      "ES": "",
       "FR": "Mégacuda",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "バラクーダ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/190.png",
@@ -6334,7 +6334,7 @@
     "speed": 47,
     "exp": 165,
     "gold": 69,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6348,10 +6348,10 @@
     "id": 191,
     "name": {
       "EN": "Dangler fish",
-      "ES": "?",
+      "ES": "",
       "FR": "Charpiranha",
       "DE": "Schnappfisch",
-      "IT": "?",
+      "IT": "",
       "JA": "エビルアングラー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/191.png",
@@ -6366,7 +6366,7 @@
     "speed": 25,
     "exp": 48,
     "gold": 30,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6380,10 +6380,10 @@
     "id": 192,
     "name": {
       "EN": "Octophant",
-      "ES": "?",
+      "ES": "",
       "FR": "Calaphant",
       "DE": "Oktofant",
-      "IT": "?",
+      "IT": "",
       "JA": "ダゴン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/192.png",
@@ -6398,7 +6398,7 @@
     "speed": 30,
     "exp": 208,
     "gold": 98,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6412,10 +6412,10 @@
     "id": 193,
     "name": {
       "EN": "Incineraytor",
-      "ES": "?",
+      "ES": "",
       "FR": "Incinéraiteur",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "レイギガース"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/193.png",
@@ -6430,7 +6430,7 @@
     "speed": 62,
     "exp": 221,
     "gold": 100,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6444,10 +6444,10 @@
     "id": 194,
     "name": {
       "EN": "Tuskateer",
-      "ES": "?",
+      "ES": "",
       "FR": "Misamorse",
       "DE": "Horrorhauer",
-      "IT": "?",
+      "IT": "",
       "JA": "トドマン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/194.png",
@@ -6462,7 +6462,7 @@
     "speed": 25,
     "exp": 98,
     "gold": 55,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6476,10 +6476,10 @@
     "id": 195,
     "name": {
       "EN": "Psaro's Pawn",
-      "ES": "?",
+      "ES": "",
       "FR": "Sbire de Psaro",
       "DE": "Diener des Psaro",
-      "IT": "?",
+      "IT": "",
       "JA": "ピサロのてさき"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/195.png",
@@ -6494,7 +6494,7 @@
     "speed": 16,
     "exp": 73,
     "gold": 60,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": ["Tour de Strattbourg"],
       "chapter2": [],
@@ -6508,10 +6508,10 @@
     "id": 196,
     "name": {
       "EN": "Master Kung",
-      "ES": "?",
+      "ES": "",
       "FR": "Maître Kung",
       "DE": "Meister Kung",
-      "IT": "?",
+      "IT": "",
       "JA": "カメレオンマン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/196.png",
@@ -6526,7 +6526,7 @@
     "speed": 50,
     "exp": 136,
     "gold": 60,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Taborov"],
@@ -6540,10 +6540,10 @@
     "id": 197,
     "name": {
       "EN": "Abominable showman",
-      "ES": "?",
+      "ES": "",
       "FR": "Abominhomme des neiges",
       "DE": "Yetiminator",
-      "IT": "?",
+      "IT": "",
       "JA": "ベロリンマン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/197.png",
@@ -6558,7 +6558,7 @@
     "speed": 75,
     "exp": 0,
     "gold": 0,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": ["Colisée de Chandor"],
@@ -6572,10 +6572,10 @@
     "id": 198,
     "name": {
       "EN": "Balzack",
-      "ES": "?",
+      "ES": "",
       "FR": "Dickenz",
       "DE": "Balzack",
-      "IT": "?",
+      "IT": "",
       "JA": "バルザック"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/198.png",
@@ -6590,7 +6590,7 @@
     "speed": 22,
     "exp": 500,
     "gold": 0,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6604,10 +6604,10 @@
     "id": 199,
     "name": {
       "EN": "Tricksy",
-      "ES": "?",
+      "ES": "",
       "FR": "Angélus",
       "DE": "Trickser",
-      "IT": "?",
+      "IT": "",
       "JA": "うらぎりこぞう"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/199.png",
@@ -6622,7 +6622,7 @@
     "speed": 3,
     "exp": 450,
     "gold": 20,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6636,10 +6636,10 @@
     "id": 200,
     "name": {
       "EN": "Tigergram",
-      "ES": "?",
+      "ES": "",
       "FR": "Tigroar",
       "DE": "Gewaltiger",
-      "IT": "?",
+      "IT": "",
       "JA": "とうだいタイガー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/200.png",
@@ -6654,7 +6654,7 @@
     "speed": 20,
     "exp": 2000,
     "gold": 350,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6668,10 +6668,10 @@
     "id": 201,
     "name": {
       "EN": "Marquis de Léon",
-      "ES": "?",
+      "ES": "",
       "FR": "Lord Lionel",
       "DE": "Marquis de Léon",
-      "IT": "?",
+      "IT": "",
       "JA": "キングレオ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/201.png",
@@ -6686,7 +6686,7 @@
     "speed": 18,
     "exp": 5100,
     "gold": 0,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6700,10 +6700,10 @@
     "id": 202,
     "name": {
       "EN": "Baalzack",
-      "ES": "?",
+      "ES": "",
       "FR": "Déickenz",
       "DE": "Baalzack",
-      "IT": "?",
+      "IT": "",
       "JA": "バルザック"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/202.png",
@@ -6718,7 +6718,7 @@
     "speed": 28,
     "exp": 6500,
     "gold": 0,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6732,10 +6732,10 @@
     "id": 203,
     "name": {
       "EN": "Sir Roseguardin",
-      "ES": "?",
+      "ES": "",
       "FR": "Sire Rosegarde",
       "DE": "Fürst Grünspan",
-      "IT": "?",
+      "IT": "",
       "JA": "ピサロナイト"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/203.png",
@@ -6750,7 +6750,7 @@
     "speed": 77,
     "exp": 6800,
     "gold": 0,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6764,10 +6764,10 @@
     "id": 204,
     "name": {
       "EN": "Rashaverak",
-      "ES": "?",
+      "ES": "",
       "FR": "Rashaverak",
       "DE": "Rashaverak",
-      "IT": "?",
+      "IT": "",
       "JA": "アンドレアル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/204.png",
@@ -6782,7 +6782,7 @@
     "speed": 60,
     "exp": 1020,
     "gold": 300,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6796,10 +6796,10 @@
     "id": 205,
     "name": {
       "EN": "Pruslas",
-      "ES": "?",
+      "ES": "",
       "FR": "Pruslas",
       "DE": "Pruslas",
-      "IT": "?",
+      "IT": "",
       "JA": "ギガデーモン"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/205.png",
@@ -6814,7 +6814,7 @@
     "speed": 5,
     "exp": 4100,
     "gold": 250,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6828,10 +6828,10 @@
     "id": 206,
     "name": {
       "EN": "Barbatos",
-      "ES": "?",
+      "ES": "",
       "FR": "Barbatos",
       "DE": "Barbatos",
-      "IT": "?",
+      "IT": "",
       "JA": "ヘルバトラー"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/206.png",
@@ -6846,7 +6846,7 @@
     "speed": 72,
     "exp": 5500,
     "gold": 0,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6860,10 +6860,10 @@
     "id": 207,
     "name": {
       "EN": "Aamon",
-      "ES": "?",
+      "ES": "",
       "FR": "Aamon",
       "DE": "Aamon",
-      "IT": "?",
+      "IT": "",
       "JA": "エビルプリースト"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/207.png",
@@ -6878,7 +6878,7 @@
     "speed": 99,
     "exp": 6300,
     "gold": 0,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6892,10 +6892,10 @@
     "id": 208,
     "name": {
       "EN": "Estark",
-      "ES": "?",
+      "ES": "",
       "FR": "Estark",
       "DE": "Estark",
-      "IT": "?",
+      "IT": "",
       "JA": "エスターク"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/208.png",
@@ -6910,7 +6910,7 @@
     "speed": 63,
     "exp": 15000,
     "gold": 0,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6924,10 +6924,10 @@
     "id": 209,
     "name": {
       "EN": "Foo Yung",
-      "ES": "?",
+      "ES": "",
       "FR": "Cent-ans",
       "DE": "Fu Yung",
-      "IT": "?",
+      "IT": "",
       "JA": "エッグラ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/209.png",
@@ -6942,7 +6942,7 @@
     "speed": 95,
     "exp": 12000,
     "gold": 850,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6956,10 +6956,10 @@
     "id": 210,
     "name": {
       "EN": "Chow Mein",
-      "ES": "?",
+      "ES": "",
       "FR": "Cinq-épices",
       "DE": "Chow Mein",
-      "IT": "?",
+      "IT": "",
       "JA": "チキーラ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/210.png",
@@ -6974,7 +6974,7 @@
     "speed": 95,
     "exp": 12000,
     "gold": 850,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -6988,10 +6988,10 @@
     "id": 211,
     "name": {
       "EN": "Psaro",
-      "ES": "?",
+      "ES": "",
       "FR": "Psaro",
       "DE": "Psaro",
-      "IT": "?",
+      "IT": "",
       "JA": "デスピサロ"
     },
     "sprite": {
@@ -7062,7 +7062,7 @@
     },
     "exp": 0,
     "gold": 0,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],
@@ -7076,10 +7076,10 @@
     "id": 212,
     "name": {
       "EN": "Aamon",
-      "ES": "?",
+      "ES": "",
       "FR": "Aamon",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "究極エビルプリースト"
     },
     "sprite": {
@@ -7129,7 +7129,7 @@
     },
     "exp": 0,
     "gold": 0,
-    "item": "?",
+    "item": "",
     "location": {
       "chapter1": [],
       "chapter2": [],

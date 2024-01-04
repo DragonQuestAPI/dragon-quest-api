@@ -1,0 +1,34 @@
+{
+  "name": {
+    "EN": "Dragon Quest Ⅳ",
+    "ES": "Dragon Quest Ⅳ",
+    "FR": "Dragon Quest Ⅳ",
+    "DE": "Dragon Quest Ⅳ",
+    "IT": "Dragon Quest Ⅳ",
+    "JA": "ドラゴンクエストⅣ"
+  },
+  "title": {
+    "EN": "Chapters of the Chosen",
+    "ES": "Capítulos de los Elegidos",
+    "FR": "L'Épopée des élus",
+    "DE": "Die Chronik der Erkorenen",
+    "IT": "Le cronache dei Prescelti",
+    "JA": "導かれし者たち"
+  },
+  "logo": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/logo.png",
+  "developer": "ArtePiazza",
+  "publisher": "Square Enix",
+  "director": "Koichi Nakamura",
+  "designer": "Yuji Horii",
+  "writer": "Yuji Horii",
+  "artist": "Akira Toriyama",
+  "composer": "Kōichi Sugiyama",
+  "platform": "Nintendo DS",
+  "release_date": {
+    "EU": 2008,
+    "JA": 2007,
+    "US": 2008
+  },
+  "genre": "RPG",
+  "players": 1
+}

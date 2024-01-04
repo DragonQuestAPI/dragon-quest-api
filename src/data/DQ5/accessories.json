@@ -2,28 +2,28 @@
   {
     "id": 1,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ruban de Bianca",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Augmente la sagesse du porteur",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -33,28 +33,28 @@
   {
     "id": 2,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Brassard de météore",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 6500, "sell": 3250, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ce brassard multiplie par deux l'agilité de celui qui la porte",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -64,28 +64,28 @@
   {
     "id": 3,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Brassard kamikaze",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 500, "sell": 250, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ce bracelet pourra peut-être vous sauver la mise dans des situations critiques",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -95,28 +95,28 @@
   {
     "id": 4,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Amulette elfique",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 3000, "sell": 1500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Chouette collier qui retourne tous les sorts de l'envoyeur",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": ["precaria_(generation_3)"],
@@ -126,28 +126,28 @@
   {
     "id": 5,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Anneau de feu",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisé comme objet en combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -157,28 +157,28 @@
   {
     "id": 6,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Anneau de l'eau",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisé comme objet en combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -188,28 +188,28 @@
   {
     "id": 7,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Anneau de vie",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Restaure une partie des PV de celui qui le porte à chaque pas",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],

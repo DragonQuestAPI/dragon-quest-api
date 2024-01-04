@@ -5,9 +5,9 @@
       "EN": "Northern continent",
       "ES": "Continente norte",
       "FR": "Continent nord",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "location": "north",
     "slug": "northern_continent"
@@ -18,9 +18,9 @@
       "EN": "Eastern continent",
       "ES": "Continente oriental",
       "FR": "Continent est",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "location": "east",
     "slug": "eastern_continent"
@@ -31,9 +31,9 @@
       "EN": "Siroc",
       "ES": "Siroco",
       "FR": "Sirocco",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "location": "south-east",
     "slug": "siroc"
@@ -44,9 +44,9 @@
       "EN": "Ostro",
       "ES": "Ostro",
       "FR": "Ostro",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "location": "south",
     "slug": "ostro"
@@ -57,9 +57,9 @@
       "EN": "Libeccio",
       "ES": "Leveche",
       "FR": "Libeccio",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "location": "south-west",
     "slug": "libeccio"
@@ -70,9 +70,9 @@
       "EN": "Western continent",
       "ES": "Continente occidental",
       "FR": "Continent ouest",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "location": "west",
     "slug": "western_continent"
@@ -83,9 +83,9 @@
       "EN": "Maestral",
       "ES": "Mistral",
       "FR": "Mistral",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "location": "north-west",
     "slug": "maestral"
@@ -96,8 +96,8 @@
       "EN": "Central Island",
       "ES": "Isla Central",
       "FR": "Île Centrale",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ゴットサイド"
     },
     "location": "center",
@@ -109,8 +109,8 @@
       "EN": "Nadiria",
       "ES": "Nadiria",
       "FR": "Nadiria",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "闇の世界"
     },
     "location": "otherworld",

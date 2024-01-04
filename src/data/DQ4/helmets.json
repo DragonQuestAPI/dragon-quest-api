@@ -3,10 +3,10 @@
     "id": 1,
     "name": {
       "EN": "Leather hat",
-      "ES": "?",
+      "ES": "",
       "FR": "Casque de cuir",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "かわのぼうし"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/leather_hat.png",
@@ -15,11 +15,11 @@
     "price": { "buy": 65, "sell": 48, "token": null, "minimedal": null },
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -29,10 +29,10 @@
     "id": 2,
     "name": {
       "EN": "Hairband",
-      "ES": "?",
+      "ES": "",
       "FR": "Diadème",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ヘアバンド"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/hairband.png",
@@ -41,11 +41,11 @@
     "price": { "buy": 110, "sell": 82, "token": null, "minimedal": null },
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -55,10 +55,10 @@
     "id": 3,
     "name": {
       "EN": "Hardwood headwear",
-      "ES": "?",
+      "ES": "",
       "FR": "Casque de bois",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "きのぼうし"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/hardwood_headwear.png",
@@ -67,11 +67,11 @@
     "price": { "buy": 120, "sell": 90, "token": null, "minimedal": null },
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -81,10 +81,10 @@
     "id": 4,
     "name": {
       "EN": "Feathered cap",
-      "ES": "?",
+      "ES": "",
       "FR": "Chapeau à plumes",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "はねぼうし"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/feathered_cap.png",
@@ -93,11 +93,11 @@
     "price": { "buy": 280, "sell": 210, "token": null, "minimedal": null },
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -107,10 +107,10 @@
     "id": 5,
     "name": {
       "EN": "Golden tiara",
-      "ES": "?",
+      "ES": "",
       "FR": "Tiare d'or",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "きんのかみかざり"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/?golden_tiara.png",
@@ -119,11 +119,11 @@
     "price": { "buy": 540, "sell": 405, "token": null, "minimedal": null },
     "description": {
       "EN": "This precious tiara protects against Fuddle",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -133,10 +133,10 @@
     "id": 6,
     "name": {
       "EN": "Happy hat",
-      "ES": "?",
+      "ES": "",
       "FR": "Chapeau de félicité",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "しあわせのぼうし"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/happy_hat.png",
@@ -145,11 +145,11 @@
     "price": { "buy": null, "sell": null, "token": null, "minimedal": 43 },
     "description": {
       "EN": "Recovers some of the wearer's MP with each and every step.",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -159,10 +159,10 @@
     "id": 7,
     "name": {
       "EN": "Iron helmet",
-      "ES": "?",
+      "ES": "",
       "FR": "Heaume de fer",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "てつかぶと"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/iron_helmet.png",
@@ -171,11 +171,11 @@
     "price": { "buy": 1100, "sell": 825, "token": null, "minimedal": null },
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -185,10 +185,10 @@
     "id": 8,
     "name": {
       "EN": "Iron mask",
-      "ES": "?",
+      "ES": "",
       "FR": "Masque de fer",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "てっかめん"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/?iron_mask.png",
@@ -197,11 +197,11 @@
     "price": { "buy": 3500, "sell": 2625, "token": null, "minimedal": null },
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -211,10 +211,10 @@
     "id": 9,
     "name": {
       "EN": "Zenithian Helm",
-      "ES": "?",
+      "ES": "",
       "FR": "Casque zénithien",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "てんくうのかぶと"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/zenithian_helm.png",
@@ -223,11 +223,11 @@
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -237,10 +237,10 @@
     "id": 10,
     "name": {
       "EN": "Pandemonic helm",
-      "ES": "?",
+      "ES": "",
       "FR": "Casque des enfers",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "まかいのかぶと"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/pandemonic_helm.png",
@@ -249,11 +249,11 @@
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
       "EN": "This hellish helm protects against Snooze, Whack and paralysis.",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -263,10 +263,10 @@
     "id": 11,
     "name": {
       "EN": "Liquid metal helm",
-      "ES": "?",
+      "ES": "",
       "FR": "Casque de mercure",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "はぐれメタルヘルム"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/liquid_metal_helm.png",
@@ -275,11 +275,11 @@
     "price": { "buy": null, "sell": null, "token": 100000, "minimedal": null },
     "description": {
       "EN": "This helm protects against Snooze, Fuddle and paralysis.",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -289,10 +289,10 @@
     "id": 12,
     "name": {
       "EN": "Death mask",
-      "ES": "?",
+      "ES": "",
       "FR": "Heaume d'Hadès",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "じゃしんのめん"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/helmets_sprites/death_mask.png",
@@ -301,11 +301,11 @@
     "price": { "buy": null, "sell": 6, "token": null, "minimedal": null },
     "description": {
       "EN": "Watch out! There's more on this mask than meets the eye.",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],

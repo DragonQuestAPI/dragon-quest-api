@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "EN": "Fire",
+      "ES": "",
+      "FR": "Feu",
+      "DE": "Feuer",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "fire"
+  },
+  {
+    "id": 2,
+    "name": {
+      "EN": "Water",
+      "ES": "",
+      "FR": "Eau",
+      "DE": "Wasser",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "water"
+  },
+  {
+    "id": 3,
+    "name": {
+      "EN": "Wind",
+      "ES": "",
+      "FR": "Vent",
+      "DE": "Wind",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "wind"
+  },
+  {
+    "id": 4,
+    "name": {
+      "EN": "Earth",
+      "ES": "",
+      "FR": "Terre",
+      "DE": "Erde",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "earth"
+  },
+  {
+    "id": 5,
+    "name": {
+      "EN": "Explosions",
+      "ES": "",
+      "FR": "Explosion",
+      "DE": "Explosionen",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "explosions"
+  },
+  {
+    "id": 6,
+    "name": {
+      "EN": "Ice",
+      "ES": "",
+      "FR": "Glace",
+      "DE": "Eis",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "ice"
+  },
+  {
+    "id": 7,
+    "name": {
+      "EN": "Electricity",
+      "ES": "",
+      "FR": "Foudre",
+      "DE": "Blitz",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "electricity"
+  },
+  {
+    "id": 8,
+    "name": {
+      "EN": "Light",
+      "ES": "",
+      "FR": "Lumière",
+      "DE": "Licht",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "light"
+  },
+  {
+    "id": 9,
+    "name": {
+      "EN": "Dark",
+      "ES": "",
+      "FR": "Ténèbres",
+      "DE": "Dunkelheit",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "dark"
+  },
+  {
+    "id": 10,
+    "name": {
+      "EN": "Debilitation",
+      "ES": "",
+      "FR": "Affaiblissement",
+      "DE": "Entkräftung",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "debilitation"
+  },
+  {
+    "id": 11,
+    "name": {
+      "EN": "Bedazzlement",
+      "ES": "",
+      "FR": "Éblouissement",
+      "DE": "Blendung",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "bedazzlement"
+  },
+  {
+    "id": 12,
+    "name": {
+      "EN": "Antimagic",
+      "ES": "",
+      "FR": "Pare-magie",
+      "DE": "Antimagie",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "antimagic"
+  },
+  {
+    "id": 13,
+    "name": {
+      "EN": "MP Absorption",
+      "ES": "",
+      "FR": "Absorption de PM",
+      "DE": "MP-Absorption",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "mp_absorption"
+  },
+  {
+    "id": 14,
+    "name": {
+      "EN": "Confusion",
+      "ES": "",
+      "FR": "Confusion",
+      "DE": "Verwirrung",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "confusion"
+  },
+  {
+    "id": 15,
+    "name": {
+      "EN": "Sleep",
+      "ES": "",
+      "FR": "Sommeil",
+      "DE": "Schlaf",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "sleep"
+  },
+  {
+    "id": 16,
+    "name": {
+      "EN": "Paralysis",
+      "ES": "",
+      "FR": "Paralysie",
+      "DE": "Lähmung",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "paralysis"
+  },
+  {
+    "id": 17,
+    "name": {
+      "EN": "Stun",
+      "ES": "",
+      "FR": "Étourdissement",
+      "DE": "Betäubung",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "stun"
+  },
+  {
+    "id": 18,
+    "name": {
+      "EN": "Poison",
+      "ES": "",
+      "FR": "Empoisonnement",
+      "DE": "Gift",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "poison"
+  },
+  {
+    "id": 19,
+    "name": {
+      "EN": "Instant Death",
+      "ES": "",
+      "FR": "Mort instantanée",
+      "DE": "Soforttod",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "instant_death"
+  }
+]

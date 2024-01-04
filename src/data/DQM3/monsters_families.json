@@ -1,0 +1,90 @@
+[
+  {
+    "name": {
+      "EN": "Slime",
+      "ES": "Limo",
+      "FR": "Gluant",
+      "DE": "Schleim",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "_slime"
+  },
+  {
+    "name": {
+      "EN": "Dragon",
+      "ES": "Dragón",
+      "FR": "Dragon",
+      "DE": "Drachen",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "_dragon"
+  },
+  {
+    "name": {
+      "EN": "Nature",
+      "ES": "Naturaleza",
+      "FR": "Naturel",
+      "DE": "Natur",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "_nature"
+  },
+  {
+    "name": {
+      "EN": "Beast",
+      "ES": "Bestia",
+      "FR": "Bête",
+      "DE": "Biest",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "_beast"
+  },
+  {
+    "name": {
+      "EN": "Material",
+      "ES": "Materiales",
+      "FR": "Matière",
+      "DE": "Material",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "_material"
+  },
+  {
+    "name": {
+      "EN": "Demon",
+      "ES": "Demoníaco",
+      "FR": "Démon",
+      "DE": "Dämon",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "_demon"
+  },
+  {
+    "name": {
+      "EN": "Undead",
+      "ES": "No muerto",
+      "FR": "Mort-vivant",
+      "DE": "Untot",
+      "IT": "",
+      "JP": ""
+    },
+    "slug": "_undead"
+  },
+  {
+    "name": {
+      "EN": "???",
+      "ES": "???",
+      "FR": "???",
+      "DE": "???",
+      "IT": "???",
+      "JP": "???"
+    },
+    "slug": "_special"
+  }
+]
