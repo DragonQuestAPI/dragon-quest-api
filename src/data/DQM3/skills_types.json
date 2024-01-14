@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "EN": "Attacking",
+      "ES": "",
+      "FR": "Attaque",
+      "DE": "Angriff",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attacking"
+  },
+  {
+    "id": 2,
+    "name": {
+      "EN": "Healing",
+      "ES": "",
+      "FR": "Soins",
+      "DE": "Heilung",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "healing"
+  },
+  {
+    "id": 3,
+    "name": {
+      "EN": "Support",
+      "ES": "",
+      "FR": "Soutien",
+      "DE": "Unterstützung",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "support"
+  }
+]

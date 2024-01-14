@@ -7,7 +7,7 @@
       "FR": "Feu",
       "DE": "Feuer",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "fire"
   },
@@ -19,7 +19,7 @@
       "FR": "Eau",
       "DE": "Wasser",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "water"
   },
@@ -31,7 +31,7 @@
       "FR": "Vent",
       "DE": "Wind",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "wind"
   },
@@ -43,7 +43,7 @@
       "FR": "Terre",
       "DE": "Erde",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "earth"
   },
@@ -55,7 +55,7 @@
       "FR": "Explosion",
       "DE": "Explosionen",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "explosions"
   },
@@ -67,7 +67,7 @@
       "FR": "Glace",
       "DE": "Eis",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "ice"
   },
@@ -79,7 +79,7 @@
       "FR": "Foudre",
       "DE": "Blitz",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "electricity"
   },
@@ -91,7 +91,7 @@
       "FR": "Lumière",
       "DE": "Licht",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "light"
   },
@@ -103,7 +103,7 @@
       "FR": "Ténèbres",
       "DE": "Dunkelheit",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "dark"
   },
@@ -115,7 +115,7 @@
       "FR": "Affaiblissement",
       "DE": "Entkräftung",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "debilitation"
   },
@@ -127,7 +127,7 @@
       "FR": "Éblouissement",
       "DE": "Blendung",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "bedazzlement"
   },
@@ -139,7 +139,7 @@
       "FR": "Pare-magie",
       "DE": "Antimagie",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "antimagic"
   },
@@ -151,7 +151,7 @@
       "FR": "Absorption de PM",
       "DE": "MP-Absorption",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "mp_absorption"
   },
@@ -163,7 +163,7 @@
       "FR": "Confusion",
       "DE": "Verwirrung",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "confusion"
   },
@@ -175,7 +175,7 @@
       "FR": "Sommeil",
       "DE": "Schlaf",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "sleep"
   },
@@ -187,7 +187,7 @@
       "FR": "Paralysie",
       "DE": "Lähmung",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "paralysis"
   },
@@ -199,7 +199,7 @@
       "FR": "Étourdissement",
       "DE": "Betäubung",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "stun"
   },
@@ -211,7 +211,7 @@
       "FR": "Empoisonnement",
       "DE": "Gift",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "poison"
   },
@@ -223,7 +223,7 @@
       "FR": "Mort instantanée",
       "DE": "Soforttod",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "instant_death"
   }

@@ -457,7 +457,7 @@
     },
     "usable_in_battle": true,
     "usable_on_map": false,
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 21,
@@ -480,7 +480,7 @@
     },
     "usable_in_battle": true,
     "usable_on_map": false,
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 22,
@@ -1055,7 +1055,7 @@
     },
     "usable_in_battle": false,
     "usable_on_map": true,
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 53,
@@ -1078,7 +1078,7 @@
     },
     "usable_in_battle": false,
     "usable_on_map": true,
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 54,
@@ -1101,7 +1101,7 @@
     },
     "usable_in_battle": false,
     "usable_on_map": true,
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 55,
@@ -1124,7 +1124,7 @@
     },
     "usable_in_battle": false,
     "usable_on_map": true,
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 61,
@@ -1584,7 +1584,7 @@
     },
     "usable_in_battle": false,
     "usable_on_map": true,
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 99,

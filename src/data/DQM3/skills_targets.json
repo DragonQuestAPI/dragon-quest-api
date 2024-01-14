@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "EN": "An enemy",
+      "ES": "Un enemigo",
+      "FR": "Un ennemi",
+      "DE": "Ein Feind",
+      "IT": "Un nemico",
+      "JP": "敵"
+    },
+    "slug": "an_enemy"
+  },
+  {
+    "id": 2,
+    "name": {
+      "EN": "All enemies",
+      "ES": "Todos los enemigos",
+      "FR": "Tous les ennemis",
+      "DE": "Alle Feinde",
+      "IT": "Tutti i nemici",
+      "JP": "全ての敵"
+    },
+    "slug": "all_enemies"
+  },
+  {
+    "id": 3,
+    "name": {
+      "EN": "All enemies (Next turn)",
+      "ES": "Todos los enemigos (Próximo turno)",
+      "FR": "Tous les ennemis (Tour suivant)",
+      "DE": "Alle Feinde (Nächster Zug)",
+      "IT": "Tutti i nemici (Prossimo turno)",
+      "JP": "全ての敵（次のターン）"
+    },
+    "slug": "all_enemies_next_turn"
+  },
+  {
+    "id": 4,
+    "name": {
+      "EN": "An ally",
+      "ES": "Un aliado",
+      "FR": "Un allié",
+      "DE": "Ein Verbündeter",
+      "IT": "Un alleato",
+      "JP": "味方"
+    },
+    "slug": "an_ally"
+  },
+  {
+    "id": 5,
+    "name": {
+      "EN": "All allies",
+      "ES": "Todos los aliados",
+      "FR": "Tous les alliés",
+      "DE": "Alle Verbündeten",
+      "IT": "Tutti gli alleati",
+      "JP": "全ての味方"
+    },
+    "slug": "all_allies"
+  },
+  {
+    "id": 6,
+    "name": {
+      "EN": "All allies and reserves",
+      "ES": "Todos los aliados y reservas",
+      "FR": "Tous les alliés et la réserve",
+      "DE": "Alle Verbündeten und Reserven",
+      "IT": "Tutti gli alleati e le riserve",
+      "JP": "全ての味方と予備"
+    },
+    "slug": "all_allies_and_reserves"
+  },
+  {
+    "id": 7,
+    "name": {
+      "EN": "User",
+      "ES": "Usuario",
+      "FR": "L'utilisateur",
+      "DE": "Benutzer",
+      "IT": "Utente",
+      "JP": "ユーザー"
+    },
+    "slug": "user"
+  },
+  {
+    "id": 8,
+    "name": {
+      "EN": "Multiple random enemies",
+      "ES": "Múltiples enemigos al azar",
+      "FR": "Plusieurs ennemis au hasard",
+      "DE": "Mehrere zufällige Feinde",
+      "IT": "Più nemici casuali",
+      "JP": "複数のランダムな敵"
+    },
+    "slug": "multiple_random_enemies"
+  },
+  {
+    "id": 9,
+    "name": {
+      "EN": "An enemy (Next turn)",
+      "ES": "Un enemigo (Próximo turno)",
+      "FR": "Un ennemi (Tour suivant)",
+      "DE": "Ein Feind (Nächster Zug)",
+      "IT": "Un nemico (Prossimo turno)",
+      "JP": "敵（次のターン）"
+    },
+    "slug": "an_enemy_next_turn"
+  },
+  {
+    "id": 10,
+    "name": {
+      "EN": "A random enemy",
+      "ES": "Un enemigo al azar",
+      "FR": "Un ennemi au hasard",
+      "DE": "Ein zufälliger Feind",
+      "IT": "Un nemico casuale",
+      "JP": "ランダムな敵"
+    },
+    "slug": "a_random_enemy"
+  },
+  {
+    "id": 11,
+    "name": {
+      "EN": "All allies (Next turn)",
+      "ES": "Todos los aliados (Próximo turno)",
+      "FR": "Tous les alliés (Tour suivant)",
+      "DE": "Alle Verbündeten (Nächster Zug)",
+      "IT": "Tutti gli alleati (Prossimo turno)",
+      "JP": "全ての味方（次のターン）"
+    },
+    "slug": "all_allies_next_turn"
+  },
+  {
+    "id": 12,
+    "name": {
+      "EN": "Multiple random allies",
+      "ES": "Múltiples aliados al azar",
+      "FR": "Plusieurs alliés au hasard",
+      "DE": "Mehrere zufällige Verbündete",
+      "IT": "Più alleati casuali",
+      "JP": "複数のランダムな味方"
+    },
+    "slug": "multiple_random_allies"
+  }
+]

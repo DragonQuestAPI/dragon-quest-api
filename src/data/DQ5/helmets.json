@@ -27,7 +27,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 2,
@@ -57,7 +57,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 3,
@@ -87,7 +87,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 4,
@@ -117,7 +117,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 5,
@@ -147,7 +147,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 6,
@@ -177,7 +177,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 7,
@@ -207,7 +207,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 8,
@@ -237,7 +237,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 9,
@@ -267,7 +267,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 10,
@@ -297,7 +297,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 11,
@@ -327,7 +327,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 12,
@@ -357,7 +357,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 13,
@@ -387,7 +387,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 14,
@@ -417,7 +417,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 15,
@@ -447,7 +447,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 16,
@@ -477,7 +477,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 17,
@@ -507,7 +507,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 18,
@@ -537,6 +537,6 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   }
 ]

@@ -27,7 +27,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug",
+    "slug": "",
     "buable_at": []
   },
   {
@@ -58,7 +58,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug",
+    "slug": "",
     "buable_at": []
   },
   {
@@ -89,7 +89,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug",
+    "slug": "",
     "buable_at": []
   },
   {
@@ -120,7 +120,7 @@
     },
     "found_at": [],
     "buyable_at": ["precaria_(generation_3)"],
-    "slug": "_slug",
+    "slug": "",
     "buable_at": []
   },
   {
@@ -151,7 +151,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug",
+    "slug": "",
     "buable_at": []
   },
   {
@@ -182,7 +182,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug",
+    "slug": "",
     "buable_at": []
   },
   {
@@ -213,7 +213,7 @@
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug",
+    "slug": "",
     "buable_at": []
   }
 ]

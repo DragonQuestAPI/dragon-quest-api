@@ -13,7 +13,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/world.png",
     "continent": "",
     "type": "overworld",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 2,
@@ -29,7 +29,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/the_azimut.png",
     "continent": "",
     "type": "overworld",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/nadiria.png",
     "continent": "",
     "type": "overworld",
-    "slug": "_slug"
+    "slug": ""
   },
 
   {
@@ -62,7 +62,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/burland.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 5,
@@ -78,7 +78,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 6,
@@ -94,7 +94,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/strathbaile.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 7,
@@ -110,7 +110,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 8,
@@ -126,7 +126,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
 
   {
@@ -143,7 +143,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/zamoksva.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 10,
@@ -159,7 +159,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/zalenagrad.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 11,
@@ -175,7 +175,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/taborov.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 12,
@@ -191,7 +191,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/vrenor.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 13,
@@ -207,7 +207,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 14,
@@ -223,7 +223,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/desert_bazaar.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 15,
@@ -239,7 +239,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 16,
@@ -255,7 +255,7 @@
     "map": null,
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 17,
@@ -271,7 +271,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/endor.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
 
   {
@@ -288,7 +288,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/?.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 19,
@@ -304,7 +304,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 20,
@@ -320,7 +320,7 @@
     "map": null,
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 21,
@@ -336,7 +336,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/?.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 22,
@@ -352,14 +352,14 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 23,
     "name": {
       "EN": "Trans-Montane Tunnel",
       "ES": "",
-      "FR": "",
+      "FR": "Tunnel Transmontane",
       "DE": "",
       "IT": "",
       "JA": ""
@@ -368,7 +368,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
 
   {
@@ -385,7 +385,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/?.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 25,
@@ -401,7 +401,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/?.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 26,
@@ -417,7 +417,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 27,
@@ -433,7 +433,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/palais_de_leon.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 28,
@@ -449,7 +449,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/havre_leon.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 29,
@@ -465,7 +465,7 @@
     "map": null,
     "continent": "",
     "type": "shrine",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 30,
@@ -481,7 +481,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/mamon.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 31,
@@ -497,7 +497,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
 
   {
@@ -505,7 +505,7 @@
     "name": {
       "EN": "Hidden Valley",
       "ES": "",
-      "FR": "",
+      "FR": "Village des montagnes",
       "DE": "",
       "IT": "",
       "JA": ""
@@ -514,14 +514,14 @@
     "map": null,
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 33,
     "name": {
       "EN": "Woodcutter's cabin",
       "ES": "",
-      "FR": "",
+      "FR": "Cabane du bûcheron",
       "DE": "",
       "IT": "",
       "JA": ""
@@ -530,7 +530,7 @@
     "map": null,
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 34,
@@ -546,7 +546,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/casabranca.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 35,
@@ -562,7 +562,7 @@
     "map": null,
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 36,
@@ -578,7 +578,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 37,
@@ -594,7 +594,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/bath.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 38,
@@ -610,7 +610,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/porthtrunnel.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 39,
@@ -626,7 +626,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 38,
@@ -642,7 +642,7 @@
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/mintos.png",
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 39,
@@ -658,7 +658,7 @@
     "map": null,
     "continent": "",
     "type": "shrine",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 40,
@@ -674,7 +674,7 @@
     "map": null,
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 41,
@@ -690,7 +690,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 42,
@@ -706,7 +706,7 @@
     "map": null,
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 43,
@@ -722,7 +722,7 @@
     "map": null,
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 44,
@@ -738,7 +738,7 @@
     "map": null,
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 45,
@@ -754,7 +754,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 46,
@@ -770,7 +770,7 @@
     "map": null,
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 47,
@@ -786,7 +786,7 @@
     "map": null,
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 48,
@@ -802,7 +802,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 49,
@@ -818,7 +818,7 @@
     "map": null,
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 50,
@@ -834,7 +834,7 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 51,
@@ -850,7 +850,7 @@
     "map": null,
     "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 52,
@@ -882,6 +882,6 @@
     "map": null,
     "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   }
 ]

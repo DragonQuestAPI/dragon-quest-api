@@ -6,7 +6,7 @@
       "FR": "Gluant",
       "DE": "Schleim",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "_slime"
   },
@@ -17,7 +17,7 @@
       "FR": "Dragon",
       "DE": "Drachen",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "_dragon"
   },
@@ -28,7 +28,7 @@
       "FR": "Naturel",
       "DE": "Natur",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "_nature"
   },
@@ -39,7 +39,7 @@
       "FR": "Bête",
       "DE": "Biest",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "_beast"
   },
@@ -50,7 +50,7 @@
       "FR": "Matière",
       "DE": "Material",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "_material"
   },
@@ -61,7 +61,7 @@
       "FR": "Démon",
       "DE": "Dämon",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "_demon"
   },
@@ -72,7 +72,7 @@
       "FR": "Mort-vivant",
       "DE": "Untot",
       "IT": "",
-      "JP": ""
+      "JA": ""
     },
     "slug": "_undead"
   },
@@ -83,7 +83,7 @@
       "FR": "???",
       "DE": "???",
       "IT": "???",
-      "JP": "???"
+      "JA": "???"
     },
     "slug": "_special"
   }
