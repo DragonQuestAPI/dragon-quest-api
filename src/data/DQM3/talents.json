@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Frizz Afficionado",
       "ES": "",
@@ -27,7 +27,7 @@
   },
   {
     "id": 2,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Frizz Virtuoso",
       "ES": "",
@@ -53,7 +53,7 @@
   },
   {
     "id": 3,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Splash Afficionado",
       "ES": "",
@@ -79,7 +79,7 @@
   },
   {
     "id": 4,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Splash Virtuoso",
       "ES": "",
@@ -105,7 +105,7 @@
   },
   {
     "id": 5,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Woosh Afficionado",
       "ES": "",
@@ -131,7 +131,7 @@
   },
   {
     "id": 6,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Woosh Virtuoso",
       "ES": "",
@@ -157,7 +157,7 @@
   },
   {
     "id": 7,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Crag Afficionado",
       "ES": "",
@@ -183,7 +183,7 @@
   },
   {
     "id": 8,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Crag Virtuoso",
       "ES": "",
@@ -209,7 +209,7 @@
   },
   {
     "id": 9,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Bang Afficionado",
       "ES": "",
@@ -235,7 +235,7 @@
   },
   {
     "id": 10,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Bang Virtuoso",
       "ES": "",
@@ -261,7 +261,7 @@
   },
   {
     "id": 11,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Crack Afficionado",
       "ES": "",
@@ -287,7 +287,7 @@
   },
   {
     "id": 12,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Crack Virtuoso",
       "ES": "",
@@ -313,7 +313,7 @@
   },
   {
     "id": 13,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Zap Afficionado",
       "ES": "",
@@ -339,7 +339,7 @@
   },
   {
     "id": 14,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Zap Virtuoso",
       "ES": "",
@@ -365,7 +365,7 @@
   },
   {
     "id": 15,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Sizz Afficionado",
       "ES": "",
@@ -391,7 +391,7 @@
   },
   {
     "id": 16,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Sizz Virtuoso",
       "ES": "",
@@ -417,7 +417,7 @@
   },
   {
     "id": 17,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Zam Afficionado",
       "ES": "",
@@ -443,7 +443,7 @@
   },
   {
     "id": 18,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Zam Virtuoso",
       "ES": "",
@@ -469,7 +469,7 @@
   },
   {
     "id": 19,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Blazer",
       "ES": "",
@@ -495,7 +495,7 @@
   },
   {
     "id": 20,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Smart Blazer",
       "ES": "",
@@ -523,7 +523,7 @@
   },
   {
     "id": 21,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Chilly Receptionist",
       "ES": "",
@@ -549,7 +549,7 @@
   },
   {
     "id": 22,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Frosty Receptionist",
       "ES": "",
@@ -577,7 +577,7 @@
   },
   {
     "id": 23,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Shallow Breather",
       "ES": "",
@@ -603,7 +603,7 @@
   },
   {
     "id": 24,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Deep Breather",
       "ES": "",
@@ -631,7 +631,7 @@
   },
   {
     "id": 25,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Dancer",
       "ES": "",
@@ -657,7 +657,7 @@
   },
   {
     "id": 26,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Choreographer",
       "ES": "",
@@ -683,7 +683,7 @@
   },
   {
     "id": 27,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Slimer",
       "ES": "",
@@ -709,7 +709,7 @@
   },
   {
     "id": 28,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Dragonheart",
       "ES": "",
@@ -736,7 +736,7 @@
   },
   {
     "id": 29,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Graveheart",
       "ES": "",
@@ -762,7 +762,7 @@
   },
   {
     "id": 30,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Hive Mind",
       "ES": "",
@@ -788,7 +788,7 @@
   },
   {
     "id": 31,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Materialist",
       "ES": "",
@@ -814,7 +814,7 @@
   },
   {
     "id": 32,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Naturalist",
       "ES": "",
@@ -840,7 +840,7 @@
   },
   {
     "id": 33,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Dark Artist",
       "ES": "",
@@ -867,7 +867,7 @@
   },
   {
     "id": 34,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Blusterer",
       "ES": "",
@@ -894,7 +894,7 @@
   },
   {
     "id": 35,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Nature Child",
       "ES": "",
@@ -921,7 +921,7 @@
   },
   {
     "id": 36,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Aquapothecary",
       "ES": "",
@@ -948,7 +948,7 @@
   },
   {
     "id": 37,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Spicy Slasher",
       "ES": "",
@@ -975,7 +975,7 @@
   },
   {
     "id": 38,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Soggy Slasher",
       "ES": "",
@@ -1002,7 +1002,7 @@
   },
   {
     "id": 39,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Blowy Slasher",
       "ES": "",
@@ -1029,7 +1029,7 @@
   },
   {
     "id": 40,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Stony Slasher",
       "ES": "",
@@ -1056,7 +1056,7 @@
   },
   {
     "id": 41,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Thrill-Seeker",
       "ES": "",
@@ -1083,7 +1083,7 @@
   },
   {
     "id": 42,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Hexcommunicator",
       "ES": "",
@@ -1110,7 +1110,7 @@
   },
   {
     "id": 43,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Speedster",
       "ES": "",
@@ -1136,7 +1136,7 @@
   },
   {
     "id": 44,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Cupid",
       "ES": "",
@@ -1162,7 +1162,7 @@
   },
   {
     "id": 45,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Power Player",
       "ES": "",
@@ -1188,7 +1188,7 @@
   },
   {
     "id": 46,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Wild Child",
       "ES": "",
@@ -1214,7 +1214,7 @@
   },
   {
     "id": 47,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Outlaw",
       "ES": "",
@@ -1240,7 +1240,7 @@
   },
   {
     "id": 48,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Fighter",
       "ES": "",
@@ -1266,7 +1266,7 @@
   },
   {
     "id": 49,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Martial Maven",
       "ES": "",
@@ -1292,7 +1292,7 @@
   },
   {
     "id": 50,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Magic Maven",
       "ES": "",
@@ -1320,7 +1320,7 @@
   },
   {
     "id": 51,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Blade Maven",
       "ES": "",
@@ -1346,7 +1346,7 @@
   },
   {
     "id": 52,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Good Knight",
       "ES": "",
@@ -1373,7 +1373,7 @@
   },
   {
     "id": 53,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Cutpurse",
       "ES": "",
@@ -1399,7 +1399,7 @@
   },
   {
     "id": 54,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Sweet-Talker",
       "ES": "",
@@ -1425,7 +1425,7 @@
   },
   {
     "id": 55,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Hottie",
       "ES": "",
@@ -1451,7 +1451,7 @@
   },
   {
     "id": 56,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Tongue Twister",
       "ES": "",
@@ -1477,7 +1477,7 @@
   },
   {
     "id": 57,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Assassin",
       "ES": "",
@@ -1503,7 +1503,7 @@
   },
   {
     "id": 58,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Hulk",
       "ES": "",
@@ -1529,7 +1529,7 @@
   },
   {
     "id": 59,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Martyr",
       "ES": "",
@@ -1555,7 +1555,7 @@
   },
   {
     "id": 60,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Mad Scientist",
       "ES": "",
@@ -1582,7 +1582,7 @@
   },
   {
     "id": 61,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Prankster",
       "ES": "",
@@ -1608,7 +1608,7 @@
   },
   {
     "id": 62,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Healer",
       "ES": "",
@@ -1635,7 +1635,7 @@
   },
   {
     "id": 63,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Paramedic",
       "ES": "",
@@ -1661,7 +1661,7 @@
   },
   {
     "id": 64,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Soothesayer",
       "ES": "",
@@ -1688,7 +1688,7 @@
   },
   {
     "id": 65,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Sleep Counsellor",
       "ES": "",
@@ -1714,7 +1714,7 @@
   },
   {
     "id": 66,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Toxicologist",
       "ES": "",
@@ -1740,7 +1740,7 @@
   },
   {
     "id": 67,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Anaesthetist",
       "ES": "",
@@ -1766,7 +1766,7 @@
   },
   {
     "id": 68,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Fortifier",
       "ES": "",
@@ -1792,7 +1792,7 @@
   },
   {
     "id": 69,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Enfeebler",
       "ES": "",
@@ -1818,7 +1818,7 @@
   },
   {
     "id": 70,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Willing Helper",
       "ES": "",
@@ -1846,7 +1846,7 @@
   },
   {
     "id": 71,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Breath Taker",
       "ES": "",
@@ -1872,7 +1872,7 @@
   },
   {
     "id": 72,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Antimagician",
       "ES": "",
@@ -1898,7 +1898,7 @@
   },
   {
     "id": 73,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Defender",
       "ES": "",
@@ -1924,7 +1924,7 @@
   },
   {
     "id": 74,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Barricade",
       "ES": "",
@@ -1950,7 +1950,7 @@
   },
   {
     "id": 75,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Irritant",
       "ES": "",
@@ -1976,7 +1976,7 @@
   },
   {
     "id": 76,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Vexologist",
       "ES": "",
@@ -2002,7 +2002,7 @@
   },
   {
     "id": 77,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Charmer",
       "ES": "",
@@ -2028,7 +2028,7 @@
   },
   {
     "id": 78,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Stinker",
       "ES": "",
@@ -2054,7 +2054,7 @@
   },
   {
     "id": 79,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Strong Speller",
       "ES": "",
@@ -2082,7 +2082,7 @@
   },
   {
     "id": 80,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Smarty-Pants",
       "ES": "",
@@ -2110,7 +2110,7 @@
   },
   {
     "id": 81,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Paragon",
       "ES": "",
@@ -2138,7 +2138,7 @@
   },
   {
     "id": 82,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Wrecker",
       "ES": "",
@@ -2166,7 +2166,7 @@
   },
   {
     "id": 83,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Musclehead",
       "ES": "",
@@ -2194,7 +2194,7 @@
   },
   {
     "id": 84,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Duelist",
       "ES": "",
@@ -2222,7 +2222,7 @@
   },
   {
     "id": 85,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Maniac",
       "ES": "",
@@ -2250,7 +2250,7 @@
   },
   {
     "id": 86,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Leading Light",
       "ES": "",
@@ -2278,7 +2278,7 @@
   },
   {
     "id": 87,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Slayer",
       "ES": "",
@@ -2306,7 +2306,7 @@
   },
   {
     "id": 88,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Destroyer",
       "ES": "",
@@ -2334,7 +2334,7 @@
   },
   {
     "id": 89,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Respirator",
       "ES": "",
@@ -2362,7 +2362,7 @@
   },
   {
     "id": 90,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Fire Chief",
       "ES": "",
@@ -2390,7 +2390,7 @@
   },
   {
     "id": 91,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Cold Snapper",
       "ES": "",
@@ -2418,7 +2418,7 @@
   },
   {
     "id": 92,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Party Monster",
       "ES": "",
@@ -2445,7 +2445,7 @@
   },
   {
     "id": 93,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Rockin' Roller",
       "ES": "",
@@ -2473,7 +2473,7 @@
   },
   {
     "id": 94,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Pop Idol",
       "ES": "",
@@ -2500,7 +2500,7 @@
   },
   {
     "id": 95,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Firebrand",
       "ES": "",
@@ -2528,7 +2528,7 @@
   },
   {
     "id": 96,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Pyrotechnician",
       "ES": "",
@@ -2556,7 +2556,7 @@
   },
   {
     "id": 97,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Freeze",
       "ES": "",
@@ -2584,7 +2584,7 @@
   },
   {
     "id": 98,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Demoniac",
       "ES": "",
@@ -2612,7 +2612,7 @@
   },
   {
     "id": 99,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Blighter",
       "ES": "",
@@ -2640,7 +2640,7 @@
   },
   {
     "id": 100,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Dark Horse",
       "ES": "",
@@ -2668,7 +2668,7 @@
   },
   {
     "id": 101,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Evil Genius",
       "ES": "",
@@ -2696,7 +2696,7 @@
   },
   {
     "id": 102,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Agent Provocateur",
       "ES": "",
@@ -2723,7 +2723,7 @@
   },
   {
     "id": 103,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Bobby Dazzler",
       "ES": "",
@@ -2751,7 +2751,7 @@
   },
   {
     "id": 104,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Pop Diva",
       "ES": "",
@@ -2778,7 +2778,7 @@
   },
   {
     "id": 105,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Heavenly Herald",
       "ES": "",
@@ -2806,7 +2806,7 @@
   },
   {
     "id": 106,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Just Ruler",
       "ES": "",
@@ -2834,7 +2834,7 @@
   },
   {
     "id": 107,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Charge Leader",
       "ES": "",
@@ -2862,7 +2862,7 @@
   },
   {
     "id": 108,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Lightning Rod",
       "ES": "",
@@ -2890,7 +2890,7 @@
   },
   {
     "id": 109,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Vegabond",
       "ES": "",
@@ -2918,7 +2918,7 @@
   },
   {
     "id": 110,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Snow Drifter",
       "ES": "",
@@ -2945,7 +2945,7 @@
   },
   {
     "id": 111,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Bombshell",
       "ES": "",
@@ -2973,7 +2973,7 @@
   },
   {
     "id": 112,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Storm Chaser",
       "ES": "",
@@ -3000,7 +3000,7 @@
   },
   {
     "id": 113,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Mariner",
       "ES": "",
@@ -3028,7 +3028,7 @@
   },
   {
     "id": 114,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Water Baby",
       "ES": "",
@@ -3055,7 +3055,7 @@
   },
   {
     "id": 115,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Hardliner",
       "ES": "",
@@ -3083,7 +3083,7 @@
   },
   {
     "id": 116,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Enigma",
       "ES": "",
@@ -3111,7 +3111,7 @@
   },
   {
     "id": 117,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Vaudevillan",
       "ES": "",
@@ -3138,7 +3138,7 @@
   },
   {
     "id": 118,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Airhead",
       "ES": "",
@@ -3166,7 +3166,7 @@
   },
   {
     "id": 119,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Empath",
       "ES": "",
@@ -3194,7 +3194,7 @@
   },
   {
     "id": 120,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Cool Customer",
       "ES": "",
@@ -3222,7 +3222,7 @@
   },
   {
     "id": 121,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Hater",
       "ES": "",
@@ -3250,7 +3250,7 @@
   },
   {
     "id": 122,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Super Naturalist",
       "ES": "",
@@ -3278,7 +3278,7 @@
   },
   {
     "id": 123,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Cleric",
       "ES": "",
@@ -3306,7 +3306,7 @@
   },
   {
     "id": 124,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Cure-All",
       "ES": "",
@@ -3333,7 +3333,7 @@
   },
   {
     "id": 125,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Devil's Advocate",
       "ES": "",
@@ -3361,7 +3361,7 @@
   },
   {
     "id": 126,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Nuisance",
       "ES": "",
@@ -3389,7 +3389,7 @@
   },
   {
     "id": 127,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Doomsayer",
       "ES": "",
@@ -3417,7 +3417,7 @@
   },
   {
     "id": 128,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Mouth Guard",
       "ES": "",
@@ -3445,7 +3445,7 @@
   },
   {
     "id": 129,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Protector",
       "ES": "",
@@ -3472,7 +3472,7 @@
   },
   {
     "id": 130,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Heretic",
       "ES": "",
@@ -3499,7 +3499,7 @@
   },
   {
     "id": 131,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Mystic",
       "ES": "",
@@ -3527,7 +3527,7 @@
   },
   {
     "id": 132,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Sage",
       "ES": "",
@@ -3555,7 +3555,7 @@
   },
   {
     "id": 133,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Grump",
       "ES": "",
@@ -3583,7 +3583,7 @@
   },
   {
     "id": 134,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Breath Worker",
       "ES": "",
@@ -3609,7 +3609,7 @@
   },
   {
     "id": 135,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Bad Breather",
       "ES": "",
@@ -3635,7 +3635,7 @@
   },
   {
     "id": 136,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Altruist",
       "ES": "",
@@ -3661,7 +3661,7 @@
   },
   {
     "id": 137,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Walking Disaster",
       "ES": "",
@@ -3687,7 +3687,7 @@
   },
   {
     "id": 138,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Warmonger",
       "ES": "",
@@ -3715,7 +3715,7 @@
   },
   {
     "id": 139,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Pest Controller",
       "ES": "",
@@ -3743,7 +3743,7 @@
   },
   {
     "id": 140,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Multidisciplinarian",
       "ES": "",
@@ -3771,7 +3771,7 @@
   },
   {
     "id": 141,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Rug Cutter",
       "ES": "",
@@ -3799,7 +3799,7 @@
   },
   {
     "id": 142,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Rainmaker",
       "ES": "",
@@ -3825,7 +3825,7 @@
   },
   {
     "id": 143,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Sovereign",
       "ES": "",
@@ -3851,7 +3851,7 @@
   },
   {
     "id": 144,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Dragonlord",
       "ES": "",
@@ -3879,7 +3879,7 @@
   },
   {
     "id": 145,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Hargon",
       "ES": "",
@@ -3907,7 +3907,7 @@
   },
   {
     "id": 146,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Malroth",
       "ES": "",
@@ -3935,7 +3935,7 @@
   },
   {
     "id": 147,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Aamon",
       "ES": "",
@@ -3963,7 +3963,7 @@
   },
   {
     "id": 148,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Psaro The Manslayer",
       "ES": "",
@@ -3991,7 +3991,7 @@
   },
   {
     "id": 149,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Bishop Ladja",
       "ES": "",
@@ -4019,7 +4019,7 @@
   },
   {
     "id": 150,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Nimzo",
       "ES": "",
@@ -4047,7 +4047,7 @@
   },
   {
     "id": 151,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Murdaw",
       "ES": "",
@@ -4074,7 +4074,7 @@
   },
   {
     "id": 152,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Mortamor",
       "ES": "",
@@ -4102,7 +4102,7 @@
   },
   {
     "id": 153,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Orgodemir",
       "ES": "",
@@ -4130,7 +4130,7 @@
   },
   {
     "id": 154,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Dhoulmagus",
       "ES": "",
@@ -4158,7 +4158,7 @@
   },
   {
     "id": 155,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Rhapthorne",
       "ES": "",
@@ -4186,7 +4186,7 @@
   },
   {
     "id": 156,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Greygnarl",
       "ES": "",
@@ -4214,7 +4214,7 @@
   },
   {
     "id": 157,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Barbarus",
       "ES": "",
@@ -4242,7 +4242,7 @@
   },
   {
     "id": 158,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Fallen Angel Corvus",
       "ES": "",
@@ -4270,7 +4270,7 @@
   },
   {
     "id": 159,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Razerburn",
       "ES": "",
@@ -4298,7 +4298,7 @@
   },
   {
     "id": 160,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Nelgel the Netherfiend",
       "ES": "",
@@ -4326,7 +4326,7 @@
   },
   {
     "id": 161,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Jasper Unbound",
       "ES": "",
@@ -4354,7 +4354,7 @@
   },
   {
     "id": 162,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Mordegon, Lord of Shadows",
       "ES": "",
@@ -4382,7 +4382,7 @@
   },
   {
     "id": 163,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Calasmos",
       "ES": "",
@@ -4410,7 +4410,7 @@
   },
   {
     "id": 164,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Uberkilling Machine",
       "ES": "",
@@ -4437,7 +4437,7 @@
   },
   {
     "id": 165,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Fluffy",
       "ES": "",
@@ -4465,7 +4465,7 @@
   },
   {
     "id": 166,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Scruffy",
       "ES": "",
@@ -4493,7 +4493,7 @@
   },
   {
     "id": 167,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Fuzzy Thinker",
       "ES": "",
@@ -4521,7 +4521,7 @@
   },
   {
     "id": 168,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Wyrmhole Dragon",
       "ES": "",
@@ -4549,7 +4549,7 @@
   },
   {
     "id": 169,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Baramos",
       "ES": "",
@@ -4577,7 +4577,7 @@
   },
   {
     "id": 170,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Zoma",
       "ES": "",
@@ -4605,7 +4605,7 @@
   },
   {
     "id": 171,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "The Almighty",
       "ES": "",
@@ -4633,7 +4633,7 @@
   },
   {
     "id": 172,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Estark",
       "ES": "",
@@ -4661,7 +4661,7 @@
   },
   {
     "id": 173,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Ramia",
       "ES": "",
@@ -4689,7 +4689,7 @@
   },
   {
     "id": 174,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Lord Of The Dragovians",
       "ES": "",
@@ -4717,7 +4717,7 @@
   },
   {
     "id": 175,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Xenlon",
       "ES": "",
@@ -4745,7 +4745,7 @@
   },
   {
     "id": 176,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Nokturnus",
       "ES": "",
@@ -4773,7 +4773,7 @@
   },
   {
     "id": 177,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Supreme Healer",
       "ES": "",
@@ -4799,7 +4799,7 @@
   },
   {
     "id": 178,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Air Fryer",
       "ES": "",
@@ -4825,7 +4825,7 @@
   },
   {
     "id": 179,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Storm Brewer",
       "ES": "",
@@ -4851,7 +4851,7 @@
   },
   {
     "id": 180,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Freeze Popper",
       "ES": "",
@@ -4877,7 +4877,7 @@
   },
   {
     "id": 181,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Freezer Burner",
       "ES": "",
@@ -4903,7 +4903,7 @@
   },
   {
     "id": 182,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Hair Splitter",
       "ES": "",
@@ -4931,7 +4931,7 @@
   },
   {
     "id": 183,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Impactor",
       "ES": "",
@@ -4959,7 +4959,7 @@
   },
   {
     "id": 184,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Polariser",
       "ES": "",
@@ -4987,7 +4987,7 @@
   },
   {
     "id": 185,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Perfect Speller",
       "ES": "",
@@ -5014,7 +5014,7 @@
   },
   {
     "id": 186,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Blow Hard",
       "ES": "",
@@ -5042,7 +5042,7 @@
   },
   {
     "id": 187,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "HP Booster I",
       "ES": "",
@@ -5068,7 +5068,7 @@
   },
   {
     "id": 188,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "HP Booster II",
       "ES": "",
@@ -5095,7 +5095,7 @@
   },
   {
     "id": 189,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "HP Booster III",
       "ES": "",
@@ -5123,7 +5123,7 @@
   },
   {
     "id": 190,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "HP Booster IV",
       "ES": "",
@@ -5151,7 +5151,7 @@
   },
   {
     "id": 191,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "MP Booster I",
       "ES": "",
@@ -5177,7 +5177,7 @@
   },
   {
     "id": 192,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "MP Booster II",
       "ES": "",
@@ -5204,7 +5204,7 @@
   },
   {
     "id": 193,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "MP Booster III",
       "ES": "",
@@ -5232,7 +5232,7 @@
   },
   {
     "id": 194,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "MP Booster IV",
       "ES": "",
@@ -5260,7 +5260,7 @@
   },
   {
     "id": 195,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Attack Booster I",
       "ES": "",
@@ -5285,7 +5285,7 @@
   },
   {
     "id": 196,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Attack Booster II",
       "ES": "",
@@ -5312,7 +5312,7 @@
   },
   {
     "id": 197,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Attack Booster III",
       "ES": "",
@@ -5340,7 +5340,7 @@
   },
   {
     "id": 198,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Attack Booster IV",
       "ES": "",
@@ -5368,7 +5368,7 @@
   },
   {
     "id": 199,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Defence Booster I",
       "ES": "",
@@ -5393,7 +5393,7 @@
   },
   {
     "id": 200,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Defence Booster II",
       "ES": "",
@@ -5420,7 +5420,7 @@
   },
   {
     "id": 201,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Defence Booster III",
       "ES": "",
@@ -5448,7 +5448,7 @@
   },
   {
     "id": 202,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Defence Booster IV",
       "ES": "",
@@ -5476,7 +5476,7 @@
   },
   {
     "id": 203,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Agility Booster I",
       "ES": "",
@@ -5501,7 +5501,7 @@
   },
   {
     "id": 204,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Agility Booster II",
       "ES": "",
@@ -5528,7 +5528,7 @@
   },
   {
     "id": 205,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Agility Booster III",
       "ES": "",
@@ -5556,7 +5556,7 @@
   },
   {
     "id": 206,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Agility Booster IV",
       "ES": "",
@@ -5584,7 +5584,7 @@
   },
   {
     "id": 207,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Wisdom Booster I",
       "ES": "",
@@ -5609,7 +5609,7 @@
   },
   {
     "id": 208,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Wisdom Booster II",
       "ES": "",
@@ -5636,7 +5636,7 @@
   },
   {
     "id": 209,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Wisdom Booster III",
       "ES": "",
@@ -5664,7 +5664,7 @@
   },
   {
     "id": 210,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Wisdom Booster IV",
       "ES": "",
@@ -5692,7 +5692,7 @@
   },
   {
     "id": 211,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Frizz Ward",
       "ES": "",
@@ -5718,7 +5718,7 @@
   },
   {
     "id": 212,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Splish Ward",
       "ES": "",
@@ -5744,7 +5744,7 @@
   },
   {
     "id": 213,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Woosh Guard",
       "ES": "",
@@ -5770,7 +5770,7 @@
   },
   {
     "id": 214,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Crag Ward",
       "ES": "",
@@ -5796,7 +5796,7 @@
   },
   {
     "id": 215,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Bang Ward",
       "ES": "",
@@ -5822,7 +5822,7 @@
   },
   {
     "id": 216,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Crack Ward",
       "ES": "",
@@ -5848,7 +5848,7 @@
   },
   {
     "id": 217,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Zap Ward",
       "ES": "",
@@ -5874,7 +5874,7 @@
   },
   {
     "id": 218,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Sizz Ward",
       "ES": "",
@@ -5900,7 +5900,7 @@
   },
   {
     "id": 219,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Zam Ward",
       "ES": "",
@@ -5926,7 +5926,7 @@
   },
   {
     "id": 220,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Debilitation Ducker",
       "ES": "",
@@ -5952,7 +5952,7 @@
   },
   {
     "id": 221,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Bedazzlement Blocker",
       "ES": "",
@@ -5978,7 +5978,7 @@
   },
   {
     "id": 222,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Antimagic Avoider",
       "ES": "",
@@ -6004,7 +6004,7 @@
   },
   {
     "id": 223,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Drain Dodger",
       "ES": "",
@@ -6030,7 +6030,7 @@
   },
   {
     "id": 224,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Poison Preventer",
       "ES": "",
@@ -6056,7 +6056,7 @@
   },
   {
     "id": 225,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Stun Stopper",
       "ES": "",
@@ -6082,7 +6082,7 @@
   },
   {
     "id": 226,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Sleep Suppressor",
       "ES": "",
@@ -6107,7 +6107,7 @@
   },
   {
     "id": 227,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Confusion Controller",
       "ES": "",
@@ -6132,7 +6132,7 @@
   },
   {
     "id": 228,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Paralysis Protector",
       "ES": "",
@@ -6157,7 +6157,7 @@
   },
   {
     "id": 229,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Death Defier",
       "ES": "",
@@ -6183,7 +6183,7 @@
   },
   {
     "id": 230,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Sparkling Warder",
       "ES": "",
@@ -6209,7 +6209,7 @@
   },
   {
     "id": 231,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Hard Warder",
       "ES": "",
@@ -6235,7 +6235,7 @@
   },
   {
     "id": 232,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Holy Warder",
       "ES": "",
@@ -6261,7 +6261,7 @@
   },
   {
     "id": 233,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Magma Shield",
       "ES": "",
@@ -6289,7 +6289,7 @@
   },
   {
     "id": 234,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Glacier Shield",
       "ES": "",
@@ -6317,7 +6317,7 @@
   },
   {
     "id": 235,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Cyclone Shield",
       "ES": "",
@@ -6345,7 +6345,7 @@
   },
   {
     "id": 236,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Chiaroscuro Shield",
       "ES": "",
@@ -6373,7 +6373,7 @@
   },
   {
     "id": 237,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Tremor Shield",
       "ES": "",
@@ -6401,7 +6401,7 @@
   },
   {
     "id": 238,
-    "type": "Bonus de caractéristique",
+    "type": "attribute_boost",
     "name": {
       "EN": "Fulgurite Shield",
       "ES": "",
@@ -6429,7 +6429,7 @@
   },
   {
     "id": 239,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Taste Buddies",
       "ES": "",
@@ -6455,7 +6455,7 @@
   },
   {
     "id": 240,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Swirling Dervish",
       "ES": "",
@@ -6481,7 +6481,7 @@
   },
   {
     "id": 241,
-    "type": "Compétence",
+    "type": "skill",
     "name": {
       "EN": "Cheesy Grin",
       "ES": "",
