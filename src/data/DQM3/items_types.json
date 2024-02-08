@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "DE": "",
+      "EN": "Medicine",
+      "ES": "",
+      "FR": "Soin",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "medicine"
+  },
+  {
+    "id": 2,
+    "name": {
+      "DE": "",
+      "EN": "Battle",
+      "ES": "",
+      "FR": "Combat",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "battle"
+  },
+  {
+    "id": 3,
+    "name": {
+      "DE": "",
+      "EN": "Food",
+      "ES": "",
+      "FR": "Appât",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "food"
+  },
+  {
+    "id": 4,
+    "name": {
+      "DE": "",
+      "EN": "Treasure",
+      "ES": "",
+      "FR": "Divers",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "treasure"
+  },
+  {
+    "id": 5,
+    "name": {
+      "DE": "",
+      "EN": "Accessory",
+      "ES": "",
+      "FR": "Accessoire",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "accessory"
+  },
+  {
+    "id": 6,
+    "name": {
+      "DE": "",
+      "EN": "Key",
+      "ES": "",
+      "FR": "Objet important",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "key"
+  }
+]
