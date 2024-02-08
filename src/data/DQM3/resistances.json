@@ -1,0 +1,249 @@
+[
+  {
+    "id": 1,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/fire.webp",
+    "name": {
+      "EN": "Fire",
+      "ES": "",
+      "FR": "Feu",
+      "DE": "Feuer",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "fire"
+  },
+  {
+    "id": 2,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/water.webp",
+    "name": {
+      "EN": "Water",
+      "ES": "",
+      "FR": "Eau",
+      "DE": "Wasser",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "water"
+  },
+  {
+    "id": 3,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/wind.webp",
+    "name": {
+      "EN": "Wind",
+      "ES": "",
+      "FR": "Vent",
+      "DE": "Wind",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "wind"
+  },
+  {
+    "id": 4,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/earth.webp",
+    "name": {
+      "EN": "Earth",
+      "ES": "",
+      "FR": "Terre",
+      "DE": "Erde",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "earth"
+  },
+  {
+    "id": 5,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/explosions.webp",
+    "name": {
+      "EN": "Explosions",
+      "ES": "",
+      "FR": "Explosion",
+      "DE": "Explosionen",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "explosions"
+  },
+  {
+    "id": 6,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/ice.webp",
+    "name": {
+      "EN": "Ice",
+      "ES": "",
+      "FR": "Glace",
+      "DE": "Eis",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ice"
+  },
+  {
+    "id": 7,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/electricity.webp",
+    "name": {
+      "EN": "Electricity",
+      "ES": "",
+      "FR": "Foudre",
+      "DE": "Blitz",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "electricity"
+  },
+  {
+    "id": 8,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/light.webp",
+    "name": {
+      "EN": "Light",
+      "ES": "",
+      "FR": "Lumière",
+      "DE": "Licht",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "light"
+  },
+  {
+    "id": 9,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/dark.webp",
+    "name": {
+      "EN": "Dark",
+      "ES": "",
+      "FR": "Ténèbres",
+      "DE": "Dunkelheit",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "dark"
+  },
+  {
+    "id": 10,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/debilitation.webp",
+    "name": {
+      "EN": "Debilitation",
+      "ES": "",
+      "FR": "Affaiblissement",
+      "DE": "Entkräftung",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "debilitation"
+  },
+  {
+    "id": 11,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/bedazzlement.webp",
+    "name": {
+      "EN": "Bedazzlement",
+      "ES": "",
+      "FR": "Éblouissement",
+      "DE": "Blendung",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "bedazzlement"
+  },
+  {
+    "id": 12,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/antimagic.webp",
+    "name": {
+      "EN": "Antimagic",
+      "ES": "",
+      "FR": "Pare-magie",
+      "DE": "Antimagie",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "antimagic"
+  },
+  {
+    "id": 13,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/mp_absorption.webp",
+    "name": {
+      "EN": "MP Absorption",
+      "ES": "",
+      "FR": "Absorption de PM",
+      "DE": "MP-Absorption",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "mp_absorption"
+  },
+  {
+    "id": 14,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/confusion.webp",
+    "name": {
+      "EN": "Confusion",
+      "ES": "",
+      "FR": "Confusion",
+      "DE": "Verwirrung",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "confusion"
+  },
+  {
+    "id": 15,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/sleep.webp",
+    "name": {
+      "EN": "Sleep",
+      "ES": "",
+      "FR": "Sommeil",
+      "DE": "Schlaf",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "sleep"
+  },
+  {
+    "id": 16,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/paralysis.webp",
+    "name": {
+      "EN": "Paralysis",
+      "ES": "",
+      "FR": "Paralysie",
+      "DE": "Lähmung",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "paralysis"
+  },
+  {
+    "id": 17,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/stun.webp",
+    "name": {
+      "EN": "Stun",
+      "ES": "",
+      "FR": "Étourdissement",
+      "DE": "Betäubung",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "stun"
+  },
+  {
+    "id": 18,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/poison.webp",
+    "name": {
+      "EN": "Poison",
+      "ES": "",
+      "FR": "Empoisonnement",
+      "DE": "Gift",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "poison"
+  },
+  {
+    "id": 19,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/resistances_icons/instant_death.webp",
+    "name": {
+      "EN": "Instant Death",
+      "ES": "",
+      "FR": "Mort instantanée",
+      "DE": "Soforttod",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "instant_death"
+  }
+]
