@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/skills_icons/attacking.png",
     "name": {
       "EN": "Attacking",
       "ES": "",
@@ -13,6 +14,7 @@
   },
   {
     "id": 2,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/skills_icons/healing.png",
     "name": {
       "EN": "Healing",
       "ES": "",
@@ -25,6 +27,7 @@
   },
   {
     "id": 3,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/skills_icons/support.png",
     "name": {
       "EN": "Support",
       "ES": "",
