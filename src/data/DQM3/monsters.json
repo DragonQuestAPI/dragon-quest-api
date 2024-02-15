@@ -70,7 +70,7 @@
       }
     ],
     "synthesis": null,
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Herbe médicinale",
       "rare": "Graine d'Agilité"
@@ -528,7 +528,7 @@
       "Famille Gluants",
       "Famille Matières (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Pelotox",
       "rare": "Graine de Vitalité"
@@ -670,7 +670,7 @@
       "Famille Gluants",
       "Famille Dragons (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Poudre antimagique",
       "rare": "Graine d'Agilité"
@@ -787,7 +787,7 @@
       "Champigluant",
       "Batratueur"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Herbe curative",
       "rare": "Graine de Vie"
@@ -1561,7 +1561,7 @@
       "Famille Gluants",
       "Famille Matières (L'un des parents doit être de Rang F)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Remède puissant",
       "rare": "Graine de Sagesse"
@@ -1690,7 +1690,7 @@
       "Aggluantin",
       "Bouclieux"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Remède puissant",
       "rare": "Boucles d'oreilles nébuleuses"
@@ -4624,7 +4624,7 @@
       "Gigluant",
       "Gluante"
     ],
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": "Remède spécial",
       "rare": "Boucles d'oreilles"
@@ -7092,7 +7092,7 @@
       "Gluant de crin",
       "Sangliogre"
     ],
-    "egg": "rainbow",
+    "egg": "rainbow_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -7525,7 +7525,7 @@
       "Famille Dragons",
       "Famille Bêtes (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Viande avariée",
       "rare": "Graine d'Agilité"
@@ -8037,7 +8037,7 @@
       "Dragronce",
       "Chérubus"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Herbe médicinale",
       "rare": "Graine d'Agilité"
@@ -8350,7 +8350,7 @@
       "Famille Dragons",
       "Famille Matières (L'un des parents doit être de Rang F)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Filet mignon mystérieux",
       "rare": "Graine de Vitalité"
@@ -8784,7 +8784,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -9959,7 +9959,7 @@
       "Méthanosaure",
       "Cramulus"
     ],
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": "Herbe médicinale",
       "rare": "Lunettes d'érudit"
@@ -11241,7 +11241,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -13057,7 +13057,7 @@
       "Draculard",
       "Vertctoplasme"
     ],
-    "egg": "rainbow",
+    "egg": "rainbow_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -13743,7 +13743,7 @@
       "Dragon vert",
       "Glumulonimbus"
     ],
-    "egg": "rainbow",
+    "egg": "rainbow_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -14857,7 +14857,7 @@
       "Corbarbac",
       "Aratétou"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Crottin de monstre",
       "rare": "Graine de Sagesse"
@@ -15189,7 +15189,7 @@
       "Famille Naturels",
       "Famille Matières (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Herbe médicinale",
       "rare": "Graine d'Agilité"
@@ -15429,7 +15429,7 @@
       "Furibombyx",
       "Bisebave"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Filet mignon mystérieux",
       "rare": "Graine de Sagesse"
@@ -15761,7 +15761,7 @@
       "Famille Naturels",
       "Famille Gluants (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Herbe médicinale",
       "rare": "Graine de Sagesse"
@@ -15878,7 +15878,7 @@
       "Khalamarmot",
       "Lapicorne"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Filet mignon mystérieux",
       "rare": "Graine de Vie"
@@ -16312,7 +16312,7 @@
       "Ptéranodon",
       "Taurapace"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Filet mignon mystérieux",
       "rare": "Bague de célérité"
@@ -17224,7 +17224,7 @@
       "Famille Naturels",
       "Famille Gluants (L'un des parents doit être de Rang E)"
     ],
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": "Remède puissant",
       "rare": "Amulette pare-flot"
@@ -17579,7 +17579,7 @@
       "Famille Naturels",
       "Famille Matières (L'un des parents doit être de Rang E)"
     ],
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": "Filet mignon mystérieux",
       "rare": "Brassard pare-flot"
@@ -17968,7 +17968,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -18161,7 +18161,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -18674,7 +18674,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -20418,7 +20418,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -20857,7 +20857,7 @@
       "Chimère",
       "Vampivolle"
     ],
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": "Feuille d'Yggdrasil",
       "rare": "Ceinture pare-souffle"
@@ -21072,7 +21072,7 @@
       "Busard bizarre",
       "Tizon"
     ],
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": "Élixir du sage",
       "rare": "Boucles d'oreilles pyroclastiques"
@@ -21741,7 +21741,7 @@
       "Décapiteur",
       "Calmaroi"
     ],
-    "egg": "rainbow",
+    "egg": "rainbow_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -21839,7 +21839,7 @@
       "Rapacepasse",
       "Busard bizarre"
     ],
-    "egg": "rainbow",
+    "egg": "rainbow_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -22035,7 +22035,7 @@
       "Décapiteur",
       "Dragronce"
     ],
-    "egg": "rainbow",
+    "egg": "rainbow_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -22494,7 +22494,7 @@
       "Famille Dragons",
       "Famille Matières (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Bout de caillou",
       "rare": "Graine de Force"
@@ -23055,7 +23055,7 @@
       "Smilodon de lait",
       "Affromage frais"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Filet mignon mystérieux",
       "rare": "Graine de Force"
@@ -23163,7 +23163,7 @@
       "Famille Bêtes",
       "Famille Dragons (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Filet mignon mystérieux",
       "rare": "Amulette de vigueur"
@@ -23307,7 +23307,7 @@
       "Famille Bêtes",
       "Famille Naturels (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Herbe médicinale",
       "rare": "Graine d'Agilité"
@@ -23574,7 +23574,7 @@
       "Gratatouille",
       "Slurpillon"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Crottin de monstre",
       "rare": "Graine d'Agilité"
@@ -27686,7 +27686,7 @@
       "Orque",
       "Tigrrr"
     ],
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": "Rosée d'Yggdrasil",
       "rare": "Anneau de prêtre"
@@ -28967,7 +28967,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -29062,7 +29062,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -29276,7 +29276,7 @@
       "Esprit tapeur",
       "Salivard"
     ],
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": "Filet mignon magique",
       "rare": "Anneau d'oracle"
@@ -29374,7 +29374,7 @@
       "Crinocéphale",
       "Aligatueur"
     ],
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": "Multiremède",
       "rare": "Graine de Force"
@@ -29482,7 +29482,7 @@
       "Cornefolle",
       "Tizon"
     ],
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": "Rosée d'Yggdrasil",
       "rare": "Brassard de météore"
@@ -29675,7 +29675,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "rainbow",
+    "egg": "rainbow_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -30083,7 +30083,7 @@
       "Meno Macho",
       "Alarmure"
     ],
-    "egg": "rainbow",
+    "egg": "rainbow_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -30181,7 +30181,7 @@
       "Smilodon noir",
       "Chienfernal enragé"
     ],
-    "egg": "rainbow",
+    "egg": "rainbow_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -30453,7 +30453,7 @@
       "Famille Matières",
       "Famille Bêtes (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Eau magique",
       "rare": "Graine de Vitalité"
@@ -30578,7 +30578,7 @@
       "Famille Matières",
       "Famille Naturels (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Eau magique",
       "rare": "Graine d'Agilité"
@@ -31001,7 +31001,7 @@
       "Famille Matières",
       "Famille Morts-vivants (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Botryche lunaire",
       "rare": "Ceinture pare-terre"
@@ -31224,7 +31224,7 @@
       "Sacasable",
       "Fantôme"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Herbe médicinale",
       "rare": "Graine de Vie"
@@ -31362,7 +31362,7 @@
       "Famille Matières",
       "Famille Dragons (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Pelotox",
       "rare": "Graine de Vie"
@@ -31519,7 +31519,7 @@
       "Spitnik",
       "Tristecire"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Herbe médicinale",
       "rare": "Graine de Force"
@@ -31725,7 +31725,7 @@
       "Famille Matières",
       "Famille Bêtes (L'un des parents doit être de Rang F)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Filet mignon mystérieux",
       "rare": "Graine de Vitalité"
@@ -33704,7 +33704,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -34203,7 +34203,7 @@
       "Famille Matières",
       "Famille Démons (L'un des parents doit être de Rang E)"
     ],
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": "Éclat de bombe",
       "rare": "Anneau Plouf-plouf"
@@ -34469,7 +34469,7 @@
       "Flammulus",
       "Dangeleux"
     ],
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": "Sels de choc",
       "rare": "Brassard pare-glace"
@@ -36175,7 +36175,7 @@
       "Talismaboule",
       "Vert follet"
     ],
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": "Élixir elfique",
       "rare": "Ânkh antique"
@@ -38291,7 +38291,7 @@
       "Machine à tuer",
       "Grobouffon"
     ],
-    "egg": "rainbow",
+    "egg": "rainbow_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -38910,7 +38910,7 @@
       "Famille Démons",
       "Famille Dragons (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Botryche lunaire",
       "rare": "Graine de Magie"
@@ -39066,7 +39066,7 @@
       "Famille Démons",
       "Famille Matières (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Bout de caillou",
       "rare": "Graine de Vitalité"
@@ -39255,7 +39255,7 @@
       "Gremlin",
       "Aratétou"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Bout de caillou",
       "rare": "Graine d'Agilité"
@@ -39595,7 +39595,7 @@
       "Clindœil",
       "Fantôme"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Eau magique",
       "rare": "Graine de Sagesse"
@@ -39751,7 +39751,7 @@
       "Famille Démons",
       "Famille Naturels (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Eau magique",
       "rare": "Graine de Sagesse"
@@ -39989,7 +39989,7 @@
       "Combatracien",
       "Mallusque"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Botryche lunaire",
       "rare": "Graine de Sagesse"
@@ -40731,7 +40731,7 @@
       "Luna-tique",
       "Khalamarmot"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Botryche lunaire",
       "rare": "Graine de Sagesse"
@@ -43009,7 +43009,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -44761,7 +44761,7 @@
       "Clindœil",
       "Brûlegel"
     ],
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": "Remède spécial",
       "rare": "Anneau d'artiste martial"
@@ -44989,7 +44989,7 @@
       "Grand faucheur",
       "Démon du dessert"
     ],
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": "Élixir elfique",
       "rare": "Brassard pare-souffle"
@@ -45103,7 +45103,7 @@
       "Ligotonnerre",
       "Magimol"
     ],
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": "Élixir elfique",
       "rare": "Médaillon de rétorsion"
@@ -45900,7 +45900,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -46194,7 +46194,7 @@
       "Smilodon noir",
       "Équinocte"
     ],
-    "egg": "rainbow",
+    "egg": "rainbow_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -47309,7 +47309,7 @@
       "Famille Morts-vivants",
       "Famille Bêtes (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Viande avariée",
       "rare": "Graine de Force"
@@ -47438,7 +47438,7 @@
       "Souche louche",
       "Champigluant"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Sels de choc",
       "rare": "Graine de Vitalité"
@@ -47664,7 +47664,7 @@
       "Feu follet",
       "Bouclieux"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Bout de caillou",
       "rare": "Graine de Force"
@@ -47772,7 +47772,7 @@
       "Famille Morts-vivants",
       "Famille Naturels (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Herbe médicinale",
       "rare": "Graine de Force"
@@ -48042,7 +48042,7 @@
       "Clindœil",
       "Bélicorne"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Eau magique",
       "rare": "Graine de Magie"
@@ -48385,7 +48385,7 @@
       "Famille Morts-vivants",
       "Famille Dragons (L'un des parents doit être de Rang G)"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Eau magique",
       "rare": "Graine de Vie"
@@ -48899,7 +48899,7 @@
       "Ligoterreur",
       "Spitnik"
     ],
-    "egg": "white",
+    "egg": "white_egg",
     "drops": {
       "normal": "Eau magique",
       "rare": "Graine d'Agilité"
@@ -49649,7 +49649,7 @@
       "Famille Morts-vivants",
       "Famille Dragons (L'un des parents doit être de Rang E)"
     ],
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": "Eau magique",
       "rare": "Boucles d'oreilles pare-feu"
@@ -50173,7 +50173,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -50317,7 +50317,7 @@
       "Famille Morts-vivants",
       "Famille Bêtes (L'un des parents doit être de Rang E)"
     ],
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": "Eau magique",
       "rare": "Anneau de vigueur"
@@ -50683,7 +50683,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -50920,7 +50920,7 @@
       "Famille Morts-vivants",
       "Famille Démons (L'un des parents doit être de Rang D)"
     ],
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": "Viande avariée",
       "rare": "Cape de kleptomane"
@@ -51277,7 +51277,7 @@
       "Bottoeil",
       "Empereur nocturne"
     ],
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": "Élixir du sage",
       "rare": "Graine de Sagesse"
@@ -51926,7 +51926,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "silver",
+    "egg": "silver_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -53452,7 +53452,7 @@
       "Rejeton de l'enfer",
       "Désosseur"
     ],
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -53958,7 +53958,7 @@
       "Grouillâme",
       "Mornelune"
     ],
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -54837,7 +54837,7 @@
     },
     "location": null,
     "synthesis": null,
-    "egg": "gold",
+    "egg": "golden_egg",
     "drops": {
       "normal": null,
       "rare": null
@@ -55033,7 +55033,7 @@
       "Chiaravaggia",
       "Yépire"
     ],
-    "egg": "rainbow",
+    "egg": "rainbow_egg",
     "drops": {
       "normal": null,
       "rare": null
