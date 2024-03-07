@@ -3,20 +3,20 @@
     "id": 1,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Frizz",
       "ES": "",
       "FR": "Flamme",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "メラ"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "Inflicts minor fire-elemental spell damage on a single enemy.",
       "ES": "",
       "FR": "Inflige de légers dégâts de sort de feu à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -26,20 +26,20 @@
     "id": 2,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Frizzle",
       "ES": "",
       "FR": "Superflamme",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "メラミ"
     },
-    "mp_cost": 5,
+    "mp_cost": "5",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de sort de feu à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -49,20 +49,20 @@
     "id": 3,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kafrizz",
       "ES": "",
       "FR": "Mégaflamme",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "メラゾーマ"
     },
-    "mp_cost": 12,
+    "mp_cost": "12",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'importants dégâts de sort de feu à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -72,20 +72,20 @@
     "id": 4,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kafrizzle",
       "ES": "",
       "FR": "Gigaflamme",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "メラガイアー"
     },
-    "mp_cost": 32,
+    "mp_cost": "32",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de sort de feu à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -95,20 +95,20 @@
     "id": 5,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Splish",
       "ES": "",
       "FR": "Plouf",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ザバ"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "Inflicts minor water-elemental spell damage on a single enemy.",
       "ES": "",
       "FR": "Inflige de légers dégâts de sort d'eau à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -118,20 +118,20 @@
     "id": 6,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Splash",
       "ES": "",
       "FR": "Superplouf",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ザバラ"
     },
-    "mp_cost": 5,
+    "mp_cost": "5",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "Inflicts medium water-elemental spell damage on a single enemy.",
       "ES": "",
       "FR": "Inflige des dégâts de sort d'eau à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -141,20 +141,20 @@
     "id": 7,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kasplash",
       "ES": "",
       "FR": "Mégaplouf",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ザバラーン"
     },
-    "mp_cost": 11,
+    "mp_cost": "11",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'importants dégâts de sort d'eau à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -164,20 +164,20 @@
     "id": 8,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kasplashle",
       "ES": "",
       "FR": "Gigaplouf",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ザバトローム"
     },
-    "mp_cost": 29,
+    "mp_cost": "29",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de sort d'eau à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -187,20 +187,20 @@
     "id": 9,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Woosh",
       "ES": "",
       "FR": "Tornade",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "バギ"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts de sort de vent à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -210,20 +210,20 @@
     "id": 10,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Swoosh",
       "ES": "",
       "FR": "Supertornade",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "バギマ"
     },
-    "mp_cost": 11,
+    "mp_cost": "11",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de sort de vent à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -233,20 +233,20 @@
     "id": 11,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kaswoosh",
       "ES": "",
       "FR": "Mégatornade",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "バギクロス"
     },
-    "mp_cost": 22,
+    "mp_cost": "22",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'importants dégâts de sort de vent à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -256,20 +256,20 @@
     "id": 12,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kaswooshle",
       "ES": "",
       "FR": "Gigatornade",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "バギムーチョ"
     },
-    "mp_cost": 54,
+    "mp_cost": "54",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de sort de vent à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -279,20 +279,20 @@
     "id": 13,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Crag",
       "ES": "",
       "FR": "Séisme",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ジバリア"
     },
-    "mp_cost": 5,
+    "mp_cost": "5",
     "target": "all_enemies_next_turn",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts de sort de terre à tous les ennemis, mais pas avant le round suivant.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -302,20 +302,20 @@
     "id": 14,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Craggle",
       "ES": "",
       "FR": "Superséisme",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ジバリカ"
     },
-    "mp_cost": 12,
+    "mp_cost": "12",
     "target": "all_enemies_next_turn",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de sort de terre à tous les ennemis, mais pas avant le round suivant.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -325,20 +325,20 @@
     "id": 15,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kacrag",
       "ES": "",
       "FR": "Mégaséisme",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ジバリーナ"
     },
-    "mp_cost": 23,
+    "mp_cost": "23",
     "target": "all_enemies_next_turn",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'importants dégâts de sort de terre à tous les ennemis, mais pas avant le round suivant.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -348,20 +348,20 @@
     "id": 16,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kacraggle",
       "ES": "",
       "FR": "Gigaséisme",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ジバルンバ"
     },
-    "mp_cost": 58,
+    "mp_cost": "58",
     "target": "all_enemies_next_turn",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de sort de terre à tous les ennemis, mais pas avant le round suivant.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -371,20 +371,20 @@
     "id": 17,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Bang",
       "ES": "",
       "FR": "Bang",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "イオ"
     },
-    "mp_cost": 5,
+    "mp_cost": "5",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts de sort d'explosion à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -394,20 +394,20 @@
     "id": 18,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Boom",
       "ES": "",
       "FR": "Superbang",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "イオラ"
     },
-    "mp_cost": 12,
+    "mp_cost": "12",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de sort d'explosion à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -417,20 +417,20 @@
     "id": 19,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kaboom",
       "ES": "",
       "FR": "Mégabang",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "イオナズン"
     },
-    "mp_cost": 24,
+    "mp_cost": "24",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'importants dégâts de sort d'explosion à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -440,20 +440,20 @@
     "id": 20,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kaboomle",
       "ES": "",
       "FR": "Gigabang",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "イオグランデ"
     },
-    "mp_cost": 60,
+    "mp_cost": "60",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de sort d'explosion à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -463,20 +463,20 @@
     "id": 21,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Crack",
       "ES": "",
       "FR": "Glace",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ヒャド"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts de sort de glace à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -486,20 +486,20 @@
     "id": 22,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Crackle",
       "ES": "",
       "FR": "Superglace",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ヒャダルコ"
     },
-    "mp_cost": 12,
+    "mp_cost": "12",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de sort de glace à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -509,20 +509,20 @@
     "id": 23,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kacrack",
       "ES": "",
       "FR": "Mégaglace",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "マヒャド"
     },
-    "mp_cost": 22,
+    "mp_cost": "22",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'importants dégâts de sort de glace à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -532,20 +532,20 @@
     "id": 24,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kacrackle",
       "ES": "",
       "FR": "Gigaglace",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "マヒャデドス"
     },
-    "mp_cost": 58,
+    "mp_cost": "58",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de sort de glace à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -555,20 +555,20 @@
     "id": 25,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Zap",
       "ES": "",
       "FR": "Foudre",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "デイン"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts de sort de foudre à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -578,20 +578,20 @@
     "id": 26,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Zapple",
       "ES": "",
       "FR": "Superfoudre",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ライデイン"
     },
-    "mp_cost": 13,
+    "mp_cost": "13",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de sort de foudre à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -601,20 +601,20 @@
     "id": 27,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kazap",
       "ES": "",
       "FR": "Mégafoudre",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ギガデイン"
     },
-    "mp_cost": 23,
+    "mp_cost": "23",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'importants dégâts de sort de foudre à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -624,20 +624,20 @@
     "id": 28,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kazapple",
       "ES": "",
       "FR": "Gigafoudre",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ジゴデイン"
     },
-    "mp_cost": 61,
+    "mp_cost": "61",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de sort de foudre à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -647,20 +647,20 @@
     "id": 29,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Sizz",
       "ES": "",
       "FR": "Crame",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ギラ"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts de sort de lumière à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -670,20 +670,20 @@
     "id": 30,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Sizzle",
       "ES": "",
       "FR": "Supercrame",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ベギラマ"
     },
-    "mp_cost": 11,
+    "mp_cost": "11",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de sort de lumière à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -693,20 +693,20 @@
     "id": 31,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kasizz",
       "ES": "",
       "FR": "Mégacrame",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ベギラゴン"
     },
-    "mp_cost": 22,
+    "mp_cost": "22",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'importants dégâts de sort de lumière à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -716,20 +716,20 @@
     "id": 32,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kasizzle",
       "ES": "",
       "FR": "Gigacrame",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ギラグレイド"
     },
-    "mp_cost": 54,
+    "mp_cost": "54",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de sort de lumière à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -739,20 +739,20 @@
     "id": 33,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Zam",
       "ES": "",
       "FR": "Élec",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ドルマ"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts de sort de ténèbres à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -762,20 +762,20 @@
     "id": 34,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Zammle",
       "ES": "",
       "FR": "Superélec",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ドルクマ"
     },
-    "mp_cost": 6,
+    "mp_cost": "6",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de sort de ténèbres à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -785,20 +785,20 @@
     "id": 35,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kazam",
       "ES": "",
       "FR": "Mégaélec",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ドルモーア"
     },
-    "mp_cost": 10,
+    "mp_cost": "10",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'importants dégâts de sort de ténèbres à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -808,20 +808,20 @@
     "id": 36,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kazammle",
       "ES": "",
       "FR": "Gigaélec",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ドルマドン"
     },
-    "mp_cost": 30,
+    "mp_cost": "30",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de sort de ténèbres à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -831,20 +831,20 @@
     "id": 37,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Pearly Gates",
       "ES": "",
       "FR": "Porte de nacre",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "グランドクロス"
     },
-    "mp_cost": 60,
+    "mp_cost": "60",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de lumière à tous les ennemis. Particulièrement efficace contre les monstres de la famille des morts-vivants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -854,20 +854,20 @@
     "id": 38,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Magic Pop",
       "ES": "",
       "FR": "Détonation magique",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "マダンチョ"
     },
-    "mp_cost": 0,
+    "mp_cost": "25%",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Utilise un quart des PM restants pour infliger des dégâts de lumière à un ennemi, dans une version plus faible d'un sort extrême. Plus le monstre dispose de PM au moment du lancer, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -877,20 +877,20 @@
     "id": 39,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Magic Burst",
       "ES": "",
       "FR": "Explosion magique",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "マダンテ"
     },
-    "mp_cost": 1,
+    "mp_cost": "100%",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Utilise tous les PM restants pour infliger des dégâts de lumière extrêmes à tous les ennemis. Plus le monstre dispose de PM au moment du lancer, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -900,20 +900,20 @@
     "id": 40,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Heal",
       "ES": "",
       "FR": "Premiers secours",
-      "DE": "",
       "IT": "",
       "JA": "ホイミ"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "an_ally",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Redonne au moins 28 PV à un allié.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -923,20 +923,20 @@
     "id": 41,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Midheal",
       "ES": "",
       "FR": "Soins partiels",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ベホイミ"
     },
-    "mp_cost": 8,
+    "mp_cost": "8",
     "target": "an_ally",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Redonne au moins 76 PV à un allié.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -946,20 +946,20 @@
     "id": 42,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Moreheal",
       "ES": "",
       "FR": "Soins avancés",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ベホイム"
     },
-    "mp_cost": 40,
+    "mp_cost": "40",
     "target": "an_ally",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Redonne au moins 285 PV à un allié.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -969,20 +969,20 @@
     "id": 43,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Multiheal",
       "ES": "",
       "FR": "Multisoin",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ベホマラー"
     },
-    "mp_cost": 26,
+    "mp_cost": "26",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Redonne au moins 76 PV à tous les alliés.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -992,20 +992,20 @@
     "id": 44,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Omniheal",
       "ES": "",
       "FR": "Omnisoin",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ベホマズン"
     },
-    "mp_cost": 80,
+    "mp_cost": "80",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Redonne au moins 237 PV à tous les alliés.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1015,20 +1015,20 @@
     "id": 45,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Zing",
       "ES": "",
       "FR": "Rappel",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ザオラル"
     },
-    "mp_cost": 8,
+    "mp_cost": "8",
     "target": "an_ally",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Ressuscite un allié tombé au combat, sans garantie de réussite.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1038,20 +1038,20 @@
     "id": 46,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Kazing",
       "ES": "",
       "FR": "Résurrection",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ザオリク"
     },
-    "mp_cost": 80,
+    "mp_cost": "80",
     "target": "an_ally",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Ressuscite à coup sûr un allié tombé au combat.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1061,20 +1061,19 @@
     "id": 47,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Kerplunk",
       "ES": "",
       "FR": "Conjuration",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "メガザル"
     },
     "mp_cost": "Tout (Min. : 100 PM)",
-    "target": "all_allies_and_reserves",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Soigne ou ressuscite tous les alliés, y compris ceux en réserve, mais coûte la vie à son utilisateur. Ce dernier ne peut pas être ressuscité lors de ce combat.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1084,20 +1083,20 @@
     "id": 48,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Squelch",
       "ES": "",
       "FR": "Désaltération",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "キアリー"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Soigne l'empoisonnement et l'empoisonnement sévère chez tous les alliés.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1107,20 +1106,20 @@
     "id": 49,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Tingle",
       "ES": "",
       "FR": "Stimulation",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "キアリク"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Soigne la paralysie chez tous les alliés.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1130,20 +1129,20 @@
     "id": 50,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Defuddle",
       "ES": "",
       "FR": "Déconfuz",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "キアラル"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Soigne la confusion chez tous les alliés.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1153,20 +1152,20 @@
     "id": 51,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Cock-a-Doodle-Doo",
       "ES": "",
       "FR": "Cocorico",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ザメハ"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Soigne le sommeil chez tous les alliés.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1176,20 +1175,20 @@
     "id": 52,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Oomph",
       "ES": "",
       "FR": "Décuplo",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "バイキルト"
     },
-    "mp_cost": 6,
+    "mp_cost": "6",
     "target": "an_ally",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Augmente beaucoup l'attaque d'un allié pendant 2 à 5 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1199,20 +1198,20 @@
     "id": 53,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Oomphle",
       "ES": "",
       "FR": "Superdécuplo",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "バイシオン"
     },
-    "mp_cost": 10,
+    "mp_cost": "10",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Augmente l'attaque de tous les alliés pendant 2 à 5 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1222,20 +1221,20 @@
     "id": 54,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Blunt",
       "ES": "",
       "FR": "Ramollo",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ヘナトス"
     },
-    "mp_cost": 6,
+    "mp_cost": "6",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Réduit beaucoup l'attaque d'un ennemi pendant 2 à 5 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1245,20 +1244,20 @@
     "id": 55,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Kablunt",
       "ES": "",
       "FR": "Mégaramollo",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ヘナトール"
     },
-    "mp_cost": 10,
+    "mp_cost": "10",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Réduit l'attaque de tous les ennemis pendant 2 à 5 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1268,20 +1267,20 @@
     "id": 56,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Buff",
       "ES": "",
       "FR": "Protection",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "スカラ"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "an_ally",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Augmente beaucoup la défense d'un allié pendant 4 à 7 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1291,20 +1290,20 @@
     "id": 57,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Kabuff",
       "ES": "",
       "FR": "Mégaprotection",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "スクルト"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Augmente la défense de tous les alliés pendant 4 à 7 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1314,20 +1313,20 @@
     "id": 58,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Sap",
       "ES": "",
       "FR": "Altération",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ルカニ"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Réduit beaucoup la défense d'un ennemi pendant 4 à 7 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1337,20 +1336,20 @@
     "id": 59,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Kasap",
       "ES": "",
       "FR": "Mégaltération",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ルカナン"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Réduit la défense de tous les ennemis pendant 4 à 7 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1360,20 +1359,20 @@
     "id": 60,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Accelerate",
       "ES": "",
       "FR": "Accéléro",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ピオラ"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "an_ally",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Augmente beaucoup l'agilité d'un allié pendant 4 à 7 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1383,20 +1382,20 @@
     "id": 61,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Acceleratle",
       "ES": "",
       "FR": "Superaccéléro",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ピオリム"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Augmente l'agilité de tous les alliés pendant 4 à 7 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1406,20 +1405,20 @@
     "id": 62,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Decelerate",
       "ES": "",
       "FR": "Décéléro",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ボミエ"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Réduit beaucoup l'agilité d'un ennemi pendant 4 à 7 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1429,20 +1428,20 @@
     "id": 63,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Deceleratle",
       "ES": "",
       "FR": "Superdécéléro",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ボミオス"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Réduit l'agilité de tous les ennemis pendant 4 à 7 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1452,20 +1451,20 @@
     "id": 64,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Ping",
       "ES": "",
       "FR": "Tilt",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "インテ"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "an_ally",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Augmente beaucoup la sagesse d'un allié pendant 4 à 7 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1475,20 +1474,20 @@
     "id": 65,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Kaping",
       "ES": "",
       "FR": "Supertilt",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "インテラ"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Augmente la sagesse de tous les alliés pendant 4 à 7 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1498,20 +1497,20 @@
     "id": 66,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Dim",
       "ES": "",
       "FR": "Simplet",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "フール"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Réduit beaucoup la sagesse d'un ennemi pendant 4 à 7 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1521,20 +1520,20 @@
     "id": 67,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Kadim",
       "ES": "",
       "FR": "Supersimplet",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "マフール"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Réduit la sagesse de tous les ennemis pendant 4 à 7 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1544,20 +1543,20 @@
     "id": 68,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Insulate",
       "ES": "",
       "FR": "Isolation",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "バーハ"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_ally",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Réduit beaucoup les dégâts découlant d'attaques de souffle qu'un allié peut subir pendant 4 à 7 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1567,20 +1566,20 @@
     "id": 69,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Insulatle",
       "ES": "",
       "FR": "Superisolation",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "フバーハ"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Réduit les dégâts découlant d'attaques de souffle que tous les alliés peuvent subir pendant 4 à 7 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1590,20 +1589,20 @@
     "id": 70,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Dazzle",
       "ES": "",
       "FR": "Illusion",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "マヌーサ"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Éblouit tous les ennemis pendant 2 à 5 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1613,20 +1612,20 @@
     "id": 71,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Fizzle",
       "ES": "",
       "FR": "Antimagie",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "マホトーン"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Empêche tous les ennemis de lancer des sorts pendant 4 à 7 tours. Plus la sagesse de celui qui lance le sort est élevé, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1636,20 +1635,20 @@
     "id": 72,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Bounce",
       "ES": "",
       "FR": "Réflexion",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "マホカンタ"
     },
-    "mp_cost": 32,
+    "mp_cost": "32",
     "target": "user",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Renvoie la plupart des sorts à leur lanceur pendant 4 à 7 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1659,20 +1658,20 @@
     "id": 73,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Drain Magic",
       "ES": "",
       "FR": "Aspirmagie",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "マホトラ"
     },
-    "mp_cost": 0,
+    "mp_cost": "0",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Absorbe des PM à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1682,20 +1681,20 @@
     "id": 74,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Giga Drain Magic",
       "ES": "",
       "FR": "Gigaspirmagie",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ギガ・マホトラ"
     },
-    "mp_cost": 1,
+    "mp_cost": "1",
     "target": "multiple_random_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Absorbe des PM à des ennemis au hasard, 4 fois en tout.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1705,20 +1704,20 @@
     "id": 75,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Fuddle",
       "ES": "",
       "FR": "Confusion",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "メダパニ"
     },
-    "mp_cost": 5,
+    "mp_cost": "5",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Désoriente un ennemi pendant 2 à 5 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1728,20 +1727,20 @@
     "id": 76,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Kafuddle",
       "ES": "",
       "FR": "Mégaconfusion",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "メダパーニャ"
     },
-    "mp_cost": 10,
+    "mp_cost": "10",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Désoriente tous les ennemis pendant 2 à 5 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1751,20 +1750,20 @@
     "id": 77,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Snooze",
       "ES": "",
       "FR": "Torpeur",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ラリホー"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Endort un ennemi pendant 2 à 5 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1774,20 +1773,20 @@
     "id": 78,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Kasnooze",
       "ES": "",
       "FR": "Torpeur ciblée",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ラリホーマ"
     },
-    "mp_cost": 8,
+    "mp_cost": "8",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Endort tous les ennemis pendant 2 à 5 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1797,20 +1796,20 @@
     "id": 79,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Numb",
       "ES": "",
       "FR": "Roideur",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "シビー"
     },
-    "mp_cost": 8,
+    "mp_cost": "8",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Paralyse un ennemi pendant 2 à 5 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1820,20 +1819,20 @@
     "id": 80,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Kanumb",
       "ES": "",
       "FR": "Mégaroideur",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "シビリーニョ"
     },
-    "mp_cost": 15,
+    "mp_cost": "15",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Paralyse tous les ennemis pendant 2 à 5 tours. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1843,20 +1842,20 @@
     "id": 81,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Tox",
       "ES": "",
       "FR": "Intoxication",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ヴェレ"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Empoisonne un ennemi. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1866,20 +1865,20 @@
     "id": 82,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Katox",
       "ES": "",
       "FR": "Méga-intoxication",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ヴェレーノ"
     },
-    "mp_cost": 8,
+    "mp_cost": "8",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Empoisonne tous les ennemis. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1889,20 +1888,20 @@
     "id": 83,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Katoxle",
       "ES": "",
       "FR": "Giga-intoxication",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ヴェレノーマ"
     },
-    "mp_cost": 15,
+    "mp_cost": "15",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Empoisonne gravement tous les ennemis. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1912,20 +1911,20 @@
     "id": 84,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Whack",
       "ES": "",
       "FR": "Kill",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ザキ"
     },
-    "mp_cost": 9,
+    "mp_cost": "9",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Tue un ennemi sur le coup. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1935,20 +1934,20 @@
     "id": 85,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Thwack",
       "ES": "",
       "FR": "Superkill",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ザラキ"
     },
-    "mp_cost": 12,
+    "mp_cost": "12",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Tue tous les ennemis sur le coup. Plus la sagesse de celui qui lance le sort est élevée, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1958,20 +1957,20 @@
     "id": 86,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Kamikazee",
       "ES": "",
       "FR": "Kamikaze",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "メガンテ"
     },
-    "mp_cost": 1,
+    "mp_cost": "1",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Tue tous les ennemis, mais coûte la vie à son utilisateur. Ce dernier ne peut pas être ressuscité lors du combat. Plus les PM de celui qui lance le sort sont élevés, plus ce sort a de chances de réussir.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -1981,20 +1980,20 @@
     "id": 87,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Flame Slash",
       "ES": "",
       "FR": "Lame de feu",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "かえん斬り"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts cinglants de feu à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2004,20 +2003,20 @@
     "id": 88,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Gust Slash",
       "ES": "",
       "FR": "Lame de vent",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "しんくう斬り"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts cinglants de vent à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2027,20 +2026,20 @@
     "id": 89,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Kacrackle Slash",
       "ES": "",
       "FR": "Entaille gigaglace",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "マヒャド斬り"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts cinglants de glace à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2050,20 +2049,20 @@
     "id": 90,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Lightning Slash",
       "ES": "",
       "FR": "Lame d'éclair",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "いなずま斬り"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts cinglants de foudre à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2073,20 +2072,20 @@
     "id": 91,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Flamesplitter",
       "ES": "",
       "FR": "Brise-flammes",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "灼熱斬"
     },
-    "mp_cost": 15,
+    "mp_cost": "15",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts cinglants de feu à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2096,20 +2095,20 @@
     "id": 92,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Skysplitter",
       "ES": "",
       "FR": "Brise-cieux",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "空裂斬"
     },
-    "mp_cost": 15,
+    "mp_cost": "15",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts cinglants de vent à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2119,20 +2118,20 @@
     "id": 93,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Earthsplitter",
       "ES": "",
       "FR": "Brise-terre",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "大地斬"
     },
-    "mp_cost": 15,
+    "mp_cost": "15",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts cinglants de terre à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2142,20 +2141,20 @@
     "id": 94,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Brightsplitter",
       "ES": "",
       "FR": "Brise-lumière",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "閃光斬"
     },
-    "mp_cost": 15,
+    "mp_cost": "15",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts cinglants de lumière à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2165,20 +2164,20 @@
     "id": 95,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Blightsplitter",
       "ES": "",
       "FR": "Brise-ombre",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "暗黒斬"
     },
-    "mp_cost": 15,
+    "mp_cost": "15",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts cinglants de ténèbres à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2188,20 +2187,20 @@
     "id": 96,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Gigaslash",
       "ES": "",
       "FR": "Gigentaille",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ギガスラッシュ"
     },
-    "mp_cost": 20,
+    "mp_cost": "20",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de monstrueux dégâts de foudre à un ennemi. Plus le niveau de l'utilisateur est élevé, plus les dégâts infligés seront importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2211,20 +2210,20 @@
     "id": 97,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Gigagash",
       "ES": "",
       "FR": "Gigagash",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ギガブレイク"
     },
-    "mp_cost": 56,
+    "mp_cost": "56",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de monstrueux dégâts de foudre à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts infligés seront importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2234,20 +2233,20 @@
     "id": 98,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Gigacross",
       "ES": "",
       "FR": "Gigacroix",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ギガクロスブレイク"
     },
-    "mp_cost": 80,
+    "mp_cost": "80",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de foudre 2 fois de suite à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts infligés seront importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2257,20 +2256,20 @@
     "id": 99,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Shadow Blast",
       "ES": "",
       "FR": "Rupture obscure",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ダークブレイク"
     },
-    "mp_cost": 80,
+    "mp_cost": "80",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de ténèbres 2 fois de suite à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts infligés seront importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2280,20 +2279,20 @@
     "id": 100,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Slime Squisher",
       "ES": "",
       "FR": "Slurpvérisation",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "スライムたたき"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de gros dégâts d'impact aux monstres de la famille des gluants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2303,20 +2302,20 @@
     "id": 101,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Dragon Slash",
       "ES": "",
       "FR": "Lame du dragon",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ドラゴン斬り"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de gros dégâts cinglants aux monstres de la famille des dragons.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2326,20 +2325,20 @@
     "id": 102,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Nature Nerfer",
       "ES": "",
       "FR": "Terminature",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "しぜん斬り"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de gros dégâts cinglants aux monstres de la famille des naturels.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2349,20 +2348,20 @@
     "id": 103,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Beast Tamer",
       "ES": "",
       "FR": "Joug contre joug",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "けもの斬り"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de gros dégâts cinglants aux monstres de la famille des bêtes.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2372,20 +2371,20 @@
     "id": 104,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Matter Scatterer",
       "ES": "",
       "FR": "Atomisation",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "だいせつだん"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de gros dégâts cinglants aux monstres de la famille des matières.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2395,20 +2394,20 @@
     "id": 105,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Demon Demeaner",
       "ES": "",
       "FR": "Démonlition",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "あくま斬り"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de gros dégâts cinglants aux monstres de la famille des démons.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2418,20 +2417,20 @@
     "id": 106,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Undead Undoer",
       "ES": "",
       "FR": "Morozombie",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ゾンビ斬り"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de gros dégâts cinglants aux monstres de la famille des morts-vivants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2441,20 +2440,20 @@
     "id": 107,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Multifists",
       "ES": "",
       "FR": "Multipoing",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ばくれつけん"
     },
-    "mp_cost": 20,
+    "mp_cost": "20",
     "target": "multiple_random_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Technique de frappe qui inflige des dégâts à des ennemis au hasard, pour un total de 4 fois.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2464,20 +2463,20 @@
     "id": 108,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Shining Shot",
       "ES": "",
       "FR": "Tir de lumière",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "シャイニングボウ"
     },
-    "mp_cost": 100,
+    "mp_cost": "100",
     "target": "multiple_random_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de lumière à des ennemis au hasard, pour un total de 4 à 12 fois.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2487,20 +2486,20 @@
     "id": 109,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Multislash",
       "ES": "",
       "FR": "Multi-lame",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "さみだれ斬り"
     },
-    "mp_cost": 5,
+    "mp_cost": "5",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts cinglants à tous les ennemis. Les ennemis à l'extrémité droite du champ de bataille subissent moins de dégâts.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2510,20 +2509,20 @@
     "id": 110,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Mercurial Thrust",
       "ES": "",
       "FR": "Coup d'Hermès",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "しっぷうづき"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Coup de poing qui inflige très peu de dégâts, mais permet à l'utilisateur d'attaquer avant tout le monde.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2533,20 +2532,20 @@
     "id": 111,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Anchorman",
       "ES": "",
       "FR": "Mutancre",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "アンカーナックル"
     },
-    "mp_cost": 15,
+    "mp_cost": "15",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Agit après tout le monde pour infliger des dégâts d'impact extrêmes à l'ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2556,20 +2555,20 @@
     "id": 112,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Knuckle Sandwich",
       "ES": "",
       "FR": "Casse-dentier",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "せいけんづき"
     },
-    "mp_cost": 20,
+    "mp_cost": "20",
     "target": "an_enemy_next_turn",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Concentre toutes ses forces pour infliger de gros dégâts à un ennemi au tour suivant, passant outre les caractéristiques de ce dernier en défense.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2579,20 +2578,20 @@
     "id": 113,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Roundhouse Kick",
       "ES": "",
       "FR": "Coup de pied circulaire",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "まわしげり"
     },
-    "mp_cost": 8,
+    "mp_cost": "8",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Coup de pied qui inflige des dégâts à tous les ennemis, sans tenir compte de leur défense. Les ennemis à l'extrémité droite du champ de bataille subissent moins de dégâts.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2602,20 +2601,20 @@
     "id": 114,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Hatchet Man",
       "ES": "",
       "FR": "Coupe claire",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "まじん斬り"
     },
-    "mp_cost": 8,
+    "mp_cost": "8",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts cinglants à un ennemi. L'attaque risque vraiment d'échouer, mais ses chances d'asséner un coup critique augmentent si elle porte.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2625,20 +2624,20 @@
     "id": 115,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Frenzy",
       "ES": "",
       "FR": "Frénésie",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "みなごろし"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "a_random_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Technique risquée qui inflige un coup critique à un ennemi au hasard.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2648,20 +2647,20 @@
     "id": 116,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Miracle Slash",
       "ES": "",
       "FR": "Coup miraculeux",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ミラクルソード"
     },
-    "mp_cost": 10,
+    "mp_cost": "10",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts cinglants à un ennemi. L'utilisateur récupère environ la moitié des dégâts infligés sous forme de PV. Peut rendre un maximum de 200 PV.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2671,20 +2670,20 @@
     "id": 117,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Attack Attacker",
       "ES": "",
       "FR": "Attaque-attaque",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "やいばくだき"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts à un ennemi et réduit parfois son attaque pendant 2 à 5 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2694,20 +2693,20 @@
     "id": 118,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Helm Splitter",
       "ES": "",
       "FR": "Brise-casque",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "かぶとわり"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts à un ennemi et réduit parfois sa défense pendant 4 à 7 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2717,20 +2716,20 @@
     "id": 119,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Confusion Attack",
       "ES": "",
       "FR": "Attaque confusion",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "こんらんこうげき"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts à un ennemi et le désoriente parfois pendant 2 à 5 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2740,20 +2739,20 @@
     "id": 120,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Sleep Attack",
       "ES": "",
       "FR": "Attaque sommeil",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ねむりこうげき"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts à un ennemi et l'endort parfois pendant 2 à 5 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2763,20 +2762,20 @@
     "id": 121,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Paralysing Punch",
       "ES": "",
       "FR": "Frappe paralysante",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "マヒこうげき"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts à un ennemi et le paralyse parfois pendant 2 à 5 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2786,20 +2785,20 @@
     "id": 122,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Parallax",
       "ES": "",
       "FR": "Paralhache",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "蒼天魔斬"
     },
-    "mp_cost": 20,
+    "mp_cost": "20",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts cinglants à un ennemi et le paralyse parfois pendant 2 à 5 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2809,20 +2808,20 @@
     "id": 123,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Heart Breaker",
       "ES": "",
       "FR": "Crève-cœur",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ハートブレイク"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts cinglants à un ennemi et l'étourdit pendant 1 tour.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2832,20 +2831,20 @@
     "id": 124,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Poison Attack",
       "ES": "",
       "FR": "Attaque poison",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "どくこうげき"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts à un ennemi et l'empoisonne parfois.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2855,43 +2854,43 @@
     "id": 125,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Assassin's Stab",
       "ES": "",
       "FR": "Coup de l'assassin",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "アサシンアタック"
     },
-    "mp_cost": 8,
+    "mp_cost": "8",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts à un ennemi et provoque parfois sa mort instantanée.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
-    "slug": "assassin's_stab"
+    "slug": "assassins_stab"
   },
   {
     "id": 126,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Victimiser",
       "ES": "",
       "FR": "Coupe franche",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "タナトスハント"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts à un ennemi. Particulièrement efficace contre les ennemis empoisonnés, sévèrement empoisonnés ou paralysés.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2901,20 +2900,20 @@
     "id": 127,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Multi-Victimiser",
       "ES": "",
       "FR": "Multicoupe franche",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "タナトスムーチョ"
     },
-    "mp_cost": 26,
+    "mp_cost": "26",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts à tous les ennemis. Particulièrement efficace contre les ennemis empoisonnés, sévèrement empoisonnés ou paralysés.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2924,20 +2923,20 @@
     "id": 128,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Persecutter",
       "ES": "",
       "FR": "Persécutter",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ヒュプノスハント"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts à un ennemi. Particulièrement efficace contre les ennemis endormis ou désorientés.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2947,20 +2946,20 @@
     "id": 129,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Multi-Persecutter",
       "ES": "",
       "FR": "Multipersécutter",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ヒュプノスムーチョ"
     },
-    "mp_cost": 26,
+    "mp_cost": "26",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts à tous les ennemis. Particulièrement efficace contre les ennemis endormis ou désorientés.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2970,20 +2969,20 @@
     "id": 130,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Magma Blast",
       "ES": "",
       "FR": "Jet de magma",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "マグマ"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de feu à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -2993,20 +2992,20 @@
     "id": 131,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Tidal Wave",
       "ES": "",
       "FR": "Raz-de-marée",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "つなみ"
     },
-    "mp_cost": 52,
+    "mp_cost": "52",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de monstrueux dégâts d'eau à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3016,20 +3015,20 @@
     "id": 132,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Wind Sickles",
       "ES": "",
       "FR": "Vent coupant",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "かまいたち"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts de vent à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3039,20 +3038,20 @@
     "id": 133,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Thin Air",
       "ES": "",
       "FR": "Trou d'air",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "しんくうは"
     },
-    "mp_cost": 12,
+    "mp_cost": "12",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de vent à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3062,43 +3061,43 @@
     "id": 134,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Stone's Throw",
       "ES": "",
       "FR": "Jet de pierres",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "いわなげ"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts de terre à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
-    "slug": "stone's_throw"
+    "slug": "stones_throw"
   },
   {
     "id": 135,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Stomp",
       "ES": "",
       "FR": "Poids lourd",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "じひびき"
     },
-    "mp_cost": 12,
+    "mp_cost": "12",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de terre à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3108,20 +3107,20 @@
     "id": 136,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Boulder Toss",
       "ES": "",
       "FR": "Rock 'n' Roll",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "がんせきおとし"
     },
-    "mp_cost": 36,
+    "mp_cost": "36",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de terre à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3131,20 +3130,20 @@
     "id": 137,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Big Banga",
       "ES": "",
       "FR": "Mégabanga",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ビッグバン"
     },
-    "mp_cost": 52,
+    "mp_cost": "52",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de monstrueux dégâts d'explosion à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3154,20 +3153,20 @@
     "id": 138,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Lightning",
       "ES": "",
       "FR": "Éclair",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "いなずま"
     },
-    "mp_cost": 12,
+    "mp_cost": "12",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de foudre à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3177,20 +3176,20 @@
     "id": 139,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Lightning Storm",
       "ES": "",
       "FR": "Orage d'éclairs",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ジゴスパーク"
     },
-    "mp_cost": 52,
+    "mp_cost": "52",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de monstrueux dégâts de foudre à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts infligés seront importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3200,20 +3199,20 @@
     "id": 140,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Starfall",
       "ES": "",
       "FR": "Désastre",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "流星"
     },
-    "mp_cost": 12,
+    "mp_cost": "12",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de lumière à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3223,20 +3222,20 @@
     "id": 141,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Bad Hand",
       "ES": "",
       "FR": "Mauvaise main",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "アビスハンド"
     },
-    "mp_cost": 52,
+    "mp_cost": "52",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de monstrueux dégâts de ténèbres à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3246,20 +3245,20 @@
     "id": 142,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Withering Look",
       "ES": "",
       "FR": "Regard inquisiteur",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "はかいのひとみ"
     },
-    "mp_cost": 36,
+    "mp_cost": "36",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3269,20 +3268,20 @@
     "id": 143,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Hellish Howl",
       "ES": "",
       "FR": "Hurlulement",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "おぞましいおたけび"
     },
-    "mp_cost": 12,
+    "mp_cost": "12",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Laisse s'échapper un cri à glacer le sang qui inflige des dégâts à tous les ennemis et les étourdit parfois pendant 1 tour.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3292,20 +3291,20 @@
     "id": 144,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Power Surge",
       "ES": "",
       "FR": "Pic de tension",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "シルバースパーク"
     },
-    "mp_cost": 52,
+    "mp_cost": "52",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de monstrueux dégâts de foudre à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3315,20 +3314,20 @@
     "id": 145,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Hold Fire",
       "ES": "",
       "FR": "Feu sacrificiel",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "終末の炎"
     },
-    "mp_cost": 52,
+    "mp_cost": "52",
     "target": "all_enemies_next_turn",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Concentre toute la puissance pour infliger de monstrueux dégâts de feu à tous les ennemis lors de l'action suivante. Les étourdit parfois pendant 1 tour.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3338,20 +3337,20 @@
     "id": 146,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Meditation",
       "ES": "",
       "FR": "Méditation",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "めいそう"
     },
-    "mp_cost": 35,
+    "mp_cost": "35",
     "target": "user",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Redonne au moins 300 PV à l'utilisateur.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3361,20 +3360,20 @@
     "id": 147,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Right as Rain",
       "ES": "",
       "FR": "Pluie bénéfique",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "いやしの雨"
     },
-    "mp_cost": 40,
+    "mp_cost": "40",
     "target": "all_allies_next_turn",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Accomplit un rituel de la pluie qui invoque une ondée curative au coup suivant. Redonne une quantité variable de PV à tous les alliés.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3384,20 +3383,20 @@
     "id": 148,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Disruptive Wave",
       "ES": "",
       "FR": "Perturbonde",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "いてつくはどう"
     },
-    "mp_cost": 60,
+    "mp_cost": "60",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Supprime la plupart des effets bénéfiques à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3407,20 +3406,20 @@
     "id": 149,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Wave of Relief",
       "ES": "",
       "FR": "Vague de soulagement",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ひかりのはどう"
     },
-    "mp_cost": 60,
+    "mp_cost": "60",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Guérit tous les alliés des altérations d'état qui les frappent.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3430,20 +3429,20 @@
     "id": 150,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Wave of Panic",
       "ES": "",
       "FR": "Vague de panique",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "やみのはどう"
     },
-    "mp_cost": 60,
+    "mp_cost": "60",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Affaiblit tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3453,20 +3452,20 @@
     "id": 151,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Sandstorm",
       "ES": "",
       "FR": "Tempête de sable",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "すなけむり"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Soulève un épais nuage de poussière qui réduit la précision des attaques ennemies de 2 à 5 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3476,20 +3475,20 @@
     "id": 152,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Dazzleflash",
       "ES": "",
       "FR": "Attaque éblouissante",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "まぶしい光"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Émet une lumière éblouissante qui réduit la précision des attaques ennemies de 2 à 5 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3499,20 +3498,20 @@
     "id": 153,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Gobstopper",
       "ES": "",
       "FR": "Hygiaphone",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "くちをふさぐ"
     },
-    "mp_cost": 6,
+    "mp_cost": "6",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Empêche un ennemi d'ouvrir la bouche et d'utiliser des attaques de souffle pendant 4 à 7 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3522,20 +3521,20 @@
     "id": 154,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Critical Meltdown",
       "ES": "",
       "FR": "Critique malvenue",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "会心封じ"
     },
-    "mp_cost": 6,
+    "mp_cost": "6",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Empêche un ennemi d'asséner des coups critiques pendant 4 à 7 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3545,20 +3544,20 @@
     "id": 155,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Brake Wind",
       "ES": "",
       "FR": "Vent contraire",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ぎゃくふう"
     },
-    "mp_cost": 10,
+    "mp_cost": "10",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Renvoie les attaques de souffle à l'ennemi. Protège tous les alliés une seule fois.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3568,20 +3567,20 @@
     "id": 156,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Mist Me",
       "ES": "",
       "FR": "Brume de bataille",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "まもりの霧"
     },
-    "mp_cost": 10,
+    "mp_cost": "10",
     "target": "user",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Annule tous les dégâts une fois seulement. Ne fonctionne pas sur certaines attaques.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3591,20 +3590,20 @@
     "id": 157,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "War Cry",
       "ES": "",
       "FR": "Cri de guerre",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "おたけび"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Cri assourdissant qui étourdit tous les ennemis pendant 1 tour.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3614,20 +3613,20 @@
     "id": 158,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Tongue Lashing",
       "ES": "",
       "FR": "Léchouille",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "なめまわし"
     },
-    "mp_cost": 1,
+    "mp_cost": "1",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Recouvre un ennemi d'une couche de salive gluante, l'étourdissant et réduisant sa défense.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3637,20 +3636,20 @@
     "id": 159,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Tongue Bashing",
       "ES": "",
       "FR": "Coup de langue",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ひゃくれつなめ"
     },
-    "mp_cost": 8,
+    "mp_cost": "8",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Recouvre sans pitié un ennemi d'une couche de salive gluante, l'étourdissant et réduisant sa défense à 1 point.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3660,20 +3659,20 @@
     "id": 160,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Seethe",
       "ES": "",
       "FR": "Bouffée de chaleur",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "たぎる"
     },
-    "mp_cost": 10,
+    "mp_cost": "10",
     "target": "user",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Confine sa rage pour augmenter les dégâts infligés à l'attaque suivante. De plus, l'ennemi a plus de mal à esquiver les attaques de l'utilisateur.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3683,20 +3682,20 @@
     "id": 161,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Dodgy Dance",
       "ES": "",
       "FR": "Danse d'esquive",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "みかわしきゃく"
     },
-    "mp_cost": 1,
+    "mp_cost": "1",
     "target": "user",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Augmente l'esquive de l'utilisateur pendant 4 à 7 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3706,20 +3705,20 @@
     "id": 162,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Selflessness",
       "ES": "",
       "FR": "Altruisme",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "みがわり"
     },
-    "mp_cost": 5,
+    "mp_cost": "5",
     "target": "user",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Encaisse toutes les attaques à la place des alliés pendant 1 round, mais subit des dégâts plus importants en conséquence.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3729,20 +3728,20 @@
     "id": 163,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Fire Breath",
       "ES": "",
       "FR": "Souffle de feu",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "火の息"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts de souffle de feu à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3752,20 +3751,20 @@
     "id": 164,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Flame Breath",
       "ES": "",
       "FR": "Cracheflamme",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "火炎の息"
     },
-    "mp_cost": 6,
+    "mp_cost": "6",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de souffle de feu à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3775,20 +3774,20 @@
     "id": 165,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Inferno",
       "ES": "",
       "FR": "Inferno",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "はげしい炎"
     },
-    "mp_cost": 15,
+    "mp_cost": "15",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'importants dégâts de souffle de feu à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3798,20 +3797,20 @@
     "id": 166,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Scorch",
       "ES": "",
       "FR": "Brûlure",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "しゃくねつ"
     },
-    "mp_cost": 30,
+    "mp_cost": "30",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de souffle de feu à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3821,20 +3820,20 @@
     "id": 167,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Hellitosis",
       "ES": "",
       "FR": "Soupir pyrique",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "煉獄火炎"
     },
-    "mp_cost": 64,
+    "mp_cost": "64",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de monstrueux dégâts de souffle de feu à tous les ennemis et les étourdit parfois pendant 1 tour.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3844,20 +3843,20 @@
     "id": 168,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Cool Breath",
       "ES": "",
       "FR": "Souffle frais",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "つめたい息"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de légers dégâts de souffle de glace à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3867,20 +3866,20 @@
     "id": 169,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Chilly Breath",
       "ES": "",
       "FR": "Souffle froid",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "こおりの息"
     },
-    "mp_cost": 6,
+    "mp_cost": "6",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige des dégâts de souffle de glace à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3890,20 +3889,20 @@
     "id": 170,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Freezing Blizzard",
       "ES": "",
       "FR": "Souffle de givre",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "こごえる吹雪"
     },
-    "mp_cost": 15,
+    "mp_cost": "15",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'importants dégâts de souffle de glace à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3913,20 +3912,20 @@
     "id": 171,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "C-C-Cold Breath",
       "ES": "",
       "FR": "Souffle gla-glacial",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "かがやく息"
     },
-    "mp_cost": 30,
+    "mp_cost": "30",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'impressionnants dégâts de souffle de glace à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3936,20 +3935,20 @@
     "id": 172,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Ice Age",
       "ES": "",
       "FR": "Âge de glace",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "絶対零度"
     },
-    "mp_cost": 64,
+    "mp_cost": "64",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de monstrueux dégâts de souffle de glace à tous les ennemis et les étourdit parfois pendant 1 tour.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3959,20 +3958,20 @@
     "id": 173,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Sandy Sigh",
       "ES": "",
       "FR": "Souffle karstique",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "サンドブレス"
     },
-    "mp_cost": 22,
+    "mp_cost": "22",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Soulève un nuage de poussière qui inflige d'importants dégâts de souffle de terre à tous les ennemis et réduit parfois la précision de ceux-ci pendant 2 à 5 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -3982,20 +3981,20 @@
     "id": 174,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Blessed Breath",
       "ES": "",
       "FR": "Souffle béni",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ひかりの息"
     },
-    "mp_cost": 22,
+    "mp_cost": "22",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'importants dégâts de souffle de lumière à tous les ennemis et les désoriente parfois pendant 2 à 5 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4005,20 +4004,20 @@
     "id": 175,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Black Breath",
       "ES": "",
       "FR": "Noir soupir",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "やみの息"
     },
-    "mp_cost": 22,
+    "mp_cost": "22",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige d'importants dégâts de souffle de ténèbres à tous les ennemis et les empêche parfois de lancer des sorts pendant 4 à 7 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4028,20 +4027,20 @@
     "id": 176,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Grim Breath",
       "ES": "",
       "FR": "Souffle sinistre",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "黒くかがやく炎"
     },
-    "mp_cost": 80,
+    "mp_cost": "80",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Inflige de monstrueux dégâts de souffle de ténèbres à tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4051,20 +4050,20 @@
     "id": 177,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Deep Breath",
       "ES": "",
       "FR": "Grande inspiration",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "息をすいこむ"
     },
-    "mp_cost": 0,
+    "mp_cost": "0",
     "target": "user",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Prend une très longue et très profonde inspiration qui augmente les dégâts infligés par l'attaque de souffle suivante de l'utilisateur.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4074,20 +4073,20 @@
     "id": 178,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Sweet Breath",
       "ES": "",
       "FR": "Haleine fraîche",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "あまい息"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Laisse échapper un souffle apaisant qui endort tous les ennemis pendant 2 à 5 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4097,20 +4096,20 @@
     "id": 179,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Burning Breath",
       "ES": "",
       "FR": "Souffle brûlant",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "やけつく息"
     },
-    "mp_cost": 4,
+    "mp_cost": "4",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Laisse échapper un souffle tétanisant qui paralyse tous les ennemis pendant 2 à 5 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4120,20 +4119,20 @@
     "id": 180,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Poison Breath",
       "ES": "",
       "FR": "Haleine empoisonnée",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "どくの息"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Souffle des fumées toxiques qui empoisonnent tous les ennemis.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4143,20 +4142,20 @@
     "id": 181,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Sword Dance",
       "ES": "",
       "FR": "Danse de l'épée",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "つるぎのまい"
     },
-    "mp_cost": 15,
+    "mp_cost": "15",
     "target": "multiple_random_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Danse qui inflige des dégâts à des ennemis au hasard, de 3 à 7 fois en tout.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4166,20 +4165,20 @@
     "id": 182,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Fan Dango",
       "ES": "",
       "FR": "Danse de l'éventail",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "おうぎのまい"
     },
-    "mp_cost": 8,
+    "mp_cost": "8",
     "target": "multiple_random_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Danse qui inflige des dégâts à une cible, puis à des ennemis au hasard, de 3 à 4 fois en tout. Plus l'agilité de l'utilisateur est élevée, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4189,20 +4188,20 @@
     "id": 183,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Butterfly Bop",
       "ES": "",
       "FR": "Danse du papillon",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "アゲハ乱舞"
     },
-    "mp_cost": 15,
+    "mp_cost": "15",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Danse qui invoque du néant d'innombrables papillons pour attaquer tous les ennemis. Plus l'agilité de l'utilisateur est élevée, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4212,20 +4211,20 @@
     "id": 184,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Hotstepper",
       "ES": "",
       "FR": "Tango torride",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "炎のダンス"
     },
-    "mp_cost": 30,
+    "mp_cost": "30",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Danse qui inflige d'impressionnants dégâts de feu à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4235,20 +4234,20 @@
     "id": 185,
     "type": "attacking",
     "name": {
+      "DE": "",
       "EN": "Electric Boogie",
       "ES": "",
       "FR": "Ballet électrisant",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "いなずまダンス"
     },
-    "mp_cost": 30,
+    "mp_cost": "30",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Danse qui inflige d'impressionnants dégâts de foudre à tous les ennemis. Plus le niveau de l'utilisateur est élevé, plus les dégâts sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4258,20 +4257,20 @@
     "id": 186,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Hustle Dance",
       "ES": "",
       "FR": "Danse des soins",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ハッスルダンス"
     },
-    "mp_cost": 40,
+    "mp_cost": "40",
     "target": "multiple_random_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Danse qui soigne tous les alliés au hasard, de 2 à 6 fois en tous. Plus le niveau de l'utilisateur est élevé, plus les soins prodigués sont importants.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4281,20 +4280,19 @@
     "id": 187,
     "type": "healing",
     "name": {
+      "DE": "",
       "EN": "Kerplunk Dance",
       "ES": "",
       "FR": "Danse de conjuration",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "メガザルダンス"
     },
     "mp_cost": "Tout (Min. : 100 PM)",
-    "target": "all_allies_and_reserves",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Danse qui soigne ou ressuscite tous les alliés, y compris les réservistes, mais coûte la vie à son utilisateur. Ce dernier ne peut pas être ressuscité lors du même combat.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4304,20 +4302,20 @@
     "id": 188,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Weird Dance",
       "ES": "",
       "FR": "Drôle de danse",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ふしぎな踊り"
     },
-    "mp_cost": 0,
+    "mp_cost": "0",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Danse qui réduit temporairement les PM d'un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4327,20 +4325,20 @@
     "id": 189,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Tap Dance",
       "ES": "",
       "FR": "Claquettes",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "マホトラ踊り"
     },
-    "mp_cost": 0,
+    "mp_cost": "0",
     "target": "an_enemy",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Danse qui absorbe des PM à un ennemi.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4350,20 +4348,20 @@
     "id": 190,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Fuddle Dance",
       "ES": "",
       "FR": "Danse de confusion",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "メダパニダンス"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Danse qui désoriente tous les ennemis pendant 2 à 5 tours.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4373,20 +4371,20 @@
     "id": 191,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Sultry Dance",
       "ES": "",
       "FR": "Danse sensuelle",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "さそう踊り"
     },
-    "mp_cost": 2,
+    "mp_cost": "2",
     "target": "all_enemies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Danse ensorcelante qui étourdit tous les ennemis pendant 1 tour.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4396,20 +4394,20 @@
     "id": 192,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Death Dance",
       "ES": "",
       "FR": "Danse de la mort",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "死の踊り"
     },
-    "mp_cost": 6,
+    "mp_cost": "6",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Danse qui tue tous les ennemis sur le coup.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4419,20 +4417,20 @@
     "id": 193,
     "type": "support",
     "name": {
+      "DE": "",
       "EN": "Mirror Moves",
       "ES": "",
       "FR": "Contredanse",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "ミラーステップ"
     },
-    "mp_cost": 32,
+    "mp_cost": "32",
     "target": "all_allies",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Technique secrète reproduisant fidèlement les pas de danse d'un ennemi, lui renvoyant sa danse. Protège tous les alliés uniquement une fois.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
@@ -4442,23 +4440,23 @@
     "id": 194,
     "type": "support",
     "name": {
-      "EN": "Intense Defense",
+      "DE": "",
+      "EN": "Intense Defence",
       "ES": "",
       "FR": "Défense intense",
-      "DE": "",
       "IT": "",
-      "JA": ""
+      "JA": "だいぼうぎょ"
     },
-    "mp_cost": 3,
+    "mp_cost": "3",
     "target": "user",
     "description": {
+      "DE": "",
       "EN": "",
       "ES": "",
       "FR": "Prend une posture défensive impénétrable qui réduit la plupart des dégâts subis de 90 %. Utilisable uniquement une fois par combat.",
-      "DE": "",
       "IT": "",
       "JA": ""
     },
-    "slug": "intense_defense"
+    "slug": "intense_defence"
   }
 ]
