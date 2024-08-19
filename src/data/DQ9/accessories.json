@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "id": 0,
+    "icon": "",
+    "artwork": "",
+    "name": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "description": {
+      "EN": "?",
+      "ES": "?",
+      "FR": "?",
+      "DE": "?",
+      "IT": "?",
+      "JA": "?"
+    },
+    "rarity": 0,
+    "stats": {},
+    "price": {
+      "buy": 0,
+      "sell": 0
+    },
+    "buyable_at": [],
+    "found_at" : [],
+    "recipes": [],
+    "slug": "?"
+  }
+]
