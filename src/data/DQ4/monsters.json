@@ -1,6 +1,7 @@
 [
   {
-    "id": 1,
+    "uuid": "db53ab6d-33b8-4989-a313-20ade1734aeb",
+    "book_index": 1,
     "name": {
       "DE": "Schleim",
       "EN": "Slime",
@@ -42,7 +43,8 @@
     }
   },
   {
-    "id": 2,
+    "uuid": "630d2c91-abf5-4cf0-873f-3a6f1535d82a",
+    "book_index": 2,
     "name": {
       "DE": "Schlängler",
       "EN": "Wiggly",
@@ -88,7 +90,8 @@
     }
   },
   {
-    "id": 3,
+    "uuid": "425a168d-865d-450b-9ec5-1495ba17629b",
+    "book_index": 3,
     "name": {
       "DE": "Ohrensauser",
       "EN": "Air rat",
@@ -128,7 +131,8 @@
     }
   },
   {
-    "id": 4,
+    "uuid": "cc4a41cc-b460-40f4-b99d-e21f8e47f581",
+    "book_index": 4,
     "name": {
       "DE": "Scherenkäfer",
       "EN": "Scissor beatle",
@@ -168,7 +172,8 @@
     }
   },
   {
-    "id": 5,
+    "uuid": "0b126cbc-5167-4c3f-819b-c9a3a332b293",
+    "book_index": 5,
     "name": {
       "DE": "Blasenchleim",
       "EN": "Bubble Slime",
@@ -208,7 +213,8 @@
     }
   },
   {
-    "id": 6,
+    "uuid": "435ac12d-4e99-4354-9328-6e086801f0aa",
+    "book_index": 6,
     "name": {
       "DE": "Maulwurfschelm",
       "EN": "Mischievous mole",
@@ -246,7 +252,8 @@
     }
   },
   {
-    "id": 7,
+    "uuid": "4a1c3baf-9d5d-4545-b92c-12b4ef3b0976",
+    "book_index": 7,
     "name": {
       "DE": "Stumpfpimpf",
       "EN": "Stump chump",
@@ -287,7 +294,8 @@
     }
   },
   {
-    "id": 8,
+    "uuid": "be09e6f2-ef0c-4e13-ba15-c1d41eee2784",
+    "book_index": 8,
     "name": {
       "DE": "Doktorschleim",
       "EN": "Healslime",
@@ -331,7 +339,8 @@
     }
   },
   {
-    "id": 9,
+    "uuid": "7161be69-c93d-40aa-b57f-e0e0070b834d",
+    "book_index": 9,
     "name": {
       "DE": "Manischer Maulwurf",
       "EN": "Mad mole",
@@ -371,7 +380,8 @@
     }
   },
   {
-    "id": 10,
+    "uuid": "bbf061e6-ffb3-462c-b45d-138148ccc394",
+    "book_index": 10,
     "name": {
       "DE": "Blinzler",
       "EN": "Winkster",
@@ -412,7 +422,8 @@
     }
   },
   {
-    "id": 11,
+    "uuid": "e4e3dfd2-fa03-4c61-8d3d-f9e068aa8df7",
+    "book_index": 11,
     "name": {
       "DE": "Schützenwicht",
       "EN": "Bodkin archer",
@@ -450,7 +461,8 @@
     }
   },
   {
-    "id": 12,
+    "uuid": "0073dbe4-7aef-4ea3-a8fa-904e9ba643dd",
+    "book_index": 12,
     "name": {
       "DE": "Muddel",
       "EN": "Splatypunk",
@@ -489,7 +501,8 @@
     }
   },
   {
-    "id": 13,
+    "uuid": "b74306dd-b8a8-432d-ba56-dc263cdeff52",
+    "book_index": 13,
     "name": {
       "DE": "Zwinkerer",
       "EN": "Blinkster",
@@ -525,7 +538,8 @@
     }
   },
   {
-    "id": 14,
+    "uuid": "75d79ec6-7d67-4eb7-b4fd-a0b410d40422",
+    "book_index": 14,
     "name": {
       "DE": "Piekser",
       "EN": "Picksy",
@@ -561,7 +575,8 @@
     }
   },
   {
-    "id": 15,
+    "uuid": "c2645de5-565d-4362-b483-79d653f2cf95",
+    "book_index": 15,
     "name": {
       "DE": "Kampfhuhn",
       "EN": "Bantamweight",
@@ -600,7 +615,8 @@
     }
   },
   {
-    "id": 16,
+    "uuid": "03f02ef0-51d2-4ae8-9441-8de4108271a1",
+    "book_index": 16,
     "name": {
       "DE": "Monekel",
       "EN": "Winky",
@@ -636,7 +652,8 @@
     }
   },
   {
-    "id": 17,
+    "uuid": "7ff969ee-f7af-41e2-a885-3ede2dbb577a",
+    "book_index": 17,
     "name": {
       "DE": "Gelbschrecke",
       "EN": "Walking stick",
@@ -674,7 +691,8 @@
     }
   },
   {
-    "id": 18,
+    "uuid": "d0deed1a-dcd1-421a-98fe-eab2fa98afa4",
+    "book_index": 18,
     "name": {
       "DE": "Schleimette",
       "EN": "She-slime",
@@ -711,7 +729,8 @@
     }
   },
   {
-    "id": 19,
+    "uuid": "f83782ef-ae27-48bd-8a38-7c32df2708bd",
+    "book_index": 19,
     "name": {
       "DE": "Speichellecker",
       "EN": "Lickspittle",
@@ -753,7 +772,8 @@
     }
   },
   {
-    "id": 20,
+    "uuid": "88f24a6a-cfd7-431c-85d1-4faccf77c47e",
+    "book_index": 20,
     "name": {
       "DE": "Flattermaus",
       "EN": "Mouseflap",
@@ -790,7 +810,8 @@
     }
   },
   {
-    "id": 21,
+    "uuid": "3fe0ae66-2f58-4448-bacf-6fc21a68292e",
+    "book_index": 21,
     "name": {
       "DE": "Fu-Hund",
       "EN": "Foo dog",
@@ -833,7 +854,8 @@
     }
   },
   {
-    "id": 22,
+    "uuid": "0734a732-5ba7-406a-9894-fea8e6d793bd",
+    "book_index": 22,
     "name": {
       "DE": "Raupenrüpel",
       "EN": "Bagworm",
@@ -869,7 +891,8 @@
     }
   },
   {
-    "id": 23,
+    "uuid": "3926b1fa-34f2-4132-8e80-46e6236815f5",
+    "book_index": 23,
     "name": {
       "DE": "Pestpilz",
       "EN": "Funghoul",
@@ -906,7 +929,8 @@
     }
   },
   {
-    "id": 24,
+    "uuid": "a5ea15d4-529a-4249-8b30-cf5b63f2b5e5",
+    "book_index": 24,
     "name": {
       "DE": "Stierstar",
       "EN": "Bullfinch",
@@ -944,7 +968,8 @@
     }
   },
   {
-    "id": 25,
+    "uuid": "fd244f3d-1c57-43b8-92cd-7ad7cdd2bbd5",
+    "book_index": 25,
     "name": {
       "DE": "Fleischfresser",
       "EN": "Carnivine",
@@ -983,7 +1008,8 @@
     }
   },
   {
-    "id": 26,
+    "uuid": "e7d7acf5-336d-482e-a282-3d5354f26e75",
+    "book_index": 26,
     "name": {
       "DE": "Feuergeist",
       "EN": "Firespirit",
@@ -1025,7 +1051,8 @@
     }
   },
   {
-    "id": 27,
+    "uuid": "200e58dd-844f-43bb-93c9-308cd8793d1b",
+    "book_index": 27,
     "name": {
       "DE": "Dornteufel",
       "EN": "Thorny devil",
@@ -1062,7 +1089,8 @@
     }
   },
   {
-    "id": 28,
+    "uuid": "e336d992-04cc-4897-b0aa-aff2e743d982",
+    "book_index": 28,
     "name": {
       "DE": "Kreuchler",
       "EN": "Lugworm",
@@ -1100,7 +1128,8 @@
     }
   },
   {
-    "id": 29,
+    "uuid": "4da6fdfa-ffa7-4679-903b-d4c458d51581",
+    "book_index": 29,
     "name": {
       "DE": "Bettwanze",
       "EN": "Bedbug",
@@ -1139,7 +1168,8 @@
     }
   },
   {
-    "id": 30,
+    "uuid": "ebb6581f-48a7-40a2-a0f3-8c0f7764819a",
+    "book_index": 30,
     "name": {
       "DE": "Komodo",
       "EN": "Komodo",
@@ -1174,7 +1204,8 @@
     }
   },
   {
-    "id": 31,
+    "uuid": "61d95918-fea0-4559-80b9-de8288cc6639",
+    "book_index": 31,
     "name": {
       "DE": "Necker",
       "EN": "Pickayune",
@@ -1212,7 +1243,8 @@
     }
   },
   {
-    "id": 32,
+    "uuid": "8569283f-7cc7-49f7-8223-4a6043c35683",
+    "book_index": 32,
     "name": {
       "DE": "Kranzviper",
       "EN": "Crested viper",
@@ -1250,7 +1282,8 @@
     }
   },
   {
-    "id": 33,
+    "uuid": "1de05b75-e5e8-40d3-b307-4750f4977f49",
+    "book_index": 33,
     "name": {
       "DE": "Panzerskorpion",
       "EN": "Armoured scorpion",
@@ -1287,7 +1320,8 @@
     }
   },
   {
-    "id": 34,
+    "uuid": "0c549a8a-0df4-4bfa-87c0-d9c61766f90a",
+    "book_index": 34,
     "name": {
       "DE": "Vampirfledermaus",
       "EN": "Vampire bat",
@@ -1326,7 +1360,8 @@
     }
   },
   {
-    "id": 35,
+    "uuid": "ec2defcc-f6d5-44b8-961d-db77ebe151a8",
+    "book_index": 35,
     "name": {
       "DE": "Tornadoteufel",
       "EN": "Cyclown",
@@ -1364,7 +1399,8 @@
     }
   },
   {
-    "id": 36,
+    "uuid": "8febe16d-62d3-421b-a4d7-d89ab64aa651",
+    "book_index": 36,
     "name": {
       "DE": "Giftechse",
       "EN": "Killer gila",
@@ -1402,7 +1438,8 @@
     }
   },
   {
-    "id": 37,
+    "uuid": "0a03dae2-d7f6-4e21-a72e-5b2f4cc2cff9",
+    "book_index": 37,
     "name": {
       "DE": "Fliegerich",
       "EN": "Flyguy",
@@ -1441,7 +1478,8 @@
     }
   },
   {
-    "id": 38,
+    "uuid": "5b1210fa-2dc4-4583-bf0a-5447afbf5d3a",
+    "book_index": 38,
     "name": {
       "DE": "Sichelschlitzer",
       "EN": "Erazor blade",
@@ -1477,7 +1515,8 @@
     }
   },
   {
-    "id": 39,
+    "uuid": "359dc60e-4ff7-4d0b-9358-7706d4ba7bb9",
+    "book_index": 39,
     "name": {
       "DE": "Pteranodon",
       "EN": "Pteranodon",
@@ -1517,7 +1556,8 @@
     }
   },
   {
-    "id": 40,
+    "uuid": "b7188a4e-2534-454b-838a-9df8ed697f23",
+    "book_index": 40,
     "name": {
       "DE": "Medikopter",
       "EN": "Flying doctor",
@@ -1553,7 +1593,8 @@
     }
   },
   {
-    "id": 41,
+    "uuid": "4a1f61c2-cf66-4637-85a4-3783755e6e95",
+    "book_index": 41,
     "name": {
       "DE": "Glubscher",
       "EN": "Peeper",
@@ -1589,7 +1630,8 @@
     }
   },
   {
-    "id": 42,
+    "uuid": "fe6d311a-621a-45c2-b5b1-a7a46965aca9",
+    "book_index": 42,
     "name": {
       "DE": "Skelettkämpfer",
       "EN": "Skeleton swordsman",
@@ -1627,7 +1669,8 @@
     }
   },
   {
-    "id": 43,
+    "uuid": "332fd3d0-f250-4a92-91f7-a4d4168953ec",
+    "book_index": 43,
     "name": {
       "DE": "Ruhelose Rüstung",
       "EN": "Restless armour",
@@ -1665,7 +1708,8 @@
     }
   },
   {
-    "id": 44,
+    "uuid": "c7c6e8d6-052a-4c15-b393-ec8e7122636e",
+    "book_index": 44,
     "name": {
       "DE": "Metallschleim",
       "EN": "Metal slime",
@@ -1705,7 +1749,8 @@
     }
   },
   {
-    "id": 45,
+    "uuid": "f692ec65-23bc-4df2-b682-eaac5b2ef4c9",
+    "book_index": 45,
     "name": {
       "DE": "Elepus",
       "EN": "Elepus",
@@ -1741,7 +1786,8 @@
     }
   },
   {
-    "id": 46,
+    "uuid": "589d6380-4f82-4244-922b-03d125850ee6",
+    "book_index": 46,
     "name": {
       "DE": "Kuddel",
       "EN": "Platypunk",
@@ -1781,7 +1827,8 @@
     }
   },
   {
-    "id": 47,
+    "uuid": "5b7ed8fc-f852-416a-85ff-7ebe943445aa",
+    "book_index": 47,
     "name": {
       "DE": "Hornteufel",
       "EN": "Horny devil",
@@ -1816,7 +1863,8 @@
     }
   },
   {
-    "id": 48,
+    "uuid": "ae70dfc9-5f4c-4650-a581-f7f06dc490e8",
+    "book_index": 48,
     "name": {
       "DE": "Adrette Statuette",
       "EN": "Dirty dogu",
@@ -1851,7 +1899,8 @@
     }
   },
   {
-    "id": 49,
+    "uuid": "27fd8dd8-2d44-4207-9211-aa18e96a4816",
+    "book_index": 49,
     "name": {
       "DE": "Kümmerling",
       "EN": "Wimp",
@@ -1888,7 +1937,8 @@
     }
   },
   {
-    "id": 50,
+    "uuid": "321d155f-fa77-4e1d-ac3f-bba30b681c71",
+    "book_index": 50,
     "name": {
       "DE": "Knirschkuddel",
       "EN": "Crack-billed platypunk",
@@ -1925,7 +1975,8 @@
     }
   },
   {
-    "id": 51,
+    "uuid": "8a1b82cb-6896-4b48-8f82-4b3903cbf6a7",
+    "book_index": 51,
     "name": {
       "DE": "Feuerkäfer",
       "EN": "Fire beatle",
@@ -1960,7 +2011,8 @@
     }
   },
   {
-    "id": 52,
+    "uuid": "a6dcfc60-e203-4384-b811-b1f4fd57c526",
+    "book_index": 52,
     "name": {
       "DE": "Schleimifizierung",
       "EN": "Slimification",
@@ -1998,7 +2050,8 @@
     }
   },
   {
-    "id": 53,
+    "uuid": "cbf5fd05-45aa-4bd0-9bc4-b985490c0427",
+    "book_index": 53,
     "name": {
       "DE": "Königsschleim",
       "EN": "King slime",
@@ -2036,7 +2089,8 @@
     }
   },
   {
-    "id": 54,
+    "uuid": "8d639345-ef58-4ce1-846d-80016b103296",
+    "book_index": 54,
     "name": {
       "DE": "Rattentäter",
       "EN": "Ratatattack",
@@ -2073,7 +2127,8 @@
     }
   },
   {
-    "id": 55,
+    "uuid": "9aed12b1-ac61-4b31-839b-64062a794d7c",
+    "book_index": 55,
     "name": {
       "DE": "Sabberschlabber",
       "EN": "Frolicker",
@@ -2113,7 +2168,8 @@
     }
   },
   {
-    "id": 56,
+    "uuid": "63ac841e-d752-460d-83c8-32369058ffe5",
+    "book_index": 56,
     "name": {
       "DE": "Dumpfstumpf",
       "EN": "Stump grump",
@@ -2147,7 +2203,8 @@
     }
   },
   {
-    "id": 57,
+    "uuid": "595477d5-1b49-4ae9-972d-5f692f09ed03",
+    "book_index": 57,
     "name": {
       "DE": "Abartiger",
       "EN": "Weartiger",
@@ -2186,7 +2243,8 @@
     }
   },
   {
-    "id": 58,
+    "uuid": "8062298a-7c54-4431-a615-937b101c331b",
+    "book_index": 58,
     "name": {
       "DE": "Blödler",
       "EN": "Jinkster",
@@ -2224,7 +2282,8 @@
     }
   },
   {
-    "id": 59,
+    "uuid": "908e5345-cc4b-432e-bdc5-294ea573d5ea",
+    "book_index": 59,
     "name": {
       "DE": "Sichel der Starre",
       "EN": "Paralyslicer",
@@ -2263,7 +2322,8 @@
     }
   },
   {
-    "id": 60,
+    "uuid": "4219de07-df92-49be-a257-f944f2a79880",
+    "book_index": 60,
     "name": {
       "DE": "Verlorene Seele",
       "EN": "Lost soul",
@@ -2299,7 +2359,8 @@
     }
   },
   {
-    "id": 61,
+    "uuid": "154a8ac9-2963-466f-a880-1f7057db2baa",
+    "book_index": 61,
     "name": {
       "DE": "Vampirkämpfer",
       "EN": "Vampire battler",
@@ -2338,7 +2399,8 @@
     }
   },
   {
-    "id": 62,
+    "uuid": "b5b778d4-49c0-448c-a16d-817768cfc943",
+    "book_index": 62,
     "name": {
       "DE": "Metallskorpion",
       "EN": "Metal scorpion",
@@ -2374,7 +2436,8 @@
     }
   },
   {
-    "id": 63,
+    "uuid": "554644c9-6058-4c4e-934a-0dd924997df2",
+    "book_index": 63,
     "name": {
       "DE": "Federfaust",
       "EN": "Featherweight",
@@ -2416,7 +2479,8 @@
     }
   },
   {
-    "id": 64,
+    "uuid": "c996cb04-75d1-4742-af8d-3652fd0c4392",
+    "book_index": 64,
     "name": {
       "DE": "Geckorrosif",
       "EN": "Salamander fry",
@@ -2454,7 +2518,8 @@
     }
   },
   {
-    "id": 65,
+    "uuid": "4f9eeda9-e8b3-4267-a8d9-77f890839996",
+    "book_index": 65,
     "name": {
       "DE": "Venus-Menschenfalle",
       "EN": "Venus guytrap",
@@ -2491,7 +2556,8 @@
     }
   },
   {
-    "id": 66,
+    "uuid": "4cd68021-3926-4d2c-b791-920965cb4fce",
+    "book_index": 66,
     "name": {
       "DE": "Pfeilwicht",
       "EN": "Bodkin fletcher",
@@ -2527,7 +2593,8 @@
     }
   },
   {
-    "id": 67,
+    "uuid": "faa27722-9978-4da7-bd64-6a9affebae8f",
+    "book_index": 67,
     "name": {
       "DE": "Mandragora",
       "EN": "Mandragore",
@@ -2561,7 +2628,8 @@
     }
   },
   {
-    "id": 68,
+    "uuid": "e6cb8e67-9522-4f32-b28d-4c517dfb0399",
+    "book_index": 68,
     "name": {
       "DE": "Bogenwicht",
       "EN": "Bodkin bawyer",
@@ -2597,7 +2665,8 @@
     }
   },
   {
-    "id": 69,
+    "uuid": "ecefff88-0418-411a-88bb-e033ce552bed",
+    "book_index": 69,
     "name": {
       "DE": "Yetigitt",
       "EN": "Sweaty yeti",
@@ -2631,7 +2700,8 @@
     }
   },
   {
-    "id": 70,
+    "uuid": "da6cec1b-972b-4679-81b4-94d2e5543f86",
+    "book_index": 70,
     "name": {
       "DE": "Flammenwerfer",
       "EN": "Flamethrower",
@@ -2668,7 +2738,8 @@
     }
   },
   {
-    "id": 71,
+    "uuid": "abd51ca3-f5ca-4514-9b80-cc8e0e53ff2a",
+    "book_index": 71,
     "name": {
       "DE": "Plizmagier",
       "EN": "Murshroom mage",
@@ -2705,7 +2776,8 @@
     }
   },
   {
-    "id": 72,
+    "uuid": "3784ebec-ff0b-4f8f-93ca-2d1d0c00db2d",
+    "book_index": 72,
     "name": {
       "DE": "Flügelbüffel",
       "EN": "Buffalo wing",
@@ -2740,7 +2812,8 @@
     }
   },
   {
-    "id": 73,
+    "uuid": "4ea12e0d-4d7a-4d33-9f60-38c00d1030d0",
+    "book_index": 73,
     "name": {
       "DE": "Kobold",
       "EN": "Imp",
@@ -2775,7 +2848,8 @@
     }
   },
   {
-    "id": 74,
+    "uuid": "90877eb1-4824-4209-a800-fdde76008338",
+    "book_index": 74,
     "name": {
       "DE": "Scharlatan",
       "EN": "Whizzard",
@@ -2809,7 +2883,8 @@
     }
   },
   {
-    "id": 75,
+    "uuid": "c6d91586-7d81-47a2-ae11-3d8b2574b7c2",
+    "book_index": 75,
     "name": {
       "DE": "Höllenrüstung",
       "EN": "Infernal armour",
@@ -2848,7 +2923,8 @@
     }
   },
   {
-    "id": 76,
+    "uuid": "82b8c912-b692-49a8-b2c1-6c513928efdb",
+    "book_index": 76,
     "name": {
       "DE": "Schneestrolch",
       "EN": "Powie yowie",
@@ -2882,7 +2958,8 @@
     }
   },
   {
-    "id": 77,
+    "uuid": "14ec7eea-a3d0-44f0-99ef-2e21aaee86d8",
+    "book_index": 77,
     "name": {
       "DE": "Skelettsoldat",
       "EN": "Skeleton soldier",
@@ -2920,7 +2997,8 @@
     }
   },
   {
-    "id": 78,
+    "uuid": "ce6a537e-7d25-4491-afd0-b6d9b4baa0dc",
+    "book_index": 78,
     "name": {
       "DE": "Fiese Figurine",
       "EN": "Pocus poppet",
@@ -2955,7 +3033,8 @@
     }
   },
   {
-    "id": 79,
+    "uuid": "6d16a4b8-f409-494a-9ec1-dce06c45fe00",
+    "book_index": 79,
     "name": {
       "DE": "Grobian",
       "EN": "Wild beast",
@@ -2990,7 +3069,8 @@
     }
   },
   {
-    "id": 80,
+    "uuid": "ea9421c6-57fd-40e2-bfa4-6b28bafa7b3e",
+    "book_index": 80,
     "name": {
       "DE": "Drachenbaby",
       "EN": "Dragon pup",
@@ -3024,7 +3104,8 @@
     }
   },
   {
-    "id": 81,
+    "uuid": "ac651692-1188-478e-a92c-c557c6c4b30c",
+    "book_index": 81,
     "name": {
       "DE": "Unglücksbringer",
       "EN": "Hoodoo gooroo",
@@ -3059,7 +3140,8 @@
     }
   },
   {
-    "id": 82,
+    "uuid": "8030bf2c-6ce9-431c-bf42-dc1d897968c7",
+    "book_index": 82,
     "name": {
       "DE": "Kokonkiller",
       "EN": "Cocoon goon",
@@ -3095,7 +3177,8 @@
     }
   },
   {
-    "id": 83,
+    "uuid": "8d37cebc-74a3-473d-8a52-2859ba2bd714",
+    "book_index": 83,
     "name": {
       "DE": "Heilschleim",
       "EN": "Cureslime",
@@ -3130,7 +3213,8 @@
     }
   },
   {
-    "id": 84,
+    "uuid": "9c420139-99db-47da-8e90-c4f4561c2b4e",
+    "book_index": 84,
     "name": {
       "DE": "Abrakadabrador",
       "EN": "Abracadabrador",
@@ -3165,7 +3249,8 @@
     }
   },
   {
-    "id": 85,
+    "uuid": "a817b0a5-104f-4bc0-974d-6ec6625124be",
+    "book_index": 85,
     "name": {
       "DE": "Unartiger",
       "EN": "Cheater cheetah",
@@ -3201,7 +3286,8 @@
     }
   },
   {
-    "id": 86,
+    "uuid": "94ab928a-acc5-4016-83ab-8dc167900f00",
+    "book_index": 86,
     "name": {
       "DE": "Beilhorn",
       "EN": "Rhinothrope",
@@ -3236,7 +3322,8 @@
     }
   },
   {
-    "id": 87,
+    "uuid": "325cc1bf-0b21-4e7b-8817-b670c6570ec0",
+    "book_index": 87,
     "name": {
       "DE": "Minidämon",
       "EN": "Minidemon",
@@ -3275,7 +3362,8 @@
     }
   },
   {
-    "id": 88,
+    "uuid": "f4e12ca9-a8b0-47d8-b56f-b4e9530a1131",
+    "book_index": 88,
     "name": {
       "DE": "Schocknodon",
       "EN": "Chillanodon",
@@ -3312,7 +3400,8 @@
     }
   },
   {
-    "id": 89,
+    "uuid": "c6409b7f-0082-436b-91e3-2a2f9ccb4541",
+    "book_index": 89,
     "name": {
       "DE": "Todesrüstung",
       "EN": "Lethal armour",
@@ -3347,7 +3436,8 @@
     }
   },
   {
-    "id": 90,
+    "uuid": "2fafec6a-e5ed-45fe-bab9-ac204142776e",
+    "book_index": 90,
     "name": {
       "DE": "Falsenbombe",
       "EN": "Rockbomb",
@@ -3381,7 +3471,8 @@
     }
   },
   {
-    "id": 91,
+    "uuid": "e424cd1f-3eb6-4d5d-80c9-80fa742c6083",
+    "book_index": 91,
     "name": {
       "DE": "Eoraptor",
       "EN": "Eoraptor",
@@ -3417,7 +3508,8 @@
     }
   },
   {
-    "id": 92,
+    "uuid": "869d3deb-a730-46a6-94c1-ee0954faa3f9",
+    "book_index": 92,
     "name": {
       "DE": "Beleth",
       "EN": "Beleth",
@@ -3452,7 +3544,8 @@
     }
   },
   {
-    "id": 93,
+    "uuid": "97d6dbe6-e61c-4b82-b33e-15aaf33d3617",
+    "book_index": 93,
     "name": {
       "DE": "Galgenreiter",
       "EN": "Grim rider",
@@ -3488,7 +3581,8 @@
     }
   },
   {
-    "id": 94,
+    "uuid": "a8022c7a-4d2f-4e57-b137-24beca012087",
+    "book_index": 94,
     "name": {
       "DE": "Bulldozer",
       "EN": "Bulldozer",
@@ -3524,7 +3618,8 @@
     }
   },
   {
-    "id": 95,
+    "uuid": "fd253064-7bd1-4f9b-ad40-d513da6c1ded",
+    "book_index": 95,
     "name": {
       "DE": "Haudraufhenne",
       "EN": "Chicken poxer",
@@ -3559,7 +3654,8 @@
     }
   },
   {
-    "id": 96,
+    "uuid": "642df5cf-493d-4fc5-8762-31b7f014cd17",
+    "book_index": 96,
     "name": {
       "DE": "Qualross",
       "EN": "War-rus",
@@ -3594,7 +3690,8 @@
     }
   },
   {
-    "id": 97,
+    "uuid": "27012794-918f-4e8d-b245-cf7bf8f94d3c",
+    "book_index": 97,
     "name": {
       "DE": "Flüssigmetallschleim",
       "EN": "Liquid metal slime",
@@ -3630,7 +3727,8 @@
     }
   },
   {
-    "id": 98,
+    "uuid": "e1736695-2a6a-477c-a5fc-bb46f67b19ba",
+    "book_index": 98,
     "name": {
       "DE": "Humbaba",
       "EN": "Humbaba",
@@ -3666,7 +3764,8 @@
     }
   },
   {
-    "id": 99,
+    "uuid": "5d953c3a-e7be-49fe-830c-ea4bbfdd336b",
+    "book_index": 99,
     "name": {
       "DE": "Feuerspeier",
       "EN": "Spitfire",
@@ -3702,7 +3801,8 @@
     }
   },
   {
-    "id": 100,
+    "uuid": "4e17796f-0fa1-4f7f-9640-e44f293de089",
+    "book_index": 100,
     "name": {
       "DE": "Terminonatator",
       "EN": "Terminonatator",
@@ -3738,7 +3838,8 @@
     }
   },
   {
-    "id": 101,
+    "uuid": "721ebce3-222a-4d46-aad8-df3c9b9286bd",
+    "book_index": 101,
     "name": {
       "DE": "Sokarlett",
       "EN": "Skerleton",
@@ -3776,7 +3877,8 @@
     }
   },
   {
-    "id": 102,
+    "uuid": "ad76d2f0-6e1e-4e6c-9686-69442b20d989",
+    "book_index": 102,
     "name": {
       "DE": "Grinsgötze",
       "EN": "Cheeky tiki",
@@ -3812,7 +3914,8 @@
     }
   },
   {
-    "id": 103,
+    "uuid": "581ceac1-a0ed-4b25-84f7-b0093030208f",
+    "book_index": 103,
     "name": {
       "DE": "Podokesaurus",
       "EN": "Podokesaurus",
@@ -3847,7 +3950,8 @@
     }
   },
   {
-    "id": 104,
+    "uuid": "6ea6cc8a-ad23-4c12-b71d-f162e4a902bc",
+    "book_index": 104,
     "name": {
       "DE": "Drachenreiter",
       "EN": "Dragon rider",
@@ -3884,7 +3988,8 @@
     }
   },
   {
-    "id": 105,
+    "uuid": "1a70a998-6c46-4aaf-a7c7-cca641a21255",
+    "book_index": 105,
     "name": {
       "DE": "Frostfliege",
       "EN": "Freeze fly",
@@ -3920,7 +4025,8 @@
     }
   },
   {
-    "id": 106,
+    "uuid": "8bf77888-dd71-4c2e-8a57-3326a8459b99",
+    "book_index": 106,
     "name": {
       "DE": "Höllenhexer",
       "EN": "Hell raiser",
@@ -3956,7 +4062,8 @@
     }
   },
   {
-    "id": 107,
+    "uuid": "98323826-d806-4bcf-a321-31080183c7fe",
+    "book_index": 107,
     "name": {
       "DE": "Ausgeburt der Hölle",
       "EN": "Hellspawn",
@@ -3991,7 +4098,8 @@
     }
   },
   {
-    "id": 108,
+    "uuid": "fe6cf1b6-3820-46ab-a10e-a59fac92cd44",
+    "book_index": 108,
     "name": {
       "DE": "Blutsichel",
       "EN": "Bloody blade",
@@ -4027,7 +4135,8 @@
     }
   },
   {
-    "id": 109,
+    "uuid": "d65702e0-4dda-4a18-b265-1e20b466f7c2",
+    "book_index": 109,
     "name": {
       "DE": "Flugschrecken",
       "EN": "Terrorflyer",
@@ -4061,7 +4170,8 @@
     }
   },
   {
-    "id": 110,
+    "uuid": "c5219f73-e961-44e0-973f-fcee131cde65",
+    "book_index": 110,
     "name": {
       "DE": "Voodooguru",
       "EN": "Voodoo gooroo",
@@ -4097,7 +4207,8 @@
     }
   },
   {
-    "id": 111,
+    "uuid": "6017c622-ba40-4b2f-a53b-86622b1191dc",
+    "book_index": 111,
     "name": {
       "DE": "Arztschleim",
       "EN": "Medislime",
@@ -4131,7 +4242,8 @@
     }
   },
   {
-    "id": 112,
+    "uuid": "e022c63f-88a9-491a-bd8b-492ee04d28e8",
+    "book_index": 112,
     "name": {
       "DE": "Rhinozeraxt",
       "EN": "Rhinoceraxe",
@@ -4168,7 +4280,8 @@
     }
   },
   {
-    "id": 113,
+    "uuid": "5b1553d8-d68c-4130-9e6c-4d656cd508b5",
+    "book_index": 113,
     "name": {
       "DE": "Fledermops",
       "EN": "Fat bat",
@@ -4203,7 +4316,8 @@
     }
   },
   {
-    "id": 114,
+    "uuid": "b0de910c-4171-4760-bab4-6ad2e5694636",
+    "book_index": 114,
     "name": {
       "DE": "Höllenlöwe",
       "EN": "Hellion",
@@ -4239,7 +4353,8 @@
     }
   },
   {
-    "id": 115,
+    "uuid": "db64000d-cb25-4716-b297-d0a461eeeeac",
+    "book_index": 115,
     "name": {
       "DE": "Eiswerfer",
       "EN": "Blizzybody",
@@ -4273,7 +4388,8 @@
     }
   },
   {
-    "id": 116,
+    "uuid": "9fc8ab59-3c62-4fef-ae9c-574c2ed8c563",
+    "book_index": 116,
     "name": {
       "DE": "Flügeldrache",
       "EN": "Wyvern",
@@ -4308,7 +4424,8 @@
     }
   },
   {
-    "id": 117,
+    "uuid": "cb36ce4f-44a0-4a81-9636-ccc247991917",
+    "book_index": 117,
     "name": {
       "DE": "Blauschrecke",
       "EN": "Fuddlestick",
@@ -4344,7 +4461,8 @@
     }
   },
   {
-    "id": 118,
+    "uuid": "72898af0-b91e-4835-bc37-da53ddf4c91a",
+    "book_index": 118,
     "name": {
       "DE": "Bullzebub",
       "EN": "Moosifer",
@@ -4379,7 +4497,8 @@
     }
   },
   {
-    "id": 119,
+    "uuid": "140caaa3-831d-43e8-9fed-b7a4cbe290c3",
+    "book_index": 119,
     "name": {
       "DE": "Heilschleimkönig",
       "EN": "King cureslime",
@@ -4414,7 +4533,8 @@
     }
   },
   {
-    "id": 120,
+    "uuid": "551e90fa-8b3b-4c4d-b8fd-3613b0755acf",
+    "book_index": 120,
     "name": {
       "DE": "Henkerhorn",
       "EN": "Rhinocerex",
@@ -4449,7 +4569,8 @@
     }
   },
   {
-    "id": 121,
+    "uuid": "ec339840-1fc6-4bc9-b5ae-dd3569dec744",
+    "book_index": 121,
     "name": {
       "DE": "Miesmagier",
       "EN": "Joojoo gooroo",
@@ -4483,7 +4604,8 @@
     }
   },
   {
-    "id": 122,
+    "uuid": "25a7909b-2fe4-4267-9b9d-4b408520cbc2",
+    "book_index": 122,
     "name": {
       "DE": "Sensenhüter",
       "EN": "Grim keeper",
@@ -4518,7 +4640,8 @@
     }
   },
   {
-    "id": 123,
+    "uuid": "1c0d9c3a-3dfe-465a-be9f-cd0c6298f9c7",
+    "book_index": 123,
     "name": {
       "DE": "Oger",
       "EN": "Ogre",
@@ -4553,7 +4676,8 @@
     }
   },
   {
-    "id": 124,
+    "uuid": "7360ca27-a9a7-4cfb-ae1b-5f7e6652a77e",
+    "book_index": 124,
     "name": {
       "DE": "Löwenmaul",
       "EN": "Bullion",
@@ -4588,7 +4712,8 @@
     }
   },
   {
-    "id": 125,
+    "uuid": "05fc9aa3-9c29-476e-a69c-6ed3da6ee306",
+    "book_index": 125,
     "name": {
       "DE": "König der Nacht",
       "EN": "Night emperor",
@@ -4622,7 +4747,8 @@
     }
   },
   {
-    "id": 126,
+    "uuid": "94eff551-668d-4f4e-a9a3-b682b884e11d",
+    "book_index": 126,
     "name": {
       "DE": "Metall-Königsschleim",
       "EN": "Metal king slime",
@@ -4658,7 +4784,8 @@
     }
   },
   {
-    "id": 127,
+    "uuid": "64f63ed5-f17f-4c70-820d-d2010b9a3821",
+    "book_index": 127,
     "name": {
       "DE": "Grüner Drache",
       "EN": "Green dragon",
@@ -4692,7 +4819,8 @@
     }
   },
   {
-    "id": 128,
+    "uuid": "2303e524-7fd9-48eb-85e2-edfec498584f",
+    "book_index": 128,
     "name": {
       "DE": "Wirbeline",
       "EN": "Whirly girly",
@@ -4726,7 +4854,8 @@
     }
   },
   {
-    "id": 129,
+    "uuid": "5576743a-6383-43c4-b7ff-bbc18b62d28c",
+    "book_index": 129,
     "name": {
       "DE": "Knochenbaron",
       "EN": "Bone baron",
@@ -4760,7 +4889,8 @@
     }
   },
   {
-    "id": 130,
+    "uuid": "f2582e8d-32d7-4a9d-b300-c9ba22a2be24",
+    "book_index": 130,
     "name": {
       "DE": "Geifernder Ghul",
       "EN": "Drooling ghoul",
@@ -4798,7 +4928,8 @@
     }
   },
   {
-    "id": 131,
+    "uuid": "54c777de-414e-4785-a942-5c6a360998e5",
+    "book_index": 131,
     "name": {
       "DE": "Teak-Tiki",
       "EN": "Teaky mask",
@@ -4834,7 +4965,8 @@
     }
   },
   {
-    "id": 132,
+    "uuid": "df8eeee5-900d-4b8e-9c5b-5d39491d97e9",
+    "book_index": 132,
     "name": {
       "DE": "Triezer",
       "EN": "Pickeerer",
@@ -4871,7 +5003,8 @@
     }
   },
   {
-    "id": 133,
+    "uuid": "8b7208b4-706a-433b-bf70-c28bf28a8d3f",
+    "book_index": 133,
     "name": {
       "DE": "Schlundviper",
       "EN": "Pit viper",
@@ -4905,7 +5038,8 @@
     }
   },
   {
-    "id": 134,
+    "uuid": "be553a4a-1dc0-4b1e-b47a-47203d316cb6",
+    "book_index": 134,
     "name": {
       "DE": "Seejungfer",
       "EN": "Damselfly",
@@ -4940,7 +5074,8 @@
     }
   },
   {
-    "id": 135,
+    "uuid": "376385d2-65ae-433c-8456-daf7602c4c3c",
+    "book_index": 135,
     "name": {
       "DE": "Zornhorn",
       "EN": "Abullddon",
@@ -4976,7 +5111,8 @@
     }
   },
   {
-    "id": 136,
+    "uuid": "27b0212c-f2dd-4a80-8228-d2ee74de5d73",
+    "book_index": 136,
     "name": {
       "DE": "Flammenfiffi",
       "EN": "Hot dog",
@@ -5010,7 +5146,8 @@
     }
   },
   {
-    "id": 137,
+    "uuid": "7108691d-5b77-4be6-9735-73418ac792c8",
+    "book_index": 137,
     "name": {
       "DE": "Herr der Fliegen",
       "EN": "Beelzebuzz",
@@ -5045,7 +5182,8 @@
     }
   },
   {
-    "id": 138,
+    "uuid": "fa361b3f-12f9-44d7-9134-9742c48b12c4",
+    "book_index": 138,
     "name": {
       "DE": "Doppelmoppel",
       "EN": "Float-o-copier",
@@ -5082,7 +5220,8 @@
     }
   },
   {
-    "id": 139,
+    "uuid": "4a7cc2e7-64f3-43ff-83dc-d1cd75431d59",
+    "book_index": 139,
     "name": {
       "DE": "Terrakottakrieger",
       "EN": "Terracotta warrior",
@@ -5116,7 +5255,8 @@
     }
   },
   {
-    "id": 140,
+    "uuid": "7f565809-c43e-48be-a066-128c794949d4",
+    "book_index": 140,
     "name": {
       "DE": "Schwinger",
       "EN": "Swingre",
@@ -5151,7 +5291,8 @@
     }
   },
   {
-    "id": 141,
+    "uuid": "f686bc50-a8a9-430c-a683-7fcebf0f68e2",
+    "book_index": 141,
     "name": {
       "DE": "Roter Drache",
       "EN": "Red dragon",
@@ -5185,7 +5326,8 @@
     }
   },
   {
-    "id": 142,
+    "uuid": "f44da685-a198-406e-878f-95baee669713",
+    "book_index": 142,
     "name": {
       "DE": "",
       "EN": "Sasquash",
@@ -5220,7 +5362,8 @@
     }
   },
   {
-    "id": 143,
+    "uuid": "2bf15c4f-e992-45e0-a7b4-126f3876bb5a",
+    "book_index": 143,
     "name": {
       "DE": "",
       "EN": "Wilder beast",
@@ -5254,7 +5397,8 @@
     }
   },
   {
-    "id": 144,
+    "uuid": "52f7c3b3-fb26-4d24-afff-fa886b589d07",
+    "book_index": 144,
     "name": {
       "DE": "",
       "EN": "Vis mage",
@@ -5291,7 +5435,8 @@
     }
   },
   {
-    "id": 145,
+    "uuid": "689fa095-88ec-44d3-8a10-ba365aa0aeef",
+    "book_index": 145,
     "name": {
       "DE": "Prinz der Finsternis",
       "EN": "Prince of darkness",
@@ -5326,7 +5471,8 @@
     }
   },
   {
-    "id": 146,
+    "uuid": "23d6dd4e-6f8b-43d1-b76a-c5cd04a94235",
+    "book_index": 146,
     "name": {
       "DE": "",
       "EN": "Dragooner",
@@ -5362,7 +5508,8 @@
     }
   },
   {
-    "id": 147,
+    "uuid": "dbc19c36-0f17-4188-8141-07414b8625fd",
+    "book_index": 147,
     "name": {
       "DE": "",
       "EN": "Emperor wyvern",
@@ -5398,7 +5545,8 @@
     }
   },
   {
-    "id": 148,
+    "uuid": "9cb3649a-d034-4a6b-8aa2-edb52a36a3da",
+    "book_index": 148,
     "name": {
       "DE": "Dämonenbrut",
       "EN": "Demonspawn",
@@ -5433,7 +5581,8 @@
     }
   },
   {
-    "id": 149,
+    "uuid": "908a666d-2b8b-4500-87f6-7fab1befaf69",
+    "book_index": 149,
     "name": {
       "DE": "",
       "EN": "Night rider",
@@ -5468,7 +5617,8 @@
     }
   },
   {
-    "id": 150,
+    "uuid": "fcaffdd1-d645-4589-aadd-c7bc45877d6e",
+    "book_index": 150,
     "name": {
       "DE": "",
       "EN": "Night clubber",
@@ -5502,7 +5652,8 @@
     }
   },
   {
-    "id": 151,
+    "uuid": "95b8122a-cfe7-4562-8367-d286dc9ec9ff",
+    "book_index": 151,
     "name": {
       "DE": "Schattenritter",
       "EN": "Knightshade",
@@ -5536,7 +5687,8 @@
     }
   },
   {
-    "id": 152,
+    "uuid": "5af3e9bc-b657-4917-a68c-3fbdf26e9647",
+    "book_index": 152,
     "name": {
       "DE": "",
       "EN": "Decayurion",
@@ -5570,7 +5722,8 @@
     }
   },
   {
-    "id": 153,
+    "uuid": "eebd4c6e-b8fc-40e5-923f-3b471a42a336",
+    "book_index": 153,
     "name": {
       "DE": "Blutige Hand",
       "EN": "Bloody hand",
@@ -5604,7 +5757,8 @@
     }
   },
   {
-    "id": 154,
+    "uuid": "eafa658d-e9ea-4233-841d-156eda70a3fd",
+    "book_index": 154,
     "name": {
       "DE": "Donnerdämon",
       "EN": "Demon thunderer",
@@ -5638,7 +5792,8 @@
     }
   },
   {
-    "id": 155,
+    "uuid": "e3771d24-751e-4af9-b7dd-669214704b34",
+    "book_index": 155,
     "name": {
       "DE": "Draguar",
       "EN": "Draguar",
@@ -5672,7 +5827,8 @@
     }
   },
   {
-    "id": 156,
+    "uuid": "aa15471c-df23-43a6-b2c6-5d10154b6776",
+    "book_index": 156,
     "name": {
       "DE": "Gurgelgaukler",
       "EN": "Juggular",
@@ -5706,7 +5862,8 @@
     }
   },
   {
-    "id": 157,
+    "uuid": "5dc78a6d-5890-4dad-a837-afb48eec000f",
+    "book_index": 157,
     "name": {
       "DE": "",
       "EN": "Cerberuff",
@@ -5740,7 +5897,8 @@
     }
   },
   {
-    "id": 158,
+    "uuid": "ca3355b6-cb30-4374-a77e-f746d2fb57c6",
+    "book_index": 158,
     "name": {
       "DE": "Gnuzifer",
       "EN": "Gnucifer",
@@ -5774,7 +5932,8 @@
     }
   },
   {
-    "id": 159,
+    "uuid": "5cef9bd1-60ef-4b20-ac05-005ca0074eb2",
+    "book_index": 159,
     "name": {
       "DE": "Greifer",
       "EN": "Div",
@@ -5808,7 +5967,8 @@
     }
   },
   {
-    "id": 160,
+    "uuid": "dfdbf8c6-d83e-436b-be90-c4b99b3623c9",
+    "book_index": 160,
     "name": {
       "DE": "",
       "EN": "Prism peacock",
@@ -5842,7 +6002,8 @@
     }
   },
   {
-    "id": 161,
+    "uuid": "a0ad4fe9-32b2-4491-9496-4a1a91cac165",
+    "book_index": 161,
     "name": {
       "DE": "Testosteroger",
       "EN": "Testudogre",
@@ -5876,7 +6037,8 @@
     }
   },
   {
-    "id": 162,
+    "uuid": "3acc889b-b6ef-4263-98b8-3e3003077b7f",
+    "book_index": 162,
     "name": {
       "DE": "",
       "EN": "Drakulard",
@@ -5910,7 +6072,8 @@
     }
   },
   {
-    "id": 163,
+    "uuid": "6b8b6dc9-73e9-4272-890f-8161abe15eb3",
+    "book_index": 163,
     "name": {
       "DE": "",
       "EN": "Togre",
@@ -5944,7 +6107,8 @@
     }
   },
   {
-    "id": 164,
+    "uuid": "3a905fa1-e66a-411a-b227-0529ec1c179e",
+    "book_index": 164,
     "name": {
       "DE": "",
       "EN": "High djinks",
@@ -5978,7 +6142,8 @@
     }
   },
   {
-    "id": 165,
+    "uuid": "525ea3db-2616-4664-a582-608ecb2eabb4",
+    "book_index": 165,
     "name": {
       "DE": "",
       "EN": "Perilwinkle",
@@ -6012,7 +6177,8 @@
     }
   },
   {
-    "id": 166,
+    "uuid": "275edaac-baca-4eb7-86e0-2a33a90fbd81",
+    "book_index": 166,
     "name": {
       "DE": "Schaligator",
       "EN": "Shelligator",
@@ -6046,7 +6212,8 @@
     }
   },
   {
-    "id": 167,
+    "uuid": "d10b5981-2e9d-4b54-bbba-f145e79e7e51",
+    "book_index": 167,
     "name": {
       "DE": "",
       "EN": "Croaked king",
@@ -6080,7 +6247,8 @@
     }
   },
   {
-    "id": 168,
+    "uuid": "e3b3f29c-9a85-43e7-8a19-be0b8a60408a",
+    "book_index": 168,
     "name": {
       "DE": "",
       "EN": "Seasaur",
@@ -6114,7 +6282,8 @@
     }
   },
   {
-    "id": 169,
+    "uuid": "75b4e4c0-4c6b-4f06-b75c-c11725838dec",
+    "book_index": 169,
     "name": {
       "DE": "Platinkönigsjuwel",
       "EN": "Platinum king jewel",
@@ -6148,7 +6317,8 @@
     }
   },
   {
-    "id": 170,
+    "uuid": "376bba71-61c1-4db6-9172-eae57bbf546f",
+    "book_index": 170,
     "name": {
       "DE": "Fresskiste",
       "EN": "Cannibox",
@@ -6182,7 +6352,8 @@
     }
   },
   {
-    "id": 171,
+    "uuid": "9e88689a-6593-478c-85bd-1cf944d8efb1",
+    "book_index": 171,
     "name": {
       "DE": "Imitator",
       "EN": "Mimic",
@@ -6220,7 +6391,8 @@
     }
   },
   {
-    "id": 172,
+    "uuid": "f7a96952-b8fd-4940-9f63-00e045722ea7",
+    "book_index": 172,
     "name": {
       "DE": "Pandorabüchse",
       "EN": "Pandora's box",
@@ -6254,7 +6426,8 @@
     }
   },
   {
-    "id": 173,
+    "uuid": "550b4f2b-adac-454d-810a-487ec30ded04",
+    "book_index": 173,
     "name": {
       "DE": "Brunnenspuk",
       "EN": "Scarewell",
@@ -6288,7 +6461,8 @@
     }
   },
   {
-    "id": 174,
+    "uuid": "22c90ba9-babc-4424-a900-44e7b045edeb",
+    "book_index": 174,
     "name": {
       "DE": "Quellgeist",
       "EN": "Well wisher",
@@ -6322,7 +6496,8 @@
     }
   },
   {
-    "id": 175,
+    "uuid": "a8825c28-7337-440c-9ca2-b1bb894e113e",
+    "book_index": 175,
     "name": {
       "DE": "Seeblase",
       "EN": "Man o' war",
@@ -6356,7 +6531,8 @@
     }
   },
   {
-    "id": 176,
+    "uuid": "01de010c-0918-4982-b433-ff42ca55a054",
+    "book_index": 176,
     "name": {
       "DE": "",
       "EN": "Glugworm",
@@ -6390,7 +6566,8 @@
     }
   },
   {
-    "id": 177,
+    "uuid": "4edcd687-0c98-4135-a3c9-2c0e1a8b8f45",
+    "book_index": 177,
     "name": {
       "DE": "Drosselfisch",
       "EN": "Strangler fish",
@@ -6424,7 +6601,8 @@
     }
   },
   {
-    "id": 178,
+    "uuid": "b682f256-f612-4bad-9f77-fa73bac65cfd",
+    "book_index": 178,
     "name": {
       "DE": "",
       "EN": "Axolotl",
@@ -6458,7 +6636,8 @@
     }
   },
   {
-    "id": 179,
+    "uuid": "40098175-f3fd-4961-8dd5-c31b7c2cca89",
+    "book_index": 179,
     "name": {
       "DE": "",
       "EN": "Preying manta",
@@ -6492,7 +6671,8 @@
     }
   },
   {
-    "id": 180,
+    "uuid": "9f938248-61bf-4893-8e67-c028e1bfcc9f",
+    "book_index": 180,
     "name": {
       "DE": "",
       "EN": "Barracuda",
@@ -6526,7 +6706,8 @@
     }
   },
   {
-    "id": 181,
+    "uuid": "340b356e-175f-4c95-8ee6-87abf9d196a6",
+    "book_index": 181,
     "name": {
       "DE": "",
       "EN": "Pterygotus",
@@ -6560,7 +6741,8 @@
     }
   },
   {
-    "id": 182,
+    "uuid": "fec387d9-e8b3-4f1c-8aaa-f8341e3c03b0",
+    "book_index": 182,
     "name": {
       "DE": "",
       "EN": "Devilfish",
@@ -6594,7 +6776,8 @@
     }
   },
   {
-    "id": 183,
+    "uuid": "0ae05057-3c12-45fb-9297-01aee62fb4cd",
+    "book_index": 183,
     "name": {
       "DE": "",
       "EN": "Mangler fish",
@@ -6628,7 +6811,8 @@
     }
   },
   {
-    "id": 184,
+    "uuid": "3074f28d-876d-4957-8155-d2c82dc24cd8",
+    "book_index": 184,
     "name": {
       "DE": "Schlachtross",
       "EN": "Maulrus",
@@ -6662,7 +6846,8 @@
     }
   },
   {
-    "id": 185,
+    "uuid": "7b2e5e3b-8512-4f94-86d0-611c8dbb35ad",
+    "book_index": 185,
     "name": {
       "DE": "Woolungasaurier",
       "EN": "Woolungasaurus",
@@ -6696,7 +6881,8 @@
     }
   },
   {
-    "id": 186,
+    "uuid": "f0c30228-07e9-4419-a54d-a8bf1dc9d71c",
+    "book_index": 186,
     "name": {
       "DE": "Sandviper",
       "EN": "Sand viper",
@@ -6731,7 +6917,8 @@
     }
   },
   {
-    "id": 187,
+    "uuid": "bdecea39-a5c8-4104-b6ca-02212b9fe646",
+    "book_index": 187,
     "name": {
       "DE": "Rochenrächer",
       "EN": "Ultraviolent ray",
@@ -6765,7 +6952,8 @@
     }
   },
   {
-    "id": 188,
+    "uuid": "9d946b68-f9f6-465b-8577-76601a19ba56",
+    "book_index": 188,
     "name": {
       "DE": "",
       "EN": "Terrornodon",
@@ -6799,7 +6987,8 @@
     }
   },
   {
-    "id": 189,
+    "uuid": "96efc4f3-5ae9-4603-be7b-7d46e0d06cb9",
+    "book_index": 189,
     "name": {
       "DE": "Frostfeger",
       "EN": "Spinchilla",
@@ -6835,7 +7024,8 @@
     }
   },
   {
-    "id": 190,
+    "uuid": "fb81d79d-5447-4be4-88f0-b11c52bb4223",
+    "book_index": 190,
     "name": {
       "DE": "",
       "EN": "Picuda",
@@ -6871,7 +7061,8 @@
     }
   },
   {
-    "id": 191,
+    "uuid": "bbb3807b-27cc-448e-a727-a6ec6f4cdba3",
+    "book_index": 191,
     "name": {
       "DE": "Schnappfisch",
       "EN": "Dangler fish",
@@ -6905,7 +7096,8 @@
     }
   },
   {
-    "id": 192,
+    "uuid": "70ce1be5-ffa1-4ef0-9075-2669bb415ecb",
+    "book_index": 192,
     "name": {
       "DE": "Oktofant",
       "EN": "Octophant",
@@ -6941,7 +7133,8 @@
     }
   },
   {
-    "id": 193,
+    "uuid": "5d35df70-75a8-41f7-9ca7-d8ba27bed37d",
+    "book_index": 193,
     "name": {
       "DE": "",
       "EN": "Incineraytor",
@@ -6977,7 +7170,8 @@
     }
   },
   {
-    "id": 194,
+    "uuid": "75a33494-89b1-4ce3-9cd8-432a6ea21baf",
+    "book_index": 194,
     "name": {
       "DE": "Horrorhauer",
       "EN": "Tuskateer",
@@ -7012,7 +7206,8 @@
     }
   },
   {
-    "id": 195,
+    "uuid": "62da2ea8-308e-453a-998a-87c6ce003acb",
+    "book_index": 195,
     "name": {
       "DE": "Diener des Psaro",
       "EN": "Psaro's Pawn",
@@ -7046,7 +7241,8 @@
     }
   },
   {
-    "id": 196,
+    "uuid": "87f4092e-9ed0-441e-9bc3-e916a5a3ba4b",
+    "book_index": 196,
     "name": {
       "DE": "Meister Kung",
       "EN": "Master Kung",
@@ -7080,7 +7276,8 @@
     }
   },
   {
-    "id": 197,
+    "uuid": "94b74057-490a-4330-8e7a-97bc89a078c1",
+    "book_index": 197,
     "name": {
       "DE": "Yetiminator",
       "EN": "Abominable showman",
@@ -7114,7 +7311,8 @@
     }
   },
   {
-    "id": 198,
+    "uuid": "f5dbe078-123a-465c-badf-8ee4c57b9357",
+    "book_index": 198,
     "name": {
       "DE": "Balzack",
       "EN": "Balzack",
@@ -7148,7 +7346,8 @@
     }
   },
   {
-    "id": 199,
+    "uuid": "21b31290-6f96-43d1-b7ab-7d0d4dd62090",
+    "book_index": 199,
     "name": {
       "DE": "Trickser",
       "EN": "Tricksy",
@@ -7182,7 +7381,8 @@
     }
   },
   {
-    "id": 200,
+    "uuid": "d9d1a79b-5d37-4a42-a1e5-376b45ae205e",
+    "book_index": 200,
     "name": {
       "DE": "Gewaltiger",
       "EN": "Tigergram",
@@ -7216,7 +7416,8 @@
     }
   },
   {
-    "id": 201,
+    "uuid": "0a2df047-63f4-4a5f-a34b-fe2e2d4b14fc",
+    "book_index": 201,
     "name": {
       "DE": "Marquis de Léon",
       "EN": "Marquis de Léon",
@@ -7250,7 +7451,8 @@
     }
   },
   {
-    "id": 202,
+    "uuid": "dc9a7816-5cf7-4e3b-9a38-0a8475a979ec",
+    "book_index": 202,
     "name": {
       "DE": "Baalzack",
       "EN": "Baalzack",
@@ -7284,7 +7486,8 @@
     }
   },
   {
-    "id": 203,
+    "uuid": "dd63b0c7-2a70-40b0-b52a-1d6e81ce3444",
+    "book_index": 203,
     "name": {
       "DE": "Fürst Grünspan",
       "EN": "Sir Roseguardin",
@@ -7318,7 +7521,8 @@
     }
   },
   {
-    "id": 204,
+    "uuid": "2b2a63f3-8b68-42eb-a907-e7bffbcb0400",
+    "book_index": 204,
     "name": {
       "DE": "Rashaverak",
       "EN": "Rashaverak",
@@ -7352,7 +7556,8 @@
     }
   },
   {
-    "id": 205,
+    "uuid": "530d36c6-1cf4-4bb1-b9e1-0457782b43e4",
+    "book_index": 205,
     "name": {
       "DE": "Pruslas",
       "EN": "Pruslas",
@@ -7386,7 +7591,8 @@
     }
   },
   {
-    "id": 206,
+    "uuid": "5fd74a0d-e593-446d-a959-a852b9377c9c",
+    "book_index": 206,
     "name": {
       "DE": "Barbatos",
       "EN": "Barbatos",
@@ -7420,7 +7626,8 @@
     }
   },
   {
-    "id": 207,
+    "uuid": "00cb3cea-3343-4c9b-b722-c41b4752b372",
+    "book_index": 207,
     "name": {
       "DE": "Aamon",
       "EN": "Aamon",
@@ -7454,7 +7661,8 @@
     }
   },
   {
-    "id": 208,
+    "uuid": "98464fa1-5166-41cf-baca-d8fa9a7b9b4f",
+    "book_index": 208,
     "name": {
       "DE": "Estark",
       "EN": "Estark",
@@ -7488,7 +7696,8 @@
     }
   },
   {
-    "id": 209,
+    "uuid": "c31dd0c5-708c-48d6-9dd1-ab0173c46530",
+    "book_index": 209,
     "name": {
       "DE": "Fu Yung",
       "EN": "Foo Yung",
@@ -7522,7 +7731,8 @@
     }
   },
   {
-    "id": 210,
+    "uuid": "47207319-473f-4dba-9a8d-488587cc2e7d",
+    "book_index": 210,
     "name": {
       "DE": "Chow Mein",
       "EN": "Chow Mein",
@@ -7556,7 +7766,8 @@
     }
   },
   {
-    "id": 211,
+    "uuid": "8ee2e5e9-0a55-483d-9f46-99345d6453f0",
+    "book_index": 211,
     "name": {
       "DE": "Psaro",
       "EN": "Psaro",
@@ -7646,7 +7857,8 @@
     }
   },
   {
-    "id": 212,
+    "uuid": "912fe74a-b77a-4099-88d8-d32a1370b4d2",
+    "book_index": 212,
     "name": {
       "DE": "",
       "EN": "Aamon",
