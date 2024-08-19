@@ -41,7 +41,8 @@
       "chapter5": [
         "Tour Zénithia",
         "Tour des ténèbres"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -90,7 +91,8 @@
       "chapter4": [],
       "chapter5": [
         "Région de Casabranca"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -133,7 +135,8 @@
       "chapter4": [],
       "chapter5": [
         "Région de Chandor"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -176,7 +179,8 @@
       "chapter4": [],
       "chapter5": [
         "Région de Chandor"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -219,7 +223,8 @@
       "chapter4": [],
       "chapter5": [
         "Région de Chandor"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -260,7 +265,8 @@
         "Région du village des animaux"
       ],
       "chapter4": [],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -304,7 +310,8 @@
       "chapter4": [],
       "chapter5": [
         "Région de Chandor"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -351,7 +358,8 @@
         "Région de Port-Carène",
         "Phare de Port-Carène",
         "Grotte de Parthénia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -394,7 +402,8 @@
       "chapter4": [],
       "chapter5": [
         "Région de Ballimore"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -438,7 +447,8 @@
       ],
       "chapter5": [
         "Région grotte de Chandor"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -479,7 +489,8 @@
       "chapter4": [],
       "chapter5": [
         "Région grotte du symbole de la foi"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -521,7 +532,8 @@
       "chapter4": [],
       "chapter5": [
         "Grotte de Chandor"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -560,7 +572,8 @@
       ],
       "chapter3": [],
       "chapter4": [],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -599,7 +612,8 @@
       "chapter4": [],
       "chapter5": [
         "Région grotte du symbole de la foi"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -641,7 +655,8 @@
       "chapter5": [
         "Grande tour de Strattbourg",
         "Région grotte du symbole de la foi"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -680,7 +695,8 @@
       "chapter4": [],
       "chapter5": [
         "Région de Bourg-les-Bains"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -721,7 +737,8 @@
         "Région de Teafortwo",
         "Région de Deadend"
       ],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -761,7 +778,8 @@
         "Région de Teafortwo",
         "Région de Deadend"
       ],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -806,7 +824,8 @@
       ],
       "chapter5": [
         "Région de Chandor"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -846,7 +865,8 @@
       "chapter4": [],
       "chapter5": [
         "Région de Casabranca"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -892,7 +912,8 @@
       ],
       "chapter5": [
         "Région de Ballimore"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -931,7 +952,8 @@
       "chapter4": [
         "Région de Deadend"
       ],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -971,7 +993,8 @@
       "chapter4": [
         "Grotte de Deadend"
       ],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -1012,7 +1035,8 @@
       "chapter4": [
         "Région du palais de Lord Lionel"
       ],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -1054,7 +1078,8 @@
       "chapter4": [],
       "chapter5": [
         "Région de Chandor"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1099,7 +1124,8 @@
       ],
       "chapter5": [
         "Région de Chandor"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1139,7 +1165,8 @@
       "chapter5": [
         "Phare de Port-Carène",
         "Grotte de Parthénia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1180,7 +1207,8 @@
       "chapter4": [],
       "chapter5": [
         "Région du phare de Port-Carène"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1222,7 +1250,8 @@
       ],
       "chapter5": [
         "Grotte de Vrenor"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1260,7 +1289,8 @@
       ],
       "chapter3": [],
       "chapter4": [],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -1301,7 +1331,8 @@
       "chapter4": [],
       "chapter5": [
         "Tour elfique"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1342,7 +1373,8 @@
         "Grand désert de l'est",
         "Région de Bourg-les-Bains",
         "Phare de Port-Carène"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1382,7 +1414,8 @@
       "chapter4": [],
       "chapter5": [
         "Grand désert de l'est"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1424,7 +1457,8 @@
       "chapter5": [
         "Grotte du symbole de la foi",
         "Région de Parthénia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1465,7 +1499,8 @@
       "chapter5": [
         "Région de Bourg-les-Bains",
         "Région du phare de Port-Carène"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1506,7 +1541,8 @@
       "chapter4": [],
       "chapter5": [
         "Grotte de Chandor"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1548,7 +1584,8 @@
       "chapter5": [
         "Grotte de Chandor",
         "Région de Bourg-les-Bains"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1587,7 +1624,8 @@
       "chapter4": [],
       "chapter5": [
         "Phare de Port-Carène"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1630,7 +1668,8 @@
         "Grand désert de l'est",
         "Région de Port-Carène",
         "Région du phare de Port-Carène"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1669,7 +1708,8 @@
       "chapter4": [],
       "chapter5": [
         "Tour elfique"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1708,7 +1748,8 @@
       "chapter4": [],
       "chapter5": [
         "Tour elfique"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1749,7 +1790,8 @@
         "Phare de Port-Carène",
         "Région de Ringys",
         "Désert d'El Forado"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1790,7 +1832,8 @@
         "Grand désert de l'est",
         "Région de Port-Carène",
         "Phare de Port-Carène"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1833,7 +1876,8 @@
         "Grotte de Chandor",
         "Région du phare de Port-Carène",
         "Phare de Port-Carène"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1872,7 +1916,8 @@
       "chapter4": [],
       "chapter5": [
         "Grotte de Chandor"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1915,7 +1960,8 @@
       "chapter5": [
         "Région de Casabranca",
         "Grand désert de l'est"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -1953,7 +1999,8 @@
         "Région de Teafortwo",
         "Région de Deadend"
       ],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -1991,7 +2038,8 @@
         "Grotte de Deadend",
         "Région de Port Lionel"
       ],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -2031,7 +2079,8 @@
         "Région du palais de Lord Lionel",
         "Région de Port Lionel"
       ],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -2071,7 +2120,8 @@
         "Région du palais de Lord Lionel",
         "Région de Port Lionel"
       ],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -2109,7 +2159,8 @@
         "Région de Deadend",
         "Région de Port Lionel"
       ],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -2150,7 +2201,8 @@
       "chapter5": [
         "Région du palais de Lord Lionel",
         "Région de Port Lionel"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2191,7 +2243,8 @@
       "chapter5": [
         "Région du palais de Lord Lionel",
         "Région de Port Lionel"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2231,7 +2284,8 @@
       "chapter5": [
         "Région de Ringys",
         "Désert d'El Forado"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2274,7 +2328,8 @@
         "Région de Deadend",
         "Région du Port Lionel",
         "Mine d'Alpion"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2311,7 +2366,8 @@
       "chapter4": [],
       "chapter5": [
         "Grand désert de l'est"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2353,7 +2409,8 @@
         "Région de Bourg-les-Bains",
         "Région du phare de Port-Carène",
         "Région de Port-Carène"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2394,7 +2451,8 @@
         "Mine d'Alpion",
         "Région grotte du symbole de la foi",
         "Phare de Port-Carène"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2436,7 +2494,8 @@
         "Région de Port Lionel",
         "Région des mines d'Alpion",
         "Forêt de Strattbourg"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2475,7 +2534,8 @@
       ],
       "chapter5": [
         "Mine d'Alpion"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2517,7 +2577,8 @@
         "Région de Ringys",
         "Grotte de Pathénia",
         "Désert d'El Forado"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2556,7 +2617,8 @@
         "Région de Bourg-les-Bains",
         "Région de Ringys",
         "Désert d'El Forado"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2601,7 +2663,8 @@
         "Région de Parthénia",
         "Région de Ringys",
         "Désert d'El Forado"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2642,7 +2705,8 @@
         "Mine d'Alpion",
         "Région de Parthénia",
         "Grotte de Parthénia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2682,7 +2746,8 @@
       "chapter5": [
         "Mine d'Alpion",
         "Phare de Port-Carène"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2721,7 +2786,8 @@
       "chapter4": [],
       "chapter5": [
         "Région de Ballimore"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2758,7 +2824,8 @@
       "chapter4": [],
       "chapter5": [
         "Région grotte du symbole de la foi"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2797,7 +2864,8 @@
         "Grand désert de l'est",
         "Région de Bourg-les-Bains",
         "Région de Port-Carène"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2834,7 +2902,8 @@
       "chapter4": [],
       "chapter5": [
         "Grand désert de l'est"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2874,7 +2943,8 @@
         "Grotte de Deadend",
         "Région du palais de Lord Lionel",
         "Région de Canalot"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2914,7 +2984,8 @@
         "Région de Parthénia",
         "Grotte de Parthénia",
         "Désert d'El Forado"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2952,7 +3023,8 @@
       "chapter5": [
         "Région de Parthénia",
         "Région du palais de Lord Lionel"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -2990,7 +3062,8 @@
       "chapter5": [
         "Grotte de Deadend",
         "Région de Parthénia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3027,7 +3100,8 @@
       "chapter4": [],
       "chapter5": [
         "Grotte de Parthénia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3069,7 +3143,8 @@
         "Grotte de Deadend",
         "Région du palais de Lord Lionel",
         "Grotte de Parthénia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3106,7 +3181,8 @@
       "chapter4": [],
       "chapter5": [
         "Grotte de Parthénia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3147,7 +3223,8 @@
         "Région de Fémiscyra",
         "Grotte de Fémiscyra",
         "Crypte royale"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3185,7 +3262,8 @@
       "chapter5": [
         "Grotte de Deadend",
         "Région du palais de Lord Lionel"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3223,7 +3301,8 @@
       "chapter5": [
         "Grotte de Deadend",
         "Région du palais de Lord Lionel"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3260,7 +3339,8 @@
       "chapter4": [],
       "chapter5": [
         "Grotte de Deadend"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3298,7 +3378,8 @@
       "chapter5": [
         "Grotte de Deadend",
         "Château de Zamoksva"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3337,7 +3418,8 @@
         "Région du palais de Lord Lionel",
         "Grotte de Deadend",
         "Château de Zamoksva"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3375,7 +3457,8 @@
       "chapter5": [
         "Château de Zamoksva",
         "Tour des ténèbres"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3413,7 +3496,8 @@
       "chapter5": [
         "Château de Zamoksva",
         "Région de Fémiscyra"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3452,7 +3536,8 @@
         "Château de Zamoksva",
         "Région de Canalot",
         "Palais du démon"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3490,7 +3575,8 @@
       "chapter5": [
         "Région de Canalot",
         "Château de Zamoksva"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3532,7 +3618,8 @@
         "Région du palais du démon",
         "Palais du démon",
         "Château de Zamoksva"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3572,7 +3659,8 @@
         "Région de Fémiscyra",
         "Grotte de Fémiscyra",
         "Tour de Rosecolline"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3610,7 +3698,8 @@
       "chapter5": [
         "Région de Canalot",
         "Havre céleste"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3647,7 +3736,8 @@
       "chapter4": [],
       "chapter5": [
         "Région de Canalot"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3686,7 +3776,8 @@
         "Région de Rosecolline",
         "Région de Fémiscyra",
         "Grotte de Fémiscyra"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3724,7 +3815,8 @@
       "chapter5": [
         "Région de Rosecolline",
         "Région de Fémiscyra"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3763,7 +3855,8 @@
         "Région de Rosecolline",
         "Région de Fémiscyra",
         "Région de Strattbourg"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3802,7 +3895,8 @@
         "Région de Fémiscyra",
         "Grotte de Fémiscyra",
         "Région de Bastione"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3840,7 +3934,8 @@
       "chapter5": [
         "Région de Fémiscyra",
         "Grotte de Fémiscyra"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3878,7 +3973,8 @@
       "chapter5": [
         "Région de Rosecolline",
         "Grotte de Fémiscyra"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3917,7 +4013,8 @@
         "Crypte royale",
         "Tour Zénithia",
         "Tour des ténèbres"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3956,7 +4053,8 @@
         "Région de Rosecolline",
         "Grotte de Fémiscyra",
         "Crypte royale"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -3995,7 +4093,8 @@
         "Région de Rosecolline",
         "Grotte de Fémiscyra",
         "Crypte royale"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4034,7 +4133,8 @@
         "Grotte de l'armure zénithienne",
         "Océan",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4075,7 +4175,8 @@
         "Région du palais du démon",
         "Palais du démon",
         "Mine d'Alpion"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4114,7 +4215,8 @@
         "Grotte de l'armure zénithienne",
         "Région du palais du démon",
         "Mine d'Alpion"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4152,7 +4254,8 @@
       "chapter5": [
         "Grotte de l'armure zénithienne",
         "Colosse de pierre"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4192,7 +4295,8 @@
         "Colosse de pierre",
         "Région du palais du démon",
         "Mine d'Alpion"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4231,7 +4335,8 @@
         "Grotte de l'armure zénithienne",
         "Colosse de pierre",
         "L'Yggdrasil"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4270,7 +4375,8 @@
         "Grotte de l'armure zénithienne",
         "Région d'Estuaria",
         "Colosse de pierre"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4308,7 +4414,8 @@
       "chapter5": [
         "Grotte de l'armure zénithienne",
         "Colosse de pierre"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4347,7 +4454,8 @@
         "Région de Rosecolline",
         "Grotte de Rosecolline",
         "Crypte royale"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4384,7 +4492,8 @@
       "chapter4": [],
       "chapter5": [
         "Crypte royale"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4423,7 +4532,8 @@
         "Crypte royale",
         "Région d'Estuaria",
         "Colosse de pierre"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4460,7 +4570,8 @@
       "chapter4": [],
       "chapter5": [
         "Région d'Estuaria"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4500,7 +4611,8 @@
         "Colosse de pierre",
         "Région du palais du démon",
         "Palais du démon"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4538,7 +4650,8 @@
       "chapter5": [
         "Région d'Estuaria",
         "Colosse de pierre"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4577,7 +4690,8 @@
         "Région d'Estuaria",
         "Colosse de pierre",
         "Palais du démon"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4614,7 +4728,8 @@
       "chapter4": [],
       "chapter5": [
         "Colosse de pierre"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4652,7 +4767,8 @@
       "chapter5": [
         "Région du palais du démon",
         "Mine d'Alpion"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4691,7 +4807,8 @@
         "Région du palais du démon",
         "Mine d'Alpion",
         "L'Yggdrasil"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4729,7 +4846,8 @@
       "chapter5": [
         "Mine d'Alpion",
         "L'Yggdrasil"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4767,7 +4885,8 @@
       "chapter5": [
         "Mine d'Alpion",
         "L'Yggdrasil"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4805,7 +4924,8 @@
       "chapter5": [
         "Mine d'Alpion",
         "Tour Zénithia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4842,7 +4962,8 @@
       "chapter4": [],
       "chapter5": [
         "Région d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4880,7 +5001,8 @@
       "chapter5": [
         "L'Yggdrasil",
         "Région d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4918,7 +5040,8 @@
       "chapter5": [
         "L'Yggdrasil",
         "Région d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4956,7 +5079,8 @@
       "chapter5": [
         "Région d'Azimuth",
         "Tour Zénithia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -4993,7 +5117,8 @@
       "chapter4": [],
       "chapter5": [
         "Région d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5032,7 +5157,8 @@
         "Région d'Azimuth",
         "Tour Zénithia",
         "Tour des ténèbres"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5069,7 +5195,8 @@
       "chapter4": [],
       "chapter5": [
         "L'Yggdrasil"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5106,7 +5233,8 @@
       "chapter4": [],
       "chapter5": [
         "L'Yggdrasil"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5143,7 +5271,8 @@
       "chapter4": [],
       "chapter5": [
         "Tour Zénithia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5184,7 +5313,8 @@
         "Havre céleste",
         "Château des ténèbres",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5223,7 +5353,8 @@
         "Tour Zénithia",
         "Havre céleste",
         "Château des ténèbres"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5263,7 +5394,8 @@
         "Tour des ténèbres",
         "Château des ténèbres",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5300,7 +5432,8 @@
       "chapter4": [],
       "chapter5": [
         "Tour Zénithia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5338,7 +5471,8 @@
       "chapter5": [
         "Tour Zénithia",
         "Tour des ténèbres"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5377,7 +5511,8 @@
         "Tour Zénithia",
         "Tour des ténèbres",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5414,7 +5549,8 @@
       "chapter4": [],
       "chapter5": [
         "Tour Zénithia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5452,7 +5588,8 @@
       "chapter5": [
         "Tour Zénithia",
         "Tour des ténèbres"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5492,7 +5629,8 @@
         "Havre céleste",
         "Château des ténèbres",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5529,7 +5667,8 @@
       "chapter4": [],
       "chapter5": [
         "Château des ténèbres"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5567,7 +5706,8 @@
       "chapter5": [
         "Havre céleste",
         "Château des ténèbres"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5604,7 +5744,8 @@
       "chapter4": [],
       "chapter5": [
         "Tour des ténèbres"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5642,7 +5783,8 @@
       "chapter5": [
         "Tour des ténèbres",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5679,7 +5821,8 @@
       "chapter4": [],
       "chapter5": [
         "Tour Zénithia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5719,7 +5862,8 @@
         "Tour des ténèbres",
         "Château des ténèbres",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5757,7 +5901,8 @@
       "chapter5": [
         "Château des ténèbres",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5796,7 +5941,8 @@
         "Havre céleste",
         "Château des ténèbres",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5835,7 +5981,8 @@
         "Havre céleste",
         "Château des ténèbres",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5873,7 +6020,8 @@
       "chapter5": [
         "Tour des ténèbres",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5911,7 +6059,8 @@
       "chapter5": [
         "Havre céleste",
         "Château des ténèbres"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5948,7 +6097,8 @@
       "chapter4": [],
       "chapter5": [
         "Tour des ténèbres"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -5985,7 +6135,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6022,7 +6173,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6059,7 +6211,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6096,7 +6249,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6133,7 +6287,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6170,7 +6325,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6207,7 +6363,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6244,7 +6401,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6281,7 +6439,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6318,7 +6477,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6355,7 +6515,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6392,7 +6553,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6429,7 +6591,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6466,7 +6629,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6503,7 +6667,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6540,7 +6705,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6577,7 +6743,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6614,7 +6781,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6651,7 +6819,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6688,7 +6857,8 @@
       "chapter4": [],
       "chapter5": [
         "Grotte de Parthénia"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6729,7 +6899,8 @@
         "Mine d'Alpion",
         "Tour des ténèbres",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6766,7 +6937,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6803,7 +6975,8 @@
       "chapter4": [],
       "chapter5": [
         "Forêt de Strattbourg"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6840,7 +7013,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6877,7 +7051,8 @@
       "chapter4": [],
       "chapter5": [
         "Océan"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6914,7 +7089,8 @@
       "chapter4": [],
       "chapter5": [
         "Océan"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6951,7 +7127,8 @@
       "chapter4": [],
       "chapter5": [
         "Océan"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -6988,7 +7165,8 @@
       "chapter4": [],
       "chapter5": [
         "Océan"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7025,7 +7203,8 @@
       "chapter4": [],
       "chapter5": [
         "Océan"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7062,7 +7241,8 @@
       "chapter4": [],
       "chapter5": [
         "Océan"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7099,7 +7279,8 @@
       "chapter4": [],
       "chapter5": [
         "Océan"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7136,7 +7317,8 @@
       "chapter4": [],
       "chapter5": [
         "Océan"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7173,7 +7355,8 @@
       "chapter4": [],
       "chapter5": [
         "Océan"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7210,7 +7393,8 @@
       "chapter4": [],
       "chapter5": [
         "Océan"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7247,7 +7431,8 @@
       "chapter4": [],
       "chapter5": [
         "Océan"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7285,7 +7470,8 @@
       "chapter5": [
         "Océan",
         "Grotte de Rosecolline"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7322,7 +7508,8 @@
       "chapter4": [],
       "chapter5": [
         "Océan"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7359,7 +7546,8 @@
       "chapter4": [],
       "chapter5": [
         "Océan"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7398,7 +7586,8 @@
         "Océan",
         "Grotte de Rosecolline",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7437,7 +7626,8 @@
         "Océan",
         "Grotte de Rosecolline",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7474,7 +7664,8 @@
       "chapter4": [],
       "chapter5": [
         "Océan"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7513,7 +7704,8 @@
         "Océan",
         "Grotte de Rosecolline",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7552,7 +7744,8 @@
         "Océan",
         "Grotte de Rosecolline",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7590,7 +7783,8 @@
       "chapter5": [
         "Océan",
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7627,7 +7821,8 @@
       "chapter2": [],
       "chapter3": [],
       "chapter4": [],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -7664,7 +7859,8 @@
       ],
       "chapter3": [],
       "chapter4": [],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -7701,7 +7897,8 @@
       ],
       "chapter3": [],
       "chapter4": [],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -7738,7 +7935,8 @@
       "chapter4": [
         "Palais de Lord Lionel"
       ],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": []
     }
   },
   {
@@ -7775,7 +7973,8 @@
       "chapter4": [],
       "chapter5": [
         "Grotte du symbole de la foi"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7812,7 +8011,8 @@
       "chapter4": [],
       "chapter5": [
         "Phare de Port-Carène"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7849,7 +8049,8 @@
       "chapter4": [],
       "chapter5": [
         "Palais de Lord Lionel"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7886,7 +8087,8 @@
       "chapter4": [],
       "chapter5": [
         "Château de Zamoksva"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7923,7 +8125,8 @@
       "chapter4": [],
       "chapter5": [
         "Tour de Rosecolline"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7960,7 +8163,8 @@
       "chapter4": [],
       "chapter5": [
         "Autel sud-est du Havre céleste"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -7997,7 +8201,8 @@
       "chapter4": [],
       "chapter5": [
         "Autel sud-ouest du Havre céleste"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -8034,7 +8239,8 @@
       "chapter4": [],
       "chapter5": [
         "Autel nord-ouest du Havre céleste"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -8071,7 +8277,8 @@
       "chapter4": [],
       "chapter5": [
         "Autel nord-est du Havre céleste"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -8108,7 +8315,8 @@
       "chapter4": [],
       "chapter5": [
         "Autel nord-est du Havre céleste"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -8145,7 +8353,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -8182,7 +8391,8 @@
       "chapter4": [],
       "chapter5": [
         "Donjon d'Azimuth"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -8275,7 +8485,8 @@
       "chapter4": [],
       "chapter5": [
         "Pic de Psaro"
-      ]
+      ],
+      "chapter6": []
     }
   },
   {
@@ -8345,7 +8556,8 @@
       "chapter2": [],
       "chapter3": [],
       "chapter4": [],
-      "chapter5": []
+      "chapter5": [],
+      "chapter6": ["Palais du démon"]
     }
   }
 ]
