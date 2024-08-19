@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "SoruTheSleepy / NaorimSenchai",
+  "author": "SoruTheWhistler",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.0",
