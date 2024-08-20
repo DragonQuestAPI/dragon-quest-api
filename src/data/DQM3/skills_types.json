@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/skills_icons/attacking.png",
+    "name": {
+      "EN": "Attacking",
+      "ES": "",
+      "FR": "Attaque",
+      "DE": "Angriff",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attacking"
+  },
+  {
+    "id": 2,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/skills_icons/healing.png",
+    "name": {
+      "EN": "Healing",
+      "ES": "",
+      "FR": "Soins",
+      "DE": "Heilung",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "healing"
+  },
+  {
+    "id": 3,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/skills_icons/support.png",
+    "name": {
+      "EN": "Support",
+      "ES": "",
+      "FR": "Soutien",
+      "DE": "Unterstützung",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "support"
+  }
+]

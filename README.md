@@ -47,6 +47,7 @@
   <br>
   <li>Dragon Quest Monsters Joker</li>
   <li>Dragon Quest Monsters Joker 2</li>
+  <li>Dragon Quest Monsters: The Dark Prince</li>
   <br>
   <li>Probably more to come in the future...</li>
 </ul>
@@ -57,7 +58,7 @@
     <a href="https://github.com/EnriqueFeola"><img src='https://avatars.githubusercontent.com/u/110606657' height=48px/>EnriqueFeola</a> - Contributor
   </li>
   <li>
-    <a href="https://github.com/NaorimSenchai"><img src='https://avatars.githubusercontent.com/u/56729935' height=48px/>NaorimSenchai</a> - Founder, Contributor
+    <a href="https://github.com/NaorimSenchai"><img src='https://avatars.githubusercontent.com/u/56729935' height=48px/>SoruTheWhistler</a> - Founder, Contributor
   </li>
 </ul>
 
@@ -67,17 +68,12 @@
 
 <h2>Dragon Quest API development files</h2>
 
-<p>The Dragon Quest API's development files were moved to the Dragon Quest API Team's cloud storage.</p>
-<p>They can now only be accessed by the development team or on demand.</p>
-<p>If you wish to help with the project, feel free to send us a DM for more informations.</p>😄
-
 <p>Those include :</p>
 <ul>
-    <li>Save files to fetch informations easily</li>
+    <li>Game save files to fetch and verify informations easily</li>
     <li>Textual files containing helpful informations</li>
-    <li>Screenshots to prove the veracity of a specific information</li>
+    <li>Screenshots to prove the veracity of specific informations</li>
 </ul>
-
-<h2>Joining the development team</h2>
-
-<p>If you're a developer and wish to join the project, feel free to DM us. Same applies if you are not a developer but can find informations and / or rip sprites from the game.</p>
+<p>The Dragon Quest API's development files were moved to the Dragon Quest API Team's cloud storage.</p>
+<p>They can now only be accessed by the development team or on demand.</p>
+<p>If you wish to help with the project, contact us for more informations.</p>

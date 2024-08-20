@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "EN": "Skill",
+      "ES": "",
+      "FR": "Compétence",
+      "DE": "Talent",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "skill"
+  },
+  {
+    "id": 2,
+    "name": {
+      "EN": "Attribute Boost",
+      "ES": "",
+      "FR": "Bonus de caractéristique",
+      "DE": "Attributsbonus",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attribute_boost"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "EN": "Attribute Boost",
+      "ES": "",
+      "FR": "Bonus de caractéristique",
+      "DE": "Attributsbonus",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attribute_boost"
+  },
+  {
+    "id": 2,
+    "name": {
+      "EN": "Resistance/Damage",
+      "ES": "",
+      "FR": "Résistance/Dégâts",
+      "DE": "Resistenz/Schaden",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "resistance_damage"
+  },
+  {
+    "id": 3,
+    "name": {
+      "EN": "Special Effect",
+      "ES": "",
+      "FR": "Effet spécial",
+      "DE": "Besonderer Effekt",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "special_effect"
+  }
+]

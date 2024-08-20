@@ -1,1800 +1,1800 @@
 [
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bâton de cyprès",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 2,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 10, "sell": 5, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Massue de chêne",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 9,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 60, "sell": 30, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée de cuivre",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 13,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 270, "sell": 135, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée dentée",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 27,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 1200, "sell": 600, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée large d'acier",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 33,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 2000, "sell": 1000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée de Petros",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 40,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Précieux souvenir de Petros",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée serpentine",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 42,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 3900, "sell": 1950, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée du rêve",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 55,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 6300, "sell": 3150, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée soporifique qui endort parfois les ennemis",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée du faucon",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 67,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 17500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cette épée rapide peut frapper deux fois en un seul Tour",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée des sirènes",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 70,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 9800, "sell": 4900, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée qui désoriente parfois l'ennemi",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Dague de glace",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 70,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 9000, "sell": 4500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisée comme objet au combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Fléau des zombies",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 80,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 11500, "sell": 5750, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "L'arme idéale si vous voulez infliger de gros dégâts aux morts-vivants",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Lame des fées",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 85,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 7700, "sell": 3850, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisée comme objet au combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Fléau des dragons",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 90,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 15000, "sell": 7500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cette arme inflige plus de dégâts aux dragons",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée du massacre",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 95,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 375, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Attention ! Cette épée cache bien son pouvoir",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée double",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 99,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 3300, "sell": 1650, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Attention ! Cette épée cache bien son pouvoir",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée miraculeuse",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 100,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 4750, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Restaure les PV de l'utilisateur à chaque attaque",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Lame du blizzard",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 105,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 21000, "sell": 10500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Inflige des dégâts suplémentaires aux ennemis qui ne supportent pas le froid",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée de l'enfer",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 120,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 150, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée royale",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 130,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Epée zénithienne",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 110,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisée comme objet au combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Lance de bambou",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 5,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 50, "sell": 25, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Lance du tonnerre",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 85,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 13500, "sell": 6750, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisée comme objet au combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Lance du démon",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 99,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 25000, "sell": 12500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bien protégée, cette lance peut infliger un coup critique",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Griffe de fer",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 19,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 550, "sell": 275, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Griffe de feu",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 53,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 4700, "sell": 2350, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisée comme objet au combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Griffe de cobra",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 90,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 1750, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cette griffe toxique peut parfois empoisonner sa cible",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Affrongles",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 40,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 1750, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Transperce l'ennemi deux fois en une seule frappe",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Destructiongles",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 55,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 16000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Transperce l'ennemi deux fois en une seule frappe",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Pieu d'os",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 6,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 70, "sell": 35, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Crocs de pierre",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 12,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 240, "sell": 120, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Crocs d'acier",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 35,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 2000, "sell": 1000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Crocs d'orichalque",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 115,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 9000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Boomerang",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 15,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 420, "sell": 210, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cette arme rapide peut être utilisée pour attaquer simultanément tous les ennemis",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Boomerang à lames",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 25,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 1500, "sell": 750, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cette arme rapide peut être utilisée pour attaquer simultanément tous les ennemis",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Boomerang de feu",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 65,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 13000, "sell": 6500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cette arme rapide peut être utilisée pour attaquer simultanément tous les ennemis",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Maillet géant",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 10,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 220, "sell": 110, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Masse de guerre",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 30,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 1800, "sell": 900, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Marteau d'armes",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 60,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 6500, "sell": 3250, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Marteau de hela",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 70,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 300, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ce marteau est difficile à lancer, mais il peut faire très mal",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Fléau d'armes",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 45,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 3000, "sell": 1500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Cet outil mortel peut frapper tout un groupe d'ennemis",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Couteau de cuisine",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 6,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 50, "sell": 25, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Poignard de bronze",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 12,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 150, "sell": 75, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Poignard empoisonné",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 24,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 900, "sell": 450, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ce poignard peut parfois paralyser sa cible",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Aiguille empoisonnée",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 1,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 2900, "sell": 1450, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bien lancée, cette pique peut infliger un coup critique",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Dagues d'oreilles",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 35,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 750, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ces bijoux permettent de frapper deux fois en un seul Tour",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Fouet d'épines",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 18,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 350, "sell": 175, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ce fouet mortel peut toucher tout un groupe d'ennemis",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Fouet de chaîne",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 28,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 1200, "sell": 600, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ce fouet mortel peut toucher tout un groupe d'ennemis",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Fouet d'acier",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 65,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 7400, "sell": 3700, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ce fouet mortel peut toucher tout un groupe d'ennemis",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Fouet de gringham",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 100,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 10000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ce fouet mortel peut toucher tout un groupe d'ennemis",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bâton du salut",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": null,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 3000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisée comme objet au combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bâton de chêne",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 9,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 130, "sell": 65, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bâton de fer",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 22,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 850, "sell": 425, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bâton de foudre",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 29,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 10000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisée comme objet au combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bâton du courroux",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 35,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 2150, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisée comme objet au combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bâton d'antimagie",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 40,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": 2000, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisée comme objet au combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bâton somatique",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 55,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 2500, "sell": 1250, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ce bâton utilise les PM de celui qui s'en sert pour attaquer",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bâton de stolos",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 60,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisée comme objet au combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bâton de lave",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 63,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisée comme objet au combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bâton de résurrection",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 66,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 45000, "sell": 22500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisé comme objet",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Bâton du dragon",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 125,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": null, "sell": null, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Peut aussi être utilisée comme objet au combat",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Grande arbalète",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "stats": {
       "attack": 110,
-      "defense": "?",
-      "agility": "?",
-      "wisdom": "?",
-      "luck": "?"
+      "defense": "",
+      "agility": "",
+      "wisdom": "",
+      "luck": ""
     },
     "price": { "buy": 37000, "sell": 18500, "token": null, "minimedal": null },
     "description": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "found_at": [],
     "buyable_at": [],
-    "slug": "_slug"
+    "slug": ""
   }
 ]

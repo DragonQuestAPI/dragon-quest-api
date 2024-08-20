@@ -5,15 +5,15 @@
       "EN": "World",
       "ES": "Mundo",
       "FR": "Monde",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ロトゼタシア"
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/world.png",
-    "continent": "?",
+    "continent": "",
     "type": "overworld",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 2,
@@ -21,15 +21,15 @@
       "EN": "The Azimut",
       "ES": "El Azimut",
       "FR": "L'Azimut",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ゴットサイド"
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/the_azimut.png",
-    "continent": "?",
+    "continent": "",
     "type": "overworld",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 3,
@@ -37,15 +37,15 @@
       "EN": "Nadiria",
       "ES": "Nadiria",
       "FR": "Nadiria",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "闇の世界"
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/nadiria.png",
-    "continent": "?",
+    "continent": "",
     "type": "overworld",
-    "slug": "_slug"
+    "slug": ""
   },
 
   {
@@ -54,15 +54,15 @@
       "EN": "Burland",
       "ES": "Burlandia",
       "FR": "Bastione",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "バトランド"
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/burland.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 5,
@@ -70,15 +70,15 @@
       "EN": "Strathbaile Burrow",
       "ES": "Madriguera de Candonga",
       "FR": "Grotte de Strattbourg",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "イムル"
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 6,
@@ -86,15 +86,15 @@
       "EN": "Strathbaile",
       "ES": "Candonga",
       "FR": "Strattbourg",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "イムル"
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/strathbaile.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 7,
@@ -102,15 +102,15 @@
       "EN": "Auld well",
       "ES": "Pozo del bosque",
       "FR": "Aire de jeu",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "古井戸の底"
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 8,
@@ -118,15 +118,15 @@
       "EN": "Loch Tur",
       "ES": "Torre de Candonga",
       "FR": "Tour de Strattbourg",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "湖の塔"
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
 
   {
@@ -135,15 +135,15 @@
       "EN": "Zamoksva",
       "ES": "Zamoksva",
       "FR": "Zamoksva",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "サントハイム"
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/zamoksva.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 10,
@@ -151,15 +151,15 @@
       "EN": "Zalenagrad",
       "ES": "Zalenagrado",
       "FR": "Zalenagrad",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "サラン"
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/zalenagrad.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 11,
@@ -167,15 +167,15 @@
       "EN": "Taborov",
       "ES": "Taborov",
       "FR": "Taborov",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "サラン"
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/taborov.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 12,
@@ -183,15 +183,15 @@
       "EN": "Vrenor",
       "ES": "Vrenor",
       "FR": "Vrenor",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "フレノール"
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/vrenor.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 13,
@@ -199,15 +199,15 @@
       "EN": "Vault of Vrenor",
       "ES": "Bóveda de Vrenor",
       "FR": "Grotte de Vrenor",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "フレノール南の洞窟"
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 14,
@@ -215,15 +215,15 @@
       "EN": "Desert Bazaar",
       "ES": "Bazar del desierto",
       "FR": "Bazar du désert",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "さばくのバザー"
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/desert_bazaar.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 15,
@@ -231,15 +231,15 @@
       "EN": "Birdsong Tower",
       "ES": "Torre del Piar",
       "FR": "Tour du Rossignol",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "さえずりの塔"
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 16,
@@ -247,15 +247,15 @@
       "EN": "Zamoksva/Endor Teleportal",
       "ES": "Portal a Zamoksva/Endor",
       "FR": "Téléportail Zamoksva/Chandor",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": ""
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 17,
@@ -263,48 +263,48 @@
       "EN": "Endor",
       "ES": "Endor",
       "FR": "Chandor",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "エンドール"
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/endor.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
 
   {
     "id": 18,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Lakanaba",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "レイクナバ"
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/?.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 19,
     "name": {
       "EN": "Cave of Safekeeping",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
       "JA": "レイクナバ北の洞窟"
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 20,
@@ -312,273 +312,273 @@
       "EN": "Shinnock",
       "ES": "Alameda",
       "FR": "Reginhart",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ドン・ガアデ"
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 21,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Ballimore",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/?.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 22,
     "name": {
       "EN": "The Cistern Chapel",
-      "ES": "?",
+      "ES": "",
       "FR": "Caverne de la statuette d'argent",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 23,
     "name": {
       "EN": "Trans-Montane Tunnel",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "ES": "",
+      "FR": "Tunnel Transmontane",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
 
   {
     "id": 24,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Teafortwo",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/?.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 25,
     "name": {
-      "EN": "?",
-      "ES": "?",
+      "EN": "",
+      "ES": "",
       "FR": "Deadend",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/?.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 26,
     "name": {
       "EN": "Cave West of Aubout du Monde",
-      "ES": "?",
+      "ES": "",
       "FR": "Caverne à l'ouest de Deadend",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 27,
     "name": {
       "EN": "Palais de Léon",
-      "ES": "?",
+      "ES": "",
       "FR": "Palais de Lord Lionel",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/palais_de_leon.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 28,
     "name": {
       "EN": "Havre Léon",
-      "ES": "?",
+      "ES": "",
       "FR": "Port Lionel",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/havre_leon.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 29,
     "name": {
       "EN": "House of Prophecy",
-      "ES": "?",
+      "ES": "",
       "FR": "La Prophétisserie",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "shrine",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 30,
     "name": {
       "EN": "Mamon",
-      "ES": "?",
+      "ES": "",
       "FR": "Alpion",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/mamon.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 31,
     "name": {
       "EN": "Mamon mine",
-      "ES": "?",
+      "ES": "",
       "FR": "Mine d'Alpion",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
 
   {
     "id": 32,
     "name": {
       "EN": "Hidden Valley",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "ES": "",
+      "FR": "Village des montagnes",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 33,
     "name": {
       "EN": "Woodcutter's cabin",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "ES": "",
+      "FR": "Cabane du bûcheron",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 34,
     "name": {
       "EN": "Casabranca",
-      "ES": "?",
+      "ES": "",
       "FR": "Casabranca",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/casabranca.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 35,
     "name": {
       "EN": "Last Chance Saloon",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
       "JA": "砂漠の宿屋"
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 36,
     "name": {
       "EN": "Con Cave",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
       "JA": "裏切りの洞窟"
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 37,
@@ -592,9 +592,9 @@
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/bath.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 38,
@@ -608,9 +608,9 @@
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/porthtrunnel.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 39,
@@ -620,13 +620,13 @@
       "FR": "Balise de Pharos",
       "DE": "Turm von Pharos",
       "IT": "Faro di Pharos",
-      "JA": "?"
+      "JA": ""
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 38,
@@ -640,57 +640,57 @@
     },
     "shops": [],
     "map": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4//maps/mintos.png",
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 39,
     "name": {
       "EN": "Mintos Shrine",
-      "ES": "?",
+      "ES": "",
       "FR": "Sanctuaire de Ringys",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "shrine",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 40,
     "name": {
       "EN": "Parthenia",
-      "ES": "?",
+      "ES": "",
       "FR": "Pathénia",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ソレッタ"
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 41,
     "name": {
       "EN": "Imperial Pantry of Parthenia",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
       "JA": "パデキアの洞窟"
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 42,
@@ -704,9 +704,9 @@
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 43,
@@ -720,9 +720,9 @@
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 44,
@@ -736,25 +736,25 @@
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 45,
     "name": {
       "EN": "Cove's Cove",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
       "JA": "ガーデンブルグ南東の洞窟"
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 46,
@@ -768,9 +768,9 @@
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 47,
@@ -784,25 +784,25 @@
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 48,
     "name": {
       "EN": "The Colossus",
-      "ES": "?",
+      "ES": "",
       "FR": "Le Colosse",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 49,
@@ -816,25 +816,25 @@
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 50,
     "name": {
       "EN": "Estark's Crypt",
-      "ES": "?",
+      "ES": "",
       "FR": "Crypte d'Estark",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 51,
@@ -848,23 +848,23 @@
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "town",
-    "slug": "_slug"
+    "slug": ""
   },
   {
     "id": 52,
     "name": {
       "EN": "The Azimut",
-      "ES": "?",
+      "ES": "",
       "FR": "L'Azimut",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "town",
     "slug": "the_azimut"
   },
@@ -872,16 +872,16 @@
     "id": 53,
     "name": {
       "EN": "",
-      "ES": "?",
+      "ES": "",
       "FR": "Tour du Zenith",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "shops": [],
     "map": null,
-    "continent": "?",
+    "continent": "",
     "type": "dungeon",
-    "slug": "_slug"
+    "slug": ""
   }
 ]

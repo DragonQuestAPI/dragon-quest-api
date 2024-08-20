@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/eggs_icons/normal/white_egg.webp",
+    "icon_small": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/eggs_icons/small/white_egg.webp",
+    "name": {
+      "EN": "White egg",
+      "ES": "",
+      "FR": "Œuf blanc",
+      "DE": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "white_egg"
+  },
+  {
+    "id": 2,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/eggs_icons/normal/silver_egg.webp",
+    "icon_small": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/eggs_icons/small/silver_egg.webp",
+    "name": {
+      "EN": "Silver egg",
+      "ES": "",
+      "FR": "Œuf argenté",
+      "DE": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "silver_egg"
+  },
+  {
+    "id": 3,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/eggs_icons/normal/golden_egg.webp",
+    "icon_small": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/eggs_icons/small/golden_egg.webp",
+    "name": {
+      "EN": "Golden egg",
+      "ES": "",
+      "FR": "Œuf doré",
+      "DE": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "golden_egg"
+  },
+  {
+    "id": 4,
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/eggs_icons/normal/rainbow_egg.webp",
+    "icon_small": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/eggs_icons/small/rainbow_egg.webp",
+    "name": {
+      "EN": "Rainbow egg",
+      "ES": "",
+      "FR": "Œuf arc-en-ciel",
+      "DE": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "rainbow_egg"
+  }
+]

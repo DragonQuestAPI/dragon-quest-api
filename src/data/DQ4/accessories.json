@@ -32,7 +32,7 @@
       "FR": "Fait augmenter la Force de quiconque l'enfile.",
       "DE": "Erhöht die Stärke all derer, die ihn überstreifen.",
       "IT": "Quest'anello accresce la forza di chi lo indossa.",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "strength_ring"
   },
@@ -69,7 +69,7 @@
       "FR": "Fait augmenter la Force de quiconque l'enfile.",
       "DE": "Erhöht die Stärke all derer die ihn überstreifen.",
       "IT": "Quest'anello accresce la forza di chi lo indossa.",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "mighty_armlet"
   },
@@ -106,7 +106,7 @@
       "FR": "Augmente la défense lorsqu'il est porté.",
       "DE": "Dieses brillante Armband erhöht die Abwehrkraft.",
       "IT": "Un bracciale che aumenta le capacità difensive di chi l'indossa.",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "gold_bracer"
   },
@@ -143,7 +143,7 @@
       "FR": "L'utilisation de cette bague permet de récupérer quelques PM.",
       "DE": "Dieser Ring regeneriert einige MP, wenn man ihn benutzt.",
       "IT": "Quest'anello sacro fa recuperare PM quando viene usato.",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "prayer_ring"
   },
@@ -160,17 +160,17 @@
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/fishnet_stockings.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/fishnet_stockings.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "wisdom": "",
+      "speed": "",
+      "luck": ""
     },
     "price": {
       "buy": 1200,
       "sell": 900,
-      "token": "?",
-      "minimedal": "?"
+      "token": "",
+      "minimedal": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -180,7 +180,7 @@
       "FR": "Les plus sexy des bas !",
       "DE": "Der letzte Schrei an sexy Beinkleidern!",
       "IT": "Per gambe irrestibili! Fiu-fiuuuuu!",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "fishnet_stockings"
   },
@@ -197,16 +197,16 @@
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/ruby_of_protection.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/ruby_of_protection.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "wisdom": "",
+      "speed": "",
+      "luck": ""
     },
     "price": {
       "buy": 2700,
-      "sell": "?",
-      "token": "?",
+      "sell": "",
+      "token": "",
       "minimedal": 20
     },
     "found_at": [],
@@ -217,7 +217,7 @@
       "FR": "Augmente la défense lorsqu'il est porté.",
       "DE": "Dieses brillante Armband erhöht die Abwehrkraft.",
       "IT": "Un bracciale che aumenta le capacità difensive di chi l'indossa.",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "ruby_of_protection"
   },
@@ -234,17 +234,17 @@
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/recovery_ring.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/recovery_ring.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "wisdom": "",
+      "speed": "",
+      "luck": ""
     },
     "price": {
-      "buy": "?",
-      "sell": "?",
-      "token": "?",
-      "minimedal": "?"
+      "buy": "",
+      "sell": "",
+      "token": "",
+      "minimedal": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -254,7 +254,7 @@
       "FR": "Restaure une partie des PV de celui qui la porte à chaque pas.",
       "DE": "Stellt bei jedem Schritt einige LP des Trägers wieder her.",
       "IT": "Chi lo indossa recupera HP a ogni passo percorso.",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "recovery_ring"
   },
@@ -271,17 +271,17 @@
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/kamikazee_bracer.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/kamikazee_bracer.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "wisdom": "",
+      "speed": "",
+      "luck": ""
     },
     "price": {
       "buy": 5000,
-      "sell": "?",
+      "sell": "",
       "token": 500,
-      "minimedal": "?"
+      "minimedal": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -291,7 +291,7 @@
       "FR": "Pourrait bien sauver la situation en cas de besoin !",
       "DE": "Diese aufrüttelnde Armschiene ist oft die letzte Rettung!",
       "IT": "Questo monile può essere molto utile nelle situazioni disperate!",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "kamikazee_bracer"
   },
@@ -308,16 +308,16 @@
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/kerplunk_bracer.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/kerplunk_bracer.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "wisdom": "",
+      "speed": "",
+      "luck": ""
     },
     "price": {
       "buy": 10000,
-      "sell": "?",
-      "token": "?",
+      "sell": "",
+      "token": "",
       "minimedal": 34
     },
     "found_at": [],
@@ -328,7 +328,7 @@
       "FR": "Pourrait bien sauver la situation en cas de besoin !",
       "DE": "Diese aufrüttelnde Armschiene ist oft die letzte Rettung!",
       "IT": "Questo monile può essere molto utile nelle situazioni disperate!",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "kerplunk_bracer"
   },
@@ -345,17 +345,17 @@
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/goddess_ring.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/goddess_ring.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "wisdom": "",
+      "speed": "",
+      "luck": ""
     },
     "price": {
-      "buy": "?",
-      "sell": "?",
-      "token": "?",
-      "minimedal": "?"
+      "buy": "",
+      "sell": "",
+      "token": "",
+      "minimedal": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -365,7 +365,7 @@
       "FR": "Restaure une partie des PM de celui qui la porte à chaque pas.",
       "DE": "Regeneriert bei jedem Schritt ein paar MP des Trägers.",
       "IT": "Chi lo indossa recupera PM mentre va in giro.",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "goddess_ring"
   },
@@ -382,17 +382,17 @@
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/mercurys_bandana.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/mercurys_bandana.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "wisdom": "",
+      "speed": "",
+      "luck": ""
     },
     "price": {
       "buy": 650,
       "sell": 487,
-      "token": "?",
-      "minimedal": "?"
+      "token": "",
+      "minimedal": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -402,7 +402,7 @@
       "FR": "Confère une plus grande Agilité à celui qui le porte.",
       "DE": "Erhöht die Flinkheit des Trägers.",
       "IT": "Accresce l'agilità di chi la indossa.",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "mercurys_bandana"
   },
@@ -427,9 +427,9 @@
     },
     "price": {
       "buy": null,
-      "sell": "?",
+      "sell": "",
       "token": 10000,
-      "minimedal": "?"
+      "minimedal": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -439,7 +439,7 @@
       "FR": "Ce brassard multiplie par deux l'Agilité de celui qui le porte !",
       "DE": "Diese flotte Armischiene verdoppelt die Flinkheit des Trägers!",
       "IT": "Questo bellissimo bracciade raddoppia l'agilità di chi l'indossa.",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "meteorite_bracer"
   },
@@ -456,16 +456,16 @@
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/lucida_shard.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/lucida_shard.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "wisdom": "",
+      "speed": "",
+      "luck": ""
     },
     "price": {
       "buy": 500,
       "sell": 375,
-      "token": "?",
+      "token": "",
       "minimedal": null
     },
     "found_at": [],
@@ -476,7 +476,7 @@
       "FR": "Peut aussi être utilisé comme objet au combat.",
       "DE": "Kann im Kampf auch als Werkzeug verwendet werden.",
       "IT": "Può anche essere usato come oggetto in battaglia.",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "lucida_shard"
   },
@@ -493,17 +493,17 @@
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/bunny_tail.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/bunny_tail.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "wisdom": "",
+      "speed": "",
+      "luck": ""
     },
     "price": {
       "buy": 230,
       "sell": 172,
-      "token": "?",
-      "minimedal": "?"
+      "token": "",
+      "minimedal": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -513,7 +513,7 @@
       "FR": "Porte chance à celui qui la porte... du moins, c'est ce qu'on dit !",
       "DE": "Wer ihn trägt, hat Glück... oder ist das nur ein Märchen?",
       "IT": "Si dice che chi la indossa diventi più fortunato. Sarà vero...?",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "bunny_tail"
   },
@@ -530,17 +530,17 @@
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/elevating_shoes.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/elevating_shoes.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "wisdom": "",
+      "speed": "",
+      "luck": ""
     },
     "price": {
-      "buy": "?",
-      "sell": "?",
-      "token": "?",
-      "minimedal": "?"
+      "buy": "",
+      "sell": "",
+      "token": "",
+      "minimedal": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -550,7 +550,7 @@
       "FR": "Chaussures qui font augmenter l'expérience à chaque pas.",
       "DE": "Lassen den Träger mit jedem Schritt ein wenig Erfahrung sammeln.",
       "IT": "Ogni passo percorso fa aumentare l'esperienza.",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "elevating_shoes"
   },
@@ -567,17 +567,17 @@
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_sprites/gospel_ring.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/accessories_artworks/gospel_ring.png",
     "stats": {
-      "attack": "?",
-      "defense": "?",
-      "wisdom": "?",
-      "speed": "?",
-      "luck": "?"
+      "attack": "",
+      "defense": "",
+      "wisdom": "",
+      "speed": "",
+      "luck": ""
     },
     "price": {
-      "buy": "?",
-      "sell": "?",
+      "buy": "",
+      "sell": "",
       "token": 250000,
-      "minimedal": "?"
+      "minimedal": ""
     },
     "found_at": [],
     "buyable_at": [],
@@ -587,7 +587,7 @@
       "FR": "Repousse tous les monstres errants lorsqu'il est porté.",
       "DE": "Hält alle umherwandernden Ungeheuer fern, wenn er getragen wird.",
       "IT": "Se indossato, allontana tutti i mostri vicini.",
-      "JA": "?"
+      "JA": ""
     },
     "slug": "gospel_ring"
   }

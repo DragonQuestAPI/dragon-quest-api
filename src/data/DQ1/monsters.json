@@ -1,6 +1,6 @@
 [
     {
-      "name": { "EN": "Armor Knight", "JA": "?" },
+      "name": { "EN": "Armor Knight", "JA": "" },
       "hp": "50-90",
       "attack": "60-70",
       "defense": "60-75",
@@ -12,7 +12,7 @@
       "slug": "armor_knight"
     },
     {
-      "name": { "EN": "Chimera", "JA": "?" },
+      "name": { "EN": "Chimera", "JA": "" },
       "hp": "30-45",
       "attack": "55",
       "defense": "45",
@@ -24,7 +24,7 @@
       "slug": "chimera"
     },
     {
-      "name": { "EN": "Darth Dragon", "JA": "?" },
+      "name": { "EN": "Darth Dragon", "JA": "" },
       "hp": "100-110",
       "attack": "110",
       "defense": "100",
@@ -36,7 +36,7 @@
       "slug": "darth_dragon"
     },
     {
-      "name": { "EN": "Death Scorpion", "JA": "?" },
+      "name": { "EN": "Death Scorpion", "JA": "" },
       "hp": "30-40",
       "attack": "50",
       "defense": "90",
@@ -48,7 +48,7 @@
       "slug": "death_scorpion"
     },
     {
-      "name": { "EN": "Demon Knight", "JA": "?" },
+      "name": { "EN": "Demon Knight", "JA": "" },
       "hp": "80",
       "attack": "90",
       "defense": "90",
@@ -60,7 +60,7 @@
       "slug": "demon_knight"
     },
     {
-      "name": { "EN": "Drackee", "JA": "?" },
+      "name": { "EN": "Drackee", "JA": "" },
       "hp": "6",
       "attack": "6-10",
       "defense": "5-6",
@@ -72,7 +72,7 @@
       "slug": "drackee"
     },
     {
-      "name": { "EN": "Dragon", "JA": "?" },
+      "name": { "EN": "Dragon", "JA": "" },
       "hp": "60",
       "attack": "90",
       "defense": "70",
@@ -84,7 +84,7 @@
       "slug": "dragon"
     },
     {
-      "name": { "EN": "Drakeema", "JA": "?" },
+      "name": { "EN": "Drakeema", "JA": "" },
       "hp": "15-25",
       "attack": "20",
       "defense": "25",
@@ -96,7 +96,7 @@
       "slug": "drakeema"
     },
     {
-      "name": { "EN": "Droll", "JA": "?" },
+      "name": { "EN": "Droll", "JA": "" },
       "hp": "30-35",
       "attack": "25",
       "defense": "5",
@@ -108,7 +108,7 @@
       "slug": "droll"
     },
     {
-      "name": { "EN": "Droll Mage", "JA": "?" },
+      "name": { "EN": "Droll Mage", "JA": "" },
       "hp": "45-55",
       "attack": "45",
       "defense": "15",
@@ -120,7 +120,7 @@
       "slug": "droll_mage"
     },
     {
-      "name": { "EN": "Ghost", "JA": "?" },
+      "name": { "EN": "Ghost", "JA": "" },
       "hp": "7",
       "attack": "10",
       "defense": "9",
@@ -132,7 +132,7 @@
       "slug": "ghost"
     },
     {
-      "name": { "EN": "Giant Scorpion", "JA": "?" },
+      "name": { "EN": "Giant Scorpion", "JA": "" },
       "hp": "10-20",
       "attack": "20",
       "defense": "35",
@@ -144,7 +144,7 @@
       "slug": "giant_scorpion"
     },
     {
-      "name": { "EN": "Gold Man", "JA": "?" },
+      "name": { "EN": "Gold Man", "JA": "" },
       "hp": "95-100",
       "attack": "45",
       "defense": "30",
@@ -156,7 +156,7 @@
       "slug": "gold_man"
     },
     {
-      "name": { "EN": "Hades Knight", "JA": "?" },
+      "name": { "EN": "Hades Knight", "JA": "" },
       "hp": "75-100",
       "attack": "90-110",
       "defense": "100",
@@ -168,7 +168,7 @@
       "slug": "hades_knight"
     },
     {
-      "name": { "EN": "Hell Ghost", "JA": "?" },
+      "name": { "EN": "Hell Ghost", "JA": "" },
       "hp": "25-35",
       "attack": "40",
       "defense": "40",
@@ -180,7 +180,7 @@
       "slug": "hell_ghost"
     },
     {
-      "name": { "EN": "Iron Scorpion", "JA": "?" },
+      "name": { "EN": "Iron Scorpion", "JA": "" },
       "hp": "15-25",
       "attack": "35",
       "defense": "60",
@@ -192,7 +192,7 @@
       "slug": "iron_scorpion"
     },
     {
-      "name": { "EN": "Killer Wolf", "JA": "?" },
+      "name": { "EN": "Killer Wolf", "JA": "" },
       "hp": "50-60",
       "attack": "80",
       "defense": "65",
@@ -204,7 +204,7 @@
       "slug": "killer_wolf"
     },
     {
-      "name": { "EN": "Kiss Dragon", "JA": "?" },
+      "name": { "EN": "Kiss Dragon", "JA": "" },
       "hp": "98",
       "attack": "98",
       "defense": "80",
@@ -216,7 +216,7 @@
       "slug": "kiss_dragon"
     },
     {
-      "name": { "EN": "Magic Chimera", "JA": "?" },
+      "name": { "EN": "Magic Chimera", "JA": "" },
       "hp": "40-50",
       "attack": "70",
       "defense": "60",
@@ -228,7 +228,7 @@
       "slug": "magic_chimera"
     },
     {
-      "name": { "EN": "Magician", "JA": "?" },
+      "name": { "EN": "Magician", "JA": "" },
       "hp": "10-15",
       "attack": "10",
       "defense": "10",
@@ -240,7 +240,7 @@
       "slug": "magician"
     },
     {
-      "name": { "EN": "MagiDrackee", "JA": "?" },
+      "name": { "EN": "MagiDrackee", "JA": "" },
       "hp": "10-20",
       "attack": "15",
       "defense": "15",
@@ -252,7 +252,7 @@
       "slug": "magidrackee"
     },
     {
-      "name": { "EN": "Master Wizard", "JA": "?" },
+      "name": { "EN": "Master Wizard", "JA": "" },
       "hp": "30-75",
       "attack": "70",
       "defense": "60",
@@ -264,7 +264,7 @@
       "slug": "master_wizard"
     },
     {
-      "name": { "EN": "Meda", "JA": "?" },
+      "name": { "EN": "Meda", "JA": "" },
       "hp": "20-30",
       "attack": "20",
       "defense": "15",
@@ -276,7 +276,7 @@
       "slug": "meda"
     },
     {
-      "name": { "EN": "Medalord", "JA": "?" },
+      "name": { "EN": "Medalord", "JA": "" },
       "hp": "30-40",
       "attack": "41",
       "defense": "40",
@@ -288,7 +288,7 @@
       "slug": "medalord"
     },
     {
-      "name": { "EN": "Metal Slime", "JA": "?" },
+      "name": { "EN": "Metal Slime", "JA": "" },
       "hp": "4",
       "attack": "20",
       "defense": "255",
@@ -300,7 +300,7 @@
       "slug": "metal_slime"
     },
     {
-      "name": { "EN": "Metro Ghost", "JA": "?" },
+      "name": { "EN": "Metro Ghost", "JA": "" },
       "hp": "20-25",
       "attack": "20",
       "defense": "20",
@@ -312,7 +312,7 @@
       "slug": "metro_ghost"
     },
     {
-      "name": { "EN": "Red Slime", "JA": "?" },
+      "name": { "EN": "Red Slime", "JA": "" },
       "hp": "4",
       "attack": "10",
       "defense": "5",
@@ -324,7 +324,7 @@
       "slug": "red_slime"
     },
     {
-      "name": { "EN": "Shadow Knight", "JA": "?" },
+      "name": { "EN": "Shadow Knight", "JA": "" },
       "hp": "40-50",
       "attack": "80",
       "defense": "50",
@@ -336,7 +336,7 @@
       "slug": "shadow_knight"
     },
     {
-      "name": { "EN": "Skeleton", "JA": "?" },
+      "name": { "EN": "Skeleton", "JA": "" },
       "hp": "25-30",
       "attack": "30",
       "defense": "20",
@@ -348,7 +348,7 @@
       "slug": "skeleton"
     },
     {
-      "name": { "EN": "Slime", "JA": "?" },
+      "name": { "EN": "Slime", "JA": "" },
       "hp": "3",
       "attack": "5",
       "defense": "5",
@@ -360,7 +360,7 @@
       "slug": "slime"
     },
     {
-      "name": { "EN": "Star Chimera", "JA": "?" },
+      "name": { "EN": "Star Chimera", "JA": "" },
       "hp": "65-75",
       "attack": "80",
       "defense": "65",
@@ -372,7 +372,7 @@
       "slug": "star_chimera"
     },
     {
-      "name": { "EN": "Stone Man", "JA": "?" },
+      "name": { "EN": "Stone Man", "JA": "" },
       "hp": "140-160",
       "attack": "100",
       "defense": "50",
@@ -384,7 +384,7 @@
       "slug": "stone_man"
     },
     {
-      "name": { "EN": "Undead", "JA": "?" },
+      "name": { "EN": "Undead", "JA": "" },
       "hp": "30-40",
       "attack": "45",
       "defense": "35",
@@ -396,7 +396,7 @@
       "slug": "undead"
     },
     {
-      "name": { "EN": "Undead Knight", "JA": "?" },
+      "name": { "EN": "Undead Knight", "JA": "" },
       "hp": "40-50",
       "attack": "60",
       "defense": "45",
@@ -408,7 +408,7 @@
       "slug": "undead_knight"
     },
     {
-      "name": { "EN": "Wizard", "JA": "?" },
+      "name": { "EN": "Wizard", "JA": "" },
       "hp": "25-30",
       "attack": "25",
       "defense": "25",
@@ -420,7 +420,7 @@
       "slug": "wizard"
     },
     {
-      "name": { "EN": "Wolf", "JA": "?" },
+      "name": { "EN": "Wolf", "JA": "" },
       "hp": "30-35",
       "attack": "40",
       "defense": "30",
@@ -432,7 +432,7 @@
       "slug": "wolf"
     },
     {
-      "name": { "EN": "Wolf Mammal", "JA": "?" },
+      "name": { "EN": "Wolf Mammal", "JA": "" },
       "hp": "30-40",
       "attack": "50",
       "defense": "35",
@@ -444,7 +444,7 @@
       "slug": "wolf_mammal"
     },
     {
-      "name": { "EN": "Darth Dragon", "JA": "?" },
+      "name": { "EN": "Darth Dragon", "JA": "" },
       "type": "boss",
       "hp": "100-110",
       "attack": "110",
@@ -457,7 +457,7 @@
       "slug": "darth_dragon"
     },
     {
-      "name": { "EN": "Death Scorpion", "JA": "?" },
+      "name": { "EN": "Death Scorpion", "JA": "" },
       "type": "boss",
       "hp": "30-40",
       "attack": "50",
@@ -470,7 +470,7 @@
       "slug": "death_scorpion"
     },
     {
-      "name": { "EN": "Demon Knight", "JA": "?" },
+      "name": { "EN": "Demon Knight", "JA": "" },
       "type": "boss",
       "hp": "80",
       "attack": "90",
@@ -483,7 +483,7 @@
       "slug": "demon_knight"
     },
     {
-      "name": { "EN": "Drackee", "JA": "?" },
+      "name": { "EN": "Drackee", "JA": "" },
       "type": "boss",
       "hp": "6",
       "attack": "6-10",
@@ -496,7 +496,7 @@
       "slug": "drackee"
     },
     {
-      "name": { "EN": "Dragon", "JA": "?" },
+      "name": { "EN": "Dragon", "JA": "" },
       "type": "boss",
       "hp": "60",
       "attack": "90",
@@ -509,7 +509,7 @@
       "slug": "dragon"
     },
     {
-      "name": { "EN": "Drakeema", "JA": "?" },
+      "name": { "EN": "Drakeema", "JA": "" },
       "type": "boss",
       "hp": "15-25",
       "attack": "20",
@@ -522,7 +522,7 @@
       "slug": "drakeema"
     },
     {
-      "name": { "EN": "Droll", "JA": "?" },
+      "name": { "EN": "Droll", "JA": "" },
       "type": "boss",
       "hp": "30-35",
       "attack": "25",
@@ -535,7 +535,7 @@
       "slug": "droll"
     },
     {
-      "name": { "EN": "Droll Mage", "JA": "?" },
+      "name": { "EN": "Droll Mage", "JA": "" },
       "type": "boss",
       "hp": "45-55",
       "attack": "45",
