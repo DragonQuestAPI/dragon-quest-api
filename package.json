@@ -1,15 +1,16 @@
 {
   "name": "dragon-quest-api",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "An API to gather informations about the various games in the Dragon Quest series.",
   "main": "src/server.js",
   "scripts": {
     "start": "node .",
-    "dev": "nodemon ."
+    "dev": "nodemon .",
+    "test": "jest"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "SoruTheSleepy / NaorimSenchai",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2"

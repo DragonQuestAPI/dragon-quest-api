@@ -7,11 +7,11 @@ const file = JSON.parse(fs.readFileSync(pathToJSON).toString());
 const formatQueryset = require("../../utils/formatQueryset.js");
 const filterByQueryset = require("../../utils/filterByQueryset.js");
 
-const findAll = async (queryset) => {
+const find = async (queryset) => {
   try {
     const result = await filterByQueryset(
       file,
-      await formatQueryset(queryset, Object.keys(file[0]))
+      await formatQueryset(queryset, file)
     );
     return result;
   } catch (err) {
@@ -29,6 +29,6 @@ const findById = async (id) => {
 };
 
 module.exports = {
-  findAll,
+  find,
   findById,
 };

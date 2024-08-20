@@ -5,8 +5,9 @@
  * @returns {object} The formatted queryset
  */
 const formatQueryset = async (queryset, allowedProperties) => {
+  if (!queryset) return;
   const res = {};
-  await Object.keys(queryset).forEach((property) => {
+  Object.keys(queryset).forEach((property) => {
     if (allowedProperties.includes(property))
       res[property] = queryset[property];
   });
