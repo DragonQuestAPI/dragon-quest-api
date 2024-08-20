@@ -5,8 +5,8 @@
       "EN": "Solo",
       "ES": "Solo",
       "FR": "Solo",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "勇者"
     },
     "gender": "male",
@@ -16,14 +16,14 @@
     "clone_sprite_animated": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_clone_sprites_animated/solo.gif",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_artworks/solo.png",
     "title": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
-    "class": "?",
+    "class": "",
     "force": {
       "1": "7",
       "2": "11",
@@ -842,7 +842,7 @@
       "FR": "Sofia",
       "DE": "Sofia",
       "IT": "Sofia",
-      "JA": "?"
+      "JA": ""
     },
     "gender": "female",
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_sprites/sofia.png",
@@ -851,14 +851,14 @@
     "clone_sprite_animated": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_clone_sprites_animated/sofia.gif",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_artworks/sofia.png",
     "title": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
-    "class": "?",
+    "class": "",
     "force": {
       "1": "7",
       "2": "11",
@@ -1675,8 +1675,8 @@
       "EN": "Ragnar McRyan",
       "ES": "Ragnar McRyan",
       "FR": "Ragnar McRyan",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ライアン（莱安）"
     },
     "gender": "male",
@@ -1686,14 +1686,14 @@
     "clone_sprite_animated": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_clone_sprites_animated/ragnar.gif",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_artworks/ragnar.png",
     "title": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
-    "class": "?",
+    "class": "",
     "force": {
       "1": "7",
       "2": "11",
@@ -2510,8 +2510,8 @@
       "EN": "Alena Zamoksva",
       "ES": "Alena Zamoksva",
       "FR": "Alina Zamoksva",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "アリーナ（安丽娜）"
     },
     "gender": "female",
@@ -2521,14 +2521,14 @@
     "clone_sprite_animated": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_clone_sprites_animated/alena.gif",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_artworks/alena.png",
     "title": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
-    "class": "?",
+    "class": "",
     "force": {
       "1": "12",
       "2": "14",
@@ -3345,8 +3345,8 @@
       "EN": "Kyril",
       "ES": "Kyril",
       "FR": "Kyril",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "クリフト（克里夫多）"
     },
     "gender": "male",
@@ -3356,14 +3356,14 @@
     "clone_sprite_animated": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_clone_sprites_animated/kyril.gif",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_artworks/kyril.png",
     "title": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
-    "class": "?",
+    "class": "",
     "force": {
       "1": "3",
       "2": "5",
@@ -4180,8 +4180,8 @@
       "EN": "Borya",
       "ES": "Borya",
       "FR": "Borya",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ブライ（布莱）"
     },
     "gender": "male",
@@ -4191,14 +4191,14 @@
     "clone_sprite_animated": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_clone_sprites_animated/borya.gif",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_artworks/borya.png",
     "title": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
-    "class": "?",
+    "class": "",
     "force": {
       "1": "3",
       "2": "3",
@@ -5015,8 +5015,8 @@
       "EN": "Torneko Taloon",
       "ES": "Torneko Taloon",
       "FR": "Torneko Taloon",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "トルネコ（特鲁尼克）"
     },
     "gender": "male",
@@ -5026,14 +5026,14 @@
     "clone_sprite_animated": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_clone_sprites_animated/torneko.gif",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_artworks/torneko.png",
     "title": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
-    "class": "?",
+    "class": "",
     "force": {
       "1": "4",
       "2": "5",
@@ -5850,8 +5850,8 @@
       "EN": "Meena Mahabala",
       "ES": "Meena Mahabala",
       "FR": "Meena Mahabala",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ミネア（米蕾雅）"
     },
     "gender": "female",
@@ -5861,14 +5861,14 @@
     "clone_sprite_animated": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_clone_sprites_animated/meena.gif",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_artworks/meena.png",
     "title": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
-    "class": "?",
+    "class": "",
     "force": {
       "1": "4",
       "2": "6",
@@ -6685,8 +6685,8 @@
       "EN": "Maya Mahabala",
       "ES": "Maya Mahabala",
       "FR": "Maya Mahabala",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "マーニャ（玛尼雅）"
     },
     "gender": "female",
@@ -6696,14 +6696,14 @@
     "clone_sprite_animated": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_clone_sprites_animated/maya.gif",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_artworks/maya.png",
     "title": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
-    "class": "?",
+    "class": "",
     "force": {
       "1": "3",
       "2": "3",
@@ -7520,8 +7520,8 @@
       "EN": "Psaro",
       "ES": "Psaro",
       "FR": "Psaro",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ピサロ（皮萨罗）"
     },
     "gender": "male",
@@ -7531,14 +7531,14 @@
     "clone_sprite_animated": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_clone_sprites_animated/psaro.gif",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/characters_artworks/psaro.png",
     "title": {
-      "EN": "?",
-      "ES": "?",
-      "FR": "?",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
-    "class": "?",
+    "class": "",
     "force": {
       "35": "154",
       "36": "163",

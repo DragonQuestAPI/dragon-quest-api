@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "name": {
+      "DE": "",
+      "EN": "Terrestria",
+      "ES": "",
+      "FR": "Terrestria",
+      "IT": "",
+      "JA": "人間界"
+    },
+    "max_longitude": -223.804,
+    "max_latitude": 177.5,
+    "start_longitude": -111.902,
+    "start_latitude": 88.75,
+    "slug": "terrestria"
+  },
+  {
+    "id": 2,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Conquest - Lower Echelon",
+      "ES": "",
+      "FR": "Cercle de la Conquête, échelon inférieur",
+      "IT": "",
+      "JA": "覇王城の魔界 - 初級"
+    },
+    "max_longitude": -108.79,
+    "max_latitude": 177.5,
+    "start_longitude": -54.395,
+    "start_latitude": 88.75,
+    "slug": "circle_of_conquest_lower_echelon"
+  },
+  {
+    "id": 3,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Temper - Lower Echelon",
+      "ES": "",
+      "FR": "Cercle du Courroux, échelon inférieur",
+      "IT": "",
+      "JA": "煉獄峠の魔界 - 初級"
+    },
+    "max_longitude": -123.896,
+    "max_latitude": 177.5,
+    "start_longitude": -61.948,
+    "start_latitude": 88.75,
+    "slug": "circle_of_temper_lower_echelon"
+  },
+  {
+    "id": 4,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Indulgence - Lower Echelon",
+      "ES": "",
+      "FR": "Cercle de la Gourmandise, échelon inférieur",
+      "IT": "",
+      "JA": "甘味楼の魔界 - 初級"
+    },
+    "max_longitude": -110.937,
+    "max_latitude": 177.5,
+    "start_longitude": -55.468,
+    "start_latitude": 88.75,
+    "slug": "circle_of_indulgence_lower_echelon"
+  },
+  {
+    "id": 5,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Caprice - Lower Echelon",
+      "ES": "",
+      "FR": "Cercle de l'Inconstance, échelon inférieur",
+      "IT": "",
+      "JA": "流神殿の魔界 - 初級"
+    },
+    "max_longitude": -218.461,
+    "max_latitude": 177.5,
+    "start_longitude": -109.23,
+    "start_latitude": 88.75,
+    "slug": "circle_of_caprice_lower_echelon"
+  },
+  {
+    "id": 6,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Fortitude - Lower Echelon",
+      "ES": "",
+      "FR": "Cercle de la Ténacité, échelon inférieur",
+      "IT": "",
+      "JA": "鉄鋼砦の魔界 - 初級"
+    },
+    "max_longitude": -125.663,
+    "max_latitude": 177.5,
+    "start_longitude": -62.831,
+    "start_latitude": 88.75,
+    "slug": "circle_of_fortitude_lower_echelon"
+  },
+  {
+    "id": 8,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Fortitude - Middle Echelon",
+      "ES": "",
+      "FR": "Cercle de la Ténacité, entre-deux",
+      "IT": "",
+      "JA": "鉄鋼砦の魔界 - 中級"
+    },
+    "max_longitude": -248.5,
+    "max_latitude": 177.5,
+    "start_longitude": -124.25,
+    "start_latitude": 88.75,
+    "slug": "circle_of_fortitude_middle_echelon"
+  },
+  {
+    "id": 9,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Conquest - Middle Echelon",
+      "ES": "",
+      "FR": "Cercle de la Conquête, entre-deux",
+      "IT": "",
+      "JA": "覇王城の魔界 - 中級"
+    },
+    "max_longitude": -210.37,
+    "max_latitude": 177.5,
+    "start_longitude": -105.185,
+    "start_latitude": 88.75,
+    "slug": "circle_of_conquest_middle_echelon"
+  },
+  {
+    "id": 10,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Temper - Middle Echelon",
+      "ES": "",
+      "FR": "Cercle du Courroux, entre-deux",
+      "IT": "",
+      "JA": "煉獄峠の魔界 - 中級"
+    },
+    "max_longitude": -147.325,
+    "max_latitude": 177.5,
+    "start_longitude": -73.662,
+    "start_latitude": 88.75,
+    "slug": "circle_of_temper_middle_echelon"
+  },
+  {
+    "id": 11,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Indulgence - Middle Echelon",
+      "ES": "",
+      "FR": "Cercle de la Gourmandise, entre-deux",
+      "IT": "",
+      "JA": "甘味楼の魔界 - 中級"
+    },
+    "max_longitude": -148.813,
+    "max_latitude": 177.5,
+    "start_longitude": -74.406,
+    "start_latitude": 88.75,
+    "slug": "circle_of_indulgence_middle_echelon"
+  },
+  {
+    "id": 12,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Caprice - Middle Echelon",
+      "ES": "",
+      "FR": "Cercle de l'Inconstance, entre-deux",
+      "IT": "",
+      "JA": "流神殿の魔界 - 中級"
+    },
+    "max_longitude": -145.589,
+    "max_latitude": 177.5,
+    "start_longitude": -72.794,
+    "start_latitude": 88.75,
+    "slug": "circle_of_caprice_middle_echelon"
+  },
+  {
+    "id": 13,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Conquest - Upper Echelon",
+      "ES": "",
+      "FR": "Cercle de la Conquête, échelon supérieur",
+      "IT": "",
+      "JA": "覇王城の魔界 - 上級"
+    },
+    "max_longitude": -177.5,
+    "max_latitude": 177.5,
+    "start_longitude": -88.75,
+    "start_latitude": 88.75,
+    "slug": "circle_of_conquest_upper_echelon"
+  },
+  {
+    "id": 14,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Temper - Upper Echelon",
+      "ES": "",
+      "FR": "Cercle du Courroux, échelon supérieur",
+      "IT": "",
+      "JA": "煉獄峠の魔界 - 上級"
+    },
+    "max_longitude": -119.619,
+    "max_latitude": 177.5,
+    "start_longitude": -59.809,
+    "start_latitude": 88.75,
+    "slug": "circle_of_temper_upper_echelon"
+  },
+  {
+    "id": 17,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Indulgence - Upper Echelon",
+      "ES": "",
+      "FR": "Cercle de la Gourmandise, échelon supérieur",
+      "IT": "",
+      "JA": "甘味楼の魔界 - 上級"
+    },
+    "max_longitude": -165.075,
+    "max_latitude": 177.5,
+    "start_longitude": -82.537,
+    "start_latitude": 88.75,
+    "slug": "circle_of_indulgence_upper_echelon"
+  },
+  {
+    "id": 18,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Caprice - Upper Echelon",
+      "ES": "",
+      "FR": "Cercle de l'Inconstance, échelon supérieur",
+      "IT": "",
+      "JA": "流神殿の魔界 - 上級"
+    },
+    "max_longitude": -148.716,
+    "max_latitude": 177.5,
+    "start_longitude": -74.358,
+    "start_latitude": 88.75,
+    "slug": "circle_of_caprice_upper_echelon"
+  },
+  {
+    "id": 19,
+    "name": {
+      "DE": "",
+      "EN": "Circle of Fortitude - Upper Echelon",
+      "ES": "",
+      "FR": "Cercle de la Ténacité, échelon supérieur",
+      "IT": "",
+      "JA": "鉄鋼砦の魔界 - 上級"
+    },
+    "max_longitude": -171.774,
+    "max_latitude": 177.5,
+    "start_longitude": -85.887,
+    "start_latitude": 88.75,
+    "slug": "circle_of_fortitude_upper_echelon"
+  },
+  {
+    "id": 20,
+    "name": {
+      "DE": "",
+      "EN": "Gleaming Grotto",
+      "ES": "",
+      "FR": "Grotte scintillante",
+      "IT": "",
+      "JA": "大結晶の洞窟"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "gleaming_grotto"
+  },
+  {
+    "id": 21,
+    "name": {
+      "DE": "",
+      "EN": "Grimglow Cave",
+      "ES": "",
+      "FR": "Grotte clair-obscur",
+      "IT": "",
+      "JA": "白冥の洞窟"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "grimglow_cave"
+  },
+  {
+    "id": 22,
+    "name": {
+      "DE": "",
+      "EN": "Conqueror's Keep",
+      "ES": "",
+      "FR": "Krak du conquérant",
+      "IT": "",
+      "JA": "覇王城"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "conquerors_keep"
+  },
+  {
+    "id": 23,
+    "name": {
+      "DE": "",
+      "EN": "Sepulchre of Flames",
+      "ES": "",
+      "FR": "Sépulcre des flammes",
+      "IT": "",
+      "JA": "炎の神殿"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "sepulchre_of_flames"
+  },
+  {
+    "id": 24,
+    "name": {
+      "DE": "",
+      "EN": "Fort Nox",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": "常夜の要塞"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "fort_nox"
+  },
+  {
+    "id": 25,
+    "name": {
+      "DE": "",
+      "EN": "Battenburg",
+      "ES": "",
+      "FR": "Palet Obheur",
+      "IT": "",
+      "JA": "お菓子の城"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "battenburg"
+  },
+  {
+    "id": 26,
+    "name": {
+      "DE": "",
+      "EN": "Dragonspate",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": "竜の首"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "dragonspate"
+  },
+  {
+    "id": 27,
+    "name": {
+      "DE": "",
+      "EN": "Barbatos's Bastion",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": "ヘルバトラー城"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "barbatoss_bastion"
+  },
+  {
+    "id": 28,
+    "name": {
+      "DE": "",
+      "EN": "Hotcake Heap",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": "パンケーキ山の洞窟"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "hotcake_heap"
+  },
+  {
+    "id": 29,
+    "name": {
+      "DE": "",
+      "EN": "House of Shifting Sands",
+      "ES": "",
+      "FR": "Palais des Sables",
+      "IT": "",
+      "JA": "流砂の宮殿"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "house_of_shifting_sands"
+  },
+  {
+    "id": 30,
+    "name": {
+      "DE": "",
+      "EN": "Cradle of Corruption - Upper Level",
+      "ES": "",
+      "FR": "Berceau de la Corruption, niveau supérieur",
+      "IT": "",
+      "JA": "災厄の魔宮 - 高層"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "circle_of_corruption_upper_level"
+  },
+  {
+    "id": 31,
+    "name": {
+      "DE": "",
+      "EN": "Aamon's Sanctum",
+      "ES": "",
+      "FR": "Palais d'Aamon",
+      "IT": "",
+      "JA": "エビルプリーストの隠れ家"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "aamons_sanctum"
+  },
+  {
+    "id": 32,
+    "name": {
+      "DE": "",
+      "EN": "Caverns of Conflagration",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": "烈火の洞窟"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "caverns_of_conflagration"
+  },
+  {
+    "id": 33,
+    "name": {
+      "DE": "",
+      "EN": "The Watchtower",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": "大監視塔"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "the_watchtower"
+  },
+  {
+    "id": 34,
+    "name": {
+      "DE": "",
+      "EN": "Desserted Dungeon",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": "アイスの迷宮"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "desserted_dungeon"
+  },
+  {
+    "id": 35,
+    "name": {
+      "DE": "",
+      "EN": "Cradle of Corruption - Lower Level",
+      "ES": "",
+      "FR": "Berceau de la Corruption, niveau inférieur",
+      "IT": "",
+      "JA": "災厄の魔宮 - 低層"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "circle_of_corruption_lower_level"
+  },
+  {
+    "id": 36,
+    "name": {
+      "DE": "",
+      "EN": "Cradle of Corruption - Middle Level",
+      "ES": "",
+      "FR": "Berceau de la Corruption, niveau central",
+      "IT": "",
+      "JA": "災厄の魔宮 - 中層"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "circle_of_corruption_middle_level"
+  },
+  {
+    "id": 37,
+    "name": {
+      "DE": "",
+      "EN": "The Whispwoods",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": "精霊樹の森"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "the_whispwoods"
+  },
+  {
+    "id": 38,
+    "name": {
+      "DE": "",
+      "EN": "Terrestria - Forest",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": "人間界 - 森"
+    },
+    "max_longitude": null,
+    "max_latitude": null,
+    "start_longitude": null,
+    "start_latitude": null,
+    "slug": "terrestria_forest"
+  }
+]

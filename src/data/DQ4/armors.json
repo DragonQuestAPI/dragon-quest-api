@@ -3,10 +3,10 @@
     "id": 1,
     "name": {
       "EN": "Plain clothes",
-      "ES": "?",
+      "ES": "",
       "FR": "Vêtement simple",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ぬののふく"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/plain_clothes.png",
@@ -24,11 +24,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Don't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "plain_clothes"
   },
@@ -36,10 +36,10 @@
     "id": 2,
     "name": {
       "EN": "Wayfarer's clothes",
-      "ES": "?",
+      "ES": "",
       "FR": "Tenue de voyageur",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "たびびとのふく"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/wayfarers_clothes.png",
@@ -57,11 +57,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Don't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "wayfarers_clothes"
   },
@@ -69,10 +69,10 @@
     "id": 3,
     "name": {
       "EN": "Boxer shorts",
-      "ES": "?",
+      "ES": "",
       "FR": "Caleçon",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ステテコパンツ"
     },
     "stats": {
@@ -88,11 +88,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Don't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/boxer_shorts.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/boxer_shorts.png",
@@ -102,10 +102,10 @@
     "id": 4,
     "name": {
       "EN": "Dancer's costume",
-      "ES": "?",
+      "ES": "",
       "FR": "Costume de danseuse",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "おどりこのふく"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/dancers_costume.png",
@@ -123,11 +123,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "dancers_costume"
   },
@@ -135,10 +135,10 @@
     "id": 5,
     "name": {
       "EN": "Silk robe",
-      "ES": "?",
+      "ES": "",
       "FR": "Robe de soie",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "きぬのローブ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/silk_robe.png",
@@ -156,11 +156,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "silk_robe"
   },
@@ -168,10 +168,10 @@
     "id": 6,
     "name": {
       "EN": "Leather armour",
-      "ES": "?",
+      "ES": "",
       "FR": "Armure de cuir",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "かわのよろい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/leather_armour.png",
@@ -189,11 +189,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "leather_armour"
   },
@@ -201,10 +201,10 @@
     "id": 7,
     "name": {
       "EN": "Leather dress",
-      "ES": "?",
+      "ES": "",
       "FR": "Robe de cuir",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "かわのドレス"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/leather_dress.png",
@@ -222,11 +222,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "leather_dress"
   },
@@ -234,10 +234,10 @@
     "id": 8,
     "name": {
       "EN": "Chain mail",
-      "ES": "?",
+      "ES": "",
       "FR": "Cotte de mailles",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "くさりかたびら"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/chain_mail.png",
@@ -255,11 +255,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "chain_mail"
   },
@@ -267,10 +267,10 @@
     "id": 9,
     "name": {
       "EN": "Fur coat",
-      "ES": "?",
+      "ES": "",
       "FR": "Pelisse",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "けがわのコート"
     },
     "stats": {
@@ -286,11 +286,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/fur_coat.png",
     "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_artworks/fur_coat.png",
@@ -300,10 +300,10 @@
     "id": 10,
     "name": {
       "EN": "Bronze armour",
-      "ES": "?",
+      "ES": "",
       "FR": "Armure de bronze",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "せいどうのよろい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/bronze_armour.png",
@@ -321,11 +321,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "bronze_armour"
   },
@@ -333,10 +333,10 @@
     "id": 11,
     "name": {
       "EN": "Cloack of evasion",
-      "ES": "?",
+      "ES": "",
       "FR": "Manteau d'esquive",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "みかわしのふく"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/cloack_of_evasion.png",
@@ -354,11 +354,11 @@
     "buyable_at": [],
     "description": {
       "EN": "The wearer may at times escape an enemy's attack altogether.",
-      "ES": "?",
+      "ES": "",
       "FR": "Permet parfois d'esquiver une attaque ennemie.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "cloack_of_evasion"
   },
@@ -366,10 +366,10 @@
     "id": 12,
     "name": {
       "EN": "Iron armour",
-      "ES": "?",
+      "ES": "",
       "FR": "Armure de fer",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "てつのよろい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/iron_armour.png",
@@ -387,11 +387,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "iron_armour"
   },
@@ -399,10 +399,10 @@
     "id": 13,
     "name": {
       "EN": "Iron apron",
-      "ES": "?",
+      "ES": "",
       "FR": "Tablier de fer",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "てつのまえかけ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/iron_apron.png",
@@ -420,11 +420,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "iron_apron"
   },
@@ -432,10 +432,10 @@
     "id": 14,
     "name": {
       "EN": "Robe of serenity",
-      "ES": "?",
+      "ES": "",
       "FR": "Manteau de sérénité",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "やすらぎのローブ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/robe_of_serenity.png",
@@ -453,11 +453,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Protects the wearer when asleep or paralysed.",
-      "ES": "?",
+      "ES": "",
       "FR": "Protège son utilisateur s'il est endormi ou paralysé.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "robe_of_serenity"
   },
@@ -465,10 +465,10 @@
     "id": 15,
     "name": {
       "EN": "Full plate armour",
-      "ES": "?",
+      "ES": "",
       "FR": "Armure de plates",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "はがねのよろい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/full_plate_armour.png",
@@ -486,11 +486,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "full_plate_armour"
   },
@@ -498,10 +498,10 @@
     "id": 16,
     "name": {
       "EN": "Magic vestment",
-      "ES": "?",
+      "ES": "",
       "FR": "Manteau magique",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "まほうのほうい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/magic_vestment.png",
@@ -519,11 +519,11 @@
     "buyable_at": [],
     "description": {
       "EN": "This clothing will help to reduce damage caused by magic.",
-      "ES": "?",
+      "ES": "",
       "FR": "Permet de réduire les dégâts causés par la magie.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "magic_vestment"
   },
@@ -531,10 +531,10 @@
     "id": 17,
     "name": {
       "EN": "Pink leotard",
-      "ES": "?",
+      "ES": "",
       "FR": "Body rose",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ピンクのレオタード"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/pink_leotard.png",
@@ -552,11 +552,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "pink_leotard"
   },
@@ -564,10 +564,10 @@
     "id": 18,
     "name": {
       "EN": "Spangled dress",
-      "ES": "?",
+      "ES": "",
       "FR": "Robe à paillettes",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "スパンコールドレス"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/spangled_dress.png",
@@ -585,11 +585,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Doesn't appear to have any special effects.",
-      "ES": "?",
+      "ES": "",
       "FR": "Ne semble pas avoir d'effets particuliers.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "spangled_dress"
   },
@@ -597,10 +597,10 @@
     "id": 19,
     "name": {
       "EN": "Flowing dress",
-      "ES": "?",
+      "ES": "",
       "FR": "Robe flottante",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "みずのはごろも"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/flowing_dress.png",
@@ -618,11 +618,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Reduces damage from fire- and ice-based magic attacks.",
-      "ES": "?",
+      "ES": "",
       "FR": "Réduit les dégâts causés par les attaques de feu ou de glace.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "flowing_dress"
   },
@@ -630,10 +630,10 @@
     "id": 20,
     "name": {
       "EN": "Dragon mail",
-      "ES": "?",
+      "ES": "",
       "FR": "Cuirasse de dragon",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ドラゴンメイル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/dragon_mail.png",
@@ -651,11 +651,11 @@
     "buyable_at": [],
     "description": {
       "EN": "This armour will reduce damage from fire- and ice-based attacks.",
-      "ES": "?",
+      "ES": "",
       "FR": "Cette cuirasse réduit les dégâts causés par les attaques de feu.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "dragon_mail"
   },
@@ -663,10 +663,10 @@
     "id": 21,
     "name": {
       "EN": "Magical skirt",
-      "ES": "?",
+      "ES": "",
       "FR": "Jupe magique",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "マジカルスカート"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/magical_skirt.png",
@@ -684,11 +684,11 @@
     "buyable_at": [],
     "description": {
       "EN": "This clothing will help to reduce damage caused by magic.",
-      "ES": "?",
+      "ES": "",
       "FR": "Permet de réduire les dégâts causés par la magie.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "magical_skirt"
   },
@@ -696,10 +696,10 @@
     "id": 22,
     "name": {
       "EN": "Glombolero",
-      "ES": "?",
+      "ES": "",
       "FR": "Absorboléro",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ふしぎなボレロ"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/glombolero.png",
@@ -717,11 +717,11 @@
     "buyable_at": [],
     "description": {
       "EN": "This curious garment sometimes absorbs MP from enemy spells.",
-      "ES": "?",
+      "ES": "",
       "FR": "Cet habit absorbe parfois les PM des sorts ennemis.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "glombolero"
   },
@@ -729,10 +729,10 @@
     "id": 23,
     "name": {
       "EN": "Zombie mail",
-      "ES": "?",
+      "ES": "",
       "FR": "Cuirasse de zombie",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ゾンビメイル"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/zombie_mail.png",
@@ -750,11 +750,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Watch out! There's more to this armour than meets the eye.",
-      "ES": "?",
+      "ES": "",
       "FR": "Attention ! Cette armure cache bien son pouvoir.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "zombie_mail"
   },
@@ -762,10 +762,10 @@
     "id": 24,
     "name": {
       "EN": "Spiked armour",
-      "ES": "?",
+      "ES": "",
       "FR": "Armure à piques",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "やいばのよろい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/spiked_armour.png",
@@ -783,11 +783,11 @@
     "buyable_at": [],
     "description": {
       "EN": "This armour may hold a spiky surprise for the unwary attacker.",
-      "ES": "?",
+      "ES": "",
       "FR": "Offre parfois une piquante surprise à l'attaquant.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "spiked_armour"
   },
@@ -795,10 +795,10 @@
     "id": 25,
     "name": {
       "EN": "Shimmering dress",
-      "ES": "?",
+      "ES": "",
       "FR": "Robe chatoyante",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "ひかりのドレス"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/shimmering_dress.png",
@@ -816,11 +816,11 @@
     "buyable_at": [],
     "description": {
       "EN": "This diaphanous dress may reflect magic back at the caster.",
-      "ES": "?",
+      "ES": "",
       "FR": "Cette robe diaphane peut renvoyer la magie d'un assaillant.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "shimmering_dress"
   },
@@ -828,10 +828,10 @@
     "id": 26,
     "name": {
       "EN": "Hela's armour",
-      "ES": "?",
+      "ES": "",
       "FR": "Armure de Hela",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "まじんのよろい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/helas_armour.png",
@@ -849,11 +849,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Watch out! There's more to this armour than meets the eye.",
-      "ES": "?",
+      "ES": "",
       "FR": "Attention ! Cette armure cache bien son pouvoir.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "helas_armour"
   },
@@ -861,10 +861,10 @@
     "id": 27,
     "name": {
       "EN": "Angel leotard",
-      "ES": "?",
+      "ES": "",
       "FR": "Body d'ange",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "てんしのレオタード"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/angel_leotard.png",
@@ -882,11 +882,11 @@
     "buyable_at": [],
     "description": {
       "EN": "Reduces damage from ice- and ice-based magic attacks.",
-      "ES": "?",
+      "ES": "",
       "FR": "Réduit les dégâts causés par les attaques de feu ou de glace.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "angel_leotard"
   },
@@ -894,10 +894,10 @@
     "id": 28,
     "name": {
       "EN": "Zenithian Armour",
-      "ES": "?",
+      "ES": "",
       "FR": "Armure zénithienne",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "てんくうのよろい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/zenithian_armour.png",
@@ -915,11 +915,11 @@
     "buyable_at": [],
     "description": {
       "EN": "This armour will help to reduce damage caused by magic.",
-      "ES": "?",
+      "ES": "",
       "FR": "Permet de réduire les dégâts causés par la magie.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "zenithian_armour"
   },
@@ -927,10 +927,10 @@
     "id": 29,
     "name": {
       "EN": "Liquid metal armour",
-      "ES": "?",
+      "ES": "",
       "FR": "Armure de mercure",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "はぐれメタルよろい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/liquid_metal_armour.png",
@@ -948,11 +948,11 @@
     "buyable_at": [],
     "description": {
       "EN": "This armour will help to reduce damage caused by magic.",
-      "ES": "?",
+      "ES": "",
       "FR": "Permet de réduire les dégâts causés par la magie.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "liquid_metal_armour"
   },
@@ -960,10 +960,10 @@
     "id": 30,
     "name": {
       "EN": "Pandemonic armour",
-      "ES": "?",
+      "ES": "",
       "FR": "Armure des Enfers",
-      "DE": "?",
-      "IT": "?",
+      "DE": "",
+      "IT": "",
       "JA": "まかいのよろい"
     },
     "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/armors_sprites/pandemonic_armour.png",
@@ -981,11 +981,11 @@
     "buyable_at": [],
     "description": {
       "EN": "This armour will help to reduce damage caused by magic.",
-      "ES": "?",
+      "ES": "",
       "FR": "Permet de réduire les dégâts causés par la magie.",
-      "DE": "?",
-      "IT": "?",
-      "JA": "?"
+      "DE": "",
+      "IT": "",
+      "JA": ""
     },
     "slug": "pandemonic_armour"
   }

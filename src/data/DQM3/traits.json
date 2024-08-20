@@ -1,0 +1,5588 @@
+[
+  {
+    "id": 1,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Tactical Trooper",
+      "ES": "",
+      "FR": "Avantage tactique",
+      "IT": "",
+      "JA": "1〜2回行動"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Very slightly lowers the monster's attributes.",
+      "ES": "",
+      "FR": "Exécute parfois 2 actions à la suite. Le nombre d'actions ne change pas si vous ne donnez pas d'ordres précis. Réduit très légèrement les caractéristiques du monstre.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "tactical_trooper"
+  },
+  {
+    "id": 2,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Tactical Commander",
+      "ES": "",
+      "FR": "Supériorité tactique",
+      "IT": "",
+      "JA": "2回行動"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Performs 2 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's attributes.",
+      "ES": "",
+      "FR": "Exécute 2 actions à la suite. Le nombre d'actions ne change pas si vous ne donnez pas d'ordres précis. Réduit légèrement les caractéristiques du monstre.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "tactical_commander"
+  },
+  {
+    "id": 3,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Tactical Genius",
+      "ES": "",
+      "FR": "Génie tactique",
+      "IT": "",
+      "JA": "1〜3回行動"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Slightly lowers the monster's attributes.",
+      "ES": "",
+      "FR": "Exécute parfois 2 ou 3 actions à la suite. Le nombre d'actions ne change pas si vous ne donnez pas d'ordres précis. Réduit un peu les caractéristiques du monstre.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "tactical_genius"
+  },
+  {
+    "id": 4,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Tactical Titan",
+      "ES": "",
+      "FR": "Hégémonie tactique",
+      "IT": "",
+      "JA": "2〜3回行動"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Performs 2 or 3 actions in a row. The number of actions is not affected if you don't issue specific orders. Lowers the monster's attributes.",
+      "ES": "",
+      "FR": "Exécute 2 ou 3 actions à la suite. Le nombre d'actions ne change pas si vous ne donnez pas d'ordres précis. Réduit les caractéristiques du monstre.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "tactical_titan"
+  },
+  {
+    "id": 5,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Insta-Oomph",
+      "ES": "",
+      "FR": "Décuplo initial",
+      "IT": "",
+      "JA": "いきなりバイキルト"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Monster sometimes casts Oomph on itself at the start of battle.",
+      "ES": "",
+      "FR": "Se lance parfois Décuplo au début d'un combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "insta_oomph"
+  },
+  {
+    "id": 6,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Insta-Buff",
+      "ES": "",
+      "FR": "Protection initiale",
+      "IT": "",
+      "JA": "いきなりスカラ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Monster sometimes casts Buff on itself at the start of battle.",
+      "ES": "",
+      "FR": "Se lance parfois Protection au début d'un combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "insta_buff"
+  },
+  {
+    "id": 7,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Insta-Accel",
+      "ES": "",
+      "FR": "Accéléro initial",
+      "IT": "",
+      "JA": "いきなりピオラ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Monster sometimes casts Accelerate on itself at the start of battle.",
+      "ES": "",
+      "FR": "Se lance parfois Accéléro au début d'un combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "insta_accel"
+  },
+  {
+    "id": 8,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Insta-Ping",
+      "ES": "",
+      "FR": "Tilt initial",
+      "IT": "",
+      "JA": "いきなりインテ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Monster sometimes casts Ping on itself at the start of battle.",
+      "ES": "",
+      "FR": "Se lance parfois Tilt au début d'un combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "insta_ping"
+  },
+  {
+    "id": 9,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Insta-Bounce",
+      "ES": "",
+      "FR": "Réflexion initiale",
+      "IT": "",
+      "JA": "いきなりマホカンタ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Monster sometimes casts Bounce on itself at the start of battle.",
+      "ES": "",
+      "FR": "Se lance parfois Réflexion au début d'un combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "insta_bounce"
+  },
+  {
+    "id": 10,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Rando-Oomph",
+      "ES": "",
+      "FR": "Décuplo aléatoire",
+      "IT": "",
+      "JA": "ときどきバイキルト"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Monster sometimes casts Oomph on itself during battle.",
+      "ES": "",
+      "FR": "Se lance parfois Décuplo au cours du combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "rando_oomph"
+  },
+  {
+    "id": 11,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Rando-Buff",
+      "ES": "",
+      "FR": "Protection aléatoire",
+      "IT": "",
+      "JA": "ときどきスカラ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Monster sometimes casts Buff on itself during battle.",
+      "ES": "",
+      "FR": "Se lance parfois Protection au cours du combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "rando_buff"
+  },
+  {
+    "id": 12,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Rando-Accel",
+      "ES": "",
+      "FR": "Accéléro aléatoire",
+      "IT": "",
+      "JA": "ときどきピオラ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Monster sometimes casts Accelerate on itself during battle.",
+      "ES": "",
+      "FR": "Se lance parfois Accéléro au cours du combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "rando_accel"
+  },
+  {
+    "id": 13,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Rando-Ping",
+      "ES": "",
+      "FR": "Tilt aléatoire",
+      "IT": "",
+      "JA": "ときどきインテ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Monster sometimes casts Ping on itself during battle.",
+      "ES": "",
+      "FR": "Se lance parfois Tilt au cours du combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "rando_ping"
+  },
+  {
+    "id": 14,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Rando-Mister",
+      "ES": "",
+      "FR": "Brume de bataille aléatoire",
+      "IT": "",
+      "JA": "ときどきまもりの霧"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Monster sometimes uses Mist Me on itself during battle.",
+      "ES": "",
+      "FR": "Se lance parfois Brume de bataille au cours du combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "rando_mister"
+  },
+  {
+    "id": 15,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Rando-Relief",
+      "ES": "",
+      "FR": "Vague de soulagement aléatoire",
+      "IT": "",
+      "JA": "ひかりのはどう"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes uses Wave of Relief during battle.",
+      "ES": "",
+      "FR": "Utilise parfois Vague de soulagement au cours du combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "rando_relief"
+  },
+  {
+    "id": 16,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Rando-Panic",
+      "ES": "",
+      "FR": "Vague de panique aléatoire",
+      "IT": "",
+      "JA": "やみのはどう"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes uses Wave of Panic during battle.",
+      "ES": "",
+      "FR": "Utilise parfois Vague de panique au cours du combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "rando_panic"
+  },
+  {
+    "id": 17,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Rando-Disrupt",
+      "ES": "",
+      "FR": "Perturbonde aléatoire",
+      "IT": "",
+      "JA": "いてつくはどう"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes uses Disruptive Wave during battle.",
+      "ES": "",
+      "FR": "Utilise parfois Perturbonde au cours du combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "rando_disrupt"
+  },
+  {
+    "id": 18,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Rando-Muster",
+      "ES": "",
+      "FR": "Concentration de force aléatoire",
+      "IT": "",
+      "JA": "ちからため"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes uses Muster Strength during battle.",
+      "ES": "",
+      "FR": "Utilise parfois Concentration de force au cours du combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "rando_muster"
+  },
+  {
+    "id": 19,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Low Heal",
+      "ES": "",
+      "FR": "Petits soins",
+      "IT": "",
+      "JA": "癒しの力"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes restores 30 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerful.",
+      "ES": "",
+      "FR": "Redonne parfois 30 PV ou plus à tous les alliés au cours du combat. Plus la Sagesse est élevée, plus les soins sont efficaces.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "low_heal"
+  },
+  {
+    "id": 20,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "High Heal",
+      "ES": "",
+      "FR": "Soins intensifs",
+      "IT": "",
+      "JA": "癒しの大力"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes restores 80 or more HP to all allies during battle. Higher wisdom makes the healing effect more powerful.",
+      "ES": "",
+      "FR": "Redonne parfois 80 PV ou plus à tous les alliés au cours du combat. Plus la Sagesse est élevée, plus les soins sont efficaces.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "high_heal"
+  },
+  {
+    "id": 21,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Wizardly Waft",
+      "ES": "",
+      "FR": "Brise magique",
+      "IT": "",
+      "JA": "魔力の風"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes restores 1 or more MP to all allies during battle. A higher level increases the restored amount.",
+      "ES": "",
+      "FR": "Redonne parfois 1 PM à tous les alliés au cours du combat. Le nombre de points restaurés est fonction du niveau.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "wizardly_waft"
+  },
+  {
+    "id": 22,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Wizardly Wind",
+      "ES": "",
+      "FR": "Bourrasque magique",
+      "IT": "",
+      "JA": "魔力の強風"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes restores 5 or more MP to all allies during battle. A higher level increases the restored amount.",
+      "ES": "",
+      "FR": "Redonne parfois 5 PM ou plus à tous les alliés au cours du combat. Le nombre de points restaurés est fonction du niveau.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "wizardly_wind"
+  },
+  {
+    "id": 23,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Last Gasp",
+      "ES": "",
+      "FR": "Dernier souffle",
+      "IT": "",
+      "JA": "ふっかつの祈り"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Revives a single ally after it falls in battle. Only works once per battle.",
+      "ES": "",
+      "FR": "Ressuscite un allié lorsqu'il meurt au combat. Ne fonctionne qu'une fois par combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "last_gasp"
+  },
+  {
+    "id": 24,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Frizzmeister",
+      "ES": "",
+      "FR": "Maestroflamme",
+      "IT": "",
+      "JA": "火のコツ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases the potency of fire-elemental attacks and decreases their MP consumption.",
+      "ES": "",
+      "FR": "Augmente l'efficacité des attaques élémentaires de feu et réduit leur coût en PM.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "frizzmeister"
+  },
+  {
+    "id": 25,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Splishmeister",
+      "ES": "",
+      "FR": "Maestroplouf",
+      "IT": "",
+      "JA": "水のコツ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases the potency of water-elemental attacks and decreases their MP consumption.",
+      "ES": "",
+      "FR": "Augmente l'efficacité des attaques élémentaires d'eau et réduit leur coût en PM.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "splishmeister"
+  },
+  {
+    "id": 26,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Wooshmeister",
+      "ES": "",
+      "FR": "Maestrotornade",
+      "IT": "",
+      "JA": "風のコツ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases the potency of wind-elemental attacks and decreases their MP consumption.",
+      "ES": "",
+      "FR": "Augmente l'efficacité des attaques élémentaires de vent et réduit leur coût en PM.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "wooshmeister"
+  },
+  {
+    "id": 27,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Cragmeister",
+      "ES": "",
+      "FR": "Maestroséisme",
+      "IT": "",
+      "JA": "地のコツ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases the potency of earth-elemental attacks and decreases their MP consumption.",
+      "ES": "",
+      "FR": "Augmente l'efficacité des attaques élémentaires de terre et réduit leur coût en PM.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "cragmeister"
+  },
+  {
+    "id": 28,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Bangmeister",
+      "ES": "",
+      "FR": "Maestrobang",
+      "IT": "",
+      "JA": "爆発のコツ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases the potency of explosive attacks and decreases their MP consumption.",
+      "ES": "",
+      "FR": "Augmente l'efficacité des attaques explosives et réduit leur coût en PM.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "bangmeister"
+  },
+  {
+    "id": 29,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Crackmeister",
+      "ES": "",
+      "FR": "Maestroglace",
+      "IT": "",
+      "JA": "氷結のコツ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases the potency of ice-elemental attacks and decreases their MP consumption.",
+      "ES": "",
+      "FR": "Augmente l'efficacité des attaques élémentaires de glace et réduit leur coût en PM.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crackmeister"
+  },
+  {
+    "id": 30,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Zapmeister",
+      "ES": "",
+      "FR": "Maestrofoudre",
+      "IT": "",
+      "JA": "電撃のコツ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases the potency of electrical attacks and decreases their MP consumption.",
+      "ES": "",
+      "FR": "Augmente l'efficacité des attaques élémentaires de foudre et réduit leur coût en PM.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "zapmeister"
+  },
+  {
+    "id": 31,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Sizzmeister",
+      "ES": "",
+      "FR": "Maestrocrame",
+      "IT": "",
+      "JA": "光のコツ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases the potency of light-elemental attacks and decreases their MP consumption.",
+      "ES": "",
+      "FR": "Augmente l'efficacité des attaques élémentaires de lumière et réduit leur coût en PM.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "sizzmeister"
+  },
+  {
+    "id": 32,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Zammeister",
+      "ES": "",
+      "FR": "Maestroélec",
+      "IT": "",
+      "JA": "闇のコツ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases the potency of dark-elemental attacks and decreases their MP consumption.",
+      "ES": "",
+      "FR": "Augmente l'efficacité des attaques élémentaires de ténèbres et réduit leur coût en PM.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "zammeister"
+  },
+  {
+    "id": 33,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Health Professional",
+      "ES": "",
+      "FR": "Professionnel de santé",
+      "IT": "",
+      "JA": "回復のコツ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases the potency of healing skills and decreases their MP consumption.",
+      "ES": "",
+      "FR": "Augmente l'efficacité des compétences de soins et réduit leur coût en PM.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "health_professional"
+  },
+  {
+    "id": 34,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Metal Skin",
+      "ES": "",
+      "FR": "Cuir d'acier",
+      "IT": "",
+      "JA": "メタルボディ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Reduces damage received by 1/3, but doubles the MP consumption of spells and abilities.",
+      "ES": "",
+      "FR": "Réduit d'un tiers les dégâts reçus, mais double le coût en PM des sorts et des aptitudes.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "metal_skin"
+  },
+  {
+    "id": 35,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Slick Skin",
+      "ES": "",
+      "FR": "Cuir verni",
+      "IT": "",
+      "JA": "ギャンブルボディ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes causes incoming direct attacks to miss.",
+      "ES": "",
+      "FR": "Fait parfois rater les attaques indirectes reçues.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "slick_skin"
+  },
+  {
+    "id": 36,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Spiky Skin",
+      "ES": "",
+      "FR": "Cuir clouté",
+      "IT": "",
+      "JA": "やいばのボディ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Returns 1/4 of the damage suffered from direct attacks back at the attacking enemy.",
+      "ES": "",
+      "FR": "Renvoie à l'assaillant un quart des dégâts infligés lors d'attaques directes.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "spiky_skin"
+  },
+  {
+    "id": 37,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Infected Skin",
+      "ES": "",
+      "FR": "Cuir toxique",
+      "IT": "",
+      "JA": "どくどくボディ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes poisons enemies that inflict direct attacks.",
+      "ES": "",
+      "FR": "Empoisonne parfois les ennemis qui infligent des attaques directes.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "infected_skin"
+  },
+  {
+    "id": 38,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Stunning Skin",
+      "ES": "",
+      "FR": "Cuir étourdissant",
+      "IT": "",
+      "JA": "ヘロヘロボディ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes stuns enemies that inflict direct attacks for 1 turn.",
+      "ES": "",
+      "FR": "Étourdit parfois pendant 1 tour les ennemis qui infligent des attaques directes.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "stunning_skin"
+  },
+  {
+    "id": 39,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Somnolent Skin",
+      "ES": "",
+      "FR": "Cuir soporifique",
+      "IT": "",
+      "JA": "スヤスヤボディ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes puts enemies that inflict direct attacks to sleep.",
+      "ES": "",
+      "FR": "Endort parfois les ennemis qui infligent des attaques directes.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "somnolent_skin"
+  },
+  {
+    "id": 40,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Stupefying Skin",
+      "ES": "",
+      "FR": "Cuir déroutant",
+      "IT": "",
+      "JA": "ぐるぐるボディ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes confuses enemies that inflict direct attacks.",
+      "ES": "",
+      "FR": "Désoriente parfois les ennemis qui infligent des attaques directes.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "stupefying_skin"
+  },
+  {
+    "id": 41,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Insensitive Skin",
+      "ES": "",
+      "FR": "Cuir paralysant",
+      "IT": "",
+      "JA": "ビリビリボディ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes paralyses enemies that inflict direct attacks.",
+      "ES": "",
+      "FR": "Paralyse parfois les ennemis qui infligent des attaques directes.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "insensitive_skin"
+  },
+  {
+    "id": 42,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Spongy Skin",
+      "ES": "",
+      "FR": "Cuir absorbant",
+      "IT": "",
+      "JA": "マホキテボディ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes absorbs MP from enemies that inflict direct attacks.",
+      "ES": "",
+      "FR": "Absorbe parfois des PM aux ennemis qui infligent des attaques directes.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "spongy_skin"
+  },
+  {
+    "id": 43,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Artful Dodger",
+      "ES": "",
+      "FR": "Double esquive",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it slightly easier to avoid enemy attacks.",
+      "ES": "",
+      "FR": "Permet d'éviter les attaques ennemies un peu plus facilement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "artful_dodger"
+  },
+  {
+    "id": 44,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Ace Evader",
+      "ES": "",
+      "FR": "Exquise esquive",
+      "IT": "",
+      "JA": "みかわしアップ大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it somewhat easier to avoid enemy attacks.",
+      "ES": "",
+      "FR": "Permet d'éviter les attaques ennemies plus facilement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ace_evader"
+  },
+  {
+    "id": 45,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Supreme Sidestepper",
+      "ES": "",
+      "FR": "Esquive exclusive",
+      "IT": "",
+      "JA": "超みかわしアップ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it much easier to avoid enemy attacks.",
+      "ES": "",
+      "FR": "Permet d'éviter les attaques ennemies bien plus facilement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "supreme_sidestepper"
+  },
+  {
+    "id": 46,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Dodge Denier",
+      "ES": "",
+      "FR": "Pare-parade",
+      "IT": "",
+      "JA": "みかわし無効"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Ensures the enemy cannot avoid attacks.",
+      "ES": "",
+      "FR": "Garantit que l'ennemi ne puisse pas éviter les attaques.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "dodge_denier"
+  },
+  {
+    "id": 47,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Pluie de critiques",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it slightly easier to inflict critical hits.",
+      "ES": "",
+      "FR": "Permet d'asséner des coups critiques légèrement plus facilement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": ""
+  },
+  {
+    "id": 48,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Critical Triumph",
+      "ES": "",
+      "FR": "Flot de critiques",
+      "IT": "",
+      "JA": "会心率アップ大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it somewhat easier to inflict critical hits.",
+      "ES": "",
+      "FR": "Permet d'asséner des coups critiques plus facilement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "critical_triumph"
+  },
+  {
+    "id": 49,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Critical Sensation",
+      "ES": "",
+      "FR": "Déluge de critiques",
+      "IT": "",
+      "JA": "超会心率アップ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it much easier to inflict critical hits.",
+      "ES": "",
+      "FR": "Permet d'asséner des coups critiques bien plus facilement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "critical_sensation"
+  },
+  {
+    "id": 50,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Critical Moment",
+      "ES": "",
+      "FR": "Instant critique",
+      "IT": "",
+      "JA": "ピンチで会心"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it easier to inflict critical hits when HP drops to 1/2, and even more so when HP drops to 1/4.",
+      "ES": "",
+      "FR": "Permet d'asséner des coups critiques plus facilement quand la jauge de PV est à moitié vide, et plus encore si elle est aux 3/4 vide.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "critical_moment"
+  },
+  {
+    "id": 51,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Pensée critique",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Permet de lancer des sorts critiques légèrement plus facilement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": ""
+  },
+  {
+    "id": 52,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Critical Theorist",
+      "ES": "",
+      "FR": "Réflexion critique",
+      "IT": "",
+      "JA": "魔力暴走率アップ大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it somewhat easier to cast critical spells.",
+      "ES": "",
+      "FR": "Permet de lancer des sorts critiques plus facilement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "critical_theorist"
+  },
+  {
+    "id": 53,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Critical Mastermind",
+      "ES": "",
+      "FR": "Analyse critique",
+      "IT": "",
+      "JA": "超魔力暴走率アップ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it much easier to cast critical spells.",
+      "ES": "",
+      "FR": "Permet de lancer des sorts critiques bien plus facilement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "critical_mastermind"
+  },
+  {
+    "id": 54,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Magical Moment",
+      "ES": "",
+      "FR": "Moment magique",
+      "IT": "",
+      "JA": "ピンチで魔力暴走"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it easier to cast critical spells when HP drops to 1/2, and even more so when HP drops to 1/4.",
+      "ES": "",
+      "FR": "Permet de lancer des sorts critiques plus facilement quand la jauge de PV est à moitié vide, et plus encore si elle est aux 3/4 vide.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "magical_moment"
+  },
+  {
+    "id": 55,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Desperate Measures",
+      "ES": "",
+      "FR": "Mesures désespérées",
+      "IT": "",
+      "JA": "会心かんぜんガード"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Negates all damage suffered from critical hits and critical spells.",
+      "ES": "",
+      "FR": "Annule tous les dégâts infligés par des coups critiques et des sorts critiques.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "desperate_measures"
+  },
+  {
+    "id": 56,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Hothead",
+      "ES": "",
+      "FR": "Énergie du désespoir",
+      "IT": "",
+      "JA": "バースト確率アップ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it easier to activate a frenzied state, turning the monster into a formidable fighting force.",
+      "ES": "",
+      "FR": "Déclenche plus facilement l'état frénétique, transformant le monstre en véritable machine à se battre.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "hothead"
+  },
+  {
+    "id": 57,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Auto-Restora",
+      "ES": "",
+      "FR": "Automédication",
+      "IT": "",
+      "JA": "自動ＨＰ回復"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Restores a small amount of HP after each action.",
+      "ES": "",
+      "FR": "Redonne quelques PV après chaque action.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "auto_restora"
+  },
+  {
+    "id": 58,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Auto-Cadabra",
+      "ES": "",
+      "FR": "Automagication",
+      "IT": "",
+      "JA": "自動ＭＰ回復"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Restores a small amount of MP after each action.",
+      "ES": "",
+      "FR": "Redonne quelques PM après chaque action.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "auto_cadabra"
+  },
+  {
+    "id": 59,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Castcutter",
+      "ES": "",
+      "FR": "Promo magique",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Reduces MP consumption by 1/4.",
+      "ES": "",
+      "FR": "Réduit le coût en PM d'un quart.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "castcutter"
+  },
+  {
+    "id": 60,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Castslasher",
+      "ES": "",
+      "FR": "Super promo magique",
+      "IT": "",
+      "JA": "消費MP半分"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Reduces MP consumption by 1/2.",
+      "ES": "",
+      "FR": "Réduit le coût en PM de moitié.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "castslasher"
+  },
+  {
+    "id": 61,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Slimesbane",
+      "ES": "",
+      "FR": "Fléau des gluants",
+      "IT": "",
+      "JA": "スライムキラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases damage inflicted on monsters from the slime family and slightly lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente les dégâts infligés aux monstres de la famille des gluants et diminue légèrement toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "slimesbane"
+  },
+  {
+    "id": 62,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Dragonsbane",
+      "ES": "",
+      "FR": "Fléau des dragons",
+      "IT": "",
+      "JA": "ドラゴンキラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases damage inflicted on monsters from the dragon family and slightly lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente les dégâts infligés aux monstres de la famille des dragons et diminue légèrement toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "dragonsbane"
+  },
+  {
+    "id": 63,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Beastsbane",
+      "ES": "",
+      "FR": "Fléau des bêtes",
+      "IT": "",
+      "JA": "魔獣キラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases damage inflicted on monsters from the beast family and slightly lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente les dégâts infligés aux monstres de la famille des bêtes et diminue légèrement toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "beastsbane"
+  },
+  {
+    "id": 64,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Naturesbane",
+      "ES": "",
+      "FR": "Fléau des naturels",
+      "IT": "",
+      "JA": "自然キラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases damage inflicted on monsters from the nature family and slightly lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente les dégâts infligés aux monstres de la famille des naturels et diminue légèrement toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "naturesbane"
+  },
+  {
+    "id": 65,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Demonsbane",
+      "ES": "",
+      "FR": "Fléau des démons",
+      "IT": "",
+      "JA": "悪魔キラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases damage inflicted on monsters from the demon family and slightly lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente les dégâts infligés aux monstres de la famille des démons et diminue légèrement toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "demonsbane"
+  },
+  {
+    "id": 66,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Zombiesbane",
+      "ES": "",
+      "FR": "Fléau des zombies",
+      "IT": "",
+      "JA": "ゾンビキラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases damage inflicted on monsters from the undead family and slightly lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente les dégâts infligés aux monstres de la famille des morts-vivants et diminue légèrement toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "zombiesbane"
+  },
+  {
+    "id": 67,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Matterbane",
+      "ES": "",
+      "FR": "Fléau des matières",
+      "IT": "",
+      "JA": "物質キラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases damage inflicted on monsters from the material family and slightly lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente les dégâts infligés aux monstres de la famille des matières et diminue légèrement toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "matterbane"
+  },
+  {
+    "id": 68,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Bossesbane",
+      "ES": "",
+      "FR": "Fléau des ???",
+      "IT": "",
+      "JA": "？？？キラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases damage inflicted on monsters from the ??? family and slightly lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente les dégâts infligés aux monstres de la famille des ??? et diminue légèrement toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "bossesbane"
+  },
+  {
+    "id": 69,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Über Slimesbane",
+      "ES": "",
+      "FR": "Calamité des gluants",
+      "IT": "",
+      "JA": "超スライムキラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases damage inflicted on monsters from the slime family and somewhat lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés aux monstres de la famille des gluants et diminue toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "über_slimesbane"
+  },
+  {
+    "id": 70,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Über Dragonsbane",
+      "ES": "",
+      "FR": "Calamité des dragons",
+      "IT": "",
+      "JA": "超ドラゴンキラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases damage inflicted on monsters from the dragon family and somewhat lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés aux monstres de la famille des dragons et diminue toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "über_dragonsbane"
+  },
+  {
+    "id": 71,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Über Beastsbane",
+      "ES": "",
+      "FR": "Calamité des bêtes",
+      "IT": "",
+      "JA": "超魔獣キラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases damage inflicted on monsters from the beast family and somewhat lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés aux monstres de la famille des bêtes et diminue toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "über_beastsbane"
+  },
+  {
+    "id": 72,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Über Naturesbane",
+      "ES": "",
+      "FR": "Calamité des naturels",
+      "IT": "",
+      "JA": "超自然キラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases damage inflicted on monsters from the nature family and somewhat lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés aux monstres de la famille des naturels et diminue toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "über_naturesbane"
+  },
+  {
+    "id": 73,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Über Demonsbane",
+      "ES": "",
+      "FR": "Calamité des démons",
+      "IT": "",
+      "JA": "超悪魔キラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases damage inflicted on monsters from the demon family and somewhat lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés aux monstres de la famille des démons et diminue toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "über_demonsbane"
+  },
+  {
+    "id": 74,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Über Zombiesbane",
+      "ES": "",
+      "FR": "Calamité des zombies",
+      "IT": "",
+      "JA": "超ゾンビキラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases damage inflicted on monsters from the undead family and somewhat lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés aux monstres de la famille des morts-vivants et diminue toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "über_zombiesbane"
+  },
+  {
+    "id": 75,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Über Matterbane",
+      "ES": "",
+      "FR": "Calamité des matières",
+      "IT": "",
+      "JA": "超物質キラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases damage inflicted on monsters from the material family and somewhat lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés aux monstres de la famille des matières et diminue toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "über_matterbane"
+  },
+  {
+    "id": 76,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Über Bossesbane",
+      "ES": "",
+      "FR": "Calamité des ???",
+      "IT": "",
+      "JA": "超？？？キラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases damage inflicted on monsters from the ??? family and somewhat lowers all resistances.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés aux monstres de la famille des ??? et diminue toutes les résistances.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "über_bossesbane"
+  },
+  {
+    "id": 77,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Poisonous Touch",
+      "ES": "",
+      "FR": "Toxicite",
+      "IT": "",
+      "JA": "どく攻撃"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Regular attacks sometimes poison the enemy.",
+      "ES": "",
+      "FR": "Les attaques ordinaires empoisonnent parfois l'ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "poisonous_touch"
+  },
+  {
+    "id": 78,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Stunning Touch",
+      "ES": "",
+      "FR": "Étourdite",
+      "IT": "",
+      "JA": "ショック攻撃"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Regular attacks sometimes stun the enemy for 1 turn.",
+      "ES": "",
+      "FR": "Les attaques ordinaires étourdissent parfois l'ennemi pendant 1 tour.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "stunning_touch"
+  },
+  {
+    "id": 79,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Sleepy Touch",
+      "ES": "",
+      "FR": "Dormite",
+      "IT": "",
+      "JA": "ねむり攻撃"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Regular attacks sometimes put the enemy to sleep.",
+      "ES": "",
+      "FR": "Les attaques ordinaires endorment parfois l'ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "sleepy_touch"
+  },
+  {
+    "id": 80,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Confusing Touch",
+      "ES": "",
+      "FR": "Confusite",
+      "IT": "",
+      "JA": "こんらん攻撃"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Regular attacks sometimes confuse the enemy.",
+      "ES": "",
+      "FR": "Les attaques ordinaires désorientent parfois l'ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "confusing_touch"
+  },
+  {
+    "id": 81,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Paralysing Touch",
+      "ES": "",
+      "FR": "Paralysite",
+      "IT": "",
+      "JA": "マヒ攻撃"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Regular attacks sometimes paralyse the enemy.",
+      "ES": "",
+      "FR": "Les attaques ordinaires paralysent parfois l'ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "paralysing_touch"
+  },
+  {
+    "id": 82,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Deadly Touch",
+      "ES": "",
+      "FR": "Morsubite",
+      "IT": "",
+      "JA": "ザキ攻撃"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Regular attacks sometimes kill the enemy instantly.",
+      "ES": "",
+      "FR": "Les attaques ordinaires tuent parfois instantanément l'ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "deadly_touch"
+  },
+  {
+    "id": 83,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Miraculous Touch",
+      "ES": "",
+      "FR": "Miraculite",
+      "IT": "",
+      "JA": "ミラクル攻撃"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Regular attacks restore 1/2 of the damage they inflict on the enemy as HP.",
+      "ES": "",
+      "FR": "Les attaques ordinaires redonnent la moitié des dégâts infligés à l'ennemi sous forme de PV.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "miraculous_touch"
+  },
+  {
+    "id": 84,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Absorbent Touch",
+      "ES": "",
+      "FR": "Absorbéite",
+      "IT": "",
+      "JA": "マホトラ攻撃"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Regular attacks sometimes absorb a portion of the enemy's MP.",
+      "ES": "",
+      "FR": "Les attaques ordinaires absorbent parfois une partie des PM de l'ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "absorbent_touch"
+  },
+  {
+    "id": 85,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Metal Beater",
+      "ES": "",
+      "FR": "Laminage",
+      "IT": "",
+      "JA": "メタルハンター"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Inflicts additional damage on enemies. A higher level increases the effect. Works on enemies with the Metal Skin trait.",
+      "ES": "",
+      "FR": "Inflige des dégâts supplémentaires à l'ennemi. Plus le niveau est élevé, plus les dégâts augmentent. Fonctionne sur les ennemis dotés de l'attribut Cuir d'acier.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "metal_beater"
+  },
+  {
+    "id": 86,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Metal Medley",
+      "ES": "",
+      "FR": "Métal hurlant",
+      "IT": "",
+      "JA": "メタルキラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Ignores the damage-reducing effect that the Metal Skin trait provides.",
+      "ES": "",
+      "FR": "Passe outre l'effet d'atténuation des dégâts dont bénéficient les ennemis dotés de l'attribut Cuir d'acier.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "metal_medley"
+  },
+  {
+    "id": 87,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Little Menace",
+      "ES": "",
+      "FR": "Petite frappe",
+      "IT": "",
+      "JA": "スモールキラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases damage inflicted on S-size monsters.",
+      "ES": "",
+      "FR": "Augmente les dégâts infligés aux monstres de petite taille.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "little_menace"
+  },
+  {
+    "id": 88,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Big Bully",
+      "ES": "",
+      "FR": "Gros méchant",
+      "IT": "",
+      "JA": "ラージキラー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases damage inflicted on L-size monsters.",
+      "ES": "",
+      "FR": "Augmente les dégâts infligés aux monstres de grande taille.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "big_bully"
+  },
+  {
+    "id": 89,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Insult to Injury",
+      "ES": "",
+      "FR": "Mal en pis",
+      "IT": "",
+      "JA": "おいうち"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases damage inflicted on enemies that are poisoned, severely poisoned, stunned, asleep, confused or paralysed.",
+      "ES": "",
+      "FR": "Augmente les dégâts infligés aux ennemis empoisonnés, sévèrement empoisonnés, étourdis, endormis, désorientés ou paralysés.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "insult_to_injury"
+  },
+  {
+    "id": 90,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Intimidating",
+      "ES": "",
+      "FR": "Distraction",
+      "IT": "",
+      "JA": "プレッシャー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes stuns the enemy during battle for 1 turn.",
+      "ES": "",
+      "FR": "Étourdit parfois l'ennemi pendant 1 tour lors d'un combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "intimidating"
+  },
+  {
+    "id": 91,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Strangely Alluring",
+      "ES": "",
+      "FR": "Dissipation",
+      "IT": "",
+      "JA": "ラブリー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes stuns the enemy during battle for 1 turn.",
+      "ES": "",
+      "FR": "Étourdit parfois l'ennemi pendant 1 tour lors d'un combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "strangely_alluring"
+  },
+  {
+    "id": 92,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Agent of Chaos",
+      "ES": "",
+      "FR": "Agent du chaos",
+      "IT": "",
+      "JA": "きょうせんし"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Always attacks an enemy when the monster is confused. Successful strikes inflict critical hits.",
+      "ES": "",
+      "FR": "Attaque toujours un ennemi lorsque le monstre est désorienté. Les attaques réussies assènent des coups critiques.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "agent_of_chaos"
+  },
+  {
+    "id": 93,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Sleep Twitch",
+      "ES": "",
+      "FR": "Somnambulisme",
+      "IT": "",
+      "JA": "ねがえり"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Attacks all enemies when the monster is asleep",
+      "ES": "",
+      "FR": "Attaque tous les ennemis lorsque le monstre est endormi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "sleep_twitch"
+  },
+  {
+    "id": 94,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Static Discharge",
+      "ES": "",
+      "FR": "Décharge statique",
+      "IT": "",
+      "JA": "たいでんたいしつ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes paralyses enemies that inflict direct attacks when the monster is paralysed itself.",
+      "ES": "",
+      "FR": "Paralyse parfois les ennemis qui infligent des attaques directes lorsque le monstre est lui-même paralysé.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "static_discharge"
+  },
+  {
+    "id": 95,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Sobering Slap",
+      "ES": "",
+      "FR": "Coup de fouet",
+      "IT": "",
+      "JA": "ツッコミ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes cures allies of sleep and confusion during battle.",
+      "ES": "",
+      "FR": "Soigne parfois le sommeil et la confusion chez les alliés au début d'un round.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "sobering_slap"
+  },
+  {
+    "id": 96,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Detox",
+      "ES": "",
+      "FR": "Détox",
+      "IT": "",
+      "JA": "セラピー"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes cures allies of poison, severe poison and paralysis during battle.",
+      "ES": "",
+      "FR": "Soigne parfois l'empoisonnement et la paralysie chez les alliés au cours d'un combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "detox"
+  },
+  {
+    "id": 97,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Decontaminate",
+      "ES": "",
+      "FR": "Cure de jouvence",
+      "IT": "",
+      "JA": "医術士"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes cures allies of sleep, confusion, poison, severe poison and paralysis during battle.",
+      "ES": "",
+      "FR": "Soigne parfois le sommeil, la confusion, l'empoisonnement, l'empoisonnement sévère et la paralysie chez les alliés au cours d'un combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "decontaminate"
+  },
+  {
+    "id": 98,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Heaven-Sent",
+      "ES": "",
+      "FR": "Super manne",
+      "IT": "",
+      "JA": "星のおくりもの"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes greatly increases attack, defence, agility or wisdom during battle.",
+      "ES": "",
+      "FR": "Augment parfois beaucoup l'attaque, la défense, l'agilité ou la sagesse au cours d'un combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "heaven_sent"
+  },
+  {
+    "id": 99,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Bigger Upper",
+      "ES": "",
+      "FR": "Rallonge",
+      "IT": "",
+      "JA": "おだてじょうず"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Extends the duration of skills that raise the strength, defence, agility or wisdom of allies to 5 turns. In addition, randomly grants invincibility, the ability to reflect spells or breath attacks, or raises evasion.",
+      "ES": "",
+      "FR": "Étend à 5 tours la durée des compétences qui augmentent la force, la défense, l'agilité ou la sagesse des alliés. En outre, octroie aléatoirement l'invincibilité, la capacité à renvoyer les sorts ou les attaques de souffle ou augmente l'esquive.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "bigger_upper"
+  },
+  {
+    "id": 100,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Major Downer",
+      "ES": "",
+      "FR": "Coup de rabot",
+      "IT": "",
+      "JA": "いやがらせ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Extends the duration of skills that lower the strength, defence, agility or wisdom of enemies to 5 turns. In addition, randomly prevents breath attacks, critical hits or the casting of magic, or bedazzles the enemy.",
+      "ES": "",
+      "FR": "Étend à 5 tours la durée des compétences qui réduisent la force, la défense, l'agilité ou la sagesse des ennemis. En outre, empêche aléatoirement les attaques de souffle, les coups critiques et les sorts, ou éblouit l'ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "major_downer"
+  },
+  {
+    "id": 101,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Close Scraper",
+      "ES": "",
+      "FR": "Moins une",
+      "IT": "",
+      "JA": "くじけぬ心"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes allows the monster to survive at 1 HP after suffering an attack that would otherwise kill it.",
+      "ES": "",
+      "FR": "Permet parfois au monstre de survivre avec seulement 1 PV après avoir subi une attaque qui aurait dû le tuer.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "close_scraper"
+  },
+  {
+    "id": 102,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Last Legs",
+      "ES": "",
+      "FR": "In extremis",
+      "IT": "",
+      "JA": "ラストスタンド"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Allows the monster to survive at 1 HP after suffering an attack that would otherwise kill it.",
+      "ES": "",
+      "FR": "Permet au monstre de survivre avec seulement 1 PV après avoir subi une attaque qui aurait dû le tuer.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "last_legs"
+  },
+  {
+    "id": 103,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Snappy Comeback",
+      "ES": "",
+      "FR": "Retour de bâton",
+      "IT": "",
+      "JA": "わるあがき"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Inflicts damage back on an enemy that lands a killer blow. The amount inflicted is proportional to the excess damage suffered after the monster's HP are reduced to zero.",
+      "ES": "",
+      "FR": "Blesse en retour un ennemi qui assène un coup mortel. Les dégâts infligés sont proportionnels aux dégâts restant à infliger une fois que le monstre a perdu tous ses PV.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "snappy_comeback"
+  },
+  {
+    "id": 104,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Parting Gift",
+      "ES": "",
+      "FR": "Riposte mortem",
+      "IT": "",
+      "JA": "最後のあがき"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Inflicts damage back on all enemies when a killer blow is received. The amount inflicted is proportional to the excess damage suffered after the monster's HP are reduced to zero.",
+      "ES": "",
+      "FR": "Blesse en retour tous les ennemis en cas de coup mortel reçu. Les dégâts infligés sont proportionnels aux dégâts restant à infliger une fois que le monstre a perdu tous ses PV.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "parting_gift"
+  },
+  {
+    "id": 105,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Benefaction",
+      "ES": "",
+      "FR": "Œuvre de bienfaisance",
+      "IT": "",
+      "JA": "最後の息吹"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Massively increases the attack, defence, agility and wisdom of allies when a killer blow is received.",
+      "ES": "",
+      "FR": "Augmente énormément l'attaque, la défense, l'agilité et la sagesse des alliés en cas de coup mortel reçu.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "benefaction"
+  },
+  {
+    "id": 106,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Strong Starter",
+      "ES": "",
+      "FR": "Démarrage en force",
+      "IT": "",
+      "JA": "ロケットスタート"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises damage inflicted on enemies up to round 3, but lowers it from round 4 onwards.",
+      "ES": "",
+      "FR": "Augmente les dégâts infligés aux ennemis jusqu'au 3e round, puis les réduit à partir du 4e.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "strong_starter"
+  },
+  {
+    "id": 107,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Late Bloomer",
+      "ES": "",
+      "FR": "Course de fond",
+      "IT": "",
+      "JA": "秘めたるチカラ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases attack, defence, agility and wisdom from round 3 onwards, and even more so from round 6.",
+      "ES": "",
+      "FR": "Augmente l'attaque, la défense, l'agilité et la sagesse à partir du 3e round, et plus dès le 6e.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "late_bloomer"
+  },
+  {
+    "id": 108,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Tit for Tat",
+      "ES": "",
+      "FR": "Prêté pour un rendu",
+      "IT": "",
+      "JA": "しっぺがえし"
+    },
+    "description": {
+      "DE": "",
+      "EN": "When a monster is inflicted with a status ailment, the attacking enemy will have the same ailment inflicted back on them.",
+      "ES": "",
+      "FR": "Lorsqu'un monstre se voit infliger une altération d'état, l'assaillant la subit aussi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "tit_for_tat"
+  },
+  {
+    "id": 109,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Naked Ambition",
+      "ES": "",
+      "FR": "Rien dans les mains",
+      "IT": "",
+      "JA": "徒手空拳"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases the likelihood of critical hits and critical spells if no accessory is equipped.",
+      "ES": "",
+      "FR": "Augmente les chances de coups et de sorts critiques si aucun accessoir n'est équipé.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "naked_ambition"
+  },
+  {
+    "id": 110,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Attacking Impulse",
+      "ES": "",
+      "FR": "Pulsion d'attaque",
+      "IT": "",
+      "JA": "とうそうほんのう"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Increases damage inflicted when HP drop to 1/2.",
+      "ES": "",
+      "FR": "Augmente les dégâts infligés lorsque les PV ont été réduits de moitié.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attacking_impulse"
+  },
+  {
+    "id": 111,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Defensive Impulse",
+      "ES": "",
+      "FR": "Pulsion de défense",
+      "IT": "",
+      "JA": "ぼうえいほんのう"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Reduces damage received when HP drop to 1/2.",
+      "ES": "",
+      "FR": "Réduit les dégâts subis lorsque les PV ont été réduits de moitié.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "defensive_impulse"
+  },
+  {
+    "id": 112,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Evasive Impulse",
+      "ES": "",
+      "FR": "Pulsion d'esquive",
+      "IT": "",
+      "JA": "かいひほんのう"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes increases evasion and greatly increases agility during battle when HP has dropped to 1/2. Only activates once per battle.",
+      "ES": "",
+      "FR": "Augmente parfois l'esquive et plus encore l'agilité au cours du combat si les PV ont été réduits de moitié. Ne s'active qu'une fois par combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "evasive_impulse"
+  },
+  {
+    "id": 113,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Unhealthy Advantage",
+      "ES": "",
+      "FR": "Loi du plus faible",
+      "IT": "",
+      "JA": "背水の陣"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Inflicts increasing amounts of damage as remaining HP gets lower.",
+      "ES": "",
+      "FR": "Inflige toujours plus de dégâts à mesure que les PV restants diminuent.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "unhealthy_advantage"
+  },
+  {
+    "id": 114,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Collective Punishment",
+      "ES": "",
+      "FR": "Punition collective",
+      "IT": "",
+      "JA": "全体攻撃"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Attacks that do more damage as the attack attribute increases will strike all enemies instead of a single target.",
+      "ES": "",
+      "FR": "Les attaques dont les dégâts augmentent concomitamment à la caractéristique d'attaque frappent tous les ennemis au lieu d'une seule cible.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "collective_punishment"
+  },
+  {
+    "id": 115,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Personal Grudge",
+      "ES": "",
+      "FR": "Claque de fin",
+      "IT": "",
+      "JA": "根に持つタイプ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly decreases the attack, defence, agility and wisdom of an enemy that lands a killer blow, and stuns them for the next turn.",
+      "ES": "",
+      "FR": "Réduit beaucoup l'attaque, la défense, l'agilité et la sagesse d'un ennemi assénant un coup mortel et l'étourdit au tour suivant.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "personal_grudge"
+  },
+  {
+    "id": 116,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Echonomist",
+      "ES": "",
+      "FR": "Écho favorable",
+      "IT": "",
+      "JA": "やまびこ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Sometimes casts the same spell twice. Consumes slightly more MP than usual.",
+      "ES": "",
+      "FR": "Lance parfois deux fois le même sort. Coûte légèrement plus de PM que d'habitude.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "echonomist"
+  },
+  {
+    "id": 117,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Adrenaline Rush",
+      "ES": "",
+      "FR": "Poussée d'adrénaline",
+      "IT": "",
+      "JA": "ファイターズハイ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases attack after inflicting a critical hit.",
+      "ES": "",
+      "FR": "Augmente beaucoup l'attaque après avoir infligé un coup critique.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "adrenaline_rush"
+  },
+  {
+    "id": 118,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Trance State",
+      "ES": "",
+      "FR": "État de transe",
+      "IT": "",
+      "JA": "マジシャンズハイ"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases wisdom after casting a critical spell.",
+      "ES": "",
+      "FR": "Augmente beaucoup la sagesse après avoir lancé un sort critique.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "trance_state"
+  },
+  {
+    "id": 119,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Iota of Experience",
+      "ES": "",
+      "FR": "Expérience inédite",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases the amount of experience points earned after battle.",
+      "ES": "",
+      "FR": "Augmente légèrement le nombre de points d'expérience gagnés en combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "iota_of_experience"
+  },
+  {
+    "id": 120,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Expérience marquante",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Augmente le nombre de points d'expérience gagnés en combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": ""
+  },
+  {
+    "id": 121,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Expérience exceptionnelle",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Augmente beaucoup le nombre de points d'expérience gagnés en combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": ""
+  },
+  {
+    "id": 122,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Gold Planner",
+      "ES": "",
+      "FR": "Prospecteur",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases the amount of gold coins acquired from battle.",
+      "ES": "",
+      "FR": "Augmente légèrement le nombre de pièces d'or obtenues en combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "gold_planner"
+  },
+  {
+    "id": 123,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Orpailleur",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Augmente le nombre de pièces d'or obtenues en combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": ""
+  },
+  {
+    "id": 124,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Mineur",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Augmente beaucoup le nombre de pièces d'or obtenues en combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": ""
+  },
+  {
+    "id": 125,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Rummager",
+      "ES": "",
+      "FR": "Magouilleur",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases the likelihood of acquiring an item from battle.",
+      "ES": "",
+      "FR": "Améliore légèrement les chances d'obtenir un objet en combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "rummager"
+  },
+  {
+    "id": 126,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "Scavenger",
+      "ES": "",
+      "FR": "Profiteur",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Somewhat increases the likelihood of acquiring an item from battle.",
+      "ES": "",
+      "FR": "Améliore les chances d'obtenir un objet en combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "scavenger"
+  },
+  {
+    "id": 127,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Exploiteur",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Améliore beaucoup les chances d'obtenir un objet en combat.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": ""
+  },
+  {
+    "id": 128,
+    "type": "special_effect",
+    "name": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Usage de la force",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "Améliore parfois les chances d'une démonstration de force réussie.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": ""
+  },
+  {
+    "id": 129,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Frizzer",
+      "ES": "",
+      "FR": "Flamme imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases the damage inflicted by fire-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement les dégâts infligés par les attaques élémentaires de feu.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_frizzer"
+  },
+  {
+    "id": 130,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Frizzer",
+      "ES": "",
+      "FR": "Flamme inéluctable",
+      "IT": "",
+      "JA": "火ブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases the damage inflicted by fire-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés par les attaques élémentaires de feu.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_frizzer"
+  },
+  {
+    "id": 131,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Splasher",
+      "ES": "",
+      "FR": "Superplouf imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases the damage inflicted by water-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement les dégâts infligés par les attaques élémentaires d'eau.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_splasher"
+  },
+  {
+    "id": 132,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Splasher",
+      "ES": "",
+      "FR": "Superplouf inéluctable",
+      "IT": "",
+      "JA": "水ブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases the damage inflicted by water-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés par les attaques élémentaires d'eau.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_splasher"
+  },
+  {
+    "id": 133,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Woosher",
+      "ES": "",
+      "FR": "Tornade imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases the damage inflicted by wind-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement les dégâts infligés par les attaques élémentaires de vent.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_woosher"
+  },
+  {
+    "id": 134,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Woosher",
+      "ES": "",
+      "FR": "Tornade inéluctable",
+      "IT": "",
+      "JA": "風ブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases the damage inflicted by wind-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés par les attaques élémentaires de vent.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_woosher"
+  },
+  {
+    "id": 135,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Cragger",
+      "ES": "",
+      "FR": "Superséisme imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases the damage inflicted by earth-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement les dégâts infligés par les attaques élémentaires de terre.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_cragger"
+  },
+  {
+    "id": 136,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Cragger",
+      "ES": "",
+      "FR": "Superséisme inéluctable",
+      "IT": "",
+      "JA": "地ブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases the damage inflicted by earth-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés par les attaques élémentaires de terre.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_cragger"
+  },
+  {
+    "id": 137,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Banger",
+      "ES": "",
+      "FR": "Bang imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases the damage inflicted by explosive attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement les dégâts infligés par les attaques d'explosion.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_banger"
+  },
+  {
+    "id": 138,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Banger",
+      "ES": "",
+      "FR": "Bang inéluctable",
+      "IT": "",
+      "JA": "爆発ブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases the damage inflicted by explosive attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés par les attaques d'explosion.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_banger"
+  },
+  {
+    "id": 139,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Cracker",
+      "ES": "",
+      "FR": "Glace imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases the damage inflicted by ice-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement les dégâts infligés par les attaques élémentaires de glace.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_cracker"
+  },
+  {
+    "id": 140,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Cracker",
+      "ES": "",
+      "FR": "Glace inéluctable",
+      "IT": "",
+      "JA": "氷結ブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases the damage inflicted by ice-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés par les attaques élémentaires de glace.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_cracker"
+  },
+  {
+    "id": 141,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Zapper",
+      "ES": "",
+      "FR": "Foudre imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases the damage inflicted by electrical attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement les dégâts infligés par les attaques élémentaires de foudre.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_zapper"
+  },
+  {
+    "id": 142,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Zapper",
+      "ES": "",
+      "FR": "Foudre inéluctable",
+      "IT": "",
+      "JA": "電撃ブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases the damage inflicted by electrical attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés par les attaques élémentaires de foudre.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_zapper"
+  },
+  {
+    "id": 143,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Sizzer",
+      "ES": "",
+      "FR": "Crame imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases the damage inflicted by light-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement les dégâts infligés par les attaques élémentaires de lumière.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_sizzer"
+  },
+  {
+    "id": 144,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Sizzer",
+      "ES": "",
+      "FR": "Crame inéluctable",
+      "IT": "",
+      "JA": "光ブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases the damage inflicted by light-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés par les attaques élémentaires de lumière.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_sizzer"
+  },
+  {
+    "id": 145,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Zammer",
+      "ES": "",
+      "FR": "Élec imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases the damage inflicted by dark-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement les dégâts infligés par les attaques élémentaires de ténèbres.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_zammer"
+  },
+  {
+    "id": 146,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Zammer",
+      "ES": "",
+      "FR": "Élec inéluctable",
+      "IT": "",
+      "JA": "闇ブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases the damage inflicted by dark-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup les dégâts infligés par les attaques élémentaires de ténèbres.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_zammer"
+  },
+  {
+    "id": 147,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Debilitator",
+      "ES": "",
+      "FR": "Affaiblissement imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_debilitator"
+  },
+  {
+    "id": 148,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Debilitator",
+      "ES": "",
+      "FR": "Affaiblissement inéluctable",
+      "IT": "",
+      "JA": "弱体化ブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it much easier to reduce an enemy's attack, defence, agility or wisdom.",
+      "ES": "",
+      "FR": "Lance beaucoup plus facilement des attaques diminuant l'attaque, la défense, l'agilité ou la sagesse d'un ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_debilitator"
+  },
+  {
+    "id": 149,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Dazzler",
+      "ES": "",
+      "FR": "Illusion imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_dazzler"
+  },
+  {
+    "id": 150,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Dazzler",
+      "ES": "",
+      "FR": "Illusion inéluctable",
+      "IT": "",
+      "JA": "幻惑ブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it much easier to bedazzle enemies.",
+      "ES": "",
+      "FR": "Lance beaucoup plus facikement des attaques éblouissant l'ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_dazzler"
+  },
+  {
+    "id": 151,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Spellbinder",
+      "ES": "",
+      "FR": "Désorcellement imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_spellbinder"
+  },
+  {
+    "id": 152,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Spellbinder",
+      "ES": "",
+      "FR": "Désorcellement inéluctable",
+      "IT": "",
+      "JA": "封じブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it much easier to prevent spellcasting",
+      "ES": "",
+      "FR": "Lance beaucoup plus facilement des attaques empêchant de lancer des sorts.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_spellbinder"
+  },
+  {
+    "id": 153,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Magic Drainer",
+      "ES": "",
+      "FR": "Aspirmagie imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_magic_drainer"
+  },
+  {
+    "id": 154,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Magic Drainer",
+      "ES": "",
+      "FR": "Aspirmagie inéluctable",
+      "IT": "",
+      "JA": "MP吸収ブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it much easier to absorb MP.",
+      "ES": "",
+      "FR": "Lance beaucoup plus facilement des attaques absorbant des PM.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_magic_drainer"
+  },
+  {
+    "id": 155,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Confuser",
+      "ES": "",
+      "FR": "Confusion imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_confuser"
+  },
+  {
+    "id": 156,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Confuser",
+      "ES": "",
+      "FR": "Confusion inéluctable",
+      "IT": "",
+      "JA": "こんらんブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it much easier to ??? the enemy.",
+      "ES": "",
+      "FR": "Lance beaucoup plus facilement des attaques permettant de désorienter l'ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_confuser"
+  },
+  {
+    "id": 157,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Sleeper",
+      "ES": "",
+      "FR": "Sommeil imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_sleeper"
+  },
+  {
+    "id": 158,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Sleeper",
+      "ES": "",
+      "FR": "Sommeil inéluctable",
+      "IT": "",
+      "JA": "ねむりブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it much easier to put the enemy to sleep.",
+      "ES": "",
+      "FR": "Lance beaucoup plus facilement des attaques endormant l'ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_sleeper"
+  },
+  {
+    "id": 159,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Paralyser",
+      "ES": "",
+      "FR": "Paralysie imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_paralyser"
+  },
+  {
+    "id": 160,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Paralyser",
+      "ES": "",
+      "FR": "Paralysie inéluctable",
+      "IT": "",
+      "JA": "マヒブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it much easier to paralyse the enemy.",
+      "ES": "",
+      "FR": "Lance beaucoup plus facilement des attaques paralysant l'ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_paralyser"
+  },
+  {
+    "id": 161,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Stunner",
+      "ES": "",
+      "FR": "Étourdissement imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_stunner"
+  },
+  {
+    "id": 162,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Stunner",
+      "ES": "",
+      "FR": "Étourdissement inéluctable",
+      "IT": "",
+      "JA": "休みブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it much easier to stun the enemy.",
+      "ES": "",
+      "FR": "Lance beaucoup plus facilement des attaques étourdissant l'ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_stunner"
+  },
+  {
+    "id": 163,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Poisoner",
+      "ES": "",
+      "FR": "Poison imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_poisoner"
+  },
+  {
+    "id": 164,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Poisoner",
+      "ES": "",
+      "FR": "Poison inéluctable",
+      "IT": "",
+      "JA": "どくブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it much easier to poison or severely poison the enemy.",
+      "ES": "",
+      "FR": "Lance beaucoup plus facilement des attaques empoisonnant plus ou moins sévèrement l'ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_poisoner"
+  },
+  {
+    "id": 165,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Whacker",
+      "ES": "",
+      "FR": "Kill imparable",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_whacker"
+  },
+  {
+    "id": 166,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crafty Whacker",
+      "ES": "",
+      "FR": "Kill inéluctable",
+      "IT": "",
+      "JA": "即死ブレイク大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it much easier to kill the enemy instantly.",
+      "ES": "",
+      "FR": "Lance beaucoup plus facilement des attaques tuant l'ennemi sur le coup.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crafty_whacker"
+  },
+  {
+    "id": 167,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crafty Devil",
+      "ES": "",
+      "FR": "Attaque imparable",
+      "IT": "",
+      "JA": "全ガードブレイク"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Makes it moderately easier to inflict status ailments on the enemy.",
+      "ES": "",
+      "FR": "Lance plus facilement des attaques infligeant des altérations d'état à l'ennemi.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crafty_devil"
+  },
+  {
+    "id": 168,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. HP +2",
+      "ES": "",
+      "FR": "PV max. +2",
+      "IT": "",
+      "JA": "最大HP+2"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. HP by 2.",
+      "ES": "",
+      "FR": "Augmente les PV max. de 2.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_hp_plus2"
+  },
+  {
+    "id": 169,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. HP +4",
+      "ES": "",
+      "FR": "PV max. +4",
+      "IT": "",
+      "JA": "最大HP+4"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. HP by 4.",
+      "ES": "",
+      "FR": "Augmente les PV max. de 4.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_hp_plus4"
+  },
+  {
+    "id": 170,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. HP +8",
+      "ES": "",
+      "FR": "PV max. +8",
+      "IT": "",
+      "JA": "最大HP+8"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. HP by 8.",
+      "ES": "",
+      "FR": "Augmente les PV max. de 8.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_hp_plus8"
+  },
+  {
+    "id": 171,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. HP +12",
+      "ES": "",
+      "FR": "PV max. +12",
+      "IT": "",
+      "JA": "最大HP+12"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. HP by 12.",
+      "ES": "",
+      "FR": "Augmente les PV max. de 12.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_hp_plus12"
+  },
+  {
+    "id": 172,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. HP +16",
+      "ES": "",
+      "FR": "PV max. +16",
+      "IT": "",
+      "JA": "最大HP+16"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. HP by 16.",
+      "ES": "",
+      "FR": "Augmente les PV max. de 16.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_hp_plus16"
+  },
+  {
+    "id": 173,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. HP +20",
+      "ES": "",
+      "FR": "PV max. +20",
+      "IT": "",
+      "JA": "最大HP+20"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. HP by 20.",
+      "ES": "",
+      "FR": "Augmente les PV max. de 20.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_hp_plus20"
+  },
+  {
+    "id": 174,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. HP +24",
+      "ES": "",
+      "FR": "PV max. +24",
+      "IT": "",
+      "JA": "最大HP+24"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. HP by 24.",
+      "ES": "",
+      "FR": "Augmente les PV max. de 24.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_hp_plus24"
+  },
+  {
+    "id": 175,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. HP +30",
+      "ES": "",
+      "FR": "PV max. +30",
+      "IT": "",
+      "JA": "最大HP+30"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. HP by 30.",
+      "ES": "",
+      "FR": "Augmente les PV max. de 30.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_hp_plus30"
+  },
+  {
+    "id": 176,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. HP +36",
+      "ES": "",
+      "FR": "PV max. +36",
+      "IT": "",
+      "JA": "最大HP+36"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. HP by 36.",
+      "ES": "",
+      "FR": "Augmente les PV max. de 36.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_hp_plus36"
+  },
+  {
+    "id": 177,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. HP +48",
+      "ES": "",
+      "FR": "PV max. +48",
+      "IT": "",
+      "JA": "最大HP+48"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. HP by 48.",
+      "ES": "",
+      "FR": "Augmente les PV max. de 48.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_hp_plus48"
+  },
+  {
+    "id": 178,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. MP +4",
+      "ES": "",
+      "FR": "PM max. +4",
+      "IT": "",
+      "JA": "最大MP+4"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. MP by 4.",
+      "ES": "",
+      "FR": "Augmente les PM max. de 4.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_mp_plus4"
+  },
+  {
+    "id": 179,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. MP +8",
+      "ES": "",
+      "FR": "PM max. +8",
+      "IT": "",
+      "JA": "最大MP+8"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. MP by 8.",
+      "ES": "",
+      "FR": "Augmente les PM max. de 8.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_mp_plus8"
+  },
+  {
+    "id": 180,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "",
+      "ES": "",
+      "FR": "",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": ""
+  },
+  {
+    "id": 181,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. MP +16",
+      "ES": "",
+      "FR": "PM max. +16",
+      "IT": "",
+      "JA": "最大MP+16"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. MP by 16.",
+      "ES": "",
+      "FR": "Augmente les PM max. de 16.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_mp_plus16"
+  },
+  {
+    "id": 182,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. MP +24",
+      "ES": "",
+      "FR": "PM max. +24",
+      "IT": "",
+      "JA": "最大MP+24"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. MP by 24.",
+      "ES": "",
+      "FR": "Augmente les PM max. de 24.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_mp_plus24"
+  },
+  {
+    "id": 183,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. MP +32",
+      "ES": "",
+      "FR": "PM max. +32",
+      "IT": "",
+      "JA": "最大MP+32"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. MP by 32.",
+      "ES": "",
+      "FR": "Augmente les PM max. de 32.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_mp_plus32"
+  },
+  {
+    "id": 184,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. MP +40",
+      "ES": "",
+      "FR": "PM max. +40",
+      "IT": "",
+      "JA": "最大MP+40"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. MP by 40.",
+      "ES": "",
+      "FR": "Augmente les PM max. de 40.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_mp_plus40"
+  },
+  {
+    "id": 185,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. MP +48",
+      "ES": "",
+      "FR": "PM max. +48",
+      "IT": "",
+      "JA": "最大MP+48"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. MP by 48.",
+      "ES": "",
+      "FR": "Augmente les PM max. de 48.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_mp_plus48"
+  },
+  {
+    "id": 186,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. MP +60",
+      "ES": "",
+      "FR": "PM max. +60",
+      "IT": "",
+      "JA": "最大MP+60"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. MP by 60.",
+      "ES": "",
+      "FR": "Augmente les PM max. de 60.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_mp_plus60"
+  },
+  {
+    "id": 187,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. MP +72",
+      "ES": "",
+      "FR": "PM max. +72",
+      "IT": "",
+      "JA": "最大MP+72"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. MP by 72.",
+      "ES": "",
+      "FR": "Augmente les PM max. de 72.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_mp_plus72"
+  },
+  {
+    "id": 188,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Max. MP +96",
+      "ES": "",
+      "FR": "PM max. +96",
+      "IT": "",
+      "JA": "最大MP+96"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises max. MP by 96.",
+      "ES": "",
+      "FR": "Augmente les PM max. de 96.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "max_mp_plus96"
+  },
+  {
+    "id": 189,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Attack +2",
+      "ES": "",
+      "FR": "Attaque +2",
+      "IT": "",
+      "JA": "攻撃力+2"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises attack by 2.",
+      "ES": "",
+      "FR": "Augmente l'attaque de 2.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attack_plus2"
+  },
+  {
+    "id": 190,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Attack +4",
+      "ES": "",
+      "FR": "Attaque +4",
+      "IT": "",
+      "JA": "攻撃力+4"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises attack by 4.",
+      "ES": "",
+      "FR": "Augmente l'attaque de 4.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attack_plus4"
+  },
+  {
+    "id": 191,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Attack +8",
+      "ES": "",
+      "FR": "Attaque +8",
+      "IT": "",
+      "JA": "攻撃力+8"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises attack by 8.",
+      "ES": "",
+      "FR": "Augmente l'attaque de 8.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attack_plus8"
+  },
+  {
+    "id": 192,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Attack +12",
+      "ES": "",
+      "FR": "Attaque +12",
+      "IT": "",
+      "JA": "攻撃力+12"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises attack by 12.",
+      "ES": "",
+      "FR": "Augmente l'attaque de 12.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attack_plus12"
+  },
+  {
+    "id": 193,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Attack +16",
+      "ES": "",
+      "FR": "Attaque +16",
+      "IT": "",
+      "JA": "攻撃力+16"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises attack by 16.",
+      "ES": "",
+      "FR": "Augmente l'attaque de 16.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attack_plus16"
+  },
+  {
+    "id": 194,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Attack +20",
+      "ES": "",
+      "FR": "Attaque +20",
+      "IT": "",
+      "JA": "攻撃力+20"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises attack by 20.",
+      "ES": "",
+      "FR": "Augmente l'attaque de 20.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attack_plus20"
+  },
+  {
+    "id": 195,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Attack +24",
+      "ES": "",
+      "FR": "Attaque +24",
+      "IT": "",
+      "JA": "攻撃力+24"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises attack by 24.",
+      "ES": "",
+      "FR": "Augmente l'attaque de 24.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attack_plus24"
+  },
+  {
+    "id": 196,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Attack +30",
+      "ES": "",
+      "FR": "Attaque +30",
+      "IT": "",
+      "JA": "攻撃力+30"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises attack by 30.",
+      "ES": "",
+      "FR": "Augmente l'attaque de 30.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attack_plus30"
+  },
+  {
+    "id": 197,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Attack +36",
+      "ES": "",
+      "FR": "Attaque +36",
+      "IT": "",
+      "JA": "攻撃力+36"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises attack by 36.",
+      "ES": "",
+      "FR": "Augmente l'attaque de 36.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attack_plus36"
+  },
+  {
+    "id": 198,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Attack +48",
+      "ES": "",
+      "FR": "Attaque +48",
+      "IT": "",
+      "JA": "攻撃力+48"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises attack by 48.",
+      "ES": "",
+      "FR": "Augmente l'attaque de 48.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "attack_plus48"
+  },
+  {
+    "id": 199,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Defence +4",
+      "ES": "",
+      "FR": "Défense +4",
+      "IT": "",
+      "JA": "守備力アップ+4"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises defence by 4.",
+      "ES": "",
+      "FR": "Augmente la défense de 4.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "defence_plus4"
+  },
+  {
+    "id": 200,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Defence +8",
+      "ES": "",
+      "FR": "Défense +8",
+      "IT": "",
+      "JA": "守備力+8"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises defence by 8.",
+      "ES": "",
+      "FR": "Augmente la défense de 8.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "defence_plus8"
+  },
+  {
+    "id": 201,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Defence +16",
+      "ES": "",
+      "FR": "Défense +16",
+      "IT": "",
+      "JA": "守備力+16"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises defence by 16.",
+      "ES": "",
+      "FR": "Augmente la défense de 16.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "defence_plus16"
+  },
+  {
+    "id": 202,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Defence +24",
+      "ES": "",
+      "FR": "Défense +24",
+      "IT": "",
+      "JA": "守備力アップ+24"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises defence by 24.",
+      "ES": "",
+      "FR": "Augmente la défense de 24.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "defence_plus24"
+  },
+  {
+    "id": 203,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Defence +32",
+      "ES": "",
+      "FR": "Défense +32",
+      "IT": "",
+      "JA": "守備力アップ+32"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises defence by 32.",
+      "ES": "",
+      "FR": "Augmente la défense de 32.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "defence_plus32"
+  },
+  {
+    "id": 204,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Defence +40",
+      "ES": "",
+      "FR": "Défense +40",
+      "IT": "",
+      "JA": "守備力+40"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises defence by 40.",
+      "ES": "",
+      "FR": "Augmente la défense de 40.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "defence_plus40"
+  },
+  {
+    "id": 205,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Defence +48",
+      "ES": "",
+      "FR": "Défense +48",
+      "IT": "",
+      "JA": "守備力アップ+48"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises defence by 48.",
+      "ES": "",
+      "FR": "Augmente la défense de 48.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "defence_plus48"
+  },
+  {
+    "id": 206,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Defence +60",
+      "ES": "",
+      "FR": "Défense +60",
+      "IT": "",
+      "JA": "守備力アップ+60"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises defence by 60.",
+      "ES": "",
+      "FR": "Augmente la défense de 60.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "defence_plus60"
+  },
+  {
+    "id": 207,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Defence +72",
+      "ES": "",
+      "FR": "Défense +72",
+      "IT": "",
+      "JA": "守備力アップ+72"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises defence by 72.",
+      "ES": "",
+      "FR": "Augmente la défense de 72.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "defence_plus72"
+  },
+  {
+    "id": 208,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Defence +96",
+      "ES": "",
+      "FR": "Défense +96",
+      "IT": "",
+      "JA": "守備力アップ+96"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises defence by 96.",
+      "ES": "",
+      "FR": "Augmente la défense de 96.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "defence_plus96"
+  },
+  {
+    "id": 209,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Agility +2",
+      "ES": "",
+      "FR": "Agilité +2",
+      "IT": "",
+      "JA": "すばやさ+2"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises agility by 2.",
+      "ES": "",
+      "FR": "Augmente l'agilité de 2.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "agility_plus2"
+  },
+  {
+    "id": 210,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Agility +4",
+      "ES": "",
+      "FR": "Agilité +4",
+      "IT": "",
+      "JA": "すばやさ+4"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises agility by 4.",
+      "ES": "",
+      "FR": "Augmente l'agilité de 4.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "agility_plus4"
+  },
+  {
+    "id": 211,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Agility +8",
+      "ES": "",
+      "FR": "Agilité +8",
+      "IT": "",
+      "JA": "すばやさ+8"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises agility by 8.",
+      "ES": "",
+      "FR": "Augmente l'agilité de 8.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "agility_plus8"
+  },
+  {
+    "id": 212,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Agility +12",
+      "ES": "",
+      "FR": "Agilité +12",
+      "IT": "",
+      "JA": "すばやさ+12"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises agility by 12.",
+      "ES": "",
+      "FR": "Augmente l'agilité de 12.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "agility_plus12"
+  },
+  {
+    "id": 213,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Agility +16",
+      "ES": "",
+      "FR": "Agilité +16",
+      "IT": "",
+      "JA": "かしこさ+16"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises agility by 16.",
+      "ES": "",
+      "FR": "Augmente l'agilité de 16.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "agility_plus16"
+  },
+  {
+    "id": 214,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Agility +20",
+      "ES": "",
+      "FR": "Agilité +20",
+      "IT": "",
+      "JA": "すばやさ+20"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises agility by 20.",
+      "ES": "",
+      "FR": "Augmente l'agilité de 20.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "agility_plus20"
+  },
+  {
+    "id": 215,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Agility +24",
+      "ES": "",
+      "FR": "Agilité +24",
+      "IT": "",
+      "JA": "すばやさ+24"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises agility by 24.",
+      "ES": "",
+      "FR": "Augmente l'agilité de 24.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "agility_plus24"
+  },
+  {
+    "id": 216,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Agility +30",
+      "ES": "",
+      "FR": "Agilité +30",
+      "IT": "",
+      "JA": "すばやさ+30"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises agility by 30.",
+      "ES": "",
+      "FR": "Augmente l'agilité de 30.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "agility_plus30"
+  },
+  {
+    "id": 217,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Agility +36",
+      "ES": "",
+      "FR": "Agilité +36",
+      "IT": "",
+      "JA": "すばやさ+36"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises agility by 36.",
+      "ES": "",
+      "FR": "Augmente l'agilité de 36.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "agility_plus36"
+  },
+  {
+    "id": 218,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Agility +48",
+      "ES": "",
+      "FR": "Agilité +48",
+      "IT": "",
+      "JA": "すばやさ+48"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises agility by 48.",
+      "ES": "",
+      "FR": "Augmente l'agilité de 48.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "agility_plus48"
+  },
+  {
+    "id": 219,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Wisdom +4",
+      "ES": "",
+      "FR": "Sagesse +4",
+      "IT": "",
+      "JA": "かしこさ+4"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises wisdom by 4.",
+      "ES": "",
+      "FR": "Augmente la sagesse de 4.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "wisdom_plus4"
+  },
+  {
+    "id": 220,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Wisdom +8",
+      "ES": "",
+      "FR": "Sagesse +8",
+      "IT": "",
+      "JA": "かしこさ+8"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises wisdom by 8.",
+      "ES": "",
+      "FR": "Augmente la sagesse de 8.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "wisdom_plus8"
+  },
+  {
+    "id": 221,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Wisdom +16",
+      "ES": "",
+      "FR": "Sagesse +16",
+      "IT": "",
+      "JA": "かしこさ+16"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises wisdom by 16.",
+      "ES": "",
+      "FR": "Augmente la sagesse de 16.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "wisdom_plus16"
+  },
+  {
+    "id": 222,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Wisdom +24",
+      "ES": "",
+      "FR": "Sagesse +24",
+      "IT": "",
+      "JA": "かしこさ+24"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises wisdom by 24.",
+      "ES": "",
+      "FR": "Augmente la sagesse de 24.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "wisdom_plus24"
+  },
+  {
+    "id": 223,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Wisdom +32",
+      "ES": "",
+      "FR": "Sagesse +32",
+      "IT": "",
+      "JA": "かしこさ+32"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises wisdom by 32.",
+      "ES": "",
+      "FR": "Augmente la sagesse de 32.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "wisdom_plus32"
+  },
+  {
+    "id": 224,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Wisdom +40",
+      "ES": "",
+      "FR": "Sagesse +40",
+      "IT": "",
+      "JA": "かしこさ+40"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises wisdom by 40.",
+      "ES": "",
+      "FR": "Augmente la sagesse de 40.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "wisdom_plus40"
+  },
+  {
+    "id": 225,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Wisdom +48",
+      "ES": "",
+      "FR": "Sagesse +48",
+      "IT": "",
+      "JA": "かしこさ+48"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises wisdom by 48.",
+      "ES": "",
+      "FR": "Augmente la sagesse de 48.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "wisdom_plus48"
+  },
+  {
+    "id": 226,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Wisdom +60",
+      "ES": "",
+      "FR": "Sagesse +60",
+      "IT": "",
+      "JA": "かしこさ+60"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises wisdom by 60.",
+      "ES": "",
+      "FR": "Augmente la sagesse de 60.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "wisdom_plus60"
+  },
+  {
+    "id": 227,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Wisdom +72",
+      "ES": "",
+      "FR": "Sagesse +72",
+      "IT": "",
+      "JA": "かしこさ+72"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises wisdom by 72.",
+      "ES": "",
+      "FR": "Augmente la sagesse de 72.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "wisdom_plus72"
+  },
+  {
+    "id": 228,
+    "type": "attribute_boost",
+    "name": {
+      "DE": "",
+      "EN": "Wisdom +96",
+      "ES": "",
+      "FR": "Sagesse +96",
+      "IT": "",
+      "JA": "かしこさ+96"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Raises wisdom by 96.",
+      "ES": "",
+      "FR": "Augmente la sagesse de 96.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "wisdom_plus96"
+  },
+  {
+    "id": 229,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Frizz Ward",
+      "ES": "",
+      "FR": "Protection Flamme",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to fire-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance aux attaques élémentaires de feu.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "frizz_ward"
+  },
+  {
+    "id": 230,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Frizz Ward",
+      "ES": "",
+      "FR": "Ultraprotection Flamme",
+      "IT": "",
+      "JA": "火ガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to fire-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance aux attaques élémentaires de feu.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_frizz_ward"
+  },
+  {
+    "id": 231,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Splish Ward",
+      "ES": "",
+      "FR": "Protection Plouf",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to water-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance aux attaques élémentaires d'eau.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "splish_ward"
+  },
+  {
+    "id": 232,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Splish Ward",
+      "ES": "",
+      "FR": "Ultraprotection Plouf",
+      "IT": "",
+      "JA": "水ガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to water-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance aux attaques élémentaires d'eau.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_splish_ward"
+  },
+  {
+    "id": 233,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Woosh Ward",
+      "ES": "",
+      "FR": "Protection Tornade",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to wind-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance aux attaques élémentaires de vent.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "woosh_ward"
+  },
+  {
+    "id": 234,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Woosh Ward",
+      "ES": "",
+      "FR": "Ultraprotection Tornade",
+      "IT": "",
+      "JA": "風ガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to wind-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance aux attaques élémentaires de vent.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_woosh_ward"
+  },
+  {
+    "id": 235,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crag Ward",
+      "ES": "",
+      "FR": "Protection Séisme",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to earth-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance aux attaques élémentaires de terre.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crag_ward"
+  },
+  {
+    "id": 236,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crag Ward",
+      "ES": "",
+      "FR": "Ultraprotection Séisme",
+      "IT": "",
+      "JA": "地ガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to earth-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance aux attaques élémentaires de terre.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crag_ward"
+  },
+  {
+    "id": 237,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Bang Ward",
+      "ES": "",
+      "FR": "Protection Bang",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to explosive attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance aux attaques explosives.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "bang_ward"
+  },
+  {
+    "id": 238,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Bang Ward",
+      "ES": "",
+      "FR": "Ultraprotection Bang",
+      "IT": "",
+      "JA": "爆発ガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to explosive attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance aux attaques explosives.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_bang_ward"
+  },
+  {
+    "id": 239,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Crack Ward",
+      "ES": "",
+      "FR": "Protection Glace",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to ice-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance aux attaques élémentaires de glace.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "crack_ward"
+  },
+  {
+    "id": 240,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Crack Ward",
+      "ES": "",
+      "FR": "Ultraprotection Glace",
+      "IT": "",
+      "JA": "氷結ガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to ice-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance aux attaques élémentaires de glace.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_crack_ward"
+  },
+  {
+    "id": 241,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Zap Ward",
+      "ES": "",
+      "FR": "Protection Foudre",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to electrical attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance aux attaques élémentaires de foudre.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "zap_ward"
+  },
+  {
+    "id": 242,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Zap Ward",
+      "ES": "",
+      "FR": "Ultraprotection Foudre",
+      "IT": "",
+      "JA": "電撃ガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to electrical attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance aux attaques élémentaires de foudre.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_zap_ward"
+  },
+  {
+    "id": 243,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Sizz Ward",
+      "ES": "",
+      "FR": "Protection Crame",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to light-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance aux attaques élémentaires de lumière.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "sizz_ward"
+  },
+  {
+    "id": 244,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Sizz Ward",
+      "ES": "",
+      "FR": "Ultraprotection Crame",
+      "IT": "",
+      "JA": "光ガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to light-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance aux attaques élémentaires de lumière.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_sizz_ward"
+  },
+  {
+    "id": 245,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Zam Ward",
+      "ES": "",
+      "FR": "Protection Élec",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to dark-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance aux attaques élémentaires de ténèbres.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "zam_ward"
+  },
+  {
+    "id": 246,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Zam Ward",
+      "ES": "",
+      "FR": "Ultraprotection Élec",
+      "IT": "",
+      "JA": "闇ガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to dark-elemental attacks.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance aux attaques élémentaires de ténèbres.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_zam_ward"
+  },
+  {
+    "id": 247,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Antitoxidant",
+      "ES": "",
+      "FR": "Antitoxydant",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to poison and severe poison.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance à l'empoisonnement et à l'empoisonnement sévère.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "antitoxidant"
+  },
+  {
+    "id": 248,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Antitoxidant",
+      "ES": "",
+      "FR": "Ultra Antitoxydant",
+      "IT": "",
+      "JA": "どくガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to poison and severe poison.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance à l'empoisonnement et à l'empoisonnement sévère.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_antitoxidant"
+  },
+  {
+    "id": 249,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Granite Chin",
+      "ES": "",
+      "FR": "Protection Étourdissement",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to being stunned.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance à l'étourdissement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "granite_chin"
+  },
+  {
+    "id": 250,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Granite Chin",
+      "ES": "",
+      "FR": "Ultraprotection Étourdissement",
+      "IT": "",
+      "JA": "休みガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to being stunned.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance à l'étourdissement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_granite_chin"
+  },
+  {
+    "id": 251,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Clear Thinker",
+      "ES": "",
+      "FR": "Protection Confusion",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to confusion.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance à la confusion.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "clear_thinker"
+  },
+  {
+    "id": 252,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Clear Thinker",
+      "ES": "",
+      "FR": "Ultraprotection Confusion",
+      "IT": "",
+      "JA": "こんらんガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to confusion.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance à la confusion.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_clear_thinker"
+  },
+  {
+    "id": 253,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Insomniac",
+      "ES": "",
+      "FR": "Protection Sommeil",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to being put to sleep.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance à l'endormissement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "insomniac"
+  },
+  {
+    "id": 254,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Insomniac",
+      "ES": "",
+      "FR": "Ultraprotection Sommeil",
+      "IT": "",
+      "JA": "ねむりガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to being put to sleep.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance à l'endormissement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_insomniac"
+  },
+  {
+    "id": 255,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Fidget",
+      "ES": "",
+      "FR": "Protection Paralysie",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to paralysis.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance à la paralysie.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "fidget"
+  },
+  {
+    "id": 256,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Fidget",
+      "ES": "",
+      "FR": "Ultraprotection Paralysie",
+      "IT": "",
+      "JA": "マヒガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to paralysis.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance à la paralysie.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_fidget"
+  },
+  {
+    "id": 257,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Death Defier",
+      "ES": "",
+      "FR": "Mort incertaine",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to instant death.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance à la mort instantanée.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "death_defier"
+  },
+  {
+    "id": 258,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Death Defier",
+      "ES": "",
+      "FR": "Ultra Mort incertaine",
+      "IT": "",
+      "JA": "即死ガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to instant death.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance à la mort instantanée.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_death_defier"
+  },
+  {
+    "id": 259,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Tough Customer",
+      "ES": "",
+      "FR": "Cuir épais",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to debilitation.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance à l'affaiblissement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "tough_customer"
+  },
+  {
+    "id": 260,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Tough Customer",
+      "ES": "",
+      "FR": "Ultra Cuir épais",
+      "IT": "",
+      "JA": "弱体化ガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to debilitation.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance à l'affaiblissement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_tough_customer"
+  },
+  {
+    "id": 261,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Visionary",
+      "ES": "",
+      "FR": "Protection Éblouissement",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to bedazzlement.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance à l'éblouissement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "visionary"
+  },
+  {
+    "id": 262,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Visionary",
+      "ES": "",
+      "FR": "Ultraprotection Éblouissement",
+      "IT": "",
+      "JA": "幻惑ガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to bedazzlement.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance à l'éblouissement.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_visionary"
+  },
+  {
+    "id": 263,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Spellbinder",
+      "ES": "",
+      "FR": "Désorcellement",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to antimagic.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance au pare-magie.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "spellbinder"
+  },
+  {
+    "id": 264,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Spellbinder",
+      "ES": "",
+      "FR": "Ultra Désorcellement",
+      "IT": "",
+      "JA": "封じガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to antimagic.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance au pare-magie.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_spellbinder"
+  },
+  {
+    "id": 265,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Drain Blocker",
+      "ES": "",
+      "FR": "Protection Aspirmagie",
+      "IT": "",
+      "JA": ""
+    },
+    "description": {
+      "DE": "",
+      "EN": "Slightly increases resistance to MP absorption.",
+      "ES": "",
+      "FR": "Augmente légèrement la résistance à l'absorption de PM.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "drain_blocker"
+  },
+  {
+    "id": 266,
+    "type": "resistance_damage",
+    "name": {
+      "DE": "",
+      "EN": "Ultra Drain Blocker",
+      "ES": "",
+      "FR": "Ultraprotection Aspirmagie",
+      "IT": "",
+      "JA": "MP吸収ガード大"
+    },
+    "description": {
+      "DE": "",
+      "EN": "Greatly increases resistance to MP absorption.",
+      "ES": "",
+      "FR": "Augmente beaucoup la résistance à l'absorption de PM.",
+      "IT": "",
+      "JA": ""
+    },
+    "slug": "ultra_drain_blocker"
+  }
+]
