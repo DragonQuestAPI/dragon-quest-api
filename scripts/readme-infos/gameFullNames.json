@@ -1,0 +1,40 @@
+{
+  "mainSeries": {
+    "DQ1": "Dragon Quest",
+    "DQ2": "Dragon Quest II",
+    "DQ3": "Dragon Quest III",
+    "DQ4": "Dragon Quest IV",
+    "DQ5": "Dragon Quest V",
+    "DQ6": "Dragon Quest VI",
+    "DQ7": "Dragon Quest VII",
+    "DQ8": "Dragon Quest VIII",
+    "DQ9": "Dragon Quest IX",
+    "DQ10": "Dragon Quest X",
+    "DQ11": "Dragon Quest XI",
+    "DQ12": "Dragon Quest XII"
+  },
+  "monstersSeries": {
+    "DQM1": "Dragon Quest Monsters",
+    "DQM2": "Dragon Quest Monsters 2",
+    "DQM3": "Dragon Quest Monsters 3",
+    "DQMCH": "Dragon Quest Monsters: Caravan Heart"
+  },
+  "monstersJokerSeries": {
+    "DQMJ1": "Dragon Quest Monsters Joker",
+    "DQMJ2": "Dragon Quest Monsters Joker 2",
+    "DQMJ2P": "Dragon Quest Monsters Joker 2 Professional",
+    "DQMJ3": "Dragon Quest Monsters Joker 3",
+    "DQMJ3P": "Dragon Quest Monsters Joker 3 Professional"
+  },
+  "buildersSeries": {
+    "DQB1": "Dragon Quest Builders",
+    "DQB2": "Dragon Quest Builders 2"
+  },
+  "heroesSeries": {
+    "DQH1": "Dragon Quest Heroes",
+    "DQH2": "Dragon Quest Heroes II"
+  },
+  "swordsSeries": {
+    "DQS": "Dragon Quest Swords: The Masked Queen and the Tower of Mirrors"
+  }
+}

@@ -1,79 +1,199 @@
-<h1><img src='https://thumbs.gfycat.com/EarnestFreeAustraliansilkyterrier-size_restricted.gif' height=48px/>Dragon Quest API</h1>
+# ![Dragon Quest API](https://thumbs.gfycat.com/EarnestFreeAustraliansilkyterrier-size_restricted.gif) Dragon Quest API
 
-<p>⚠ THIS PROJECT IS STILL UNDER DEVELOPMENT ⚠</p>
+⚠ **THIS PROJECT IS STILL UNDER DEVELOPMENT** ⚠
 
-<p>An API project featuring data from several episodes of the Dragon Quest franchise.</p>
-<p>English, Spanish, French, German, Italian and Japanese languages are supported.</p>
+An API project featuring data from several episodes of the Dragon Quest franchise.
+Supported languages: English, Spanish, French, German, Italian, and Japanese.
 
-<h2>Prerequisites</h2>
-<ul>
-  <li>An internet connection</li>
-  <li>An IDE such as <b><a href="https://code.visualstudio.com">Visual Studio Code</a></b></li>
-  <li><b><a href="https://git-scm.com">Git</a></b></li>
-  <li><b><a href="https://www.docker.com/products/docker-desktop/">Docker Desktop 3.9</a></b> or greater</li>
-  <li><b><a href="https://www.postman.com">Postman</a></b> or any tool to test the API</li>
-  <li><b><a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode">Prettier</a></b> extension</li>
-</ul>
+## Prerequisites
 
-<h2>Installing</h2>
+- An IDE such as [Visual Studio Code](https://code.visualstudio.com)
+- [Git](https://git-scm.com)
+- [Docker Desktop 3.9](https://www.docker.com/products/docker-desktop/) or greater
+- [Postman](https://www.postman.com) or any tool to retrieve information from the API
 
-<p>Git</p>
-<code>git clone https://github.com/DragonQuestAPI/dragon-quest-api.git</code>
+## Installing
 
-<h2>Launching</h2>
+```bash
+git clone https://github.com/DragonQuestAPI/dragon-quest-api.git
+```
 
-<p>With Docker</p>
-<ul><code>docker-compose up -d</code></ul>
+## Launching
 
-<p>With Node</p>
-<ul>
-  <li><code>npm i</code></li>
-  <li><code>npm start</code></li>
-</ul>
+### With Docker
 
-<h2>Games covered by the API</h2>
-<ul>
-  <li>Dragon Quest</li>
-  <li>Dragon Quest II</li>
-  <li>Dragon Quest III</li>
-  <li>Dragon Quest IV</li>
-  <li>Dragon Quest V</li>
-  <li>Dragon Quest VI</li>
-  <li>Dragon Quest VII</li>
-  <li>Dragon Quest VIII</li>
-  <li>Dragon Quest IX</li>
-  <li>Dragon Quest X</li>
-  <li>Dragon Quest XI</li>
-  <br>
-  <li>Dragon Quest Monsters Joker</li>
-  <li>Dragon Quest Monsters Joker 2</li>
-  <li>Dragon Quest Monsters: The Dark Prince</li>
-  <br>
-  <li>Probably more to come in the future...</li>
-</ul>
+```bash
+docker-compose up -d
+```
 
-<h2><img src='https://thumbs.gfycat.com/UnnaturalAnxiousElkhound-size_restricted.gif' height=48px/>Credits & Thanks</h2>
-<ul>
-  <li>
-    <a href="https://github.com/EnriqueFeola"><img src='https://avatars.githubusercontent.com/u/110606657' height=48px/>EnriqueFeola</a> - Contributor
-  </li>
-  <li>
-    <a href="https://github.com/NaorimSenchai"><img src='https://avatars.githubusercontent.com/u/56729935' height=48px/>SoruTheWhistler</a> - Founder, Contributor
-  </li>
-</ul>
+### With Node
 
-<br>
-<p>Of course, this project wouldn't exist without <a href="https://www.square-enix.com">Square Enix</a> who made these wonderful games.</p>
-<p>If you have never tried the Dragon Quest franchise, please support Square Enix by giving it a try. ❤</p>
+```bash
+npm i
+npm start
+```
 
-<h2>Dragon Quest API development files</h2>
+## Games to be covered by the API
 
-<p>Those include :</p>
-<ul>
-    <li>Game save files to fetch and verify informations easily</li>
-    <li>Textual files containing helpful informations</li>
-    <li>Screenshots to prove the veracity of specific informations</li>
-</ul>
-<p>The Dragon Quest API's development files were moved to the Dragon Quest API Team's cloud storage.</p>
-<p>They can now only be accessed by the development team or on demand.</p>
-<p>If you wish to help with the project, contact us for more informations.</p>
+- **NES**
+  - Dragon Quest (JA)
+  - Dragon Quest (US)
+  - Dragon Quest II (JA)
+  - Dragon Quest II (US)
+  - Dragon Quest III (JA)
+  - Dragon Quest III (US)
+  - Dragon Quest IV (JA)
+  - Dragon Quest IV (US)
+
+- **SNES**
+  - Dragon Quest (JA)
+  - Dragon Quest II (JA)
+  - Dragon Quest III (JA)
+  - Dragon Quest V (JA)
+  - Dragon Quest VI (JA)
+
+- **SWITCH**
+  - Dragon Quest (GLOBAL)
+  - Dragon Quest II (GLOBAL)
+  - Dragon Quest III (GLOBAL)
+  - Dragon Quest X (GLOBAL)
+  - Dragon Quest XI (GLOBAL)
+  - Dragon Quest Builders (GLOBAL)
+  - Dragon Quest Builders 2 (GLOBAL)
+  - Dragon Quest Heroes (GLOBAL)
+  - Dragon Quest Heroes II (GLOBAL)
+  - Dragon Quest Monsters (GLOBAL)
+  - Dragon Quest Monsters 3 (GLOBAL)
+
+- **DS**
+  - Dragon Quest IV (JA)
+  - Dragon Quest IV (EU)
+  - Dragon Quest IV (US)
+  - Dragon Quest V (JA)
+  - Dragon Quest V (EU)
+  - Dragon Quest V (US)
+  - Dragon Quest VI (JA)
+  - Dragon Quest VI (EU)
+  - Dragon Quest VI (US)
+  - Dragon Quest IX (JA)
+  - Dragon Quest IX (EU)
+  - Dragon Quest IX (US)
+  - Dragon Quest Monsters Joker (JA)
+  - Dragon Quest Monsters Joker (EU)
+  - Dragon Quest Monsters Joker (US)
+  - Dragon Quest Monsters Joker 2 (JA)
+  - Dragon Quest Monsters Joker 2 (EU)
+  - Dragon Quest Monsters Joker 2 (US)
+  - Dragon Quest Monsters Joker 2 Professional (JA)
+
+- **PS**
+  - Dragon Quest IV (JA)
+  - Dragon Quest VII (JA)
+  - Dragon Quest VII (US)
+  - Dragon Quest Monsters (JA)
+  - Dragon Quest Monsters 2 (JA)
+
+- **PS2**
+  - Dragon Quest V (JA)
+  - Dragon Quest V (EU)
+  - Dragon Quest V (US)
+  - Dragon Quest VIII (JA)
+  - Dragon Quest VIII (US)
+
+- **3DS**
+  - Dragon Quest VII (JA)
+  - Dragon Quest VII (EU)
+  - Dragon Quest VII (US)
+  - Dragon Quest VIII (JA)
+  - Dragon Quest VIII (EU)
+  - Dragon Quest VIII (US)
+  - Dragon Quest X (JA)
+  - Dragon Quest XI (JA)
+  - Dragon Quest Monsters (JA)
+  - Dragon Quest Monsters 2 (JA)
+  - Dragon Quest Monsters Joker 3 (JA)
+  - Dragon Quest Monsters Joker 3 Professional (JA)
+
+- **PC**
+  - Dragon Quest X (JA)
+  - Dragon Quest XI (JA)
+  - Dragon Quest XI (EU)
+  - Dragon Quest XI (US)
+  - Dragon Quest XII (JA)
+  - Dragon Quest Builders (JA)
+  - Dragon Quest Builders (EU)
+  - Dragon Quest Builders (US)
+  - Dragon Quest Builders 2 (JA)
+  - Dragon Quest Builders 2 (EU)
+  - Dragon Quest Builders 2 (US)
+  - Dragon Quest Heroes (JA)
+  - Dragon Quest Heroes (EU)
+  - Dragon Quest Heroes (US)
+  - Dragon Quest Heroes II (JA)
+  - Dragon Quest Heroes II (EU)
+  - Dragon Quest Heroes II (US)
+
+- **PS4**
+  - Dragon Quest X (JA)
+  - Dragon Quest XI (JA)
+  - Dragon Quest XI (EU)
+  - Dragon Quest XI (US)
+  - Dragon Quest Builders (JA)
+  - Dragon Quest Builders (EU)
+  - Dragon Quest Builders (US)
+  - Dragon Quest Builders 2 (JA)
+  - Dragon Quest Builders 2 (EU)
+  - Dragon Quest Builders 2 (US)
+  - Dragon Quest Heroes (JA)
+  - Dragon Quest Heroes (EU)
+  - Dragon Quest Heroes (US)
+  - Dragon Quest Heroes II (JA)
+  - Dragon Quest Heroes II (EU)
+  - Dragon Quest Heroes II (US)
+
+- **WII**
+  - Dragon Quest X (JA)
+  - Dragon Quest Swords: The Masked Queen and the Tower of Mirrors (JA)
+
+- **WIIU**
+  - Dragon Quest X (JA)
+
+- **PS3**
+  - Dragon Quest Builders (JA)
+  - Dragon Quest Heroes (JA)
+  - Dragon Quest Heroes II (JA)
+
+- **XBOXONE**
+  - Dragon Quest Builders 2 (US)
+
+- **GBC**
+  - Dragon Quest Monsters (JA)
+  - Dragon Quest Monsters (US)
+  - Dragon Quest Monsters 2 (JA)
+  - Dragon Quest Monsters 2 (US)
+
+- **GBA**
+  - Dragon Quest Monsters: Caravan Heart (JA)
+
+- Probably more to come in the future...
+
+## ![Credits & Thanks](https://thumbs.gfycat.com/UnnaturalAnxiousElkhound-size_restricted.gif) Credits & Thanks
+
+- [EnriqueFeola](https://github.com/EnriqueFeola) ![EnriqueFeola](https://avatars.githubusercontent.com/u/110606657) - Contributor
+- [SoruTheWhistler](https://github.com/NaorimSenchai) ![SoruTheWhistler](https://avatars.githubusercontent.com/u/56729935) - Founder, Contributor
+
+Of course, this project wouldn't exist without [Square Enix](https://www.square-enix.com), who made these wonderful games.
+
+If you have never tried the Dragon Quest franchise, please support Square Enix by giving it a try. ❤
+
+## Dragon Quest API development files
+
+These include:
+
+- Game save files to fetch and verify information easily
+- Textual files containing helpful information
+- Screenshots to prove the veracity of specific information
+
+The Dragon Quest API's development files were moved to the Dragon Quest API Team's cloud storage.
+
+They can now only be accessed by the development team or on demand. If you wish to help with the project, contact us for more information.

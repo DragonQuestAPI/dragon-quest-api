@@ -1,0 +1,118 @@
+{
+  "DQ1": {
+    "NES": ["JA", "US"],
+    "SNES": ["JA"],
+    "SWITCH": ["GLOBAL"]
+  },
+  "DQ2": {
+    "NES": ["JA", "US"],
+    "SNES": ["JA"],
+    "SWITCH": ["GLOBAL"]
+  },
+  "DQ3": {
+    "NES": ["JA", "US"],
+    "SNES": ["JA"],
+    "SWITCH": ["GLOBAL"]
+  },
+  "DQ4": {
+    "DS": ["JA", "EU", "US"],
+    "NES": ["JA", "US"],
+    "PS": ["JA"]
+  },
+  "DQ5": {
+    "DS": ["JA", "EU", "US"],
+    "PS2": ["JA", "EU", "US"],
+    "SNES": ["JA"]
+  },
+  "DQ6": {
+    "DS": ["JA", "EU", "US"],
+    "SNES": ["JA"]
+  },
+  "DQ7": {
+    "3DS": ["JA", "EU", "US"],
+    "PS": ["JA", "US"]
+  },
+  "DQ8": {
+    "3DS": ["JA", "EU", "US"],
+    "PS2": ["JA", "US"]
+  },
+  "DQ9": {
+    "DS": ["JA", "EU", "US"]
+  },
+  "DQ10": {
+    "3DS": ["JA"],
+    "PC": ["JA"],
+    "PS4": ["JA"],
+    "SWITCH": ["GLOBAL"],
+    "WII": ["JA"],
+    "WIIU": ["JA"]
+  },
+  "DQ11": {
+    "3DS": ["JA"],
+    "PC": ["JA", "EU", "US"],
+    "PS4": ["JA", "EU", "US"],
+    "SWITCH": ["GLOBAL"]
+  },
+  "DQ12": {
+    "PC": ["JA"]
+  },
+  "DQB1": {
+    "PC": ["JA", "EU", "US"],
+    "PS3": ["JA"],
+    "PS4": ["JA", "EU", "US"],
+    "SWITCH": ["GLOBAL"]
+  },
+  "DQB2": {
+    "PC": ["JA", "EU", "US"],
+    "PS4": ["JA", "EU", "US"],
+    "SWITCH": ["GLOBAL"],
+    "XBOXONE": ["US"]
+  },
+  "DQH1": {
+    "PC": ["JA", "EU", "US"],
+    "PS3": ["JA"],
+    "PS4": ["JA", "EU", "US"],
+    "SWITCH": ["GLOBAL"]
+  },
+  "DQH2": {
+    "PC": ["JA", "EU", "US"],
+    "PS3": ["JA"],
+    "PS4": ["JA", "EU", "US"],
+    "SWITCH": ["GLOBAL"]
+  },
+  "DQM1": {
+    "3DS": ["JA"],
+    "GBC": ["JA", "US"],
+    "PS": ["JA"],
+    "SWITCH": ["GLOBAL"]
+  },
+  "DQM2": {
+    "3DS": ["JA"],
+    "GBC": ["JA", "US"],
+    "PS": ["JA"]
+  },
+  "DQM3": {
+    "SWITCH": ["GLOBAL"]
+  },
+  "DQMCH": {
+    "GBA": ["JA"]
+  },
+  "DQMJ1": {
+    "DS": ["JA", "EU", "US"]
+  },
+  "DQMJ2": {
+    "DS": ["JA", "EU", "US"]
+  },
+  "DQMJ2P": {
+    "DS": ["JA"]
+  },
+  "DQMJ3": {
+    "3DS": ["JA"]
+  },
+  "DQMJ3P": {
+    "3DS": ["JA"]
+  },
+  "DQS": {
+    "WII": ["JA"]
+  }
+}

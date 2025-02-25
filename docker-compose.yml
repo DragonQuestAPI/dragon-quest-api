@@ -2,10 +2,9 @@ version: "3.9"
 
 services:
   app:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: node:18-alpine
     ports:
       - "8000:8000"
     volumes:
-      - ./src:/app/src
+      - .:/app
+      - /app/node_modules

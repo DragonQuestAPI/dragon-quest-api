@@ -1,0 +1,1872 @@
+[
+  {
+    "slug": "DQ1",
+    "versions": [
+      {
+        "name": "Dragon Quest",
+        "platform": "NES",
+        "series": "Main",
+        "release": {
+          "JA": "1986-05-27",
+          "NA": "1989-08-XX",
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest",
+        "platform": "MSX2",
+        "series": "Main",
+        "release": {
+          "JA": "1986-11-21",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest",
+        "platform": "MSX",
+        "series": "Main",
+        "release": {
+          "JA": "1986-12-18",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest",
+        "platform": "Mobile",
+        "series": "Main",
+        "release": {
+          "JA": "2013-11-08",
+          "NA": "2014-09-11",
+          "AUS": "2014-09-11",
+          "EU": "2014-09-11"
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest",
+        "platform": "3DS, PS4",
+        "series": "Main",
+        "release": {
+          "JA": "2017-08-10",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQ2",
+    "versions": [
+      {
+        "name": "Dragon Quest II",
+        "platform": "NES",
+        "series": "Main",
+        "release": {
+          "JA": "1987-01-26",
+          "NA": "1990-12-XX",
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest II",
+        "platform": "MSX",
+        "series": "Main",
+        "release": {
+          "JA": "1988-02-06",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest II",
+        "platform": "MSX2",
+        "series": "Main",
+        "release": {
+          "JA": "1988-05-27",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest II",
+        "platform": "Mobile",
+        "series": "Main",
+        "release": {
+          "JA": "2014-07-26",
+          "NA": "2014-10-09",
+          "AUS": "2014-10-09",
+          "EU": "2014-10-09"
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest II",
+        "platform": "3DS, PS4",
+        "series": "Main",
+        "release": {
+          "JA": "2017-08-10",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQ3",
+    "versions": [
+      {
+        "name": "Dragon Quest III",
+        "platform": "NES",
+        "series": "Main",
+        "release": {
+          "JA": "1988-02-10",
+          "NA": "1991-06-12",
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest III",
+        "platform": "SFC",
+        "series": "Main",
+        "release": {
+          "JA": "1996-12-06",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest III",
+        "platform": "GBC",
+        "series": "Main",
+        "release": {
+          "JA": "2000-12-08",
+          "NA": "2001-07-07",
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest III",
+        "platform": "Mobile",
+        "series": "Main",
+        "release": {
+          "JA": "2014-09-25",
+          "NA": "2014-12-04",
+          "AUS": "2014-12-04",
+          "EU": "2014-12-04"
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest III",
+        "platform": "3DS, PS4",
+        "series": "Main",
+        "release": {
+          "JA": "2017-08-24",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQ4",
+    "versions": [
+      {
+        "name": "Dragon Warrior IV",
+        "platform": "NES",
+        "series": "Main",
+        "release": {
+          "JA": "1990-02-11",
+          "NA": "1992-10-XX",
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest IV",
+        "platform": "PSX",
+        "series": "Main",
+        "release": {
+          "JA": "2001-11-22",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest IV",
+        "platform": "DS",
+        "series": "Main",
+        "release": {
+          "JA": "2007-11-22",
+          "NA": "2008-09-16",
+          "AUS": "2008-09-11",
+          "EU": "2008-09-12"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest IV",
+        "platform": "Mobile (Android and iOS)",
+        "series": "Main",
+        "release": {
+          "JA": "2014-04-17",
+          "NA": "2014-08-07",
+          "AUS": "2014-08-07",
+          "EU": "2014-08-07"
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DQ5",
+    "versions": [
+      {
+        "name": "Dragon Quest V",
+        "platform": "SFC",
+        "series": "Main",
+        "release": {
+          "JA": "1992-09-27",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest V",
+        "platform": "PS2",
+        "series": "Main",
+        "release": {
+          "JA": "2004-03-25",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest V",
+        "platform": "DS",
+        "series": "Main",
+        "release": {
+          "JA": "2008-07-17",
+          "NA": "2009-02-17",
+          "AUS": "2009-02-19",
+          "EU": "2009-02-20"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest V",
+        "platform": "Mobile",
+        "series": "Main",
+        "release": {
+          "JA": "2014-12-12",
+          "NA": "2015-01-22",
+          "AUS": "2015-01-22",
+          "EU": "2015-01-22"
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "TNDFND",
+    "versions": [
+      {
+        "name": "Torneko no Daibōken: Fushigi no Dungeon",
+        "platform": "SFC",
+        "series": "Mystery Dungeon",
+        "release": {
+          "JA": "1993-09-19",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DQ1&2",
+    "versions": [
+      {
+        "name": "Dragon Quest I & II",
+        "platform": "SFC",
+        "series": "Main",
+        "release": {
+          "JA": "1993-12-18",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest I & II",
+        "platform": "GBC",
+        "series": "Main",
+        "release": {
+          "JA": "1999-09-23",
+          "NA": "2000-09-27",
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQ6",
+    "versions": [
+      {
+        "name": "Dragon Quest VI",
+        "platform": "SFC",
+        "series": "Main",
+        "release": {
+          "JA": "1995-12-09",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest VI",
+        "platform": "DS",
+        "series": "Main",
+        "release": {
+          "JA": "2010-01-28",
+          "NA": "2011-02-14",
+          "AUS": "2011-06-16",
+          "EU": "2011-05-20"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest VI",
+        "platform": "Mobile (Android and iOS)",
+        "series": "Main",
+        "release": {
+          "JA": "2015-06-10",
+          "NA": "2015-06-24",
+          "AUS": "2015-06-24",
+          "EU": "2015-06-24"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQM",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters",
+        "platform": "GBC",
+        "series": "Monsters",
+        "release": {
+          "JA": "1998-09-25",
+          "NA": "1999-12-31",
+          "AUS": null,
+          "EU": "1999-01-25"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest Monsters",
+        "platform": "Mobile",
+        "series": "Monsters",
+        "release": {
+          "JA": "2002-01-28",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "TTLH",
+    "versions": [
+      {
+        "name": "Torneko: The Last Hope",
+        "platform": "PSX",
+        "series": "Mystery Dungeon",
+        "release": {
+          "JA": "1999-09-15",
+          "NA": "2000-11-15",
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DQ7",
+    "versions": [
+      {
+        "name": "Dragon Quest VII",
+        "platform": "PSX",
+        "series": "Main",
+        "release": {
+          "JA": "2000-08-26",
+          "NA": "2001-11-01",
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest VII",
+        "platform": "3DS",
+        "series": "Main",
+        "release": {
+          "JA": "2013-02-07",
+          "NA": "2016-09-16",
+          "AUS": "2016-09-17",
+          "EU": "2016-09-16"
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest VII",
+        "platform": "Mobile (Android and iOS)",
+        "series": "Main",
+        "release": {
+          "JA": "2015-09-17",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQM2",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters 2",
+        "platform": "GBC",
+        "series": "Monsters",
+        "release": {
+          "JA": "2001-03-09",
+          "NA": "2001-09-15",
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQCTND2A",
+    "versions": [
+      {
+        "name": "Dragon Quest Characters: Torneko no Daibouken 2 Advance",
+        "platform": "GBA",
+        "series": "Mystery Dungeon",
+        "release": {
+          "JA": "2001-12-20",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQM1&2",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters 1 + 2",
+        "platform": "PS",
+        "series": "Monsters",
+        "release": {
+          "JA": "2002-05-30",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DQCTND3",
+    "versions": [
+      {
+        "name": "Dragon Quest Characters: Torneko no Daibōken 3",
+        "platform": "PS2",
+        "series": "Mystery Dungeon",
+        "release": {
+          "JA": "2002-10-31",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DQMCH",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters: Caravan Heart",
+        "platform": "GBA",
+        "series": "Monsters",
+        "release": {
+          "JA": "2003-03-29",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "KDQ",
+    "versions": [
+      {
+        "name": "Kenshin Dragon Quest",
+        "platform": "N/A",
+        "series": "Swords",
+        "release": {
+          "JA": "2003-09-19",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "SMDQ",
+    "versions": [
+      {
+        "name": "Slime MoriMori Dragon Quest",
+        "platform": "GBA",
+        "series": "Slime",
+        "release": {
+          "JA": "2003-11-14",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQCTND3A",
+    "versions": [
+      {
+        "name": "Dragon Quest Characters: Torneko no Daibouken 3 Advance",
+        "platform": "GBA",
+        "series": "Mystery Dungeon",
+        "release": {
+          "JA": "2004-06-24",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQ8",
+    "versions": [
+      {
+        "name": "Dragon Quest VIII",
+        "platform": "PS2",
+        "series": "Main",
+        "release": {
+          "JA": "2004-11-27",
+          "NA": "2005-11-15",
+          "AUS": "2006-04-12",
+          "EU": "2006-04-13"
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest VIII",
+        "platform": "Mobile (Android and iOS)",
+        "series": "Main",
+        "release": {
+          "JA": "2013-12-12",
+          "NA": "2014-05-28",
+          "AUS": "2014-05-28",
+          "EU": "2014-05-28"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest VIII",
+        "platform": "3DS",
+        "series": "Main",
+        "release": {
+          "JA": "2015-08-27",
+          "NA": "2017-01-20",
+          "AUS": "2017-01-21",
+          "EU": "2017-01-20"
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "ISS",
+    "versions": [
+      {
+        "name": "Itadaki Street Special",
+        "platform": "PS2",
+        "series": "Itadaki Street",
+        "release": {
+          "JA": "2004-12-22",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DQHRS",
+    "versions": [
+      {
+        "name": "Dragon Quest Heroes: Rocket Slime",
+        "platform": "DS",
+        "series": "Slime",
+        "release": {
+          "JA": "2005-12-01",
+          "NA": "2006-09-19",
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQSYTFND",
+    "versions": [
+      {
+        "name": "Dragon Quest: Shōnen Yangus to Fushigi no Dungeon",
+        "platform": "PS2",
+        "series": "Mystery Dungeon",
+        "release": {
+          "JA": "2006-04-20",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "ISP",
+    "versions": [
+      {
+        "name": "Itadaki Street Portable",
+        "platform": "PSP",
+        "series": "Itadaki Street",
+        "release": {
+          "JA": "2006-05-25",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQMJ1",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters: Joker",
+        "platform": "DS",
+        "series": "Monsters",
+        "release": {
+          "JA": "2006-12-28",
+          "NA": "2007-11-06",
+          "AUS": "2008-03-13",
+          "EU": "2008-03-14"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "MBR",
+    "versions": [
+      {
+        "name": "Monster Battle Road",
+        "platform": "Arcade",
+        "series": "Monster Battle",
+        "release": {
+          "JA": "2007-06-21",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "ISD",
+    "versions": [
+      {
+        "name": "Itadaki Street DS",
+        "platform": "DS",
+        "series": "Itadaki Street",
+        "release": {
+          "JA": "2007-06-21",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQS",
+    "versions": [
+      {
+        "name": "Dragon Quest Swords",
+        "platform": "Wii",
+        "series": "Swords",
+        "release": {
+          "JA": "2007-07-12",
+          "NA": "2008-02-19",
+          "AUS": "2008-05-08",
+          "EU": "2008-05-09"
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "MBR2",
+    "versions": [
+      {
+        "name": "Monster Battle Road II",
+        "platform": "Arcade",
+        "series": "Monster Battle",
+        "release": {
+          "JA": "2008-12-03",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQW",
+    "versions": [
+      {
+        "name": "Dragon Quest Wars",
+        "platform": "DSi",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2009-06-24",
+          "NA": "2009-09-28",
+          "AUS": "2009-10-09",
+          "EU": "2009-10-09"
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DQ9",
+    "versions": [
+      {
+        "name": "Dragon Quest IX",
+        "platform": "DS",
+        "series": "Main",
+        "release": {
+          "JA": "2009-07-11",
+          "NA": "2010-07-11",
+          "AUS": "2010-08-19",
+          "EU": "2010-07-23"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "MBR2L",
+    "versions": [
+      {
+        "name": "Monster Battle Road II Legend",
+        "platform": "Arcade",
+        "series": "Monster Battle",
+        "release": {
+          "JA": "2010-01-15",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQMJ2",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters: Joker 2",
+        "platform": "DS",
+        "series": "Monsters",
+        "release": {
+          "JA": "2010-04-08",
+          "NA": "2011-09-19",
+          "AUS": "2011-10-20",
+          "EU": "2011-10-07"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "MBRV",
+    "versions": [
+      {
+        "name": "Monster Battle Road Victory",
+        "platform": "Wii",
+        "series": "Monster Battle",
+        "release": {
+          "JA": "2010-07-15",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DQMJ2P",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters: Joker 2 Professional",
+        "platform": "DS",
+        "series": "Monsters",
+        "release": {
+          "JA": "2011-03-31",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQ25A",
+    "versions": [
+      {
+        "name": "Dragon Quest 25th Anniversary Famicom and Super Famicom Dragon Quest I II III",
+        "platform": "Wii",
+        "series": "Main",
+        "release": {
+          "JA": "2011-09-15",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "SMDQ3",
+    "versions": [
+      {
+        "name": "Slime MoriMori Dragon Quest 3",
+        "platform": "3DS",
+        "series": "Slime",
+        "release": {
+          "JA": "2011-11-02",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "FS",
+    "versions": [
+      {
+        "name": "Fortune Street",
+        "platform": "Wii",
+        "series": "Itadaki Street",
+        "release": {
+          "JA": "2011-12-01",
+          "NA": "2011-12-05",
+          "AUS": "2012-01-05",
+          "EU": "2011-12-23"
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DQMTW3D",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters: Terry's Wonderland 3D",
+        "platform": "3DS",
+        "series": "Monsters",
+        "release": {
+          "JA": "2012-05-31",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DQ10",
+    "versions": [
+      {
+        "name": "Dragon Quest X",
+        "platform": "Wii",
+        "series": "Main",
+        "release": {
+          "JA": "2012-08-02",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest X",
+        "platform": "Wii U",
+        "series": "Main",
+        "release": {
+          "JA": "2013-03-30",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest X",
+        "platform": "Windows",
+        "series": "Main",
+        "release": {
+          "JA": "2013-09-26",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest X",
+        "platform": "Mobile (Android and iOS)",
+        "series": "Main",
+        "release": {
+          "JA": "2013-12-16",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest X",
+        "platform": "3DS",
+        "series": "Main",
+        "release": {
+          "JA": "2014-09-04",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest X",
+        "platform": "Web browser",
+        "series": "Main",
+        "release": {
+          "JA": "2020-02-25",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQMP",
+    "versions": [
+      {
+        "name": "Dragon Quest: Monster Parade",
+        "platform": "Web browser",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2013-09-02",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQMSL",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters: Super Light",
+        "platform": "Mobile (Android and iOS)",
+        "series": "Monsters",
+        "release": {
+          "JA": "2014-01-23",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQM2IALMMK",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters 2: Iru and Luca's Marvelous Mysterious Key",
+        "platform": "3DS",
+        "series": "Monsters",
+        "release": {
+          "JA": "2014-02-06",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DQH",
+    "versions": [
+      {
+        "name": "Dragon Quest Heroes",
+        "platform": "PS3",
+        "series": "Heroes",
+        "release": {
+          "JA": "2015-02-26",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest Heroes",
+        "platform": "PS4",
+        "series": "Heroes",
+        "release": {
+          "JA": "2015-02-26",
+          "NA": "2015-10-13",
+          "AUS": null,
+          "EU": "2015-10-16"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest Heroes",
+        "platform": "Windows",
+        "series": "Heroes",
+        "release": {
+          "JA": "2015-12-03",
+          "NA": "2015-12-03",
+          "AUS": "2015-12-03",
+          "EU": "2015-12-03"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "TDQ",
+    "versions": [
+      {
+        "name": "Theatrhythm Dragon Quest",
+        "platform": "3DS",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2015-03-26",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DQDDMP",
+    "versions": [
+      {
+        "name": "Dragon Quest: Doko Demo Monster Parade",
+        "platform": "Mobile (Android and iOS)",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2015-06-25",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQOTS",
+    "versions": [
+      {
+        "name": "Dragon Quest of the Stars",
+        "platform": "Mobile (Android and iOS)",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2015-10-15",
+          "NA": "2020-02-25",
+          "AUS": "2020-03-12",
+          "EU": "2020-03-12"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQB1",
+    "versions": [
+      {
+        "name": "Dragon Quest Builders",
+        "platform": "PS3",
+        "series": "Builders",
+        "release": {
+          "JA": "2016-01-28",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest Builders",
+        "platform": "PS4, PSV",
+        "series": "Builders",
+        "release": {
+          "JA": "2016-01-28",
+          "NA": "2016-10-11",
+          "AUS": "2016-10-14",
+          "EU": "2016-10-14"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest Builders",
+        "platform": "Switch",
+        "series": "Builders",
+        "release": {
+          "JA": "2018-03-01",
+          "NA": "2018-02-09",
+          "AUS": "2018-02-09",
+          "EU": "2018-02-09"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQMJ3",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters: Joker 3",
+        "platform": "3DS",
+        "series": "Monsters",
+        "release": {
+          "JA": "2016-03-24",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DQH2",
+    "versions": [
+      {
+        "name": "Dragon Quest Heroes II",
+        "platform": "PS3, PSV",
+        "series": "Heroes",
+        "release": {
+          "JA": "2016-05-26",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest Heroes II",
+        "platform": "PS4",
+        "series": "Heroes",
+        "release": {
+          "JA": "2016-05-26",
+          "NA": "2017-04-25",
+          "AUS": null,
+          "EU": "2017-04-28"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest Heroes II",
+        "platform": "Windows",
+        "series": "Heroes",
+        "release": {
+          "JA": null,
+          "NA": "2017-04-25",
+          "AUS": "2017-04-25",
+          "EU": "2017-04-25"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "MBS",
+    "versions": [
+      {
+        "name": "Monster Battle Scanner",
+        "platform": "Arcade",
+        "series": "Monster Battle",
+        "release": {
+          "JA": "2016-06-23",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQMJ3P",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters: Joker 3 Professional",
+        "platform": "3DS",
+        "series": "Monsters",
+        "release": {
+          "JA": "2017-02-09",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DQHDQHI",
+    "versions": [
+      {
+        "name": "Dragon Quest Heroes & Dragon Quest Heroes II",
+        "platform": "Switch",
+        "series": "Heroes",
+        "release": {
+          "JA": "2017-03-03",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "SB",
+    "versions": [
+      {
+        "name": "Scan Battlers",
+        "platform": "Arcade",
+        "series": "Monster Battle",
+        "release": {
+          "JA": "2017-07-20",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQ11",
+    "versions": [
+      {
+        "name": "Dragon Quest XI",
+        "platform": "PS4",
+        "series": "Main",
+        "release": {
+          "JA": "2017-07-28",
+          "NA": "2018-09-04",
+          "AUS": "2018-09-04",
+          "EU": "2018-09-04"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest XI",
+        "platform": "3DS",
+        "series": "Main",
+        "release": {
+          "JA": "2017-07-28",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest XI",
+        "platform": "Windows",
+        "series": "Main",
+        "release": {
+          "JA": null,
+          "NA": "2018-09-04",
+          "AUS": "2018-09-04",
+          "EU": "2018-09-04"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQ10AIOP",
+    "versions": [
+      {
+        "name": "Dragon Quest X all-in-one package",
+        "platform": "PS4",
+        "series": "Main",
+        "release": {
+          "JA": "2017-08-17",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      },
+      {
+        "name": "Dragon Quest X all-in-one package",
+        "platform": "Switch",
+        "series": "Main",
+        "release": {
+          "JA": "2017-09-21",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "ISDQFF30A",
+    "versions": [
+      {
+        "name": "Itadaki Street: Dragon Quest & Final Fantasy 30th Anniversary",
+        "platform": "PS4, PSV",
+        "series": "Itadaki Street",
+        "release": {
+          "JA": "2017-10-19",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQR",
+    "versions": [
+      {
+        "name": "Dragon Quest Rivals",
+        "platform": "Mobile (Android and iOS)",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2017-11-03",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest Rivals",
+        "platform": "Web browser",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2018-02-18",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest Rivals",
+        "platform": "Switch",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2019-02-14",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest Rivals",
+        "platform": "Steam",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2020-06-22",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQ10V4",
+    "versions": [
+      {
+        "name": "Dragon Quest X version 4",
+        "platform": "PlayStation 4 SwitchWii UWindows",
+        "series": "Main",
+        "release": {
+          "JA": "2017-11-16",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQMTWSP",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters: Terry's Wonderland SP",
+        "platform": "Mobile (Android and iOS)",
+        "series": "Monsters",
+        "release": {
+          "JA": "2018-11-07",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQB2",
+    "versions": [
+      {
+        "name": "Dragon Quest Builders 2",
+        "platform": "PS4, Switch",
+        "series": "Builders",
+        "release": {
+          "JA": "2018-12-20",
+          "NA": "2019-07-12",
+          "AUS": "2019-07-12",
+          "EU": "2019-07-12"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest Builders 2",
+        "platform": "Steam",
+        "series": "Builders",
+        "release": {
+          "JA": "2019-12-10",
+          "NA": "2019-12-10",
+          "AUS": "2019-12-10",
+          "EU": "2019-12-10"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest Builders 2",
+        "platform": "Xbox oneWindows",
+        "series": "Builders",
+        "release": {
+          "JA": "2021-05-04",
+          "NA": "2021-05-04",
+          "AUS": "2021-05-04",
+          "EU": "2021-05-04"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQWALK",
+    "versions": [
+      {
+        "name": "Dragon Quest Walk",
+        "platform": "Mobile (Android and iOS)",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2019-09-12",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQMTWR",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters: Terry's Wonderland RETRO",
+        "platform": "Switch",
+        "series": "Monsters",
+        "release": {
+          "JA": "2019-09-17",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest Monsters: Terry's Wonderland RETRO",
+        "platform": "Mobile (Android and iOS)",
+        "series": "Monsters",
+        "release": {
+          "JA": "2019-11-07",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQ1&2&3",
+    "versions": [
+      {
+        "name": "Dragon Quest I, II & III",
+        "platform": "Switch",
+        "series": "Main",
+        "release": {
+          "JA": "2019-09-27",
+          "NA": "2019-09-27",
+          "AUS": "2019-09-27",
+          "EU": "2019-09-27"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQ11SDE",
+    "versions": [
+      {
+        "name": "Dragon Quest XI S: Definitive Edition",
+        "platform": "Switch",
+        "series": "Main",
+        "release": {
+          "JA": "2019-09-27",
+          "NA": "2019-09-27",
+          "AUS": "2019-09-27",
+          "EU": "2019-09-27"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest XI S: Definitive Edition",
+        "platform": "PlayStation 4",
+        "series": "Main",
+        "release": {
+          "JA": "2020-12-04",
+          "NA": "2020-12-04",
+          "AUS": "2020-12-04",
+          "EU": "2020-12-04"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest XI S: Definitive Edition",
+        "platform": "Xbox One",
+        "series": "Main",
+        "release": {
+          "JA": "2020-12-04",
+          "NA": "2020-12-04",
+          "AUS": "2020-12-04",
+          "EU": "2020-12-04"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest XI S: Definitive Edition",
+        "platform": "Windows",
+        "series": "Main",
+        "release": {
+          "JA": "2020-12-04",
+          "NA": "2020-12-04",
+          "AUS": "2020-12-04",
+          "EU": "2020-12-04"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest XI S: Definitive Edition",
+        "platform": "Google stadia",
+        "series": "Main",
+        "release": {
+          "JA": null,
+          "NA": "2021-03-16",
+          "AUS": "2021-03-16",
+          "EU": "2021-03-16"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQ10V5",
+    "versions": [
+      {
+        "name": "Dragon Quest X version 5",
+        "platform": "PlayStation 4 SwitchWii UWindows",
+        "series": "Main",
+        "release": {
+          "JA": "2020-02-25",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQT",
+    "versions": [
+      {
+        "name": "Dragon Quest Tact",
+        "platform": "Mobile (Android and iOS)",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2020-07-18",
+          "NA": "2021-01-28",
+          "AUS": "2021-01-28",
+          "EU": "2021-01-28"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DNDCB",
+    "versions": [
+      {
+        "name": "Dai no Daibouken: Cross Blade",
+        "platform": "Arcade",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2020-10-22",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": true
+      }
+    ]
+  },
+  {
+    "slug": "DNDSB",
+    "versions": [
+      {
+        "name": "Dai no Daibouken: Soul Bonds",
+        "platform": "Mobile (Android and iOS)",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2021-09-28",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQ10V6",
+    "versions": [
+      {
+        "name": "Dragon Quest X version 6",
+        "platform": "PlayStation 4 SwitchWii UWindows",
+        "series": "Main",
+        "release": {
+          "JA": "2021-11-11",
+          "NA": null,
+          "AUS": null,
+          "EU": null
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQ10O",
+    "versions": [
+      {
+        "name": "Dragon Quest X Offline",
+        "platform": "PlayStation 4PlayStation 5SwitchSteam",
+        "series": "Main",
+        "release": {
+          "JA": "2022-09-15",
+          "NA": "Unreleased",
+          "AUS": "Unreleased",
+          "EU": "Unreleased"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQT1",
+    "versions": [
+      {
+        "name": "Dragon Quest Treasures",
+        "platform": "Switch",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2022-12-09",
+          "NA": "2022-12-09",
+          "AUS": "2022-12-09",
+          "EU": "2022-12-09"
+        },
+        "regionLocked": false
+      },
+      {
+        "name": "Dragon Quest Treasures",
+        "platform": "Steam",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2023-07-15",
+          "NA": "2023-07-15",
+          "AUS": "2023-07-15",
+          "EU": "2023-07-15"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "ISDQTAOD",
+    "versions": [
+      {
+        "name": "Infinity Strash: Dragon Quest: The Adventure of Dai",
+        "platform": "PlayStation 5SwitchSteamWindowsXbox S",
+        "series": "Spinoff",
+        "release": {
+          "JA": "2023-09-23",
+          "NA": "2023-09-23",
+          "AUS": "2023-09-23",
+          "EU": "2023-09-23"
+        },
+        "regionLocked": false
+      }
+    ]
+  },
+  {
+    "slug": "DQMTDP",
+    "versions": [
+      {
+        "name": "Dragon Quest Monsters: The Dark Prince",
+        "platform": "Switch",
+        "series": "Monsters",
+        "release": {
+          "JA": "2023-12-01",
+          "NA": "2023-12-01",
+          "AUS": "2023-12-01",
+          "EU": "2023-12-01"
+        },
+        "regionLocked": false
+      }
+    ]
+  }
+]
