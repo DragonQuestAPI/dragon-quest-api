@@ -3740,16 +3740,16 @@
   {
     "id": 101,
     "name": {
-      "EN": "Skerleton",
+      "EN": "Sekerleton",
       "ES": "?",
       "FR": "Berserkerlette",
       "DE": "Sokarlett",
       "IT": "?",
       "JA": "しにがみ"
     },
-    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/skerleton.png",
-    "sprite_animated": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites_animated/skerleton.gif",
-    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_artworks/skerleton.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/sekerleton.png",
+    "sprite_animated": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites_animated/sekerleton.gif",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_artworks/sekerleton.png",
     "type": "enemy",
     "phases": 1,
     "hp": 130,
@@ -3773,7 +3773,7 @@
         "Mine d'Alpion"
       ]
     },
-    "slug": "skerleton"
+    "slug": "sekerleton"
   },
   {
     "id": 102,
