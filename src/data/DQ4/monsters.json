@@ -2677,9 +2677,9 @@
       "IT": "?",
       "JA": "マージマタンゴ"
     },
-    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/murshroom_mage.png",
-    "sprite_animated": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites_animated/murshroom_mage.gif",
-    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_artworks/murshroom_mage.png",
+    "sprite": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites/mushroom_mage.png",
+    "sprite_animated": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_sprites_animated/mushroom_mage.gif",
+    "artwork": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQ4/monsters_artworks/mushroom_mage.png",
     "type": "enemy",
     "phases": 1,
     "hp": 43,
@@ -2702,7 +2702,7 @@
         "Désert d'El Forado"
       ]
     },
-    "slug": "murshroom_mage"
+    "slug": "mushroom_mage"
   },
   {
     "id": 72,
