@@ -25628,7 +25628,7 @@
       "DE": "",
       "EN": "Ham Shamwitch",
       "ES": "",
-      "FR": "Groin Mage",
+      "FR": "Groin mage",
       "IT": "",
       "JA": "トンブレロ"
     },
@@ -25848,7 +25848,7 @@
       "DE": "",
       "EN": "Cross Eye",
       "ES": "",
-      "FR": "Nakunoeil",
+      "FR": "Nakunœil",
       "IT": "",
       "JA": "ビックアイ"
     },
@@ -28610,7 +28610,7 @@
       "DE": "",
       "EN": "Luneyetic",
       "ES": "",
-      "FR": "Endoeil",
+      "FR": "Endœil",
       "IT": "",
       "JA": "ムーンフェイス"
     },
@@ -40560,7 +40560,7 @@
       "DE": "",
       "EN": "See Urchin",
       "ES": "",
-      "FR": "Bigloeil",
+      "FR": "Biglœil",
       "IT": "",
       "JA": "シーメーダ"
     },
@@ -46294,7 +46294,7 @@
       "DE": "",
       "EN": "Knight Abhorrent",
       "ES": "",
-      "FR": "Chevalier atterant",
+      "FR": "Chevalier atterrant",
       "IT": "",
       "JA": "しにがみのきし"
     },
@@ -47844,7 +47844,7 @@
       "DE": "",
       "EN": "Skipper",
       "ES": "",
-      "FR": "Bottoeil",
+      "FR": "Bottœil",
       "IT": "",
       "JA": "スキッパー"
     },
@@ -50939,7 +50939,7 @@
       "DE": "",
       "EN": "Night Sneaker",
       "ES": "",
-      "FR": "Bottoeil nocturne",
+      "FR": "Bottœil nocturne",
       "IT": "",
       "JA": "ナイトウォーカー"
     },
@@ -52148,7 +52148,7 @@
       "DE": "",
       "EN": "Soy Soldier",
       "ES": "",
-      "FR": "Flegeolaid",
+      "FR": "Flageolaid",
       "IT": "",
       "JA": "ソイソルジャー"
     },
@@ -55230,7 +55230,7 @@
       "DE": "",
       "EN": "Orgodemir",
       "ES": "",
-      "FR": "Orgodemir",
+      "FR": "Orgodémir",
       "IT": "",
       "JA": "オルゴデミーラ"
     },
@@ -56443,12 +56443,12 @@
   },
   {
     "id": 512,
-    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/monsters_icons/fizzy.jpg",
-    "img": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/monsters_images/fizzy.jpg",
-    "img_anim": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/monsters_images_animated/fizzy.jpg",
+    "icon": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/monsters_icons/fuzzy.jpg",
+    "img": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/monsters_images/fuzzy.jpg",
+    "img_anim": "https://raw.githubusercontent.com/DragonQuestAPI/medias/main/DQM3/monsters_images_animated/fuzzy.jpg",
     "name": {
       "DE": "",
-      "EN": "Fizzy",
+      "EN": "Fuzzy",
       "ES": "",
       "FR": "Pilou",
       "IT": "",
@@ -56541,7 +56541,7 @@
       "FR": "Ce monstre débordant d'énergie est toujours à la recherche de nouveaux meneurs de monstres de talent. On dit que sa fourrure duveteuse sent le popcorn caramélisé.",
       "JA": ""
     },
-    "slug": "fizzy"
+    "slug": "fuzzy"
   },
   {
     "id": 513,
@@ -56552,7 +56552,7 @@
       "DE": "",
       "EN": "Jasper Unbound",
       "ES": "",
-      "FR": "Jasper déchainé",
+      "FR": "Jasper déchaîné",
       "IT": "",
       "JA": "魔軍司令ホメロス"
     },
@@ -57867,7 +57867,7 @@
       "DE": "",
       "EN": "The ripe tomato slime, juicy burger slime and lightly tasted bun slime are a match made in slime heaven. They might look like a tempting meal in waiting, but they don't appreciate being bitten.",
       "ES": "",
-      "FR": "Ce gluant à la tomate juteuse, son congénère au stach haché tendre et le dernier au pain légèrement grillé forment un trio tout slurpement divin. On aurait presque envie de les croquer, mais il est préférable de se retenir.",
+      "FR": "Ce gluant à la tomate juteuse, son congénère au steak haché tendre et le dernier au pain légèrement grillé forment un trio tout slurpement divin. On aurait presque envie de les croquer, mais il est préférable de se retenir.",
       "JA": ""
     },
     "slug": "triple_splatty"
